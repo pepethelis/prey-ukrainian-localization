@@ -1,0 +1,5 @@
+build/
+*.pak
+
+.DS_Store
+.idea
