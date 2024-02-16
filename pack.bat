@@ -16,6 +16,8 @@ if %lang%==1 (
     set "target=%PL%"
 ) else if %lang%==3 (
     set "target=%DE%"
+) else if %lang%==5 (
+    set "target=%RU%"
 ) else (
     set "target=%EN%"
 )
