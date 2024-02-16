@@ -1,14 +1,33 @@
 @echo off
 setlocal
 
+rem Prompt the user to enter language
+set /p lang="Select the voiceover language. 1 for English, 2 for Polish, 3 for German: "
+
+rem Set the target name
+set "EN=English_xml_patch"
+set "PL=polish_xml_patch"
+set "DE=German_xml_patch"
+set "RU=russian_xml_patch"
+
+if %lang%==1 (
+    set "target=%EN%"
+) else if %lang%==2 (
+    set "target=%PL%"
+) else if %lang%==3 (
+    set "target=%DE%"
+) else (
+    set "target=%EN%"
+)
+
 rem Set the folder name
-set "folder=English_xml_patch"
+set "folder=src"
 
 rem Set the zip file name
-set "zipfile=%folder%.zip"
+set "zipfile=%target%.zip"
 
 rem Set the pak file name
-set "pakfile=%folder%.pak"
+set "pakfile=%target%.pak"
 
 rem Set the build folder
 set "buildfolder=build"
