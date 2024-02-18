@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet">
   <Worksheet ss:Name="Sheet1">
     <Table>
       <Row>
@@ -894,10 +895,12 @@
           <Data ss:Type="String">BDDB548E56CA7E27</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Appreciate the help. Maybe I'll try the Cargo Bay. Heard Chief Elazar's there.</Data>
+          <Data ss:Type="String">Appreciate the help. Maybe I'll try the Cargo Bay. Heard Chief
+            Elazar's there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Appreciate the help. Maybe I'll try the Cargo Bay. Heard Chief Elazar's there.</Data>
+          <Data ss:Type="String">Appreciate the help. Maybe I'll try the Cargo Bay. Heard Chief
+            Elazar's there.</Data>
         </Cell>
       </Row>
       <Row>
@@ -905,10 +908,12 @@
           <Data ss:Type="String">BDDB548E56CA7E36</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You ever been half-awake - can't move your body no matter how hard you try. What do they call that... sleep paralysis?</Data>
+          <Data ss:Type="String">You ever been half-awake - can't move your body no matter how hard
+            you try. What do they call that... sleep paralysis?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You ever been half-awake - can't move your body no matter how hard you try. What do they call that... sleep paralysis?</Data>
+          <Data ss:Type="String">You ever been half-awake - can't move your body no matter how hard
+            you try. What do they call that... sleep paralysis?</Data>
         </Cell>
       </Row>
       <Row>
@@ -960,10 +965,12 @@
           <Data ss:Type="String">BDDB548E56CA80E7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know if I want to live in a universe where something like that is possible.</Data>
+          <Data ss:Type="String">I don't know if I want to live in a universe where something like
+            that is possible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know if I want to live in a universe where something like that is possible.</Data>
+          <Data ss:Type="String">I don't know if I want to live in a universe where something like
+            that is possible.</Data>
         </Cell>
       </Row>
       <Row>

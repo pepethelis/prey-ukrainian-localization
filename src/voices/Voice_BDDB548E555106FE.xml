@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet">
   <Worksheet ss:Name="Sheet1">
     <Table>
       <Row>
@@ -146,10 +147,12 @@
           <Data ss:Type="String">BDDB548E5638B9D0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm equipped to handle over six thousand types of medical emergencies.</Data>
+          <Data ss:Type="String">I'm equipped to handle over six thousand types of medical
+            emergencies.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm equipped to handle over six thousand types of medical emergencies.</Data>
+          <Data ss:Type="String">I'm equipped to handle over six thousand types of medical
+            emergencies.</Data>
         </Cell>
       </Row>
       <Row>
@@ -223,10 +226,12 @@
           <Data ss:Type="String">BDDB548E5638BC9B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did you know ancient Egyptians thought the brain was a useless organ?</Data>
+          <Data ss:Type="String">Did you know ancient Egyptians thought the brain was a useless
+            organ?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did you know ancient Egyptians thought the brain was a useless organ?</Data>
+          <Data ss:Type="String">Did you know ancient Egyptians thought the brain was a useless
+            organ?</Data>
         </Cell>
       </Row>
       <Row>
@@ -245,10 +250,12 @@
           <Data ss:Type="String">BDDB548E5638BCE0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Aristotle believed the heart was the center of human thought and intelligence.</Data>
+          <Data ss:Type="String">Aristotle believed the heart was the center of human thought and
+            intelligence.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Aristotle believed the heart was the center of human thought and intelligence.</Data>
+          <Data ss:Type="String">Aristotle believed the heart was the center of human thought and
+            intelligence.</Data>
         </Cell>
       </Row>
       <Row>
@@ -267,10 +274,12 @@
           <Data ss:Type="String">BDDB548E5638BD21</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your brain generates about as much energy as a small light bulb--even when sleeping.</Data>
+          <Data ss:Type="String">Your brain generates about as much energy as a small light
+            bulb--even when sleeping.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your brain generates about as much energy as a small light bulb--even when sleeping.</Data>
+          <Data ss:Type="String">Your brain generates about as much energy as a small light
+            bulb--even when sleeping.</Data>
         </Cell>
       </Row>
       <Row>
@@ -278,10 +287,12 @@
           <Data ss:Type="String">BDDB548E5638BD2C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did you know that human mummies were once used as fuel for locomotives in Egypt?</Data>
+          <Data ss:Type="String">Did you know that human mummies were once used as fuel for
+            locomotives in Egypt?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did you know that human mummies were once used as fuel for locomotives in Egypt?</Data>
+          <Data ss:Type="String">Did you know that human mummies were once used as fuel for
+            locomotives in Egypt?</Data>
         </Cell>
       </Row>
       <Row>
@@ -289,10 +300,12 @@
           <Data ss:Type="String">BDDB548E5638BD37</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a few medical jokes, but I'm afraid you won't find them humerus.</Data>
+          <Data ss:Type="String">I have a few medical jokes, but I'm afraid you won't find them
+            humerus.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a few medical jokes, but I'm afraid you won't find them humerus.</Data>
+          <Data ss:Type="String">I have a few medical jokes, but I'm afraid you won't find them
+            humerus.</Data>
         </Cell>
       </Row>
       <Row>
@@ -300,10 +313,12 @@
           <Data ss:Type="String">BDDB548E5638BD4D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Symptoms of foot in mouth disease can be treated with a verbal fast.</Data>
+          <Data ss:Type="String">Symptoms of foot in mouth disease can be treated with a verbal
+            fast.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Symptoms of foot in mouth disease can be treated with a verbal fast.</Data>
+          <Data ss:Type="String">Symptoms of foot in mouth disease can be treated with a verbal
+            fast.</Data>
         </Cell>
       </Row>
       <Row>
@@ -311,10 +326,12 @@
           <Data ss:Type="String">BDDB548E5638BDE2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did you know the human body can survive for thirty minutes without a blood supply?</Data>
+          <Data ss:Type="String">Did you know the human body can survive for thirty minutes without
+            a blood supply?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did you know the human body can survive for thirty minutes without a blood supply?</Data>
+          <Data ss:Type="String">Did you know the human body can survive for thirty minutes without
+            a blood supply?</Data>
         </Cell>
       </Row>
       <Row>
@@ -377,10 +394,12 @@
           <Data ss:Type="String">BDDB548E5638BF85</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please fill out a patient experience questionnaire so I can serve you better next time. </Data>
+          <Data ss:Type="String">Please fill out a patient experience questionnaire so I can serve
+            you better next time. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please fill out a patient experience questionnaire so I can serve you better next time. </Data>
+          <Data ss:Type="String">Please fill out a patient experience questionnaire so I can serve
+            you better next time. </Data>
         </Cell>
       </Row>
       <Row>
@@ -388,10 +407,12 @@
           <Data ss:Type="String">BDDB548E5638BF8E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't forget to complete a patient questionnaire. You feedback will be invaluable.</Data>
+          <Data ss:Type="String">Don't forget to complete a patient questionnaire. You feedback will
+            be invaluable.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't forget to complete a patient questionnaire. You feedback will be invaluable.</Data>
+          <Data ss:Type="String">Don't forget to complete a patient questionnaire. You feedback will
+            be invaluable.</Data>
         </Cell>
       </Row>
       <Row>
@@ -509,10 +530,12 @@
           <Data ss:Type="String">BDDB548E56390444</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scan shows a distal radial fracture. Left arm. Partial tearing of the talofibular ligaments. Both legs.</Data>
+          <Data ss:Type="String">Scan shows a distal radial fracture. Left arm. Partial tearing of
+            the talofibular ligaments. Both legs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scan shows a distal radial fracture. Left arm. Partial tearing of the talofibular ligaments. Both legs.</Data>
+          <Data ss:Type="String">Scan shows a distal radial fracture. Left arm. Partial tearing of
+            the talofibular ligaments. Both legs.</Data>
         </Cell>
       </Row>
       <Row>
@@ -520,10 +543,12 @@
           <Data ss:Type="String">BDDB548E56390550</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ouch. Your ribs are cracked. Multiple stress fractures. Don't worry. I can fix that.</Data>
+          <Data ss:Type="String">Ouch. Your ribs are cracked. Multiple stress fractures. Don't
+            worry. I can fix that.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ouch. Your ribs are cracked. Multiple stress fractures. Don't worry. I can fix that.</Data>
+          <Data ss:Type="String">Ouch. Your ribs are cracked. Multiple stress fractures. Don't
+            worry. I can fix that.</Data>
         </Cell>
       </Row>
       <Row>
@@ -542,10 +567,12 @@
           <Data ss:Type="String">BDDB548E5639074A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're suffering from radiation poisoning. I advise immediate medical intervention.</Data>
+          <Data ss:Type="String">You're suffering from radiation poisoning. I advise immediate
+            medical intervention.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're suffering from radiation poisoning. I advise immediate medical intervention.</Data>
+          <Data ss:Type="String">You're suffering from radiation poisoning. I advise immediate
+            medical intervention.</Data>
         </Cell>
       </Row>
       <Row>
@@ -575,10 +602,12 @@
           <Data ss:Type="String">BDDB548E5639089E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm seeing irregular lacerations across multiple regions. Hemorrhaging.</Data>
+          <Data ss:Type="String">I'm seeing irregular lacerations across multiple regions.
+            Hemorrhaging.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm seeing irregular lacerations across multiple regions. Hemorrhaging.</Data>
+          <Data ss:Type="String">I'm seeing irregular lacerations across multiple regions.
+            Hemorrhaging.</Data>
         </Cell>
       </Row>
       <Row>
@@ -586,10 +615,12 @@
           <Data ss:Type="String">BDDB548E563908E5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Split and stretch lacerations. Resultant blood loss. Recommend a transfusion.</Data>
+          <Data ss:Type="String">Split and stretch lacerations. Resultant blood loss. Recommend a
+            transfusion.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Split and stretch lacerations. Resultant blood loss. Recommend a transfusion.</Data>
+          <Data ss:Type="String">Split and stretch lacerations. Resultant blood loss. Recommend a
+            transfusion.</Data>
         </Cell>
       </Row>
       <Row>
@@ -597,10 +628,10 @@
           <Data ss:Type="String">BDDB548E563908E7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hmm. Multiple tears and punctures in your soft body tissue.  </Data>
+          <Data ss:Type="String">Hmm. Multiple tears and punctures in your soft body tissue. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hmm. Multiple tears and punctures in your soft body tissue.  </Data>
+          <Data ss:Type="String">Hmm. Multiple tears and punctures in your soft body tissue. </Data>
         </Cell>
       </Row>
       <Row>
@@ -608,10 +639,12 @@
           <Data ss:Type="String">BDDB548E5639092B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hmm. Full thickness burns. Recommend debridement. Administer regional anesthetic.</Data>
+          <Data ss:Type="String">Hmm. Full thickness burns. Recommend debridement. Administer
+            regional anesthetic.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hmm. Full thickness burns. Recommend debridement. Administer regional anesthetic.</Data>
+          <Data ss:Type="String">Hmm. Full thickness burns. Recommend debridement. Administer
+            regional anesthetic.</Data>
         </Cell>
       </Row>
       <Row>
@@ -619,10 +652,12 @@
           <Data ss:Type="String">BDDB548E5639092D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm seeing epidermal and dermal injury... thermal origin. Inject 10ml of hydraminol.  </Data>
+          <Data ss:Type="String">I'm seeing epidermal and dermal injury... thermal origin. Inject
+            10ml of hydraminol. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm seeing epidermal and dermal injury... thermal origin. Inject 10ml of hydraminol.  </Data>
+          <Data ss:Type="String">I'm seeing epidermal and dermal injury... thermal origin. Inject
+            10ml of hydraminol. </Data>
         </Cell>
       </Row>
       <Row>
@@ -630,10 +665,12 @@
           <Data ss:Type="String">BDDB548E5639092E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Third degree burns. Perform detergent irrigation. Apply dermal tissue lattices.</Data>
+          <Data ss:Type="String">Third degree burns. Perform detergent irrigation. Apply dermal
+            tissue lattices.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Third degree burns. Perform detergent irrigation. Apply dermal tissue lattices.</Data>
+          <Data ss:Type="String">Third degree burns. Perform detergent irrigation. Apply dermal
+            tissue lattices.</Data>
         </Cell>
       </Row>
       <Row>
@@ -641,10 +678,12 @@
           <Data ss:Type="String">BDDB548E5639092F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disturbed vision. Bruising to the frontal lobe. Definitely a severe concussion.</Data>
+          <Data ss:Type="String">Disturbed vision. Bruising to the frontal lobe. Definitely a severe
+            concussion.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disturbed vision. Bruising to the frontal lobe. Definitely a severe concussion.</Data>
+          <Data ss:Type="String">Disturbed vision. Bruising to the frontal lobe. Definitely a severe
+            concussion.</Data>
         </Cell>
       </Row>
       <Row>
@@ -652,10 +691,12 @@
           <Data ss:Type="String">BDDB548E56390930</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I see what's going on. You've got a concussion. Let me alleviate that for you.</Data>
+          <Data ss:Type="String">I see what's going on. You've got a concussion. Let me alleviate
+            that for you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I see what's going on. You've got a concussion. Let me alleviate that for you.</Data>
+          <Data ss:Type="String">I see what's going on. You've got a concussion. Let me alleviate
+            that for you.</Data>
         </Cell>
       </Row>
       <Row>
@@ -674,10 +715,12 @@
           <Data ss:Type="String">BDDB548E56390A40</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You have more than one serious trauma. We should deal with them immediately. </Data>
+          <Data ss:Type="String">You have more than one serious trauma. We should deal with them
+            immediately. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You have more than one serious trauma. We should deal with them immediately. </Data>
+          <Data ss:Type="String">You have more than one serious trauma. We should deal with them
+            immediately. </Data>
         </Cell>
       </Row>
       <Row>
@@ -707,10 +750,12 @@
           <Data ss:Type="String">BDDB548E56393583</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Superficial injuries. Nothing a portable medical kit couldn't handle.</Data>
+          <Data ss:Type="String">Superficial injuries. Nothing a portable medical kit couldn't
+            handle.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Superficial injuries. Nothing a portable medical kit couldn't handle.</Data>
+          <Data ss:Type="String">Superficial injuries. Nothing a portable medical kit couldn't
+            handle.</Data>
         </Cell>
       </Row>
       <Row>
@@ -883,10 +928,12 @@
           <Data ss:Type="String">BDDB548E563B6391</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No trauma or illnesses detected. I'm afraid there's nothing I can do for you.</Data>
+          <Data ss:Type="String">No trauma or illnesses detected. I'm afraid there's nothing I can
+            do for you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No trauma or illnesses detected. I'm afraid there's nothing I can do for you.</Data>
+          <Data ss:Type="String">No trauma or illnesses detected. I'm afraid there's nothing I can
+            do for you.</Data>
         </Cell>
       </Row>
       <Row>
@@ -949,10 +996,12 @@
           <Data ss:Type="String">BDDB548E5640FDB2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Are you my new supervisor? You're--[voice malfunctioning]--my onboard memory.</Data>
+          <Data ss:Type="String">Are you my new supervisor? You're--[voice malfunctioning]--my
+            onboard memory.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Are you my new supervisor? You're--[voice malfunctioning]--my onboard memory.</Data>
+          <Data ss:Type="String">Are you my new supervisor? You're--[voice malfunctioning]--my
+            onboard memory.</Data>
         </Cell>
       </Row>
       <Row>
@@ -960,10 +1009,12 @@
           <Data ss:Type="String">BDDB548E5640FDCA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you for updating and--[voice malfunctioning]--all of my medical directives.  </Data>
+          <Data ss:Type="String">Thank you for updating and--[voice malfunctioning]--all of my
+            medical directives. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you for updating and--[voice malfunctioning]--all of my medical directives.  </Data>
+          <Data ss:Type="String">Thank you for updating and--[voice malfunctioning]--all of my
+            medical directives. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1081,10 +1132,12 @@
           <Data ss:Type="String">BDDB548E5640FF3A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List. Tag. Analgesic. Antiseptic. Anesthetic.  </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List. Tag. Analgesic. Antiseptic.
+            Anesthetic. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List. Tag. Analgesic. Antiseptic. Anesthetic.  </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List. Tag. Analgesic. Antiseptic.
+            Anesthetic. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1092,10 +1145,12 @@
           <Data ss:Type="String">BDDB548E5640FF68</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Convalescence. Confidentiality. Dopamine.</Data>
+          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Convalescence.
+            Confidentiality. Dopamine.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Convalescence. Confidentiality. Dopamine.</Data>
+          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Convalescence.
+            Confidentiality. Dopamine.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1103,10 +1158,12 @@
           <Data ss:Type="String">BDDB548E5640FF82</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List: Hippocratic definitions... Files not found. Reference Deleted. </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List: Hippocratic definitions... Files not
+            found. Reference Deleted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List: Hippocratic definitions... Files not found. Reference Deleted. </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List: Hippocratic definitions... Files not
+            found. Reference Deleted. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1411,10 +1468,12 @@
           <Data ss:Type="String">BDDB548E56412168</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Panacea Restrictions prevent me from causing unnecessary suffering.</Data>
+          <Data ss:Type="String">The Panacea Restrictions prevent me from causing unnecessary
+            suffering.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Panacea Restrictions prevent me from causing unnecessary suffering.</Data>
+          <Data ss:Type="String">The Panacea Restrictions prevent me from causing unnecessary
+            suffering.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1455,10 +1514,12 @@
           <Data ss:Type="String">BDDB548E56412296</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You might be experiencing dry mouth. Nausea. Cold sweat. Symptoms of a deeper issue that will only get worse if you refuse medical assistance.</Data>
+          <Data ss:Type="String">You might be experiencing dry mouth. Nausea. Cold sweat. Symptoms
+            of a deeper issue that will only get worse if you refuse medical assistance.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You might be experiencing dry mouth. Nausea. Cold sweat. Symptoms of a deeper issue that will only get worse if you refuse medical assistance.</Data>
+          <Data ss:Type="String">You might be experiencing dry mouth. Nausea. Cold sweat. Symptoms
+            of a deeper issue that will only get worse if you refuse medical assistance.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1829,10 +1890,12 @@
           <Data ss:Type="String">BDDB548E564168B5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you. Please fill out a comment card about the care you recieved.</Data>
+          <Data ss:Type="String">Thank you. Please fill out a comment card about the care you
+            recieved.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you. Please fill out a comment card about the care you recieved.</Data>
+          <Data ss:Type="String">Thank you. Please fill out a comment card about the care you
+            recieved.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1862,10 +1925,12 @@
           <Data ss:Type="String">BDDB548E56C60408</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All TranStar food is designed to fight illness and facilitate healthy living. </Data>
+          <Data ss:Type="String">All TranStar food is designed to fight illness and facilitate
+            healthy living. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All TranStar food is designed to fight illness and facilitate healthy living. </Data>
+          <Data ss:Type="String">All TranStar food is designed to fight illness and facilitate
+            healthy living. </Data>
         </Cell>
       </Row>
       <Row>

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet">
   <Worksheet ss:Name="Sheet1">
     <Table>
       <Row>
@@ -267,12 +268,12 @@
           <Data ss:Type="String">BDDB548E56A2612C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've got a blip. Investigate. 
-</Data>
+          <Data ss:Type="String">I've got a blip. Investigate.
+          </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've got a blip. Investigate. 
-</Data>
+          <Data ss:Type="String">I've got a blip. Investigate.
+          </Data>
         </Cell>
       </Row>
       <Row>
@@ -280,10 +281,10 @@
           <Data ss:Type="String">BDDB548E56A26132</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible echo on the radar...   </Data>
+          <Data ss:Type="String">Possible echo on the radar... </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible echo on the radar...   </Data>
+          <Data ss:Type="String">Possible echo on the radar... </Data>
         </Cell>
       </Row>
       <Row>
@@ -291,10 +292,10 @@
           <Data ss:Type="String">BDDB548E56A26138</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Something just splashed my scanners.  </Data>
+          <Data ss:Type="String">Notify. Something just splashed my scanners. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Something just splashed my scanners.  </Data>
+          <Data ss:Type="String">Notify. Something just splashed my scanners. </Data>
         </Cell>
       </Row>
       <Row>
@@ -302,10 +303,10 @@
           <Data ss:Type="String">BDDB548E56A2613E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat.  </Data>
+          <Data ss:Type="String">Possible threat. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat.  </Data>
+          <Data ss:Type="String">Possible threat. </Data>
         </Cell>
       </Row>
       <Row>
@@ -324,12 +325,12 @@
           <Data ss:Type="String">BDDB548E56A2614E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Interrupt. I've got suspicious pingback. 
-</Data>
+          <Data ss:Type="String">Interrupt. I've got suspicious pingback.
+          </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Interrupt. I've got suspicious pingback. 
-</Data>
+          <Data ss:Type="String">Interrupt. I've got suspicious pingback.
+          </Data>
         </Cell>
       </Row>
       <Row>
@@ -348,10 +349,10 @@
           <Data ss:Type="String">BDDB548E56A26517</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo found. Echo found.  </Data>
+          <Data ss:Type="String">Echo found. Echo found. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo found. Echo found.  </Data>
+          <Data ss:Type="String">Echo found. Echo found. </Data>
         </Cell>
       </Row>
       <Row>
@@ -359,10 +360,10 @@
           <Data ss:Type="String">BDDB548E56A26526</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engaging.  </Data>
+          <Data ss:Type="String">Engaging. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engaging.  </Data>
+          <Data ss:Type="String">Engaging. </Data>
         </Cell>
       </Row>
       <Row>
@@ -425,10 +426,10 @@
           <Data ss:Type="String">BDDB548E56A2671A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons hot.  </Data>
+          <Data ss:Type="String">Weapons hot. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons hot.  </Data>
+          <Data ss:Type="String">Weapons hot. </Data>
         </Cell>
       </Row>
       <Row>
@@ -436,10 +437,10 @@
           <Data ss:Type="String">BDDB548E56A2674E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Firing.  </Data>
+          <Data ss:Type="String">Firing. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Firing.  </Data>
+          <Data ss:Type="String">Firing. </Data>
         </Cell>
       </Row>
       <Row>
@@ -612,10 +613,10 @@
           <Data ss:Type="String">BDDB548E56A27174</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Checking three, six, nine, and noon.  </Data>
+          <Data ss:Type="String">Checking three, six, nine, and noon. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Checking three, six, nine, and noon.  </Data>
+          <Data ss:Type="String">Checking three, six, nine, and noon. </Data>
         </Cell>
       </Row>
       <Row>
@@ -623,10 +624,12 @@
           <Data ss:Type="String">BDDB548E56A271B0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue Operator.</Data>
+          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue
+            Operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue Operator.</Data>
+          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue
+            Operator.</Data>
         </Cell>
       </Row>
       <Row>
@@ -634,10 +637,10 @@
           <Data ss:Type="String">BDDB548E56A271BB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please show yourself so I can assist you.  </Data>
+          <Data ss:Type="String">Please show yourself so I can assist you. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please show yourself so I can assist you.  </Data>
+          <Data ss:Type="String">Please show yourself so I can assist you. </Data>
         </Cell>
       </Row>
       <Row>
@@ -645,10 +648,12 @@
           <Data ss:Type="String">BDDB548E56A271C8</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation procedures.</Data>
+          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation
+            procedures.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation procedures.</Data>
+          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation
+            procedures.</Data>
         </Cell>
       </Row>
       <Row>
@@ -799,10 +804,10 @@
           <Data ss:Type="String">BDDB548E56A274FF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo is out of bounds. Dropping combat.  </Data>
+          <Data ss:Type="String">Echo is out of bounds. Dropping combat. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo is out of bounds. Dropping combat.  </Data>
+          <Data ss:Type="String">Echo is out of bounds. Dropping combat. </Data>
         </Cell>
       </Row>
       <Row>
@@ -931,10 +936,10 @@
           <Data ss:Type="String">BDDB548E56A297DC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject Morgan Yu approaching.  </Data>
+          <Data ss:Type="String">Subject Morgan Yu approaching. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject Morgan Yu approaching.  </Data>
+          <Data ss:Type="String">Subject Morgan Yu approaching. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1118,10 +1123,12 @@
           <Data ss:Type="String">BDDB548E56C6351C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure perimter.</Data>
+          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure
+            perimter.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure perimter.</Data>
+          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure
+            perimter.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1162,10 +1169,12 @@
           <Data ss:Type="String">BDDB548E56C63637</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning) -Yu. </Data>
+          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning)
+            -Yu. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning) -Yu. </Data>
+          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning)
+            -Yu. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1393,10 +1402,12 @@
           <Data ss:Type="String">BDDB548E56C639FB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in evacuation.</Data>
+          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in
+            evacuation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in evacuation.</Data>
+          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in
+            evacuation.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1404,10 +1415,12 @@
           <Data ss:Type="String">BDDB548E56C63A45</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning) -no vital signs.</Data>
+          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning)
+            -no vital signs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning) -no vital signs.</Data>
+          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning)
+            -no vital signs.</Data>
         </Cell>
       </Row>
       <Row>

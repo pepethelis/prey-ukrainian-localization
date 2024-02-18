@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet">
   <Worksheet ss:Name="Sheet1">
     <Table>
       <Row>
@@ -102,10 +103,12 @@
           <Data ss:Type="String">3C5D528955887E23</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't think these PPN pistols are going to do the trick. Not much choice.</Data>
+          <Data ss:Type="String">I don't think these PPN pistols are going to do the trick. Not much
+            choice.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't think these PPN pistols are going to do the trick. Not much choice.</Data>
+          <Data ss:Type="String">I don't think these PPN pistols are going to do the trick. Not much
+            choice.</Data>
         </Cell>
       </Row>
       <Row>
@@ -146,10 +149,12 @@
           <Data ss:Type="String">BDDB548E559EF099</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm sure it's a page turner, but I don't have time. I need to get a crew on the other side of that breach.</Data>
+          <Data ss:Type="String">I'm sure it's a page turner, but I don't have time. I need to get a
+            crew on the other side of that breach.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm sure it's a page turner, but I don't have time. I need to get a crew on the other side of that breach.</Data>
+          <Data ss:Type="String">I'm sure it's a page turner, but I don't have time. I need to get a
+            crew on the other side of that breach.</Data>
         </Cell>
       </Row>
       <Row>
@@ -157,10 +162,12 @@
           <Data ss:Type="String">BDDB548E559EF0AC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Problem is, it's blacker than my butthole at the bottom of a well in there.</Data>
+          <Data ss:Type="String">Problem is, it's blacker than my butthole at the bottom of a well
+            in there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Problem is, it's blacker than my butthole at the bottom of a well in there.</Data>
+          <Data ss:Type="String">Problem is, it's blacker than my butthole at the bottom of a well
+            in there.</Data>
         </Cell>
       </Row>
       <Row>
@@ -234,10 +241,12 @@
           <Data ss:Type="String">BDDB548E55C0A146</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All right, Ivy, but... look, don't do anything stupid. Ivy? Ivy. Shit. </Data>
+          <Data ss:Type="String">All right, Ivy, but... look, don't do anything stupid. Ivy? Ivy.
+            Shit. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All right, Ivy, but... look, don't do anything stupid. Ivy? Ivy. Shit. </Data>
+          <Data ss:Type="String">All right, Ivy, but... look, don't do anything stupid. Ivy? Ivy.
+            Shit. </Data>
         </Cell>
       </Row>
       <Row>
@@ -267,10 +276,12 @@
           <Data ss:Type="String">BDDB548E55CC9AE1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Roger that. Receiving now. That's... that's back at the station. Psychotronics airlock. </Data>
+          <Data ss:Type="String">Roger that. Receiving now. That's... that's back at the station.
+            Psychotronics airlock. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Roger that. Receiving now. That's... that's back at the station. Psychotronics airlock. </Data>
+          <Data ss:Type="String">Roger that. Receiving now. That's... that's back at the station.
+            Psychotronics airlock. </Data>
         </Cell>
       </Row>
       <Row>
@@ -322,10 +333,12 @@
           <Data ss:Type="String">3C5D528955CE5DE7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Recycler's where you said it would be, Chief, but the Typhon organisms are all over the place... I might be able...</Data>
+          <Data ss:Type="String">Recycler's where you said it would be, Chief, but the Typhon
+            organisms are all over the place... I might be able...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Recycler's where you said it would be, Chief, but the Typhon organisms are all over the place... I might be able...</Data>
+          <Data ss:Type="String">Recycler's where you said it would be, Chief, but the Typhon
+            organisms are all over the place... I might be able...</Data>
         </Cell>
       </Row>
       <Row>
@@ -344,10 +357,12 @@
           <Data ss:Type="String">3C5D528955CE5EEE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You know - chicken and the egg? Which came first? Can't have one without the other, so...</Data>
+          <Data ss:Type="String">You know - chicken and the egg? Which came first? Can't have one
+            without the other, so...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You know - chicken and the egg? Which came first? Can't have one without the other, so...</Data>
+          <Data ss:Type="String">You know - chicken and the egg? Which came first? Can't have one
+            without the other, so...</Data>
         </Cell>
       </Row>
       <Row>
@@ -388,10 +403,12 @@
           <Data ss:Type="String">BDDB548E55D5F84D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Seif, this is Captain Hale. Shuttle Exalt. I'm trying to hail the bridge. Getting zip. Can you confirm please.</Data>
+          <Data ss:Type="String">Seif, this is Captain Hale. Shuttle Exalt. I'm trying to hail the
+            bridge. Getting zip. Can you confirm please.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Seif, this is Captain Hale. Shuttle Exalt. I'm trying to hail the bridge. Getting zip. Can you confirm please.</Data>
+          <Data ss:Type="String">Seif, this is Captain Hale. Shuttle Exalt. I'm trying to hail the
+            bridge. Getting zip. Can you confirm please.</Data>
         </Cell>
       </Row>
       <Row>
@@ -399,10 +416,12 @@
           <Data ss:Type="String">BDDB548E55D5F888</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have some system malfunctions. It's uh... across the board, hard to make sense. I need to park ASAP.</Data>
+          <Data ss:Type="String">I have some system malfunctions. It's uh... across the board, hard
+            to make sense. I need to park ASAP.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have some system malfunctions. It's uh... across the board, hard to make sense. I need to park ASAP.</Data>
+          <Data ss:Type="String">I have some system malfunctions. It's uh... across the board, hard
+            to make sense. I need to park ASAP.</Data>
         </Cell>
       </Row>
       <Row>
@@ -421,10 +440,12 @@
           <Data ss:Type="String">BDDB548E55D5F961</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know why I can't reach anyone, but I am dead in the water. Repeat I have zero engines. I'm drifting.</Data>
+          <Data ss:Type="String">I don't know why I can't reach anyone, but I am dead in the water.
+            Repeat I have zero engines. I'm drifting.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know why I can't reach anyone, but I am dead in the water. Repeat I have zero engines. I'm drifting.</Data>
+          <Data ss:Type="String">I don't know why I can't reach anyone, but I am dead in the water.
+            Repeat I have zero engines. I'm drifting.</Data>
         </Cell>
       </Row>
       <Row>
@@ -443,10 +464,12 @@
           <Data ss:Type="String">BDDB548E55D5F9EF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Uh, recommend security detail when I come in. Hearing some noise in the cabin.</Data>
+          <Data ss:Type="String">Uh, recommend security detail when I come in. Hearing some noise in
+            the cabin.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Uh, recommend security detail when I come in. Hearing some noise in the cabin.</Data>
+          <Data ss:Type="String">Uh, recommend security detail when I come in. Hearing some noise in
+            the cabin.</Data>
         </Cell>
       </Row>
       <Row>
@@ -454,10 +477,12 @@
           <Data ss:Type="String">BDDB548E55D5FA48</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All right. Shit. (Deep Breath) Investigating cabin. I have a sidearm. If all clear I will attempt to EVA to an airlock.</Data>
+          <Data ss:Type="String">All right. Shit. (Deep Breath) Investigating cabin. I have a
+            sidearm. If all clear I will attempt to EVA to an airlock.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All right. Shit. (Deep Breath) Investigating cabin. I have a sidearm. If all clear I will attempt to EVA to an airlock.</Data>
+          <Data ss:Type="String">All right. Shit. (Deep Breath) Investigating cabin. I have a
+            sidearm. If all clear I will attempt to EVA to an airlock.</Data>
         </Cell>
       </Row>
       <Row>
@@ -498,10 +523,12 @@
           <Data ss:Type="String">3C5D528955DCFACC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You obviously don't understand what I do. And I didn't order any deployer.</Data>
+          <Data ss:Type="String">You obviously don't understand what I do. And I didn't order any
+            deployer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You obviously don't understand what I do. And I didn't order any deployer.</Data>
+          <Data ss:Type="String">You obviously don't understand what I do. And I didn't order any
+            deployer.</Data>
         </Cell>
       </Row>
       <Row>
@@ -520,10 +547,12 @@
           <Data ss:Type="String">3C5D528955DCFB5B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weird. Well... perhaps I can come down this evening and take a look at it.</Data>
+          <Data ss:Type="String">Weird. Well... perhaps I can come down this evening and take a look
+            at it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weird. Well... perhaps I can come down this evening and take a look at it.</Data>
+          <Data ss:Type="String">Weird. Well... perhaps I can come down this evening and take a look
+            at it.</Data>
         </Cell>
       </Row>
       <Row>
@@ -542,10 +571,12 @@
           <Data ss:Type="String">BB693BC55E70E73</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes - if they have the right words. Or if we gathered enough to map her voice to a consonant and vowel list and started running patterns...</Data>
+          <Data ss:Type="String">Yes - if they have the right words. Or if we gathered enough to map
+            her voice to a consonant and vowel list and started running patterns...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes - if they have the right words. Or if we gathered enough to map her voice to a consonant and vowel list and started running patterns...</Data>
+          <Data ss:Type="String">Yes - if they have the right words. Or if we gathered enough to map
+            her voice to a consonant and vowel list and started running patterns...</Data>
         </Cell>
       </Row>
       <Row>
@@ -575,10 +606,12 @@
           <Data ss:Type="String">BDDB548E55FB04FA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ouch. Nah, supply was out of parts so I borrowed a GLOO gun from the guys in hardware. Worked out okay. </Data>
+          <Data ss:Type="String">Ouch. Nah, supply was out of parts so I borrowed a GLOO gun from
+            the guys in hardware. Worked out okay. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ouch. Nah, supply was out of parts so I borrowed a GLOO gun from the guys in hardware. Worked out okay. </Data>
+          <Data ss:Type="String">Ouch. Nah, supply was out of parts so I borrowed a GLOO gun from
+            the guys in hardware. Worked out okay. </Data>
         </Cell>
       </Row>
       <Row>
@@ -784,10 +817,12 @@
           <Data ss:Type="String">BDDB548E5641F241</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Was it? Anger. Issues with authority? A year of counseling doesn't sound like a trivial matter.</Data>
+          <Data ss:Type="String">Was it? Anger. Issues with authority? A year of counseling doesn't
+            sound like a trivial matter.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Was it? Anger. Issues with authority? A year of counseling doesn't sound like a trivial matter.</Data>
+          <Data ss:Type="String">Was it? Anger. Issues with authority? A year of counseling doesn't
+            sound like a trivial matter.</Data>
         </Cell>
       </Row>
       <Row>
@@ -817,10 +852,12 @@
           <Data ss:Type="String">BDDB548E5641F295</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I thought you and Miss Foy - the Sanitation Engineer - were seen together. </Data>
+          <Data ss:Type="String">I thought you and Miss Foy - the Sanitation Engineer - were seen
+            together. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I thought you and Miss Foy - the Sanitation Engineer - were seen together. </Data>
+          <Data ss:Type="String">I thought you and Miss Foy - the Sanitation Engineer - were seen
+            together. </Data>
         </Cell>
       </Row>
       <Row>
@@ -850,10 +887,12 @@
           <Data ss:Type="String">BDDB548E56460C7C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It was just the Operator's conversation sequencer. They're usually so grim...</Data>
+          <Data ss:Type="String">It was just the Operator's conversation sequencer. They're usually
+            so grim...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It was just the Operator's conversation sequencer. They're usually so grim...</Data>
+          <Data ss:Type="String">It was just the Operator's conversation sequencer. They're usually
+            so grim...</Data>
         </Cell>
       </Row>
       <Row>
@@ -894,10 +933,12 @@
           <Data ss:Type="String">BDDB548E564DE637</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I dropped a couple of Nightlights to lure the phantoms away. Put sticky notes on every godamn thing I'm sure isn't a mimic.</Data>
+          <Data ss:Type="String">I dropped a couple of Nightlights to lure the phantoms away. Put
+            sticky notes on every godamn thing I'm sure isn't a mimic.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I dropped a couple of Nightlights to lure the phantoms away. Put sticky notes on every godamn thing I'm sure isn't a mimic.</Data>
+          <Data ss:Type="String">I dropped a couple of Nightlights to lure the phantoms away. Put
+            sticky notes on every godamn thing I'm sure isn't a mimic.</Data>
         </Cell>
       </Row>
       <Row>
@@ -938,10 +979,12 @@
           <Data ss:Type="String">BDDB548E564DE85A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I think we could get out through the guts. Work our way up to the Arboretum.</Data>
+          <Data ss:Type="String">I think we could get out through the guts. Work our way up to the
+            Arboretum.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I think we could get out through the guts. Work our way up to the Arboretum.</Data>
+          <Data ss:Type="String">I think we could get out through the guts. Work our way up to the
+            Arboretum.</Data>
         </Cell>
       </Row>
       <Row>
@@ -971,10 +1014,12 @@
           <Data ss:Type="String">3C5D5289566B5905</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You killed all the aliens that were stalking around out there. No reason we can't open door 01 I suppose. Here is the keycard for it.</Data>
+          <Data ss:Type="String">You killed all the aliens that were stalking around out there. No
+            reason we can't open door 01 I suppose. Here is the keycard for it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You killed all the aliens that were stalking around out there. No reason we can't open door 01 I suppose. Here is the keycard for it.</Data>
+          <Data ss:Type="String">You killed all the aliens that were stalking around out there. No
+            reason we can't open door 01 I suppose. Here is the keycard for it.</Data>
         </Cell>
       </Row>
       <Row>
@@ -982,10 +1027,12 @@
           <Data ss:Type="String">3C5D5289566B5986</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Check with Elazar, she's running the show since your brother sabotaged the station.</Data>
+          <Data ss:Type="String">Check with Elazar, she's running the show since your brother
+            sabotaged the station.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Check with Elazar, she's running the show since your brother sabotaged the station.</Data>
+          <Data ss:Type="String">Check with Elazar, she's running the show since your brother
+            sabotaged the station.</Data>
         </Cell>
       </Row>
       <Row>
@@ -993,10 +1040,12 @@
           <Data ss:Type="String">3C5D5289566B5A7B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door, or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
+          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door,
+            or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door, or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
+          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door,
+            or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1004,10 +1053,12 @@
           <Data ss:Type="String">3C5D5289569545CD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door, or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
+          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door,
+            or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door, or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
+          <Data ss:Type="String">Dr. Yu. Morgan! Up here! Officer Cool. We can't open the main door,
+            or our friends are going to pour through - get up to the catwalk, we'll get you inside.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1015,10 +1066,12 @@
           <Data ss:Type="String">BB693BC569984CD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh, please, Goode down in Hardware uses this for driving sims and don't get me started on the RTS matches during Meal Shift B. We'll be fine. </Data>
+          <Data ss:Type="String">Oh, please, Goode down in Hardware uses this for driving sims and
+            don't get me started on the RTS matches during Meal Shift B. We'll be fine. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh, please, Goode down in Hardware uses this for driving sims and don't get me started on the RTS matches during Meal Shift B. We'll be fine. </Data>
+          <Data ss:Type="String">Oh, please, Goode down in Hardware uses this for driving sims and
+            don't get me started on the RTS matches during Meal Shift B. We'll be fine. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1136,10 +1189,12 @@
           <Data ss:Type="String">BB693BC56A03B0B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">She's in Deep Storage. Saw her heading in on my way out. I'll head that way. You two find somewhere to hole up until we get back.</Data>
+          <Data ss:Type="String">She's in Deep Storage. Saw her heading in on my way out. I'll head
+            that way. You two find somewhere to hole up until we get back.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">She's in Deep Storage. Saw her heading in on my way out. I'll head that way. You two find somewhere to hole up until we get back.</Data>
+          <Data ss:Type="String">She's in Deep Storage. Saw her heading in on my way out. I'll head
+            that way. You two find somewhere to hole up until we get back.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1147,10 +1202,12 @@
           <Data ss:Type="String">3C5D528956A93C50</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You have to climb up to the catwalk to get in. I can't open this door as long as Typhon are out there.</Data>
+          <Data ss:Type="String">You have to climb up to the catwalk to get in. I can't open this
+            door as long as Typhon are out there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You have to climb up to the catwalk to get in. I can't open this door as long as Typhon are out there.</Data>
+          <Data ss:Type="String">You have to climb up to the catwalk to get in. I can't open this
+            door as long as Typhon are out there.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1180,10 +1237,12 @@
           <Data ss:Type="String">BDDB548E56B0FD17</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yeah, during the security checks, looking for those red flag psyches that the brass is up in arms about...</Data>
+          <Data ss:Type="String">Yeah, during the security checks, looking for those red flag
+            psyches that the brass is up in arms about...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yeah, during the security checks, looking for those red flag psyches that the brass is up in arms about...</Data>
+          <Data ss:Type="String">Yeah, during the security checks, looking for those red flag
+            psyches that the brass is up in arms about...</Data>
         </Cell>
       </Row>
       <Row>
@@ -1202,10 +1261,12 @@
           <Data ss:Type="String">BDDB548E56B0FDA5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Spend your life studying the brain, and the brain takes its toll. With everything else going on at the time with the shaming-</Data>
+          <Data ss:Type="String">Spend your life studying the brain, and the brain takes its toll.
+            With everything else going on at the time with the shaming-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Spend your life studying the brain, and the brain takes its toll. With everything else going on at the time with the shaming-</Data>
+          <Data ss:Type="String">Spend your life studying the brain, and the brain takes its toll.
+            With everything else going on at the time with the shaming-</Data>
         </Cell>
       </Row>
       <Row>
@@ -1213,10 +1274,12 @@
           <Data ss:Type="String">BDDB548E56B0FDD6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You already said that, but I don't think he heard you. He's not looking at this station, that's for sure.</Data>
+          <Data ss:Type="String">You already said that, but I don't think he heard you. He's not
+            looking at this station, that's for sure.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You already said that, but I don't think he heard you. He's not looking at this station, that's for sure.</Data>
+          <Data ss:Type="String">You already said that, but I don't think he heard you. He's not
+            looking at this station, that's for sure.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1235,10 +1298,12 @@
           <Data ss:Type="String">BDDB548E56BA1721</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">C'mon Manny. Just be up front with me. I've seen you checkin' out my caboose in these TranStar uniforms. If you want to ask me out just-</Data>
+          <Data ss:Type="String">C'mon Manny. Just be up front with me. I've seen you checkin' out
+            my caboose in these TranStar uniforms. If you want to ask me out just-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">C'mon Manny. Just be up front with me. I've seen you checkin' out my caboose in these TranStar uniforms. If you want to ask me out just-</Data>
+          <Data ss:Type="String">C'mon Manny. Just be up front with me. I've seen you checkin' out
+            my caboose in these TranStar uniforms. If you want to ask me out just-</Data>
         </Cell>
       </Row>
       <Row>
@@ -1279,10 +1344,12 @@
           <Data ss:Type="String">BDDB548E56BA1BB8</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Okay, well... as long as we're talking hypothetical, I guess I'd EVA my ass out to that orbiting billboard and flash it big as Vegas on the screen. </Data>
+          <Data ss:Type="String">Okay, well... as long as we're talking hypothetical, I guess I'd
+            EVA my ass out to that orbiting billboard and flash it big as Vegas on the screen. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Okay, well... as long as we're talking hypothetical, I guess I'd EVA my ass out to that orbiting billboard and flash it big as Vegas on the screen. </Data>
+          <Data ss:Type="String">Okay, well... as long as we're talking hypothetical, I guess I'd
+            EVA my ass out to that orbiting billboard and flash it big as Vegas on the screen. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1301,10 +1368,12 @@
           <Data ss:Type="String">BDDB548E56BA8AC7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Forget that. Grab whatever you can, and get to my office. We're evacuating.</Data>
+          <Data ss:Type="String">Forget that. Grab whatever you can, and get to my office. We're
+            evacuating.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Forget that. Grab whatever you can, and get to my office. We're evacuating.</Data>
+          <Data ss:Type="String">Forget that. Grab whatever you can, and get to my office. We're
+            evacuating.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1334,10 +1403,12 @@
           <Data ss:Type="String">BDDB548E56BCD9AF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ah-tshh! I don't want to know. I'm doing this as a favor, that's all.</Data>
+          <Data ss:Type="String">Ah-tshh! I don't want to know. I'm doing this as a favor, that's
+            all.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ah-tshh! I don't want to know. I'm doing this as a favor, that's all.</Data>
+          <Data ss:Type="String">Ah-tshh! I don't want to know. I'm doing this as a favor, that's
+            all.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1345,10 +1416,12 @@
           <Data ss:Type="String">BDDB548E56BCDA65</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I was Head Chef at the Space Institute no one asked me to conceal food in a cargo container.</Data>
+          <Data ss:Type="String">When I was Head Chef at the Space Institute no one asked me to
+            conceal food in a cargo container.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I was Head Chef at the Space Institute no one asked me to conceal food in a cargo container.</Data>
+          <Data ss:Type="String">When I was Head Chef at the Space Institute no one asked me to
+            conceal food in a cargo container.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1422,10 +1495,12 @@
           <Data ss:Type="String">BDDB548E56CCFC0E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I thought perhaps today we could speak more about the career choices that were... born of that.</Data>
+          <Data ss:Type="String">I thought perhaps today we could speak more about the career
+            choices that were... born of that.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I thought perhaps today we could speak more about the career choices that were... born of that.</Data>
+          <Data ss:Type="String">I thought perhaps today we could speak more about the career
+            choices that were... born of that.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1433,10 +1508,12 @@
           <Data ss:Type="String">BDDB548E56CCFC73</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Taking on a losing battle like that, fighting... not enemy troops, but the equivalent of a natural disaster...</Data>
+          <Data ss:Type="String">Taking on a losing battle like that, fighting... not enemy troops,
+            but the equivalent of a natural disaster...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Taking on a losing battle like that, fighting... not enemy troops, but the equivalent of a natural disaster...</Data>
+          <Data ss:Type="String">Taking on a losing battle like that, fighting... not enemy troops,
+            but the equivalent of a natural disaster...</Data>
         </Cell>
       </Row>
       <Row>
@@ -1444,10 +1521,14 @@
           <Data ss:Type="String">3C5D528956D08434</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes, Chief. Sorry, Chief. It doesn't matter, though, the power's down in here - the class 4 power circuit, the blast in Fuel Storage must have damaged the connection.</Data>
+          <Data ss:Type="String">Yes, Chief. Sorry, Chief. It doesn't matter, though, the power's
+            down in here - the class 4 power circuit, the blast in Fuel Storage must have damaged
+            the connection.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes, Chief. Sorry, Chief. It doesn't matter, though, the power's down in here - the class 4 power circuit, the blast in Fuel Storage must have damaged the connection.</Data>
+          <Data ss:Type="String">Yes, Chief. Sorry, Chief. It doesn't matter, though, the power's
+            down in here - the class 4 power circuit, the blast in Fuel Storage must have damaged
+            the connection.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1455,10 +1536,12 @@
           <Data ss:Type="String">3C5D528956D08527</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan? I thought I felt a chill. Didn't we have an inspection just last week?</Data>
+          <Data ss:Type="String">Morgan? I thought I felt a chill. Didn't we have an inspection just
+            last week?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan? I thought I felt a chill. Didn't we have an inspection just last week?</Data>
+          <Data ss:Type="String">Morgan? I thought I felt a chill. Didn't we have an inspection just
+            last week?</Data>
         </Cell>
       </Row>
       <Row>
@@ -1510,10 +1593,12 @@
           <Data ss:Type="String">3C5D528956D0877A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Watch your asses - they come through that door, don't let them get to cover, or we'll have no idea what they'll be next.</Data>
+          <Data ss:Type="String">Watch your asses - they come through that door, don't let them get
+            to cover, or we'll have no idea what they'll be next.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Watch your asses - they come through that door, don't let them get to cover, or we'll have no idea what they'll be next.</Data>
+          <Data ss:Type="String">Watch your asses - they come through that door, don't let them get
+            to cover, or we'll have no idea what they'll be next.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1521,10 +1606,12 @@
           <Data ss:Type="String">3C5D528956D08788</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Check the room, study what's here - anything doubles up, know which one to shoot, all right?</Data>
+          <Data ss:Type="String">Check the room, study what's here - anything doubles up, know which
+            one to shoot, all right?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Check the room, study what's here - anything doubles up, know which one to shoot, all right?</Data>
+          <Data ss:Type="String">Check the room, study what's here - anything doubles up, know which
+            one to shoot, all right?</Data>
         </Cell>
       </Row>
       <Row>
@@ -1576,10 +1663,12 @@
           <Data ss:Type="String">3C5D528956D08975</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Darcy, you were a nice gal, and maybe that was the thing. Rest easy.</Data>
+          <Data ss:Type="String">Darcy, you were a nice gal, and maybe that was the thing. Rest
+            easy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Darcy, you were a nice gal, and maybe that was the thing. Rest easy.</Data>
+          <Data ss:Type="String">Darcy, you were a nice gal, and maybe that was the thing. Rest
+            easy.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1620,10 +1709,12 @@
           <Data ss:Type="String">3C5D528956D08A3F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">These PPN-8s might as well be water pistols for all the good they do.</Data>
+          <Data ss:Type="String">These PPN-8s might as well be water pistols for all the good they
+            do.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">These PPN-8s might as well be water pistols for all the good they do.</Data>
+          <Data ss:Type="String">These PPN-8s might as well be water pistols for all the good they
+            do.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1686,10 +1777,12 @@
           <Data ss:Type="String">3C5D528956D0C82B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Well, she did, but only so we could take in the sweet, glorious curves of her ass!</Data>
+          <Data ss:Type="String">Well, she did, but only so we could take in the sweet, glorious
+            curves of her ass!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Well, she did, but only so we could take in the sweet, glorious curves of her ass!</Data>
+          <Data ss:Type="String">Well, she did, but only so we could take in the sweet, glorious
+            curves of her ass!</Data>
         </Cell>
       </Row>
       <Row>
@@ -1741,10 +1834,12 @@
           <Data ss:Type="String">3C5D528956D0CA0E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Grats on getting the lifts working. Any luck with the escape pods, too? What happened with them?</Data>
+          <Data ss:Type="String">Grats on getting the lifts working. Any luck with the escape pods,
+            too? What happened with them?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Grats on getting the lifts working. Any luck with the escape pods, too? What happened with them?</Data>
+          <Data ss:Type="String">Grats on getting the lifts working. Any luck with the escape pods,
+            too? What happened with them?</Data>
         </Cell>
       </Row>
       <Row>
@@ -1818,10 +1913,12 @@
           <Data ss:Type="String">3C5D528956D0CE1D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The plans could help, but even if we had the E.A.T.s set, having real guns would have been better.</Data>
+          <Data ss:Type="String">The plans could help, but even if we had the E.A.T.s set, having
+            real guns would have been better.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The plans could help, but even if we had the E.A.T.s set, having real guns would have been better.</Data>
+          <Data ss:Type="String">The plans could help, but even if we had the E.A.T.s set, having
+            real guns would have been better.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1829,10 +1926,12 @@
           <Data ss:Type="String">3C5D528956D0CE29</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Any luck with the Eradicators? Would be a lot better than these cap guns TranStar assigned us.</Data>
+          <Data ss:Type="String">Any luck with the Eradicators? Would be a lot better than these cap
+            guns TranStar assigned us.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Any luck with the Eradicators? Would be a lot better than these cap guns TranStar assigned us.</Data>
+          <Data ss:Type="String">Any luck with the Eradicators? Would be a lot better than these cap
+            guns TranStar assigned us.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1840,10 +1939,12 @@
           <Data ss:Type="String">3C5D528956D0CE69</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I thought I had a can-do attitude... but after getting past the Typhon, and recovering the plans... now we have real firepower. </Data>
+          <Data ss:Type="String">I thought I had a can-do attitude... but after getting past the
+            Typhon, and recovering the plans... now we have real firepower. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I thought I had a can-do attitude... but after getting past the Typhon, and recovering the plans... now we have real firepower. </Data>
+          <Data ss:Type="String">I thought I had a can-do attitude... but after getting past the
+            Typhon, and recovering the plans... now we have real firepower. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1862,10 +1963,12 @@
           <Data ss:Type="String">3C5D528956D0CE8C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will never complain about TranStar managerial training again after what you did getting those turrets - whatever they teach you definitely works.</Data>
+          <Data ss:Type="String">I will never complain about TranStar managerial training again
+            after what you did getting those turrets - whatever they teach you definitely works.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will never complain about TranStar managerial training again after what you did getting those turrets - whatever they teach you definitely works.</Data>
+          <Data ss:Type="String">I will never complain about TranStar managerial training again
+            after what you did getting those turrets - whatever they teach you definitely works.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1884,10 +1987,12 @@
           <Data ss:Type="String">3C5D528956D0CFD3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That was careless, opening the door like that. We locked ourselves in because it wasn't safe.</Data>
+          <Data ss:Type="String">That was careless, opening the door like that. We locked ourselves
+            in because it wasn't safe.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That was careless, opening the door like that. We locked ourselves in because it wasn't safe.</Data>
+          <Data ss:Type="String">That was careless, opening the door like that. We locked ourselves
+            in because it wasn't safe.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1895,10 +2000,12 @@
           <Data ss:Type="String">3C5D528956D0D016</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What were you thinking, sir, opening the main door. All the other deaths not enough for you?</Data>
+          <Data ss:Type="String">What were you thinking, sir, opening the main door. All the other
+            deaths not enough for you?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What were you thinking, sir, opening the main door. All the other deaths not enough for you?</Data>
+          <Data ss:Type="String">What were you thinking, sir, opening the main door. All the other
+            deaths not enough for you?</Data>
         </Cell>
       </Row>
       <Row>
@@ -1906,10 +2013,12 @@
           <Data ss:Type="String">3C5D528956D0D024</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What were you thinking, ma'am, opening the main door. All the other deaths not enough for you?</Data>
+          <Data ss:Type="String">What were you thinking, ma'am, opening the main door. All the other
+            deaths not enough for you?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What were you thinking, ma'am, opening the main door. All the other deaths not enough for you?</Data>
+          <Data ss:Type="String">What were you thinking, ma'am, opening the main door. All the other
+            deaths not enough for you?</Data>
         </Cell>
       </Row>
       <Row>
@@ -1928,10 +2037,12 @@
           <Data ss:Type="String">3C5D528956D0D108</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Didn't realize they were holding an Asshole Convention on Talos, but maybe only Commander Dahl got the invite.</Data>
+          <Data ss:Type="String">Didn't realize they were holding an Asshole Convention on Talos,
+            but maybe only Commander Dahl got the invite.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Didn't realize they were holding an Asshole Convention on Talos, but maybe only Commander Dahl got the invite.</Data>
+          <Data ss:Type="String">Didn't realize they were holding an Asshole Convention on Talos,
+            but maybe only Commander Dahl got the invite.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1939,10 +2050,12 @@
           <Data ss:Type="String">3C5D528956D0D14C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Can't wait to do the same thing to Commander Dahl - we'll see how he likes it.</Data>
+          <Data ss:Type="String">Can't wait to do the same thing to Commander Dahl - we'll see how
+            he likes it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Can't wait to do the same thing to Commander Dahl - we'll see how he likes it.</Data>
+          <Data ss:Type="String">Can't wait to do the same thing to Commander Dahl - we'll see how
+            he likes it.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1950,10 +2063,12 @@
           <Data ss:Type="String">3C5D528956D0D15C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I catch the Commander, my pistol and him are going to have... words.</Data>
+          <Data ss:Type="String">When I catch the Commander, my pistol and him are going to have...
+            words.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I catch the Commander, my pistol and him are going to have... words.</Data>
+          <Data ss:Type="String">When I catch the Commander, my pistol and him are going to have...
+            words.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1961,10 +2076,12 @@
           <Data ss:Type="String">3C5D528956D0D168</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I find Dahl, it won't be a question of who shot first, trust me.</Data>
+          <Data ss:Type="String">When I find Dahl, it won't be a question of who shot first, trust
+            me.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I find Dahl, it won't be a question of who shot first, trust me.</Data>
+          <Data ss:Type="String">When I find Dahl, it won't be a question of who shot first, trust
+            me.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1972,10 +2089,12 @@
           <Data ss:Type="String">3C5D528956D0D199</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Wish you'd let me have a shot at Dahl - but you seem like the type that doesn't leave a job half-finished.</Data>
+          <Data ss:Type="String">Wish you'd let me have a shot at Dahl - but you seem like the type
+            that doesn't leave a job half-finished.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Wish you'd let me have a shot at Dahl - but you seem like the type that doesn't leave a job half-finished.</Data>
+          <Data ss:Type="String">Wish you'd let me have a shot at Dahl - but you seem like the type
+            that doesn't leave a job half-finished.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1983,10 +2102,12 @@
           <Data ss:Type="String">3C5D528956D0D1AE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I hope Dahl was begging for his life at the end. Like a true TranStar officer. Except the Chief, of course.</Data>
+          <Data ss:Type="String">I hope Dahl was begging for his life at the end. Like a true
+            TranStar officer. Except the Chief, of course.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I hope Dahl was begging for his life at the end. Like a true TranStar officer. Except the Chief, of course.</Data>
+          <Data ss:Type="String">I hope Dahl was begging for his life at the end. Like a true
+            TranStar officer. Except the Chief, of course.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1994,10 +2115,12 @@
           <Data ss:Type="String">3C5D528956D0D1FF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Heard you got to Mika. Er, Chief Ilyushin. Guess nothing bars the way when it's someone you care about, huh?</Data>
+          <Data ss:Type="String">Heard you got to Mika. Er, Chief Ilyushin. Guess nothing bars the
+            way when it's someone you care about, huh?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Heard you got to Mika. Er, Chief Ilyushin. Guess nothing bars the way when it's someone you care about, huh?</Data>
+          <Data ss:Type="String">Heard you got to Mika. Er, Chief Ilyushin. Guess nothing bars the
+            way when it's someone you care about, huh?</Data>
         </Cell>
       </Row>
       <Row>
@@ -2005,10 +2128,12 @@
           <Data ss:Type="String">3C5D528956D0D20D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mika all right? She sounded in trouble there during the last communication.</Data>
+          <Data ss:Type="String">Mika all right? She sounded in trouble there during the last
+            communication.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mika all right? She sounded in trouble there during the last communication.</Data>
+          <Data ss:Type="String">Mika all right? She sounded in trouble there during the last
+            communication.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2016,10 +2141,12 @@
           <Data ss:Type="String">3C5D528956D0D247</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Going to have a keep a watch on Igwe - he stirred up some of the organisms getting here, might do it again.</Data>
+          <Data ss:Type="String">Going to have a keep a watch on Igwe - he stirred up some of the
+            organisms getting here, might do it again.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Going to have a keep a watch on Igwe - he stirred up some of the organisms getting here, might do it again.</Data>
+          <Data ss:Type="String">Going to have a keep a watch on Igwe - he stirred up some of the
+            organisms getting here, might do it again.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2027,10 +2154,12 @@
           <Data ss:Type="String">3C5D528956D0D252</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We did a check of all Igwe's equipment - all genuine, no organic matter. He's clean. </Data>
+          <Data ss:Type="String">We did a check of all Igwe's equipment - all genuine, no organic
+            matter. He's clean. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We did a check of all Igwe's equipment - all genuine, no organic matter. He's clean. </Data>
+          <Data ss:Type="String">We did a check of all Igwe's equipment - all genuine, no organic
+            matter. He's clean. </Data>
         </Cell>
       </Row>
       <Row>
@@ -2038,10 +2167,12 @@
           <Data ss:Type="String">3C5D528956D0D298</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thanks for saving Rani. She's been telling us... well, I can't believe what's she's been telling us. </Data>
+          <Data ss:Type="String">Thanks for saving Rani. She's been telling us... well, I can't
+            believe what's she's been telling us. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thanks for saving Rani. She's been telling us... well, I can't believe what's she's been telling us. </Data>
+          <Data ss:Type="String">Thanks for saving Rani. She's been telling us... well, I can't
+            believe what's she's been telling us. </Data>
         </Cell>
       </Row>
       <Row>
@@ -2071,10 +2202,12 @@
           <Data ss:Type="String">3C5D528956D0D2ED</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If there's no way out of here, then I'm going to make every bullet count.</Data>
+          <Data ss:Type="String">If there's no way out of here, then I'm going to make every bullet
+            count.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If there's no way out of here, then I'm going to make every bullet count.</Data>
+          <Data ss:Type="String">If there's no way out of here, then I'm going to make every bullet
+            count.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2115,10 +2248,12 @@
           <Data ss:Type="String">3C5D528956D0D409</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">but we've had to seal the main door to protect ourselves. Get up to the catwalk, we'll get you inside.</Data>
+          <Data ss:Type="String">but we've had to seal the main door to protect ourselves. Get up to
+            the catwalk, we'll get you inside.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">but we've had to seal the main door to protect ourselves. Get up to the catwalk, we'll get you inside.</Data>
+          <Data ss:Type="String">but we've had to seal the main door to protect ourselves. Get up to
+            the catwalk, we'll get you inside.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2181,10 +2316,12 @@
           <Data ss:Type="String">BDDB548E57223A2A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Josh? What the hell is this? I got a security request saying to- (Frustrated Sigh) Not funny, asshole.</Data>
+          <Data ss:Type="String">Josh? What the hell is this? I got a security request saying to-
+            (Frustrated Sigh) Not funny, asshole.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Josh? What the hell is this? I got a security request saying to- (Frustrated Sigh) Not funny, asshole.</Data>
+          <Data ss:Type="String">Josh? What the hell is this? I got a security request saying to-
+            (Frustrated Sigh) Not funny, asshole.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2192,10 +2329,12 @@
           <Data ss:Type="String">BDDB548E57223B7B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's what this is about? I'm senior on the Blackbox project, Josh. That's how it works here.</Data>
+          <Data ss:Type="String">That's what this is about? I'm senior on the Blackbox project,
+            Josh. That's how it works here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's what this is about? I'm senior on the Blackbox project, Josh. That's how it works here.</Data>
+          <Data ss:Type="String">That's what this is about? I'm senior on the Blackbox project,
+            Josh. That's how it works here.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2214,10 +2353,12 @@
           <Data ss:Type="String">BDDB548E57223BF8</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">And by the way, I had to fix a bunch of your calculations so it's not y-</Data>
+          <Data ss:Type="String">And by the way, I had to fix a bunch of your calculations so it's
+            not y-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">And by the way, I had to fix a bunch of your calculations so it's not y-</Data>
+          <Data ss:Type="String">And by the way, I had to fix a bunch of your calculations so it's
+            not y-</Data>
         </Cell>
       </Row>
       <Row>
@@ -2225,10 +2366,12 @@
           <Data ss:Type="String">BDDB548E57223C19</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Seriously? You're recording this? (Laughs) Is uh... is this a big sting operation, Josh? Are you going to hand me over to the DA?</Data>
+          <Data ss:Type="String">Seriously? You're recording this? (Laughs) Is uh... is this a big
+            sting operation, Josh? Are you going to hand me over to the DA?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Seriously? You're recording this? (Laughs) Is uh... is this a big sting operation, Josh? Are you going to hand me over to the DA?</Data>
+          <Data ss:Type="String">Seriously? You're recording this? (Laughs) Is uh... is this a big
+            sting operation, Josh? Are you going to hand me over to the DA?</Data>
         </Cell>
       </Row>
       <Row>
@@ -2258,10 +2401,12 @@
           <Data ss:Type="String">BDDB548E57223CA4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I swear to God, if you don't put that down I will rip it out of your sweaty hands and Josh! (Sounds of Energy Beams Firing)</Data>
+          <Data ss:Type="String">I swear to God, if you don't put that down I will rip it out of
+            your sweaty hands and Josh! (Sounds of Energy Beams Firing)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I swear to God, if you don't put that down I will rip it out of your sweaty hands and Josh! (Sounds of Energy Beams Firing)</Data>
+          <Data ss:Type="String">I swear to God, if you don't put that down I will rip it out of
+            your sweaty hands and Josh! (Sounds of Energy Beams Firing)</Data>
         </Cell>
       </Row>
       <Row>
@@ -2302,10 +2447,12 @@
           <Data ss:Type="String">BDDB548E57276661</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Because your last tour of duty was the Evacuation, and reports from there-</Data>
+          <Data ss:Type="String">Because your last tour of duty was the Evacuation, and reports from
+            there-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Because your last tour of duty was the Evacuation, and reports from there-</Data>
+          <Data ss:Type="String">Because your last tour of duty was the Evacuation, and reports from
+            there-</Data>
         </Cell>
       </Row>
       <Row>
@@ -2313,10 +2460,10 @@
           <Data ss:Type="String">BDDB548E57276684</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes... tragic. Still, to lose soldiers under your command...  </Data>
+          <Data ss:Type="String">Yes... tragic. Still, to lose soldiers under your command... </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes... tragic. Still, to lose soldiers under your command...  </Data>
+          <Data ss:Type="String">Yes... tragic. Still, to lose soldiers under your command... </Data>
         </Cell>
       </Row>
       <Row>
@@ -2368,10 +2515,12 @@
           <Data ss:Type="String">BDDB548E5744A3B1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your brother, he said not to take the scenic route, but... hell, up here it's all scenic route.</Data>
+          <Data ss:Type="String">Your brother, he said not to take the scenic route, but... hell, up
+            here it's all scenic route.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your brother, he said not to take the scenic route, but... hell, up here it's all scenic route.</Data>
+          <Data ss:Type="String">Your brother, he said not to take the scenic route, but... hell, up
+            here it's all scenic route.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2379,10 +2528,12 @@
           <Data ss:Type="String">BDDB548E5744A3BC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Helps keep things in perspective. Seeing the big picture. Know what I mean?</Data>
+          <Data ss:Type="String">Helps keep things in perspective. Seeing the big picture. Know what
+            I mean?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Helps keep things in perspective. Seeing the big picture. Know what I mean?</Data>
+          <Data ss:Type="String">Helps keep things in perspective. Seeing the big picture. Know what
+            I mean?</Data>
         </Cell>
       </Row>
       <Row>
@@ -2434,10 +2585,12 @@
           <Data ss:Type="String">BDDB548E5744A458</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hope you don't mind me saying so, but... it's an honor to have you aboard. Your work with Operator AI. It's inspired if you ask me.</Data>
+          <Data ss:Type="String">Hope you don't mind me saying so, but... it's an honor to have you
+            aboard. Your work with Operator AI. It's inspired if you ask me.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hope you don't mind me saying so, but... it's an honor to have you aboard. Your work with Operator AI. It's inspired if you ask me.</Data>
+          <Data ss:Type="String">Hope you don't mind me saying so, but... it's an honor to have you
+            aboard. Your work with Operator AI. It's inspired if you ask me.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2445,10 +2598,12 @@
           <Data ss:Type="String">BDDB548E5744A45F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can't pretend to understand half the neuroscience stuff you do. It's a black box to me. I just appreciate the results. Big fan.</Data>
+          <Data ss:Type="String">I can't pretend to understand half the neuroscience stuff you do.
+            It's a black box to me. I just appreciate the results. Big fan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can't pretend to understand half the neuroscience stuff you do. It's a black box to me. I just appreciate the results. Big fan.</Data>
+          <Data ss:Type="String">I can't pretend to understand half the neuroscience stuff you do.
+            It's a black box to me. I just appreciate the results. Big fan.</Data>
         </Cell>
       </Row>
       <Row>
@@ -2478,10 +2633,12 @@
           <Data ss:Type="String">BDDB548E579AAEEE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The receptor molecules, exotic neurotransmitters... we didn't synthesize them. And... and there's is no terrestrial source!</Data>
+          <Data ss:Type="String">The receptor molecules, exotic neurotransmitters... we didn't
+            synthesize them. And... and there's is no terrestrial source!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The receptor molecules, exotic neurotransmitters... we didn't synthesize them. And... and there's is no terrestrial source!</Data>
+          <Data ss:Type="String">The receptor molecules, exotic neurotransmitters... we didn't
+            synthesize them. And... and there's is no terrestrial source!</Data>
         </Cell>
       </Row>
       <Row>
@@ -2489,10 +2646,12 @@
           <Data ss:Type="String">BDDB548E579AAF45</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We've been... shoving it into our skulls. It all comes from them. But you... you never -</Data>
+          <Data ss:Type="String">We've been... shoving it into our skulls. It all comes from them.
+            But you... you never -</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We've been... shoving it into our skulls. It all comes from them. But you... you never -</Data>
+          <Data ss:Type="String">We've been... shoving it into our skulls. It all comes from them.
+            But you... you never -</Data>
         </Cell>
       </Row>
       <Row>
@@ -2500,10 +2659,12 @@
           <Data ss:Type="String">BDDB548E579AAFAF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I need to get this out now... Oh god but - the Neuromods. They can still be fabricated...</Data>
+          <Data ss:Type="String">I need to get this out now... Oh god but - the Neuromods. They can
+            still be fabricated...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I need to get this out now... Oh god but - the Neuromods. They can still be fabricated...</Data>
+          <Data ss:Type="String">I need to get this out now... Oh god but - the Neuromods. They can
+            still be fabricated...</Data>
         </Cell>
       </Row>
       <Row>

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet">
   <Worksheet ss:Name="Sheet1">
     <Table>
       <Row>
@@ -113,10 +114,12 @@
           <Data ss:Type="String">BDDB548E56C5D3CC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm familiar with repair and maintenance procedures for most systems aboard Talos I.</Data>
+          <Data ss:Type="String">I'm familiar with repair and maintenance procedures for most
+            systems aboard Talos I.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm familiar with repair and maintenance procedures for most systems aboard Talos I.</Data>
+          <Data ss:Type="String">I'm familiar with repair and maintenance procedures for most
+            systems aboard Talos I.</Data>
         </Cell>
       </Row>
       <Row>
@@ -157,10 +160,12 @@
           <Data ss:Type="String">BDDB548E56C5D403</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you're scheduled for a complete suit diagnostic, report to Mr. Goode in the Hardware Labs.</Data>
+          <Data ss:Type="String">If you're scheduled for a complete suit diagnostic, report to Mr.
+            Goode in the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you're scheduled for a complete suit diagnostic, report to Mr. Goode in the Hardware Labs.</Data>
+          <Data ss:Type="String">If you're scheduled for a complete suit diagnostic, report to Mr.
+            Goode in the Hardware Labs.</Data>
         </Cell>
       </Row>
       <Row>
@@ -168,10 +173,12 @@
           <Data ss:Type="String">BDDB548E56C5D41F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside of Talos I. </Data>
+          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside
+            of Talos I. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside of Talos I. </Data>
+          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside
+            of Talos I. </Data>
         </Cell>
       </Row>
       <Row>
@@ -201,10 +208,12 @@
           <Data ss:Type="String">BDDB548E56C5D464</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an evacuation. </Data>
+          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an
+            evacuation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an evacuation. </Data>
+          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an
+            evacuation. </Data>
         </Cell>
       </Row>
       <Row>
@@ -223,10 +232,12 @@
           <Data ss:Type="String">BDDB548E56C5D484</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts in the last... twenty-four hours.</Data>
+          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts
+            in the last... twenty-four hours.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts in the last... twenty-four hours.</Data>
+          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts
+            in the last... twenty-four hours.</Data>
         </Cell>
       </Row>
       <Row>
@@ -234,10 +245,12 @@
           <Data ss:Type="String">BDDB548E56C5D493</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and recirculation system. </Data>
+          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and
+            recirculation system. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and recirculation system. </Data>
+          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and
+            recirculation system. </Data>
         </Cell>
       </Row>
       <Row>
@@ -245,10 +258,12 @@
           <Data ss:Type="String">BDDB548E56C5D4A7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth via self-piloting freight containers. </Data>
+          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth
+            via self-piloting freight containers. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth via self-piloting freight containers. </Data>
+          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth
+            via self-piloting freight containers. </Data>
         </Cell>
       </Row>
       <Row>
@@ -256,10 +271,12 @@
           <Data ss:Type="String">BDDB548E56C5D4BA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Arboretum's trees are part of the station's respiratory system which goes all the way down to the atmosphere control room in Life Support. </Data>
+          <Data ss:Type="String">The Arboretum's trees are part of the station's respiratory system
+            which goes all the way down to the atmosphere control room in Life Support. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Arboretum's trees are part of the station's respiratory system which goes all the way down to the atmosphere control room in Life Support. </Data>
+          <Data ss:Type="String">The Arboretum's trees are part of the station's respiratory system
+            which goes all the way down to the atmosphere control room in Life Support. </Data>
         </Cell>
       </Row>
       <Row>
@@ -267,10 +284,12 @@
           <Data ss:Type="String">BDDB548E56C5D4E7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible polymer.</Data>
+          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible
+            polymer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible polymer.</Data>
+          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible
+            polymer.</Data>
         </Cell>
       </Row>
       <Row>
@@ -289,10 +308,12 @@
           <Data ss:Type="String">BDDB548E56C5D521</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us from cosmic radiation. </Data>
+          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us
+            from cosmic radiation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us from cosmic radiation. </Data>
+          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us
+            from cosmic radiation. </Data>
         </Cell>
       </Row>
       <Row>
@@ -300,10 +321,12 @@
           <Data ss:Type="String">BDDB548E56C5D6F3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor in the Power Plant.</Data>
+          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor
+            in the Power Plant.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor in the Power Plant.</Data>
+          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor
+            in the Power Plant.</Data>
         </Cell>
       </Row>
       <Row>
@@ -311,10 +334,12 @@
           <Data ss:Type="String">BDDB548E56C5D796</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All debris or irreparable components should be placed inside a Recycler.</Data>
+          <Data ss:Type="String">All debris or irreparable components should be placed inside a
+            Recycler.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All debris or irreparable components should be placed inside a Recycler.</Data>
+          <Data ss:Type="String">All debris or irreparable components should be placed inside a
+            Recycler.</Data>
         </Cell>
       </Row>
       <Row>
@@ -344,10 +369,12 @@
           <Data ss:Type="String">BDDB548E56C5E0FB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Careless use of GLOO or placement of large furniture can cause improper function.</Data>
+          <Data ss:Type="String">Careless use of GLOO or placement of large furniture can cause
+            improper function.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Careless use of GLOO or placement of large furniture can cause improper function.</Data>
+          <Data ss:Type="String">Careless use of GLOO or placement of large furniture can cause
+            improper function.</Data>
         </Cell>
       </Row>
       <Row>
@@ -652,10 +679,12 @@
           <Data ss:Type="String">BDDB548E56C5F1C3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice
+            malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice
+            malfunctioning]--instructions. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1004,10 +1033,12 @@
           <Data ss:Type="String">BDDB548E56C5F3C5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're concerned I'll botch the job is that why you won't come see me?</Data>
+          <Data ss:Type="String">You're concerned I'll botch the job is that why you won't come see
+            me?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're concerned I'll botch the job is that why you won't come see me?</Data>
+          <Data ss:Type="String">You're concerned I'll botch the job is that why you won't come see
+            me?</Data>
         </Cell>
       </Row>
       <Row>
@@ -1026,10 +1057,12 @@
           <Data ss:Type="String">BDDB548E56C5F3DC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have an responsibility to- [voice malfunctioning] - recycle the useless bits from you.</Data>
+          <Data ss:Type="String">I have an responsibility to- [voice malfunctioning] - recycle the
+            useless bits from you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have an responsibility to- [voice malfunctioning] - recycle the useless bits from you.</Data>
+          <Data ss:Type="String">I have an responsibility to- [voice malfunctioning] - recycle the
+            useless bits from you.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1037,10 +1070,12 @@
           <Data ss:Type="String">BDDB548E56C5F3E4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An application of high velocity plasma and com-com-compressed gas will get you back into working condition.</Data>
+          <Data ss:Type="String">An application of high velocity plasma and com-com-compressed gas
+            will get you back into working condition.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An application of high velocity plasma and com-com-compressed gas will get you back into working condition.</Data>
+          <Data ss:Type="String">An application of high velocity plasma and com-com-compressed gas
+            will get you back into working condition.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1147,10 +1182,12 @@
           <Data ss:Type="String">BDDB548E56C5F942</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice malfunctioning] understand. </Data>
+          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice
+            malfunctioning] understand. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice malfunctioning] understand. </Data>
+          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice
+            malfunctioning] understand. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1158,10 +1195,12 @@
           <Data ss:Type="String">BDDB548E56C5F975</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice
+            malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice
+            malfunctioning]--instructions. </Data>
         </Cell>
       </Row>
       <Row>
@@ -1180,10 +1219,12 @@
           <Data ss:Type="String">BDDB548E56C5F99E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service. Servo.</Data>
+          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service.
+            Servo.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service. Servo.</Data>
+          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service.
+            Servo.</Data>
         </Cell>
       </Row>
       <Row>
@@ -1191,10 +1232,12 @@
           <Data ss:Type="String">BDDB548E56C5F9A6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols... Files not found. Reference Deleted. </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols...
+            Files not found. Reference Deleted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols... Files not found. Reference Deleted. </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols...
+            Files not found. Reference Deleted. </Data>
         </Cell>
       </Row>
       <Row>
