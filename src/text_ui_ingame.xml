@@ -1899,7 +1899,7 @@
           <Data ss:Type="String">DFA Chipset Activated</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Чіп ССН активовано</Data>
+          <Data ss:Type="String">Чіп КН активовано</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
