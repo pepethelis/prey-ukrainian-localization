@@ -259,12 +259,10 @@
           <Data ss:Type="String">ui_fabricationlicenserevoked_body</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabrication Plan DRM Does Not Match Security Key! For Authorization
-            Contact Halden Graves.</Data>
+          <Data ss:Type="String">Fabrication Plan DRM Does Not Match Security Key! For Authorization Contact Halden Graves.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ключ не підходить для системи захисту креслення від копіювання.
-            Зверніться до Холдена Грейвса.</Data>
+          <Data ss:Type="String">Ключ не підходить для системи захисту креслення від копіювання. Зверніться до Холдена Грейвса.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -533,8 +531,7 @@
           <Data ss:Type="String">ui_objectiveclue</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An objective clue has been added.&lt;br&gt;Press %contextaction% to
-            view.</Data>
+          <Data ss:Type="String">An objective clue has been added.&lt;br&gt;Press %contextaction% to view.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Додано підказку.&lt;br&gt;Прочитати: %contextaction%.</Data>
@@ -1316,8 +1313,7 @@
           <Data ss:Type="String">&lt;font color=&apos;#990000&apos;&gt;Not Enough Space&lt;/font&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;font color=&apos;#990000&apos;&gt;Недостатньо
-            місця&lt;/font&gt;</Data>
+          <Data ss:Type="String">&lt;font color=&apos;#990000&apos;&gt;Недостатньо місця&lt;/font&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1331,12 +1327,10 @@
           <Data ss:Type="String">use_error_missingitem</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%item% (&lt;font
-            color=&apos;#990000&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
+          <Data ss:Type="String">%item% (&lt;font color=&apos;#990000&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%item% (&lt;font
-            color=&apos;#990000&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
+          <Data ss:Type="String">%item% (&lt;font color=&apos;#990000&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1792,12 +1786,10 @@
           <Data ss:Type="String">use_requireditems</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%item% (&lt;font
-            color=&apos;#009900&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
+          <Data ss:Type="String">%item% (&lt;font color=&apos;#009900&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%item% (&lt;font
-            color=&apos;#009900&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
+          <Data ss:Type="String">%item% (&lt;font color=&apos;#009900&apos;&gt;%current%/%total%&lt;/font&gt;)</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

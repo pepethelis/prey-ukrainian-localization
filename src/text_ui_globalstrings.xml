@@ -106,12 +106,10 @@
           <Data ss:Type="String">ui_simlabstestquestion1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;re planning a vacation. Go somewhere familiar you know you
-            love, or try something new?</Data>
+          <Data ss:Type="String">You&apos;re planning a vacation. Go somewhere familiar you know you love, or try something new?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви плануєте відпустку. Куди ви вирушите: у добре знайоме місце, де
-            вам подобається, чи нове?</Data>
+          <Data ss:Type="String">Ви плануєте відпустку. Куди ви вирушите: у добре знайоме місце, де вам подобається, чи нове?</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -159,12 +157,10 @@
           <Data ss:Type="String">ui_simlabstestquestion2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve been sentenced to death for your actions. How does this
-            make you feel? </Data>
+          <Data ss:Type="String">You&apos;ve been sentenced to death for your actions. How does this make you feel? </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Вас засудили до смертної кари за ваші вчинки. Що ви при цьому
-            відчуваєте? </Data>
+          <Data ss:Type="String">Вас засудили до смертної кари за ваші вчинки. Що ви при цьому відчуваєте? </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -229,13 +225,10 @@
           <Data ss:Type="String">ui_simlabstestquestion3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A runaway train is bearing down on five people who are tied to the
-            track. You can cause the train to switch tracks, but there is one person tied to the
-            second track. </Data>
+          <Data ss:Type="String">A runaway train is bearing down on five people who are tied to the track. You can cause the train to switch tracks, but there is one person tied to the second track. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Поїзд, що втратив керування, мчить колією, до якої прикуті п'ять
-            людей. Ви можете перевести поїзд на сусідню гілку, але до неї прикута одна людина. </Data>
+          <Data ss:Type="String">Поїзд, що втратив керування, мчить колією, до якої прикуті п'ять людей. Ви можете перевести поїзд на сусідню гілку, але до неї прикута одна людина. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -283,14 +276,10 @@
           <Data ss:Type="String">ui_simlabstestquestion4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A runaway train is bearing down on five people. You&apos;re
-            standing on the platform next to an enormously fat man. Pushing him into the track would
-            stop the train.</Data>
+          <Data ss:Type="String">A runaway train is bearing down on five people. You&apos;re standing on the platform next to an enormously fat man. Pushing him into the track would stop the train.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Поїзд, що втратив керування, наближається до п'яти людей. Ви стоїте
-            на платформі поруч із неймовірно товстим чоловіком. Якщо ви зіштовхнете його під поїзд,
-            то зупините локомотив.</Data>
+          <Data ss:Type="String">Поїзд, що втратив керування, наближається до п'яти людей. Ви стоїте на платформі поруч із неймовірно товстим чоловіком. Якщо ви зіштовхнете його під поїзд, то зупините локомотив.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -338,13 +327,10 @@
           <Data ss:Type="String">ui_simlabstestquestion5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A runaway train is bearing down on five people tied to the track.
-            You could stop the train by jumping onto the track, but you would die.</Data>
+          <Data ss:Type="String">A runaway train is bearing down on five people tied to the track. You could stop the train by jumping onto the track, but you would die.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Поїзд, що втратив керування, мчить колією, до якої прикуті п'ятеро
-            людей. п'ять людей. Ви можете зупинити поїзд, стрибнувши під його колеса, але ви при
-            цьому загинете.</Data>
+          <Data ss:Type="String">Поїзд, що втратив керування, мчить колією, до якої прикуті п'ятеро людей. п'ять людей. Ви можете зупинити поїзд, стрибнувши під його колеса, але ви при цьому загинете.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

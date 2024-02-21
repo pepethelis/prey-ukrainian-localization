@@ -176,12 +176,10 @@
       <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s65">
         <Cell />
         <Cell>
-          <Data ss:Type="String">This contains original text meant for subtitles. Use descriptive
-            expressions like &lt;frantic laughter&gt; and ## for a new line.</Data>
+          <Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like
-            &lt;frantic laughter&gt; and ## for a new line.</Data>
+          <Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">set to &quot;LOCKED&quot; if this string is final.</Data>
@@ -195,18 +193,10 @@
           <Data ss:Type="String">ui_airlockcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I has multiple airlocks which lead to the exterior of the
-            space station. Before you can use them, you have to disengage their manual seals from
-            the inside. The more airlocks you find, the more freedom you&apos;ll have to navigate
-            through and around the station as you wish. Access your TranScribe to view your station
-            map to find more airlocks.</Data>
+          <Data ss:Type="String">Talos I has multiple airlocks which lead to the exterior of the space station. Before you can use them, you have to disengage their manual seals from the inside. The more airlocks you find, the more freedom you&apos;ll have to navigate through and around the station as you wish. Access your TranScribe to view your station map to find more airlocks.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">На "Талосі-1" багато шлюзів, що дають змогу вийти у відкритий
-            космос. Але перш ніж ви зможете ними скористатися, необхідно вручну зняти з них
-            блокування зсередини. Чим більше шлюзів ви знайшли, тим вільніше можете переміщатися по
-            станції. Перегляньте карту станції за допомогою транскриптора, щоб знайти додаткові
-            шлюзи.</Data>
+          <Data ss:Type="String">На "Талосі-1" багато шлюзів, що дають змогу вийти у відкритий космос. Але перш ніж ви зможете ними скористатися, необхідно вручну зняти з них блокування зсередини. Чим більше шлюзів ви знайшли, тим вільніше можете переміщатися по станції. Перегляньте карту станції за допомогою транскриптора, щоб знайти додаткові шлюзи.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -220,13 +210,10 @@
           <Data ss:Type="String">ui_chipsets</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your TranStar uniform and psychoscope can be upgraded with
-            chipsets. Install new chipsets via the inventory screen of your TranScribe. </Data>
+          <Data ss:Type="String">Your TranStar uniform and psychoscope can be upgraded with chipsets. Install new chipsets via the inventory screen of your TranScribe. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви можете покращувати вашу форму "Транстар" і психоскоп за
-            допомогою чіпів. Щоб встановити новий чіп, відкрийте меню спорядження у вашому
-            транскрипторі. </Data>
+          <Data ss:Type="String">Ви можете покращувати вашу форму "Транстар" і психоскоп за допомогою чіпів. Щоб встановити новий чіп, відкрийте меню спорядження у вашому транскрипторі. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -240,15 +227,10 @@
           <Data ss:Type="String">ui_chipsetscard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your TranStar uniform and Psychoscope can be upgraded with chipsets
-            that provide various benefits, boosts, and protections. Install chipsets on the Suit
-            Chipsets and Scope Chipsets pages within the Inventory tab of your Transcribe.</Data>
+          <Data ss:Type="String">Your TranStar uniform and Psychoscope can be upgraded with chipsets that provide various benefits, boosts, and protections. Install chipsets on the Suit Chipsets and Scope Chipsets pages within the Inventory tab of your Transcribe.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви можете покращувати вашу форму "Транстар" і психоскоп за
-            допомогою чіпів, що підсилюють ваші здібності та захист. Для встановлення нових чіпів
-            використовуйте вкладки "Чіпи костюма" і "Чіпи психоскопа" в меню спорядження вашого
-            транскриптора.</Data>
+          <Data ss:Type="String">Ви можете покращувати вашу форму "Транстар" і психоскоп за допомогою чіпів, що підсилюють ваші здібності та захист. Для встановлення нових чіпів використовуйте вкладки "Чіпи костюма" і "Чіпи психоскопа" в меню спорядження вашого транскриптора.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -262,17 +244,10 @@
           <Data ss:Type="String">ui_combatcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Take advantage of your environment and tools in combat. You do not
-            have to fight every enemy head on. Use alternate routes to sneak past tough enemies, or
-            to get the drop on them. &lt;br&gt;&lt;br&gt;If you intend to fight, disabling enemies
-            first with tools like the GLOO cannon can increase your odds of surviving.</Data>
+          <Data ss:Type="String">Take advantage of your environment and tools in combat. You do not have to fight every enemy head on. Use alternate routes to sneak past tough enemies, or to get the drop on them. &lt;br&gt;&lt;br&gt;If you intend to fight, disabling enemies first with tools like the GLOO cannon can increase your odds of surviving.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Користуйтеся в бою навколишніми предметами і спорядженням. Вам
-            необов&apos;язково йти в лобову атаку на кожного ворога. Ви можете непомітно прокрастися
-            повз небезпечних супротивників або застати їх зненацька. &lt;br&gt;&lt;br&gt;Якщо ви все
-            ж таки вирішили битися, спочатку виведіть ворогів з ладу за допомогою таких засобів, як
-            ГІПС-гармата, - це збільшить ваші шанси на виживання.</Data>
+          <Data ss:Type="String">Користуйтеся в бою навколишніми предметами і спорядженням. Вам необов&apos;язково йти в лобову атаку на кожного ворога. Ви можете непомітно прокрастися повз небезпечних супротивників або застати їх зненацька. &lt;br&gt;&lt;br&gt;Якщо ви все ж таки вирішили битися, спочатку виведіть ворогів з ладу за допомогою таких засобів, як ГІПС-гармата, - це збільшить ваші шанси на виживання.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -286,19 +261,10 @@
           <Data ss:Type="String">ui_combatcard2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Press %player:sneak% to sneak if you wish to avoid direct
-            confrontation. While sneaking you move silently and can hide behind cover to avoid being
-            spotted. As enemies detect you, a meter will appear over them. White means they are
-            suspicious. Red means you’re busted.&lt;br&gt;&lt;br&gt;Unaware enemies take more damage
-            from your attacks. </Data>
+          <Data ss:Type="String">Press %player:sneak% to sneak if you wish to avoid direct confrontation. While sneaking you move silently and can hide behind cover to avoid being spotted. As enemies detect you, a meter will appear over them. White means they are suspicious. Red means you’re busted.&lt;br&gt;&lt;br&gt;Unaware enemies take more damage from your attacks. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %player:sneak%, щоб непомітно прокрастися повз ворога й
-            уникнути зіткнення. Коли ви крадетеся, ви робите менше шуму і можете ховатися за
-            об&apos;єктами, щоб вас не виявили. Якщо ворог відчув вашу присутність, над ним
-            з&apos;явиться індикатор. Білий колір означає, що ворог щось підозрює. Червоний - вас
-            виявлено.&lt;br&gt;&lt;br&gt;Нападаючи на ворогів, які нічого не підозрюють, ви завдаєте
-            їм більше шкоди. </Data>
+          <Data ss:Type="String">Натисніть %player:sneak%, щоб непомітно прокрастися повз ворога й уникнути зіткнення. Коли ви крадетеся, ви робите менше шуму і можете ховатися за об&apos;єктами, щоб вас не виявили. Якщо ворог відчув вашу присутність, над ним з&apos;явиться індикатор. Білий колір означає, що ворог щось підозрює. Червоний - вас виявлено.&lt;br&gt;&lt;br&gt;Нападаючи на ворогів, які нічого не підозрюють, ви завдаєте їм більше шкоди. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -312,16 +278,10 @@
           <Data ss:Type="String">ui_EMPGrenadeCard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The EMP Charge emits a large burst of electromagnetic energy.
-            Highly effective against robots, turrets, and other electrical-based entities.
-            &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using
-            %player:attack1%.</Data>
+          <Data ss:Type="String">The EMP Charge emits a large burst of electromagnetic energy. Highly effective against robots, turrets, and other electrical-based entities. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using %player:attack1%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">ЕМ-заряд створює потужний імпульс електромагнітної енергії. Він
-            особливо ефективний проти роботів, турелей та інших суб&apos;єктів, що використовують
-            електрику. &lt;br&gt;&lt;br&gt;Заряд можна кидати або прикріплювати до нерухомих
-            об&apos;єктів за допомогою %player:attack1%.</Data>
+          <Data ss:Type="String">ЕМ-заряд створює потужний імпульс електромагнітної енергії. Він особливо ефективний проти роботів, турелей та інших суб&apos;єктів, що використовують електрику. &lt;br&gt;&lt;br&gt;Заряд можна кидати або прикріплювати до нерухомих об&apos;єктів за допомогою %player:attack1%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -335,15 +295,10 @@
           <Data ss:Type="String">ui_explorationcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I is open for you to explore. From the Lobby, you can reach
-            other parts of the space station via the bulkhead doors and lifts. You may return to the
-            Lobby and other areas you’ve discovered as often as you like to complete optional
-            objectives. </Data>
+          <Data ss:Type="String">Talos I is open for you to explore. From the Lobby, you can reach other parts of the space station via the bulkhead doors and lifts. You may return to the Lobby and other areas you’ve discovered as often as you like to complete optional objectives. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви можете вільно досліджувати "Талос-1". Шлюзи та ліфти дозволяють
-            потрапити з холу в інші частини станції. Ви завжди можете повернутися в хол та інші
-            відкриті вами частини станції, щоб виконати додаткові завдання. </Data>
+          <Data ss:Type="String">Ви можете вільно досліджувати "Талос-1". Шлюзи та ліфти дозволяють потрапити з холу в інші частини станції. Ви завжди можете повернутися в хол та інші відкриті вами частини станції, щоб виконати додаткові завдання. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -357,16 +312,10 @@
           <Data ss:Type="String">ui_fabricatortutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabricators use Fabrication Plans to create dozens of useful items
-            aboard Talos I. &lt;br&gt;&lt;br&gt;Each item fabricated consumes some combination of
-            Organic, Mineral, Synthetic, and Exotic materials. Search Talos I to find plans and
-            materials.</Data>
+          <Data ss:Type="String">Fabricators use Fabrication Plans to create dozens of useful items aboard Talos I. &lt;br&gt;&lt;br&gt;Each item fabricated consumes some combination of Organic, Mineral, Synthetic, and Exotic materials. Search Talos I to find plans and materials.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Фабрикатори "Талоса-1" використовують креслення, що дають змогу
-            виготовляти десятки корисних предметів. &lt;br&gt;&lt;br&gt;Для виготовлення будь-якого
-            предмета потрібна певна кількість органіки, мінералів, пластику та екзотичної матерії.
-            Шукайте креслення і матеріали на борту станції.</Data>
+          <Data ss:Type="String">Фабрикатори "Талоса-1" використовують креслення, що дають змогу виготовляти десятки корисних предметів. &lt;br&gt;&lt;br&gt;Для виготовлення будь-якого предмета потрібна певна кількість органіки, мінералів, пластику та екзотичної матерії. Шукайте креслення і матеріали на борту станції.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -380,20 +329,10 @@
           <Data ss:Type="String">ui_favoritestutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Quick Select menu allows you to quickly alternate between
-            weapons and powers. Assign weapons and powers to the Quick Select menu by highlighting
-            the items in your inventory, then press %menu:menu_examine% &lt;/font&gt;to bring up the
-            assign menu. Assign from your favorites wheel by selecting, then using
-            %focusmode:quickselect_left% %focusmode:quickselect_right% or
-            %focusmode:quickselect_down%.</Data>
+          <Data ss:Type="String">The Quick Select menu allows you to quickly alternate between weapons and powers. Assign weapons and powers to the Quick Select menu by highlighting the items in your inventory, then press %menu:menu_examine% &lt;/font&gt;to bring up the assign menu. Assign from your favorites wheel by selecting, then using %focusmode:quickselect_left% %focusmode:quickselect_right% or %focusmode:quickselect_down%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Меню швидкого вибору дає змогу миттєво перемикатися між зброєю та
-            здібностями. Щоб додати зброю, аптечки, медикаменти та здібності в меню швидкого вибору,
-            знайдіть потрібний предмет у спорядженні та натисніть %menu:menu_examine%, щоб відкрити
-            меню призначення. Щоб додати функцію з колеса обраних функцій, виберіть потрібний пункт,
-            потім використовуйте %focusmode:quickselect_left%, %focusmode:quickselect_right% або
-            %focusmode:quickselect_down%.</Data>
+          <Data ss:Type="String">Меню швидкого вибору дає змогу миттєво перемикатися між зброєю та здібностями. Щоб додати зброю, аптечки, медикаменти та здібності в меню швидкого вибору, знайдіть потрібний предмет у спорядженні та натисніть %menu:menu_examine%, щоб відкрити меню призначення. Щоб додати функцію з колеса обраних функцій, виберіть потрібний пункт, потім використовуйте %focusmode:quickselect_left%, %focusmode:quickselect_right% або %focusmode:quickselect_down%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -407,15 +346,10 @@
           <Data ss:Type="String">ui_favoritestutorialcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Quick Select menu allows you to quickly alternate between
-            weapons and powers. Assign weapons and powers from your inventory or favorites wheel by
-            selecting the item or skill, then pressing a number key to assign.</Data>
+          <Data ss:Type="String">The Quick Select menu allows you to quickly alternate between weapons and powers. Assign weapons and powers from your inventory or favorites wheel by selecting the item or skill, then pressing a number key to assign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Меню швидкого вибору дає змогу миттєво перемикатися між зброєю та
-            здібностями. Щоб додати зброю і здібності в меню швидкого вибору, знайдіть потрібний
-            предмет або здатність у спорядженні або на колесі обраних функцій і натисніть цифрову
-            клавішу.</Data>
+          <Data ss:Type="String">Меню швидкого вибору дає змогу миттєво перемикатися між зброєю та здібностями. Щоб додати зброю і здібності в меню швидкого вибору, знайдіть потрібний предмет або здатність у спорядженні або на колесі обраних функцій і натисніть цифрову клавішу.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -429,23 +363,10 @@
           <Data ss:Type="String">ui_focuspowerscard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Some powers are triggered instantly by pressing
-            %focusmode:controller_execute_power% . Some powers are targeted. To stop time and enter
-            psi targeting mode, press and hold %focusmode:controller_execute_power%. Use
-            %focusmode:controller_right_menu_rotate_yaw% to aim. Release
-            %focusmode:controller_execute_power% to execute a psi power on the targeted location or
-            %focusmode:controller_cancel_psitargeting% to cancel. &lt;br&gt;&lt;br&gt;Powers can be
-            equipped from the favorites.</Data>
+          <Data ss:Type="String">Some powers are triggered instantly by pressing %focusmode:controller_execute_power% . Some powers are targeted. To stop time and enter psi targeting mode, press and hold %focusmode:controller_execute_power%. Use %focusmode:controller_right_menu_rotate_yaw% to aim. Release %focusmode:controller_execute_power% to execute a psi power on the targeted location or %focusmode:controller_cancel_psitargeting% to cancel. &lt;br&gt;&lt;br&gt;Powers can be equipped from the favorites.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Деякі здібності можна використовувати моментально, натиснувши
-            %focusmode:controller_execute_power%. Для інших здібностей потрібно вказати ціль. Щоб
-            зупинити час і перейти в режим прицілювання пси-здатністю, затисніть
-            %focusmode:controller_execute_power%. Прицілюйтеся за допомогою
-            %focusmode:controller_right_menu_rotate_yaw%. Відпустіть
-            %focusmode:controller_execute_power%, щоб використати пси-здатність у вказаній точці,
-            або натисніть %focusmode:controller_cancel_psitargeting% для скасування.
-            &lt;br&gt;&lt;br&gt;Для вибору здатності використовуйте колесо обраних функцій.</Data>
+          <Data ss:Type="String">Деякі здібності можна використовувати моментально, натиснувши %focusmode:controller_execute_power%. Для інших здібностей потрібно вказати ціль. Щоб зупинити час і перейти в режим прицілювання пси-здатністю, затисніть %focusmode:controller_execute_power%. Прицілюйтеся за допомогою %focusmode:controller_right_menu_rotate_yaw%. Відпустіть %focusmode:controller_execute_power%, щоб використати пси-здатність у вказаній точці, або натисніть %focusmode:controller_cancel_psitargeting% для скасування. &lt;br&gt;&lt;br&gt;Для вибору здатності використовуйте колесо обраних функцій.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -459,23 +380,10 @@
           <Data ss:Type="String">ui_focuspowerscardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Some powers are triggered instantly by pressing
-            %focusmode:mouse_execute_power_type1%. Some powers are targeted. To stop time and enter
-            psi targeting mode, press and hold %focusmode:mouse_execute_power_type1%. Use
-            %focusmode:mouse_menu_rotate_yaw% to aim. Release %focusmode:mouse_execute_power_type1%
-            to execute power on the targeted location or press
-            %focusmode:mouse_cancel_focusmode_type1% to cancel. &lt;br&gt;&lt;br&gt;Powers can be
-            equipped from the favorites wheel.</Data>
+          <Data ss:Type="String">Some powers are triggered instantly by pressing %focusmode:mouse_execute_power_type1%. Some powers are targeted. To stop time and enter psi targeting mode, press and hold %focusmode:mouse_execute_power_type1%. Use %focusmode:mouse_menu_rotate_yaw% to aim. Release %focusmode:mouse_execute_power_type1% to execute power on the targeted location or press %focusmode:mouse_cancel_focusmode_type1% to cancel. &lt;br&gt;&lt;br&gt;Powers can be equipped from the favorites wheel.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Деякі здібності можна використовувати моментально, натиснувши
-            %focusmode:mouse_execute_power_type1%. Для інших здібностей потрібно вказати ціль. Щоб
-            зупинити час і перейти в режим прицілювання пси-здатністю, затисніть
-            %focusmode:mouse_execute_power_type1%. Прицілюйтеся за допомогою
-            %focusmode:mouse_menu_rotate_yaw%. Відпустіть %focusmode:mouse_execute_power_type1%, щоб
-            використати пси-здатність у вказаній точці, або натисніть
-            %focusmode:mouse_cancel_focusmode_type1% для скасування. &lt;br&gt;&lt;br&gt;Для вибору
-            здатності використовуйте колесо обраних функцій.</Data>
+          <Data ss:Type="String">Деякі здібності можна використовувати моментально, натиснувши %focusmode:mouse_execute_power_type1%. Для інших здібностей потрібно вказати ціль. Щоб зупинити час і перейти в режим прицілювання пси-здатністю, затисніть %focusmode:mouse_execute_power_type1%. Прицілюйтеся за допомогою %focusmode:mouse_menu_rotate_yaw%. Відпустіть %focusmode:mouse_execute_power_type1%, щоб використати пси-здатність у вказаній точці, або натисніть %focusmode:mouse_cancel_focusmode_type1% для скасування. &lt;br&gt;&lt;br&gt;Для вибору здатності використовуйте колесо обраних функцій.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -489,19 +397,10 @@
           <Data ss:Type="String">ui_glooguncard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The TranStar GLOO Cannon (Gelifoam Lattice Organism Obstructor)
-            disables and/or immobilizes targets without harming them. GLOO can extinguish flames and
-            temporarily stop electric arcs. When hardened, GLOO can also be used as a climbable
-            platform.&lt;br&gt;&lt;br&gt;Press %player:attack1% to fire your GLOO Cannon. Press and
-            hold %player:attack1% to fire a continuous stream.</Data>
+          <Data ss:Type="String">The TranStar GLOO Cannon (Gelifoam Lattice Organism Obstructor) disables and/or immobilizes targets without harming them. GLOO can extinguish flames and temporarily stop electric arcs. When hardened, GLOO can also be used as a climbable platform.&lt;br&gt;&lt;br&gt;Press %player:attack1% to fire your GLOO Cannon. Press and hold %player:attack1% to fire a continuous stream.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Гелева іммобілізуюча переносна система (ГІПС-гармата) "Транстар"
-            виводить з ладу або знерухомлює цілі, не завдаючи їм шкоди. За допомогою ГІПС-гармати
-            можна також гасити полум&apos;я і тимчасово усувати пробої електроізоляції. Затверділа
-            піна здатна витримати людську вагу.&lt;br&gt;&lt;br&gt;Щоб вистрілити з ГІПС-гармати,
-            натисніть %player:attack1%. Затисніть %player:attack1%, щоб випустити безперервний потік
-            піни.</Data>
+          <Data ss:Type="String">Гелева іммобілізуюча переносна система (ГІПС-гармата) "Транстар" виводить з ладу або знерухомлює цілі, не завдаючи їм шкоди. За допомогою ГІПС-гармати можна також гасити полум&apos;я і тимчасово усувати пробої електроізоляції. Затверділа піна здатна витримати людську вагу.&lt;br&gt;&lt;br&gt;Щоб вистрілити з ГІПС-гармати, натисніть %player:attack1%. Затисніть %player:attack1%, щоб випустити безперервний потік піни.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -515,18 +414,10 @@
           <Data ss:Type="String">ui_hackingtutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Hacking skill allows you to bypass security systems protecting
-            keypads, workstations, and security stations. At higher skill levels, you can hack into
-            robotic systems such as turrets and Operators. &lt;br&gt;&lt;br&gt;To hack, use
-            %hacking:hack_moveprompt_y% to quickly navigate the bitstream to reach the target. Once
-            inside the target, press the prompted button to complete the hack.</Data>
+          <Data ss:Type="String">The Hacking skill allows you to bypass security systems protecting keypads, workstations, and security stations. At higher skill levels, you can hack into robotic systems such as turrets and Operators. &lt;br&gt;&lt;br&gt;To hack, use %hacking:hack_moveprompt_y% to quickly navigate the bitstream to reach the target. Once inside the target, press the prompted button to complete the hack.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Навичка "Хакер" дозволяє вам зламувати захисні системи кодових
-            замків і терміналів. Підвищивши рівень навички, ви зможете зламувати роботизовані
-            системи, наприклад, турелі та операторів. &lt;br&gt;&lt;br&gt;Для злому швидко
-            переміщайтеся в потоці даних за допомогою %hacking:hack_moveprompt_y%, щоб досягти мети.
-            Опинившись усередині цілі, натисніть потрібну кнопку, щоб завершити злом.</Data>
+          <Data ss:Type="String">Навичка "Хакер" дозволяє вам зламувати захисні системи кодових замків і терміналів. Підвищивши рівень навички, ви зможете зламувати роботизовані системи, наприклад, турелі та операторів. &lt;br&gt;&lt;br&gt;Для злому швидко переміщайтеся в потоці даних за допомогою %hacking:hack_moveprompt_y%, щоб досягти мети. Опинившись усередині цілі, натисніть потрібну кнопку, щоб завершити злом.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -540,20 +431,10 @@
           <Data ss:Type="String">ui_hackingtutorialcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Hacking skill allows you to bypass security systems protecting
-            keypads, workstations, and security stations. At higher skill levels, you can hack into
-            robotic systems such as turrets and Operators. &lt;br&gt;&lt;br&gt;To hack, use
-            %hacking:hack_moveup%, %hacking:hack_movedown%, %hacking:hack_moveright%, and
-            %hacking:hack_moveleft% to quickly navigate the bitstream to reach the target. Once
-            inside the target, press the prompted button to complete the hack.</Data>
+          <Data ss:Type="String">The Hacking skill allows you to bypass security systems protecting keypads, workstations, and security stations. At higher skill levels, you can hack into robotic systems such as turrets and Operators. &lt;br&gt;&lt;br&gt;To hack, use %hacking:hack_moveup%, %hacking:hack_movedown%, %hacking:hack_moveright%, and %hacking:hack_moveleft% to quickly navigate the bitstream to reach the target. Once inside the target, press the prompted button to complete the hack.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Навичка "Хакер" дозволяє вам зламувати захисні системи кодових
-            замків і терміналів. Підвищивши рівень навички, ви зможете зламувати роботизовані
-            системи, наприклад, турелі та операторів. &lt;br&gt;&lt;br&gt;Для злому швидко
-            переміщайтеся в потоці даних за допомогою %hacking:hack_moveup%,
-            %hacking:hack_movedown%, %hacking:hack_moveright% і %hacking:hack_moveleft%, щоб досягти
-            мети. Опинившись усередині цілі, натисніть потрібну кнопку, щоб завершити злом.</Data>
+          <Data ss:Type="String">Навичка "Хакер" дозволяє вам зламувати захисні системи кодових замків і терміналів. Підвищивши рівень навички, ви зможете зламувати роботизовані системи, наприклад, турелі та операторів. &lt;br&gt;&lt;br&gt;Для злому швидко переміщайтеся в потоці даних за допомогою %hacking:hack_moveup%, %hacking:hack_movedown%, %hacking:hack_moveright% і %hacking:hack_moveleft%, щоб досягти мети. Опинившись усередині цілі, натисніть потрібну кнопку, щоб завершити злом.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -567,12 +448,10 @@
           <Data ss:Type="String">ui_hint_saveload</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Prey will regularly auto-save your game. You can also use
-            %default:quicksave% to quicksave whenever you like.</Data>
+          <Data ss:Type="String">Prey will regularly auto-save your game. You can also use %default:quicksave% to quicksave whenever you like.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Prey регулярно зберігає вашу гру автоматично. Ви також можете
-            зберегтися в будь-який момент, натиснувши %default:quicksave%.</Data>
+          <Data ss:Type="String">Prey регулярно зберігає вашу гру автоматично. Ви також можете зберегтися в будь-який момент, натиснувши %default:quicksave%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -586,14 +465,10 @@
           <Data ss:Type="String">ui_laserriflecard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Q-Beam fires a concentrated beam of unstable particles that
-            will eventually cause a target to explode.&lt;br&gt;&lt;br&gt; Use %player:attack1% to
-            fire your rifle and %player:reload% to reload. </Data>
+          <Data ss:Type="String">The Q-Beam fires a concentrated beam of unstable particles that will eventually cause a target to explode.&lt;br&gt;&lt;br&gt; Use %player:attack1% to fire your rifle and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">К-випромінювач вистрілює концентрованим потоком нестабільних
-            частинок, які спричиняють детонацію цілі. &lt;br&gt;&lt;br&gt; Натискайте
-            %player:attack1% для стрільби і %player:reload% для перезаряджання. </Data>
+          <Data ss:Type="String">К-випромінювач вистрілює концентрованим потоком нестабільних частинок, які спричиняють детонацію цілі. &lt;br&gt;&lt;br&gt; Натискайте %player:attack1% для стрільби і %player:reload% для перезаряджання. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -607,18 +482,10 @@
           <Data ss:Type="String">ui_lurecard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A Typhon Lure (a.k.a. Nightlight) emits a psycholuminescent signal
-            that entices Typhon to move toward the lure for a short period of time. Combine with
-            other weapons or tactics to escape, ambush, or observe Typhon from a safe distance.
-            &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using
-            %player:attack1% </Data>
+          <Data ss:Type="String">A Typhon Lure (a.k.a. Nightlight) emits a psycholuminescent signal that entices Typhon to move toward the lure for a short period of time. Combine with other weapons or tactics to escape, ambush, or observe Typhon from a safe distance. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using %player:attack1% </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Приманка для тифонів (вона ж - випромінювач) випромінює
-            психолюмінесцентне світіння, що привертає тифонів на короткий час. Використовуйте її з
-            іншими видами зброї та прийомами, щоб сховатися від тифонів, заманити їх у засідку або
-            поспостерігати за їхньою поведінкою з безпечної відстані. &lt;br&gt;&lt;br&gt;Приманку
-            можна кидати або прикріплювати до нерухомих об&apos;єктів за допомогою %player:attack1%.</Data>
+          <Data ss:Type="String">Приманка для тифонів (вона ж - випромінювач) випромінює психолюмінесцентне світіння, що привертає тифонів на короткий час. Використовуйте її з іншими видами зброї та прийомами, щоб сховатися від тифонів, заманити їх у засідку або поспостерігати за їхньою поведінкою з безпечної відстані. &lt;br&gt;&lt;br&gt;Приманку можна кидати або прикріплювати до нерухомих об&apos;єктів за допомогою %player:attack1%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -632,12 +499,10 @@
           <Data ss:Type="String">ui_movementcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %default:xi_movey% to move around in the world.
-            &lt;br&gt;&lt;br&gt;</Data>
+          <Data ss:Type="String">Use %default:xi_movey% to move around in the world. &lt;br&gt;&lt;br&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Використовуйте %default:xi_movey% для переміщення.
-            &lt;br&gt;&lt;br&gt;</Data>
+          <Data ss:Type="String">Використовуйте %default:xi_movey% для переміщення. &lt;br&gt;&lt;br&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -651,13 +516,10 @@
           <Data ss:Type="String">ui_movementcard2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %player:jump% to jump and %player:sprint% to sprint. Press
-            %player:sneak% to crouch or to slide while sprinting.</Data>
+          <Data ss:Type="String">Use %player:jump% to jump and %player:sprint% to sprint. Press %player:sneak% to crouch or to slide while sprinting.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %player:jump%, щоб підстрибнути; затисніть
-            %player:sprint%, щоб прискоритися. Натисніть %player:sneak%, щоб присісти або перейти в
-            ковзання під час спринту.</Data>
+          <Data ss:Type="String">Натисніть %player:jump%, щоб підстрибнути; затисніть %player:sprint%, щоб прискоритися. Натисніть %player:sneak%, щоб присісти або перейти в ковзання під час спринту.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -671,12 +533,10 @@
           <Data ss:Type="String">ui_movementcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %default:moveforward%, %default:moveleft%, %default:moveback%,
-            and %default:moveright%, to move around in the world. </Data>
+          <Data ss:Type="String">Use %default:moveforward%, %default:moveleft%, %default:moveback%, and %default:moveright%, to move around in the world. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Використовуйте %default:moveforward%, %default:moveleft%,
-            %default:moveback% і %default:moveright% для переміщення. </Data>
+          <Data ss:Type="String">Використовуйте %default:moveforward%, %default:moveleft%, %default:moveback% і %default:moveright% для переміщення. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -690,13 +550,10 @@
           <Data ss:Type="String">ui_movementcardpc2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %player:jump% to jump and %player:sprint% to sprint. Press
-            %player:sneak% to crouch or to slide while sprinting.</Data>
+          <Data ss:Type="String">Use %player:jump% to jump and %player:sprint% to sprint. Press %player:sneak% to crouch or to slide while sprinting.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %player:jump%, щоб підстрибнути; затисніть
-            %player:sprint%, щоб прискоритися. Натисніть %player:sneak%, щоб присісти або перейти в
-            ковзання під час спринту.</Data>
+          <Data ss:Type="String">Натисніть %player:jump%, щоб підстрибнути; затисніть %player:sprint%, щоб прискоритися. Натисніть %player:sneak%, щоб присісти або перейти в ковзання під час спринту.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -710,13 +567,10 @@
           <Data ss:Type="String">ui_nagalienlure</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Typhon Lure will attract nearby aliens to its location. Use
-            %player:attack1% to throw or affix it to stationary objects. </Data>
+          <Data ss:Type="String">The Typhon Lure will attract nearby aliens to its location. Use %player:attack1% to throw or affix it to stationary objects. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Приманка для тифонів привертає до себе інопланетян, які перебувають
-            поруч. Натисніть %player:attack1%, щоб кинути її або прикріпити до стаціонарного
-            об&apos;єкта. </Data>
+          <Data ss:Type="String">Приманка для тифонів привертає до себе інопланетян, які перебувають поруч. Натисніть %player:attack1%, щоб кинути її або прикріпити до стаціонарного об&apos;єкта. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -733,8 +587,7 @@
           <Data ss:Type="String">Climb up or over objects using %player:jump%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Піднімайтеся на об&apos;єкти і перелазьте через них за допомогою
-            %player:jump%.</Data>
+          <Data ss:Type="String">Піднімайтеся на об&apos;єкти і перелазьте через них за допомогою %player:jump%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -748,12 +601,10 @@
           <Data ss:Type="String">ui_nagconsumable</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Pick up consumable items for later use with %player:use% or consume
-            immediately by holding %player:specialUse%</Data>
+          <Data ss:Type="String">Pick up consumable items for later use with %player:use% or consume immediately by holding %player:specialUse%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Збирайте корисні предмети за допомогою %player:use% або
-            використовуйте їх відразу, затиснувши %player:specialUse%.</Data>
+          <Data ss:Type="String">Збирайте корисні предмети за допомогою %player:use% або використовуйте їх відразу, затиснувши %player:specialUse%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -767,12 +618,10 @@
           <Data ss:Type="String">ui_nagcrawl</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">While sneaking you can crawl into even smaller spaces with
-            %player:sneak%. Damage is increased when you attack an unaware enemy.</Data>
+          <Data ss:Type="String">While sneaking you can crawl into even smaller spaces with %player:sneak%. Damage is increased when you attack an unaware enemy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Коли ви крадетесь, ви можете заповзати в дуже тісні простори за
-            допомогою %player:sneak%. Заставши ворога зненацька, ви завдасте йому більше шкоди.</Data>
+          <Data ss:Type="String">Коли ви крадетесь, ви можете заповзати в дуже тісні простори за допомогою %player:sneak%. Заставши ворога зненацька, ви завдасте йому більше шкоди.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -786,12 +635,10 @@
           <Data ss:Type="String">ui_nagempcharge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The EMP Charge is useful against robots and electronics. Use
-            %player:attack1% to throw or affix it to stationary objects. </Data>
+          <Data ss:Type="String">The EMP Charge is useful against robots and electronics. Use %player:attack1% to throw or affix it to stationary objects. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">ЕМ-заряд корисний проти роботів і електроніки. Натисніть
-            %player:attack1%, щоб кинути його або прикріпити до стаціонарного об&apos;єкта. </Data>
+          <Data ss:Type="String">ЕМ-заряд корисний проти роботів і електроніки. Натисніть %player:attack1%, щоб кинути його або прикріпити до стаціонарного об&apos;єкта. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -808,8 +655,7 @@
           <Data ss:Type="String">Press %player:toggle_flashlight% to toggle your flashlight.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %player:toggle_flashlight%, щоб увімкнути або вимкнути
-            ліхтарик.</Data>
+          <Data ss:Type="String">Натисніть %player:toggle_flashlight%, щоб увімкнути або вимкнути ліхтарик.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -840,12 +686,10 @@
           <Data ss:Type="String">ui_naggoogun</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use the GLOO cannon to immobilize enemies for a short period of
-            time. Immobilized enemies take bonus damage.</Data>
+          <Data ss:Type="String">Use the GLOO cannon to immobilize enemies for a short period of time. Immobilized enemies take bonus damage.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Знерухомлюйте ворогів на короткий час за допомогою ГІПС-гармати.
-            Знерухомлені вороги отримують більше шкоди.</Data>
+          <Data ss:Type="String">Знерухомлюйте ворогів на короткий час за допомогою ГІПС-гармати. Знерухомлені вороги отримують більше шкоди.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -876,12 +720,10 @@
           <Data ss:Type="String">ui_nagkeys</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Keycodes and keycards can be found throughout Talos I to open doors
-            and safes. Not all codes and cards are in the same area.</Data>
+          <Data ss:Type="String">Keycodes and keycards can be found throughout Talos I to open doors and safes. Not all codes and cards are in the same area.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Шукайте на "Талосі-1" коди та перепустки, що відчиняють різні двері
-            та сейфи. Не всі коди та перепустки знаходяться в тій самій ділянці, що й двері.</Data>
+          <Data ss:Type="String">Шукайте на "Талосі-1" коди та перепустки, що відчиняють різні двері та сейфи. Не всі коди та перепустки знаходяться в тій самій ділянці, що й двері.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -895,12 +737,10 @@
           <Data ss:Type="String">ui_naglaserrifle</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %player:attack1% to fire your Q-Beam and %player:reload% to
-            reload. </Data>
+          <Data ss:Type="String">Use %player:attack1% to fire your Q-Beam and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Стріляйте з К-випромінювача за допомогою %player:attack1%;
-            перезаряджайте його за допомогою %player:reload%. </Data>
+          <Data ss:Type="String">Стріляйте з К-випромінювача за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -914,12 +754,10 @@
           <Data ss:Type="String">ui_naglean</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Check for threats before rounding a corner with lean. Lean left
-            with %player:leanleft% and lean right with %player:leanright%</Data>
+          <Data ss:Type="String">Check for threats before rounding a corner with lean. Lean left with %player:leanleft% and lean right with %player:leanright%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Перевірте, чи немає поруч ворогів, висунувшись з-за рогу. Нахил
-            вліво - %player:leanleft%, вправо - %player:leanright%.</Data>
+          <Data ss:Type="String">Перевірте, чи немає поруч ворогів, висунувшись з-за рогу. Нахил вліво - %player:leanleft%, вправо - %player:leanright%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -933,12 +771,10 @@
           <Data ss:Type="String">ui_nagnullwave</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Nullwave Transmitter blocks psi powers. Use %player:attack1% to
-            throw or affix it to stationary objects. </Data>
+          <Data ss:Type="String">The Nullwave Transmitter blocks psi powers. Use %player:attack1% to throw or affix it to stationary objects. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Нуль-хвильовий глушник блокує пси-здатності. Натисніть
-            %player:attack1%, щоб кинути його або прикріпити до стаціонарного об&apos;єкта. </Data>
+          <Data ss:Type="String">Нуль-хвильовий глушник блокує пси-здатності. Натисніть %player:attack1%, щоб кинути його або прикріпити до стаціонарного об&apos;єкта. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -952,12 +788,10 @@
           <Data ss:Type="String">ui_nagpickandcarry</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Carry objects with %player:use%, drop a carried object with
-            %player:use% or throw it with %player:attack1%</Data>
+          <Data ss:Type="String">Carry objects with %player:use%, drop a carried object with %player:use% or throw it with %player:attack1%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Переносьте предмети за допомогою %player:use%. Ви можете викинути
-            предмет, натиснувши %player:use%, або жбурнути його за допомогою %player:attack1%.</Data>
+          <Data ss:Type="String">Переносьте предмети за допомогою %player:use%. Ви можете викинути предмет, натиснувши %player:use%, або жбурнути його за допомогою %player:attack1%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -988,12 +822,10 @@
           <Data ss:Type="String">ui_nagpistol</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %player:attack1% to fire your pistol and %player:reload% to
-            reload. </Data>
+          <Data ss:Type="String">Use %player:attack1% to fire your pistol and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Стріляйте з пістолета за допомогою %player:attack1%; перезаряджайте
-            його за допомогою %player:reload%. </Data>
+          <Data ss:Type="String">Стріляйте з пістолета за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1010,8 +842,7 @@
           <Data ss:Type="String">Hold %player:jump% while falling to glide or slow your descent.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Затисніть %player:jump% під час падіння, щоб перейти в планування
-            або уповільнити падіння.</Data>
+          <Data ss:Type="String">Затисніть %player:jump% під час падіння, щоб перейти в планування або уповільнити падіння.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1042,13 +873,10 @@
           <Data ss:Type="String">ui_nagrecyclecharge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Recycler Charge recycles junk, aliens, and humans in its
-            proximity. Use %player:attack1% to throw or affix it to stationary objects. </Data>
+          <Data ss:Type="String">The Recycler Charge recycles junk, aliens, and humans in its proximity. Use %player:attack1% to throw or affix it to stationary objects. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Утилізаційна граната переробляє сміття, інопланетян і людей, що
-            знаходяться поруч. Натисніть %player:attack1%, щоб кинути її або прикріпити до
-            стаціонарного об&apos;єкта. </Data>
+          <Data ss:Type="String">Утилізаційна граната переробляє сміття, інопланетян і людей, що знаходяться поруч. Натисніть %player:attack1%, щоб кинути її або прикріпити до стаціонарного об&apos;єкта. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1079,12 +907,10 @@
           <Data ss:Type="String">ui_nagshotgun</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use %player:attack1% to fire your shotgun and %player:reload% to
-            reload. </Data>
+          <Data ss:Type="String">Use %player:attack1% to fire your shotgun and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Стріляйте з дробовика за допомогою %player:attack1%; перезаряджайте
-            його за допомогою %player:reload%. </Data>
+          <Data ss:Type="String">Стріляйте з дробовика за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1149,14 +975,10 @@
           <Data ss:Type="String">ui_nagstungun</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Disruptor Stun Gun is useful for incapacitating enemies without
-            killing them. Hold %player:attack1% to charge your stun gun and release to fire. Use
-            %player:reload% to reload.</Data>
+          <Data ss:Type="String">The Disruptor Stun Gun is useful for incapacitating enemies without killing them. Hold %player:attack1% to charge your stun gun and release to fire. Use %player:reload% to reload.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Шокер "Приголомшувач" дає змогу знешкоджувати супротивників, не
-            вбиваючи їх. Затисніть %player:attack1%, щоб зарядити шокер, і відпустіть кнопку, щоб
-            вистрілити. Натисніть %player:reload% для перезаряджання.</Data>
+          <Data ss:Type="String">Шокер "Приголомшувач" дає змогу знешкоджувати супротивників, не вбиваючи їх. Затисніть %player:attack1%, щоб зарядити шокер, і відпустіть кнопку, щоб вистрілити. Натисніть %player:reload% для перезаряджання.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1170,13 +992,10 @@
           <Data ss:Type="String">ui_nagtoygun</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This Huntress Boltcaster is harmless, but still has its uses. Use
-            %player:attack1% to fire it and %player:reload% to reload. </Data>
+          <Data ss:Type="String">This Huntress Boltcaster is harmless, but still has its uses. Use %player:attack1% to fire it and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Дротикомет "Мисливиця" не завдає шкоди, але все одно корисний.
-            Стріляйте з нього за допомогою %player:attack1%; перезаряджайте за допомогою
-            %player:reload%. </Data>
+          <Data ss:Type="String">Дротикомет "Мисливиця" не завдає шкоди, але все одно корисний. Стріляйте з нього за допомогою %player:attack1%; перезаряджайте за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1193,8 +1012,7 @@
           <Data ss:Type="String">Your health is low. Consume a Medkit to restore health.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви серйозно поранені. Використовуйте аптечку, щоб відновити
-            здоров&apos;я.</Data>
+          <Data ss:Type="String">Ви серйозно поранені. Використовуйте аптечку, щоб відновити здоров&apos;я.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1211,8 +1029,7 @@
           <Data ss:Type="String">Your psi is low. Consume a psi hypo to restore psi points.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">У вас мало пси-енергії. Використовуйте пси-ін&apos;єктор, щоб
-            відновити її.</Data>
+          <Data ss:Type="String">У вас мало пси-енергії. Використовуйте пси-ін&apos;єктор, щоб відновити її.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1226,12 +1043,10 @@
           <Data ss:Type="String">ui_nagweapons</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Add weapons to your inventory with %player:use% or equip
-            immediately by holding %player:specialUse%</Data>
+          <Data ss:Type="String">Add weapons to your inventory with %player:use% or equip immediately by holding %player:specialUse%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Додавайте зброю у ваше спорядження за допомогою %player:use% або
-            затисніть %player:specialUse%, щоб одразу взяти її в руки.</Data>
+          <Data ss:Type="String">Додавайте зброю у ваше спорядження за допомогою %player:use% або затисніть %player:specialUse%, щоб одразу взяти її в руки.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1262,16 +1077,10 @@
           <Data ss:Type="String">ui_narfguncard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Huntress Boltcaster launches foam darts which do zero damage.
-            Also known for its ability to annoy coworkers, distract enemies, and remotely trigger
-            buttons and screens. Use %player:attack1% to fire your toy gun and %player:reload% to
-            reload. </Data>
+          <Data ss:Type="String">The Huntress Boltcaster launches foam darts which do zero damage. Also known for its ability to annoy coworkers, distract enemies, and remotely trigger buttons and screens. Use %player:attack1% to fire your toy gun and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Дротикомет "Мисливиця" стріляє дротиками з флексипіни, які не
-            завдають шкоди. Дозволяє злити товаришів по службі, відволікати ворогів, здалеку
-            натискати кнопки і взаємодіяти з екранами. Стріляйте з цієї іграшкової зброї за
-            допомогою %player:attack1%; перезаряджайте її за допомогою %player:reload%. </Data>
+          <Data ss:Type="String">Дротикомет "Мисливиця" стріляє дротиками з флексипіни, які не завдають шкоди. Дозволяє злити товаришів по службі, відволікати ворогів, здалеку натискати кнопки і взаємодіяти з екранами. Стріляйте з цієї іграшкової зброї за допомогою %player:attack1%; перезаряджайте її за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1285,14 +1094,10 @@
           <Data ss:Type="String">ui_neuromodtutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Neuromod is a revolutionary TranStar invention that allows you
-            to learn new skills and abilities. Press %player:togglepda% to open your TranScribe and
-            navigate to the Neuromods section.</Data>
+          <Data ss:Type="String">The Neuromod is a revolutionary TranStar invention that allows you to learn new skills and abilities. Press %player:togglepda% to open your TranScribe and navigate to the Neuromods section.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Нейромоди - революційний винахід компанії "Транстар", що дає змогу
-            вам освоювати нові навички та здібності. Відкрийте ваш транскриптор, натиснувши
-            %player:togglepda%, і перейдіть у розділ "Нейромоди".</Data>
+          <Data ss:Type="String">Нейромоди - революційний винахід компанії "Транстар", що дає змогу вам освоювати нові навички та здібності. Відкрийте ваш транскриптор, натиснувши %player:togglepda%, і перейдіть у розділ "Нейромоди".</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1306,14 +1111,10 @@
           <Data ss:Type="String">ui_neuromodtutorialcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Neuromod is a revolutionary TranStar invention that allows you
-            to learn new skills and abilities. Press %player:toggleabilities% to open your
-            TranScribe and navigate to the Neuromods section.</Data>
+          <Data ss:Type="String">The Neuromod is a revolutionary TranStar invention that allows you to learn new skills and abilities. Press %player:toggleabilities% to open your TranScribe and navigate to the Neuromods section.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Нейромоди - революційний винахід компанії "Транстар", що дає змогу
-            вам освоювати нові навички та здібності. Відкрийте ваш транскриптор, натиснувши
-            %player:toggleabilities%, і перейдіть у розділ "Нейромоди".</Data>
+          <Data ss:Type="String">Нейромоди - революційний винахід компанії "Транстар", що дає змогу вам освоювати нові навички та здібності. Відкрийте ваш транскриптор, натиснувши %player:toggleabilities%, і перейдіть у розділ "Нейромоди".</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1327,16 +1128,10 @@
           <Data ss:Type="String">ui_nullwavecard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Developed in Psychotronics, the Nullwave Transmitter emits a burst
-            of signals which suppress the psionic abilities of anyone caught in the blast for a
-            short period of time. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary
-            objects using %player:attack1%.</Data>
+          <Data ss:Type="String">Developed in Psychotronics, the Nullwave Transmitter emits a burst of signals which suppress the psionic abilities of anyone caught in the blast for a short period of time. &lt;br&gt;&lt;br&gt;It can be thrown, or affixed to stationary objects using %player:attack1%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Нуль-хвильовий глушник, створений у лабораторії психотроніки,
-            випускає серію імпульсів, які ненадовго пригнічують пси-здатності будь-якої істоти в
-            зоні дії. &lt;br&gt;&lt;br&gt; Натисніть %player:attack1%, щоб кинути глушник або
-            прикріпити його до стаціонарного об&apos;єкта.</Data>
+          <Data ss:Type="String">Нуль-хвильовий глушник, створений у лабораторії психотроніки, випускає серію імпульсів, які ненадовго пригнічують пси-здатності будь-якої істоти в зоні дії. &lt;br&gt;&lt;br&gt; Натисніть %player:attack1%, щоб кинути глушник або прикріпити його до стаціонарного об&apos;єкта.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1350,16 +1145,10 @@
           <Data ss:Type="String">ui_pistolcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The TranStar PPN-8 Pistol is the standard issue weapon for all
-            TranStar security personnel. Small, fast, and quiet, this pistol provides satisfactory
-            damage while maintaining a degree of stealth.&lt;br&gt;&lt;br&gt; Use %player:attack1%
-            to fire your pistol and %player:reload% to reload. </Data>
+          <Data ss:Type="String">The TranStar PPN-8 Pistol is the standard issue weapon for all TranStar security personnel. Small, fast, and quiet, this pistol provides satisfactory damage while maintaining a degree of stealth.&lt;br&gt;&lt;br&gt; Use %player:attack1% to fire your pistol and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Пістолет ППН-8 - стандартна зброя всіх співробітників служби
-            безпеки "Транстар". Компактний, скорострільний і тихий, цей пістолет завдає істотної
-            шкоди, даючи змогу діяти більш-менш приховано.&lt;br&gt;&lt;br&gt; Стріляйте з пістолета
-            за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
+          <Data ss:Type="String">Пістолет ППН-8 - стандартна зброя всіх співробітників служби безпеки "Транстар". Компактний, скорострільний і тихий, цей пістолет завдає істотної шкоди, даючи змогу діяти більш-менш приховано.&lt;br&gt;&lt;br&gt; Стріляйте з пістолета за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1373,17 +1162,10 @@
           <Data ss:Type="String">ui_playyourwaytutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Experiment with different approaches to overcome
-            challenges and enemies. You can get past the locked door by:
-            &lt;br&gt;&lt;br&gt;&lt;b&gt;»&lt;/b&gt;Searching for the
-            keycard&lt;br&gt;&lt;b&gt;»&lt;/b&gt;Finding an alternate path. &lt;br&gt;&lt;br&gt;As
-            you learn new abilities, more options will become available to you.</Data>
+          <Data ss:Type="String">&lt;br&gt;Experiment with different approaches to overcome challenges and enemies. You can get past the locked door by: &lt;br&gt;&lt;br&gt;&lt;b&gt;»&lt;/b&gt;Searching for the keycard&lt;br&gt;&lt;b&gt;»&lt;/b&gt;Finding an alternate path. &lt;br&gt;&lt;br&gt;As you learn new abilities, more options will become available to you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Експериментуйте, намагаючись по-різному впоратися з
-            труднощами і ворогами. Якщо вам зустрілися замкнені двері, ви можете пошукати перепустку
-            від них або вигадати що-небудь ще. &lt;br&gt;&lt;br&gt;Отримуючи нові навички, ви
-            розширите список доступних можливостей.</Data>
+          <Data ss:Type="String">&lt;br&gt;Експериментуйте, намагаючись по-різному впоратися з труднощами і ворогами. Якщо вам зустрілися замкнені двері, ви можете пошукати перепустку від них або вигадати що-небудь ще. &lt;br&gt;&lt;br&gt;Отримуючи нові навички, ви розширите список доступних можливостей.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1448,12 +1230,10 @@
           <Data ss:Type="String">ui_promptairlock</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I has multiple airlocks which lead to the exterior of the
-            space station.</Data>
+          <Data ss:Type="String">Talos I has multiple airlocks which lead to the exterior of the space station.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">На "Талосі-1" є безліч шлюзів, що дозволяють вийти у відкритий
-            космос.</Data>
+          <Data ss:Type="String">На "Талосі-1" є безліч шлюзів, що дозволяють вийти у відкритий космос.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1467,12 +1247,10 @@
           <Data ss:Type="String">ui_promptchipsets</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your TranStar uniform and Psychoscope can be upgraded with chipsets
-            that provide benefits, boosts, and protections.</Data>
+          <Data ss:Type="String">Your TranStar uniform and Psychoscope can be upgraded with chipsets that provide benefits, boosts, and protections.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви можете покращувати вашу форму "Транстар" і психоскоп чіпами, які
-            посилюють ваші здібності та захист.</Data>
+          <Data ss:Type="String">Ви можете покращувати вашу форму "Транстар" і психоскоп чіпами, які посилюють ваші здібності та захист.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1503,12 +1281,10 @@
           <Data ss:Type="String">ui_promptcombat2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Press %player:sneak% to sneak if you wish to avoid direct
-            confrontation.</Data>
+          <Data ss:Type="String">Press %player:sneak% to sneak if you wish to avoid direct confrontation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %player:sneak%, щоб непомітно прокрастися повз ворога й
-            уникнути зіткнення.</Data>
+          <Data ss:Type="String">Натисніть %player:sneak%, щоб непомітно прокрастися повз ворога й уникнути зіткнення.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1539,12 +1315,10 @@
           <Data ss:Type="String">ui_promptfabcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabricators can be used to create weapons, ammo, and other useful
-            items.</Data>
+          <Data ss:Type="String">Fabricators can be used to create weapons, ammo, and other useful items.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Фабрикатори дають змогу створювати зброю, боєприпаси та інші
-            корисні предмети.</Data>
+          <Data ss:Type="String">Фабрикатори дають змогу створювати зброю, боєприпаси та інші корисні предмети.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1558,12 +1332,10 @@
           <Data ss:Type="String">ui_promptfabricationplan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve acquired a Fabrication Plan.&lt;br&gt;Press
-            %contextaction% to view.</Data>
+          <Data ss:Type="String">You&apos;ve acquired a Fabrication Plan.&lt;br&gt;Press %contextaction% to view.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви отримали креслення.&lt;br&gt;Натисніть %contextaction%, щоб
-            ознайомитися з ним.</Data>
+          <Data ss:Type="String">Ви отримали креслення.&lt;br&gt;Натисніть %contextaction%, щоб ознайомитися з ним.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1577,12 +1349,10 @@
           <Data ss:Type="String">ui_promptfavoritescard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Quick Select menu allows you to assign weapons and powers for
-            easy access.</Data>
+          <Data ss:Type="String">The Quick Select menu allows you to assign weapons and powers for easy access.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Меню швидкого вибору дає змогу вибрати зброю і здібності для
-            зручного доступу до них.</Data>
+          <Data ss:Type="String">Меню швидкого вибору дає змогу вибрати зброю і здібності для зручного доступу до них.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1599,8 +1369,7 @@
           <Data ss:Type="String">Psi powers can be quickly accessed using psi targeting mode.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Для швидкого доступу до пси-здібностей використовуйте режим
-            прицілювання пси-здатністю.</Data>
+          <Data ss:Type="String">Для швидкого доступу до пси-здібностей використовуйте режим прицілювання пси-здатністю.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1614,12 +1383,10 @@
           <Data ss:Type="String">ui_promptfullaccesscard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Press %contextaction% to view information on having full access to
-            the station.</Data>
+          <Data ss:Type="String">Press %contextaction% to view information on having full access to the station.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про повний доступ
-            до станції.</Data>
+          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про повний доступ до станції.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1653,8 +1420,7 @@
           <Data ss:Type="String">Press %contextaction% to view research on the entity you scanned.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %contextaction%, щоб переглянути дані про проскановану
-            вами істоту.</Data>
+          <Data ss:Type="String">Натисніть %contextaction%, щоб переглянути дані про проскановану вами істоту.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1668,12 +1434,10 @@
           <Data ss:Type="String">ui_promptneuromod</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve acquired a Neuromod.&lt;br&gt;Press %contextaction% to
-            install new abilities.</Data>
+          <Data ss:Type="String">You&apos;ve acquired a Neuromod.&lt;br&gt;Press %contextaction% to install new abilities.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Вы получили нейромод.&lt;br&gt;Нажмите %contextaction%, чтобы
-            установить новые способности.</Data>
+          <Data ss:Type="String">Вы получили нейромод.&lt;br&gt;Нажмите %contextaction%, чтобы установить новые способности.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1690,8 +1454,7 @@
           <Data ss:Type="String">Press %contextaction% to view information on using a Neuromod.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про використання
-            нейромода.</Data>
+          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про використання нейромода.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1705,12 +1468,10 @@
           <Data ss:Type="String">ui_promptobjectivesdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve been given an objective.&lt;br&gt;Press %contextaction%
-            to open your TranScribe.</Data>
+          <Data ss:Type="String">You&apos;ve been given an objective.&lt;br&gt;Press %contextaction% to open your TranScribe.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви отримали завдання.&lt;br&gt;Натисніть %contextaction%, щоб
-            відкрити транскриптор.</Data>
+          <Data ss:Type="String">Ви отримали завдання.&lt;br&gt;Натисніть %contextaction%, щоб відкрити транскриптор.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1724,12 +1485,10 @@
           <Data ss:Type="String">ui_promptopeninventory</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve acquired an item.&lt;br&gt;Press %contextaction% to
-            view your Inventory. </Data>
+          <Data ss:Type="String">You&apos;ve acquired an item.&lt;br&gt;Press %contextaction% to view your Inventory. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви отримали предмет.&lt;br&gt;Натисніть %contextaction%, щоб
-            відкрити ваше спорядження. </Data>
+          <Data ss:Type="String">Ви отримали предмет.&lt;br&gt;Натисніть %contextaction%, щоб відкрити ваше спорядження. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1760,12 +1519,10 @@
           <Data ss:Type="String">ui_promptpsimodecard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Favorites Wheel allows you to quickly switch between weapons
-            and other items. </Data>
+          <Data ss:Type="String">The Favorites Wheel allows you to quickly switch between weapons and other items. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Колесо обраних функцій дає змогу швидко перемикатися між зброєю та
-            іншими предметами. </Data>
+          <Data ss:Type="String">Колесо обраних функцій дає змогу швидко перемикатися між зброєю та іншими предметами. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1782,8 +1539,7 @@
           <Data ss:Type="String">The Psychoscope allows you to scan Typhon to learn new abilities. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Психоскоп дає змогу сканувати тифонів і таким чином отримувати нові
-            здібності.</Data>
+          <Data ss:Type="String">Психоскоп дає змогу сканувати тифонів і таким чином отримувати нові здібності.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1797,12 +1553,10 @@
           <Data ss:Type="String">ui_promptrecyclecard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Recyclers can be used to recycle unwanted items into useful
-            materials.</Data>
+          <Data ss:Type="String">Recyclers can be used to recycle unwanted items into useful materials.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Утилізатори дають змогу переробляти непотрібні речі на корисні
-            матеріали.</Data>
+          <Data ss:Type="String">Утилізатори дають змогу переробляти непотрібні речі на корисні матеріали.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1816,12 +1570,10 @@
           <Data ss:Type="String">ui_promptrepaircard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Many objects on Talos I can be repaired if you have the Repair
-            skill and enough spare parts.</Data>
+          <Data ss:Type="String">Many objects on Talos I can be repaired if you have the Repair skill and enough spare parts.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Більшість об&apos;єктів на борту "Талоса-1" можна полагодити, якщо
-            у вас є навичка ремонту і достатня кількість запчастин.</Data>
+          <Data ss:Type="String">Більшість об&apos;єктів на борту "Талоса-1" можна полагодити, якщо у вас є навичка ремонту і достатня кількість запчастин.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1835,12 +1587,10 @@
           <Data ss:Type="String">ui_promptresearchcompletedesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon ability researched: %1%&lt;br&gt;Press %contextaction% to
-            view available abilities.</Data>
+          <Data ss:Type="String">Typhon ability researched: %1%&lt;br&gt;Press %contextaction% to view available abilities.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Вивчено здатність тифона: %1%&lt;br&gt;Натисніть %contextaction%,
-            щоб побачити доступні здібності.</Data>
+          <Data ss:Type="String">Вивчено здатність тифона: %1%&lt;br&gt;Натисніть %contextaction%, щоб побачити доступні здібності.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1874,8 +1624,7 @@
           <Data ss:Type="String">Security Stations track all the employees on board Talos I.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Термінали служби безпеки відстежують місцезнаходження всього
-            персоналу "Талоса-1".</Data>
+          <Data ss:Type="String">Термінали служби безпеки відстежують місцезнаходження всього персоналу "Талоса-1".</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1906,12 +1655,10 @@
           <Data ss:Type="String">ui_promptweaponkit</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve acquired a Weapon Upgrade Kit. Press %contextaction% to
-            go to your inventory to use. </Data>
+          <Data ss:Type="String">You&apos;ve acquired a Weapon Upgrade Kit. Press %contextaction% to go to your inventory to use. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви отримали набір для поліпшення зброї. Щоб використовувати його,
-            відкрийте ваше спорядження, натиснувши %contextaction%.</Data>
+          <Data ss:Type="String">Ви отримали набір для поліпшення зброї. Щоб використовувати його, відкрийте ваше спорядження, натиснувши %contextaction%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1925,12 +1672,10 @@
           <Data ss:Type="String">ui_promptweaponkitcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve found a Weapon Upgrade Kit. These can be used to
-            upgrade weapons. </Data>
+          <Data ss:Type="String">You&apos;ve found a Weapon Upgrade Kit. These can be used to upgrade weapons. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви знайшли набір для поліпшення зброї. З його допомогою можна
-            поліпшити зброю. </Data>
+          <Data ss:Type="String">Ви знайшли набір для поліпшення зброї. З його допомогою можна поліпшити зброю. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1944,12 +1689,10 @@
           <Data ss:Type="String">ui_promptworkstationcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar employee workstations often contain useful information,
-            files, and utilities.</Data>
+          <Data ss:Type="String">TranStar employee workstations often contain useful information, files, and utilities.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Термінали співробітників "Транстар" часто містять корисну
-            інформацію, файли та програми.</Data>
+          <Data ss:Type="String">Термінали співробітників "Транстар" часто містять корисну інформацію, файли та програми.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1966,8 +1709,7 @@
           <Data ss:Type="String">Press %contextaction% to view information about zero-g.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про нульову
-            гравітацію.</Data>
+          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про нульову гравітацію.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1981,19 +1723,10 @@
           <Data ss:Type="String">ui_psimodetutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The favorites wheel allows you to quickly select and equip weapons
-            and, eventually, psi powers. Hold %player:enter_focusmode% to open the favorites wheel
-            and use %focusmode:controller_left_menu_rotate_yaw% to select a weapon. Release
-            %focusmode:controller_select_item% to equip a weapon.&lt;br&gt;&lt;br&gt;You can also
-            consume medkits and psi hypos from the favorites wheel.</Data>
+          <Data ss:Type="String">The favorites wheel allows you to quickly select and equip weapons and, eventually, psi powers. Hold %player:enter_focusmode% to open the favorites wheel and use %focusmode:controller_left_menu_rotate_yaw% to select a weapon. Release %focusmode:controller_select_item% to equip a weapon.&lt;br&gt;&lt;br&gt;You can also consume medkits and psi hypos from the favorites wheel.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Колесо обраних функцій дає змогу швидко обирати зброю, а згодом - і
-            пси-здібності. Затисніть %player:enter_focusmode%, щоб відкрити колесо обраних функцій,
-            і виберіть зброю за допомогою %focusmode:controller_left_menu_rotate_yaw%. Відпустіть
-            %focusmode:controller_select_item%, щоб узяти зброю в руки. &lt;br&gt;&lt;br&gt;За
-            допомогою колеса обраних функцій ви також можете використовувати аптечки та
-            пси-ін&apos;єктори.</Data>
+          <Data ss:Type="String">Колесо обраних функцій дає змогу швидко обирати зброю, а згодом - і пси-здібності. Затисніть %player:enter_focusmode%, щоб відкрити колесо обраних функцій, і виберіть зброю за допомогою %focusmode:controller_left_menu_rotate_yaw%. Відпустіть %focusmode:controller_select_item%, щоб узяти зброю в руки. &lt;br&gt;&lt;br&gt;За допомогою колеса обраних функцій ви також можете використовувати аптечки та пси-ін&apos;єктори.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2007,18 +1740,10 @@
           <Data ss:Type="String">ui_psimodetutorialcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The favorites wheel allows you to quickly select and use weapons
-            and, eventually, psi powers. Press %player:mouse_enter_focusmode% to open the favorites
-            wheel and select a weapon or item using %player:mouse_enter_focusmode%. Press
-            %focusmode:mouse_select_item% to equip a weapon.&lt;br&gt;&lt;br&gt;You can also consume
-            medkits and psi hypos from the favorites wheel.</Data>
+          <Data ss:Type="String">The favorites wheel allows you to quickly select and use weapons and, eventually, psi powers. Press %player:mouse_enter_focusmode% to open the favorites wheel and select a weapon or item using %player:mouse_enter_focusmode%. Press %focusmode:mouse_select_item% to equip a weapon.&lt;br&gt;&lt;br&gt;You can also consume medkits and psi hypos from the favorites wheel.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Колесо обраних функцій дає змогу швидко обирати зброю, а згодом - і
-            пси-здібності. Натисніть %player:mouse_enter_focusmode%, щоб відкрити колесо обраних
-            функцій, і виберіть зброю, використовуючи %player:mouse_enter_focusmode%. Натисніть
-            %focusmode:mouse_select_item%, щоб узяти зброю в руки. &lt;br&gt;&lt;br&gt;За допомогою
-            колеса обраних функцій ви також можете використовувати аптечки та пси-ін&apos;єктори.</Data>
+          <Data ss:Type="String">Колесо обраних функцій дає змогу швидко обирати зброю, а згодом - і пси-здібності. Натисніть %player:mouse_enter_focusmode%, щоб відкрити колесо обраних функцій, і виберіть зброю, використовуючи %player:mouse_enter_focusmode%. Натисніть %focusmode:mouse_select_item%, щоб узяти зброю в руки. &lt;br&gt;&lt;br&gt;За допомогою колеса обраних функцій ви також можете використовувати аптечки та пси-ін&apos;єктори.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2032,14 +1757,10 @@
           <Data ss:Type="String">ui_psychoscopetutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Toggle your Psychoscope with %player:toggle_scope% to
-            mark and scan nearby enemies. Scanning Typhon reveals new abilities you can acquire by
-            installing Neuromods. </Data>
+          <Data ss:Type="String">&lt;br&gt;Toggle your Psychoscope with %player:toggle_scope% to mark and scan nearby enemies. Scanning Typhon reveals new abilities you can acquire by installing Neuromods. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Увімкніть психоскоп, натиснувши %player:toggle_scope%,
-            щоб відзначити і просканувати ворогів, які знаходяться поруч. Скануючи тифонів, ви
-            відкриваєте нові здібності, які можна отримати, встановивши нейромоди.</Data>
+          <Data ss:Type="String">&lt;br&gt;Увімкніть психоскоп, натиснувши %player:toggle_scope%, щоб відзначити і просканувати ворогів, які знаходяться поруч. Скануючи тифонів, ви відкриваєте нові здібності, які можна отримати, встановивши нейромоди.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2053,19 +1774,10 @@
           <Data ss:Type="String">ui_recyclechargecard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When detonated, the Recycler Charge breaks down the molecular
-            structure of nearby objects into recyclable material. &lt;br&gt;&lt;br&gt;Your uniform
-            offers some degree of protection, but is not failsafe. Standing too close can prove
-            hazardous. &lt;br&gt;&lt;br&gt;Recycler Charges can be thrown, or affixed to stationary
-            objects using %player:attack1%.</Data>
+          <Data ss:Type="String">When detonated, the Recycler Charge breaks down the molecular structure of nearby objects into recyclable material. &lt;br&gt;&lt;br&gt;Your uniform offers some degree of protection, but is not failsafe. Standing too close can prove hazardous. &lt;br&gt;&lt;br&gt;Recycler Charges can be thrown, or affixed to stationary objects using %player:attack1%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Під час детонації утилізуюча граната руйнує молекулярну структуру
-            об&apos;єктів, що знаходяться поруч, перетворюючи їх на вторсировину.
-            &lt;br&gt;&lt;br&gt;Ваша форма частково захищає вас від її впливу, але не гарантує
-            повної безпеки. Стоячи поруч із гранатою, ви піддаєте своє життя загрозі.
-            &lt;br&gt;&lt;br&gt;Утилізуючу гранату можна кинути або прикріпити до нерухомого
-            об&apos;єкта, натиснувши %player:attack1%.</Data>
+          <Data ss:Type="String">Під час детонації утилізуюча граната руйнує молекулярну структуру об&apos;єктів, що знаходяться поруч, перетворюючи їх на вторсировину. &lt;br&gt;&lt;br&gt;Ваша форма частково захищає вас від її впливу, але не гарантує повної безпеки. Стоячи поруч із гранатою, ви піддаєте своє життя загрозі. &lt;br&gt;&lt;br&gt;Утилізуючу гранату можна кинути або прикріпити до нерухомого об&apos;єкта, натиснувши %player:attack1%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2079,12 +1791,10 @@
           <Data ss:Type="String">ui_recyclertutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Recyclers convert unwanted items into Synthetic, Mineral,
-            Organic, and Exotic material which can be used by Fabricators to construct new items. </Data>
+          <Data ss:Type="String">&lt;br&gt;Recyclers convert unwanted items into Synthetic, Mineral, Organic, and Exotic material which can be used by Fabricators to construct new items. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Утилізатори перетворюють непотрібні речі на мінерали,
-            органіку, пластик і екзотичну матерію, з яких фабрикатори створюють нові речі. </Data>
+          <Data ss:Type="String">&lt;br&gt;Утилізатори перетворюють непотрібні речі на мінерали, органіку, пластик і екзотичну матерію, з яких фабрикатори створюють нові речі. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2098,14 +1808,10 @@
           <Data ss:Type="String">ui_repairtutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Many objects on Talos I can be repaired if you have the Repair
-            skill and enough spare parts. &lt;br&gt;&lt;br&gt;To repair an object, hold down the
-            %player:specialUse% button until the repair is completed. </Data>
+          <Data ss:Type="String">Many objects on Talos I can be repaired if you have the Repair skill and enough spare parts. &lt;br&gt;&lt;br&gt;To repair an object, hold down the %player:specialUse% button until the repair is completed. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Більшість об&apos;єктів на борту "Талоса-1" можна полагодити, якщо
-            ви маєте навичку ремонту та запчастини. &lt;br&gt;&lt;br&gt;Щоб полагодити об&apos;єкт,
-            натисніть кнопку %player:specialUse% і утримуйте її, поки ремонт не буде завершено. </Data>
+          <Data ss:Type="String">Більшість об&apos;єктів на борту "Талоса-1" можна полагодити, якщо ви маєте навичку ремонту та запчастини. &lt;br&gt;&lt;br&gt;Щоб полагодити об&apos;єкт, натисніть кнопку %player:specialUse% і утримуйте її, поки ремонт не буде завершено. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2119,14 +1825,10 @@
           <Data ss:Type="String">ui_securitystationstutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Security stations monitor all Talos I personnel assigned
-            to an area. Selecting an employee&apos;s name will unlock an objective with tracking
-            information, assuming their tracking bracelet is still transmitting.</Data>
+          <Data ss:Type="String">&lt;br&gt;Security stations monitor all Talos I personnel assigned to an area. Selecting an employee&apos;s name will unlock an objective with tracking information, assuming their tracking bracelet is still transmitting.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Термінали служби безпеки відстежують весь персонал
-            "Талоса-1", прикріплений до певної зони. Вибравши ім&apos;я співробітника, ви побачите
-            цілевказівник із даними стеження, якщо його браслет досі працює.</Data>
+          <Data ss:Type="String">&lt;br&gt;Термінали служби безпеки відстежують весь персонал "Талоса-1", прикріплений до певної зони. Вибравши ім&apos;я співробітника, ви побачите цілевказівник із даними стеження, якщо його браслет досі працює.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2140,14 +1842,10 @@
           <Data ss:Type="String">ui_shotguncard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Throne Tactical Shotgun provides maximum damage at close range.
-            Effectiveness falls off significantly at longer range.&lt;br&gt;&lt;br&gt; Use
-            %player:attack1% to fire your shotgun and %player:reload% to reload. </Data>
+          <Data ss:Type="String">The Throne Tactical Shotgun provides maximum damage at close range. Effectiveness falls off significantly at longer range.&lt;br&gt;&lt;br&gt; Use %player:attack1% to fire your shotgun and %player:reload% to reload. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Тактичний дробовик "Трон" завдає максимальної шкоди поблизу. Його
-            ефективність різко падає на великій відстані.&lt;br&gt;&lt;br&gt; Стріляйте з дробовика
-            за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
+          <Data ss:Type="String">Тактичний дробовик "Трон" завдає максимальної шкоди поблизу. Його ефективність різко падає на великій відстані.&lt;br&gt;&lt;br&gt; Стріляйте з дробовика за допомогою %player:attack1%; перезаряджайте його за допомогою %player:reload%. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -2161,18 +1859,10 @@
           <Data ss:Type="String">ui_stunguncard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Disruptor Stun Gun will knock out human targets. Typhon are
-            more resistant but can still be temporarily stunned. Robotic devices can also be
-            temporarily disabled, and ultimately destroyed by the Disruptor.&lt;br&gt;&lt;br&gt;Hold
-            %player:attack1% to charge your stun gun and release to fire. Use %player:reload% to
-            reload.</Data>
+          <Data ss:Type="String">The Disruptor Stun Gun will knock out human targets. Typhon are more resistant but can still be temporarily stunned. Robotic devices can also be temporarily disabled, and ultimately destroyed by the Disruptor.&lt;br&gt;&lt;br&gt;Hold %player:attack1% to charge your stun gun and release to fire. Use %player:reload% to reload.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Шокер "Приголомшувач" виводить людей з ладу. Тифони стійкіші до
-            його дії, але їх теж можна ненадовго знерухомити. Крім того, шокер на деякий час вимикає
-            роботів - і знищує їх при тривалому впливі.&lt;br&gt;&lt;br&gt;Затисніть
-            %player:attack1%, щоб зарядити шокер, і відпустіть кнопку, щоб вистрілити. Натисніть
-            %player:reload% для перезаряджання.</Data>
+          <Data ss:Type="String">Шокер "Приголомшувач" виводить людей з ладу. Тифони стійкіші до його дії, але їх теж можна ненадовго знерухомити. Крім того, шокер на деякий час вимикає роботів - і знищує їх при тривалому впливі.&lt;br&gt;&lt;br&gt;Затисніть %player:attack1%, щоб зарядити шокер, і відпустіть кнопку, щоб вистрілити. Натисніть %player:reload% для перезаряджання.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3002,15 +2692,10 @@
           <Data ss:Type="String">ui_traumatutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Some types of damage will result in serious trauma. To remove a
-            trauma visit, a Medical Operator or use the appropriate
-            pharmaceutical.&lt;br&gt;&lt;br&gt; Press %player:togglepda% to open your TranScribe and
-            view your current status.</Data>
+          <Data ss:Type="String">Some types of damage will result in serious trauma. To remove a trauma visit, a Medical Operator or use the appropriate pharmaceutical.&lt;br&gt;&lt;br&gt; Press %player:togglepda% to open your TranScribe and view your current status.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Деякі види шкоди викликають серйозні травми. Щоб вилікувати травму,
-            відвідайте медоператора або використовуйте відповідні медикаменти.&lt;br&gt;&lt;br&gt;
-            Натисніть %player:togglepda%, щоб відкрити транскриптор і побачити ваш поточний стан.</Data>
+          <Data ss:Type="String">Деякі види шкоди викликають серйозні травми. Щоб вилікувати травму, відвідайте медоператора або використовуйте відповідні медикаменти.&lt;br&gt;&lt;br&gt; Натисніть %player:togglepda%, щоб відкрити транскриптор і побачити ваш поточний стан.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3024,16 +2709,10 @@
           <Data ss:Type="String">ui_weaponkitcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapon Kits allow you to upgrade your weapons. To use a Weapon Kit,
-            select the weapon you wish to upgrade in your inventory and press %menu:menu_examine%.
-            &lt;br&gt;&lt;br&gt;Then choose &lt;i&gt;upgrade&lt;/i&gt; to select from any available
-            upgrades. Note: some upgrades require advanced skills.</Data>
+          <Data ss:Type="String">Weapon Kits allow you to upgrade your weapons. To use a Weapon Kit, select the weapon you wish to upgrade in your inventory and press %menu:menu_examine%. &lt;br&gt;&lt;br&gt;Then choose &lt;i&gt;upgrade&lt;/i&gt; to select from any available upgrades. Note: some upgrades require advanced skills.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ці набори дають змогу вам покращувати зброю. Щоб використовувати
-            набір, виберіть зброю в спорядженні та натисніть %menu:menu_examine%.
-            &lt;br&gt;&lt;br&gt;Далі виберіть пункт &lt;i&gt; "Покращити"&lt;/i&gt;, а потім - одне
-            з доступних покращень. Увага: деякі поліпшення вимагають особливих навичок.</Data>
+          <Data ss:Type="String">Ці набори дають змогу вам покращувати зброю. Щоб використовувати набір, виберіть зброю в спорядженні та натисніть %menu:menu_examine%. &lt;br&gt;&lt;br&gt;Далі виберіть пункт &lt;i&gt; "Покращити"&lt;/i&gt;, а потім - одне з доступних покращень. Увага: деякі поліпшення вимагають особливих навичок.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3047,16 +2726,10 @@
           <Data ss:Type="String">ui_workstationstutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;Many TranStar employees have private workstations. Locked
-            stations require a password. Search the environment for clues, or use the hacking
-            ability to bypass the login. Workstations may contain email, files to download, or
-            special utilities. </Data>
+          <Data ss:Type="String">&lt;br&gt;Many TranStar employees have private workstations. Locked stations require a password. Search the environment for clues, or use the hacking ability to bypass the login. Workstations may contain email, files to download, or special utilities. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;У багатьох співробітників "Транстар" є особисті
-            термінали. Для доступу до них необхідний пароль. Шукайте підказки на станції або
-            зламуйте термінали за допомогою навички "Хакер". Термінали можуть містити особисте
-            листування, файли для завантаження або особливі утиліти. </Data>
+          <Data ss:Type="String">&lt;br&gt;У багатьох співробітників "Транстар" є особисті термінали. Для доступу до них необхідний пароль. Шукайте підказки на станції або зламуйте термінали за допомогою навички "Хакер". Термінали можуть містити особисте листування, файли для завантаження або особливі утиліти. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3070,19 +2743,10 @@
           <Data ss:Type="String">ui_wrenchcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Hephaestus &quot;Heffy&quot; Twist and Loop Handle Wrench is
-            standard issue for all maintenance personnel employed in TranStar facilities. Good for
-            liberal application of percussive maintenance and mechanical
-            agitation.&lt;br&gt;&lt;br&gt; Use %player:attack1% to swing your wrench. Important:
-            Press and hold %player:attack1% to charge your attack for maximum damage.
-            &lt;br&gt;&lt;br&gt; All wrench attacks will drain your stamina.</Data>
+          <Data ss:Type="String">The Hephaestus &quot;Heffy&quot; Twist and Loop Handle Wrench is standard issue for all maintenance personnel employed in TranStar facilities. Good for liberal application of percussive maintenance and mechanical agitation.&lt;br&gt;&lt;br&gt; Use %player:attack1% to swing your wrench. Important: Press and hold %player:attack1% to charge your attack for maximum damage. &lt;br&gt;&lt;br&gt; All wrench attacks will drain your stamina.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Розвідний ключ "Гефест" промислового зразка - стандартний
-            інструмент обслуговуючого персоналу "Транстар". Добре годиться для оглушливої
-            профілактики і механічного струсу.&lt;br&gt;&lt;br&gt; Натисніть %player:attack1%, щоб
-            вдарити ключем. Затиснувши %player:attack1%, ви накопичите сили для потужного удару.
-            &lt;br&gt;&lt;br&gt; Усі атаки розвідним ключем витрачають витривалість.</Data>
+          <Data ss:Type="String">Розвідний ключ "Гефест" промислового зразка - стандартний інструмент обслуговуючого персоналу "Транстар". Добре годиться для оглушливої профілактики і механічного струсу.&lt;br&gt;&lt;br&gt; Натисніть %player:attack1%, щоб вдарити ключем. Затиснувши %player:attack1%, ви накопичите сили для потужного удару. &lt;br&gt;&lt;br&gt; Усі атаки розвідним ключем витрачають витривалість.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3096,15 +2760,10 @@
           <Data ss:Type="String">ui_zerogtutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit integrity is compromised. You will continue to lose
-            oxygen (O2) until you use a Suit Patch Kit to repair your suit. Oxygen can be
-            replenished with O2 Canisters or at Oxygen Refill Stations around the Talos I exterior.</Data>
+          <Data ss:Type="String">Your suit integrity is compromised. You will continue to lose oxygen (O2) until you use a Suit Patch Kit to repair your suit. Oxygen can be replenished with O2 Canisters or at Oxygen Refill Stations around the Talos I exterior.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Герметичність вашого костюма порушена. Ви втрачатимете кисень (O2)
-            доти, доки не залатаєте пролом за допомогою набору для ремонту костюма. Щоб відновити
-            запас кисню, користуйтеся кисневими балонами або станціями регенерації повітря на борту
-            "Талоса-1".</Data>
+          <Data ss:Type="String">Герметичність вашого костюма порушена. Ви втрачатимете кисень (O2) доти, доки не залатаєте пролом за допомогою набору для ремонту костюма. Щоб відновити запас кисню, користуйтеся кисневими балонами або станціями регенерації повітря на борту "Талоса-1".</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3118,29 +2777,10 @@
           <Data ss:Type="String">ui_comboscard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Most enemies aboard Talos I are stronger than you - at least
-            initially. Before attacking head on, try gaining an advantage by disabling them first.
-            Freeze your enemies in place with &lt;font color
-            =&apos;#f0c869&apos;&gt;GLOO&lt;/font&gt; or the &lt;font color
-            =&apos;#f0c869&apos;&gt;Disruptor Stun Gun&lt;/font&gt;. Block them from using powers
-            with &lt;font color =&apos;#f0c869&apos;&gt;Nullwave Transmitters&lt;/font&gt; or the
-            &lt;font color =&apos;#f0c869&apos;&gt;Psychoshock&lt;/font&gt; ability. Drop &lt;font
-            color =&apos;#f0c869&apos;&gt;EMP Charges&lt;/font&gt; to stun robotic
-            opponents.&lt;br&gt;&lt;br&gt;Enemies always take &lt;font color
-            =&apos;#f0c869&apos;&gt;bonus damage&lt;/font&gt; when they are disabled. Experiment to
-            create your own deadly combos.</Data>
+          <Data ss:Type="String">Most enemies aboard Talos I are stronger than you - at least initially. Before attacking head on, try gaining an advantage by disabling them first. Freeze your enemies in place with &lt;font color =&apos;#f0c869&apos;&gt;GLOO&lt;/font&gt; or the &lt;font color =&apos;#f0c869&apos;&gt;Disruptor Stun Gun&lt;/font&gt;. Block them from using powers with &lt;font color =&apos;#f0c869&apos;&gt;Nullwave Transmitters&lt;/font&gt; or the &lt;font color =&apos;#f0c869&apos;&gt;Psychoshock&lt;/font&gt; ability. Drop &lt;font color =&apos;#f0c869&apos;&gt;EMP Charges&lt;/font&gt; to stun robotic opponents.&lt;br&gt;&lt;br&gt;Enemies always take &lt;font color =&apos;#f0c869&apos;&gt;bonus damage&lt;/font&gt; when they are disabled. Experiment to create your own deadly combos.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Більшість ворогів на борту "Талоса-1" сильніші за вас - як мінімум
-            на початку. Перш ніж атакувати, постарайтеся їх знешкодити. Знерухомте ворога за
-            допомогою &lt;font color =&apos;#f0c869&apos;&gt;ГІПС-гармати &lt;/font&gt; або &lt;font
-            color =&apos;#f0c869&apos;&gt;шокера "Приголомшувач"&lt;/font&gt;. Блокуйте його атаки,
-            використовуючи &lt;font color =&apos;#f0c869&apos;&gt;нуль-хвильовий
-            глушник&lt;/font&gt; або здатність &lt;font color =&apos;#f0c869&apos;&gt;
-            "Психошок"&lt;/font&gt;. Виводьте з ладу ворожих роботів &lt;font color
-            =&apos;#f0c869&apos;&gt;ЕМ-зарядами &lt;/font&gt;.&lt;br&gt;&lt;br&gt;Знешкоджені вороги
-            завжди &lt;font color =&apos;#f0c869&apos;&gt;отримують більше шкоди &lt;/font&gt;.
-            Експериментуйте зі здібностями та предметами і створюйте свої забійні поєднання.</Data>
+          <Data ss:Type="String">Більшість ворогів на борту "Талоса-1" сильніші за вас - як мінімум на початку. Перш ніж атакувати, постарайтеся їх знешкодити. Знерухомте ворога за допомогою &lt;font color =&apos;#f0c869&apos;&gt;ГІПС-гармати &lt;/font&gt; або &lt;font color =&apos;#f0c869&apos;&gt;шокера "Приголомшувач"&lt;/font&gt;. Блокуйте його атаки, використовуючи &lt;font color =&apos;#f0c869&apos;&gt;нуль-хвильовий глушник&lt;/font&gt; або здатність &lt;font color =&apos;#f0c869&apos;&gt; "Психошок"&lt;/font&gt;. Виводьте з ладу ворожих роботів &lt;font color =&apos;#f0c869&apos;&gt;ЕМ-зарядами &lt;/font&gt;.&lt;br&gt;&lt;br&gt;Знешкоджені вороги завжди &lt;font color =&apos;#f0c869&apos;&gt;отримують більше шкоди &lt;/font&gt;. Експериментуйте зі здібностями та предметами і створюйте свої забійні поєднання.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3154,26 +2794,10 @@
           <Data ss:Type="String">ui_exteriortutorialcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your TranStar suit is equipped with a propulsion system to navigate
-            the harsh environment of space. To navigate in Zero-G, use
-            &lt;b&gt;%default:moveforward%&lt;/b&gt;, &lt;b&gt;%default:moveleft%&lt;/b&gt;,
-            &lt;b&gt;%default:moveback%&lt;/b&gt;, or &lt;b&gt;%default:moveright%&lt;/b&gt; to
-            thrust and &lt;b&gt;%player:sprint%&lt;/b&gt; to boost thrust. Press
-            &lt;b&gt;%player:leanleft%&lt;/b&gt; + &lt;b&gt;%player:leanright%&lt;/b&gt; to brake.
-            &lt;br&gt;&lt;br&gt;You can press &lt;b&gt;%player:jump%&lt;/b&gt; to ascend and
-            &lt;b&gt;%player:sneak%&lt;/b&gt; to descend. Hold &lt;b&gt;%player:leanright%&lt;/b&gt;
-            or &lt;b&gt;%player:leanleft%&lt;/b&gt; to roll.</Data>
+          <Data ss:Type="String">Your TranStar suit is equipped with a propulsion system to navigate the harsh environment of space. To navigate in Zero-G, use &lt;b&gt;%default:moveforward%&lt;/b&gt;, &lt;b&gt;%default:moveleft%&lt;/b&gt;, &lt;b&gt;%default:moveback%&lt;/b&gt;, or &lt;b&gt;%default:moveright%&lt;/b&gt; to thrust and &lt;b&gt;%player:sprint%&lt;/b&gt; to boost thrust. Press &lt;b&gt;%player:leanleft%&lt;/b&gt; + &lt;b&gt;%player:leanright%&lt;/b&gt; to brake. &lt;br&gt;&lt;br&gt;You can press &lt;b&gt;%player:jump%&lt;/b&gt; to ascend and &lt;b&gt;%player:sneak%&lt;/b&gt; to descend. Hold &lt;b&gt;%player:leanright%&lt;/b&gt; or &lt;b&gt;%player:leanleft%&lt;/b&gt; to roll.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ваш костюм "Транстар" оснащений реактивною установкою, що дає змогу
-            переміщатися в космосі. Використовуйте &lt;b&gt;%default:moveforward%&lt;/b&gt;,
-            &lt;b&gt;%default:moveleft%&lt;/b&gt;, &lt;b&gt;%default:moveback%&lt;/b&gt; і
-            &lt;b&gt;%default: moveright%&lt;/b&gt; для переміщення в невагомості та
-            &lt;b&gt;%player:sprint%&lt;/b&gt; для посилення тяги. Натисніть
-            &lt;b&gt;%player:leanleft%&lt;/b&gt; + &lt;b&gt;%player:leanright%&lt;/b&gt;, щоб
-            загальмувати. &lt;br&gt;&lt;br&gt;Натискайте &lt;b&gt;%player:jump%&lt;/b&gt;, щоб
-            підніматися, і &lt;b&gt;%player:sneak%&lt;/b&gt;, щоб опускатися. Керуйте креном за
-            допомогою &lt;b&gt;%player:leanright%&lt;/b&gt; і &lt;b&gt;%player:leanleft%&lt;/b&gt;.</Data>
+          <Data ss:Type="String">Ваш костюм "Транстар" оснащений реактивною установкою, що дає змогу переміщатися в космосі. Використовуйте &lt;b&gt;%default:moveforward%&lt;/b&gt;, &lt;b&gt;%default:moveleft%&lt;/b&gt;, &lt;b&gt;%default:moveback%&lt;/b&gt; і &lt;b&gt;%default: moveright%&lt;/b&gt; для переміщення в невагомості та &lt;b&gt;%player:sprint%&lt;/b&gt; для посилення тяги. Натисніть &lt;b&gt;%player:leanleft%&lt;/b&gt; + &lt;b&gt;%player:leanright%&lt;/b&gt;, щоб загальмувати. &lt;br&gt;&lt;br&gt;Натискайте &lt;b&gt;%player:jump%&lt;/b&gt;, щоб підніматися, і &lt;b&gt;%player:sneak%&lt;/b&gt;, щоб опускатися. Керуйте креном за допомогою &lt;b&gt;%player:leanright%&lt;/b&gt; і &lt;b&gt;%player:leanleft%&lt;/b&gt;.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3255,15 +2879,10 @@
           <Data ss:Type="String">ui_traumatutorialcardpc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Some types of damage you sustain will result in serious trauma. To
-            remove a trauma, visit a Medical Operator or use the appropriate
-            pharmaceutical.&lt;br&gt;&lt;br&gt; Press %player:togglestatus% to open your TranScribe
-            and view your current status.</Data>
+          <Data ss:Type="String">Some types of damage you sustain will result in serious trauma. To remove a trauma, visit a Medical Operator or use the appropriate pharmaceutical.&lt;br&gt;&lt;br&gt; Press %player:togglestatus% to open your TranScribe and view your current status.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Деякі види шкоди викликають серйозні травми. Щоб вилікувати травму,
-            відвідайте медоператора або використовуйте відповідні медикаменти.&lt;br&gt;&lt;br&gt;
-            Натисніть %player:togglestatus%, щоб відкрити транскриптор і побачити ваш поточний стан.</Data>
+          <Data ss:Type="String">Деякі види шкоди викликають серйозні травми. Щоб вилікувати травму, відвідайте медоператора або використовуйте відповідні медикаменти.&lt;br&gt;&lt;br&gt; Натисніть %player:togglestatus%, щоб відкрити транскриптор і побачити ваш поточний стан.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3277,14 +2896,10 @@
           <Data ss:Type="String">ui_focuscard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Combat Focus enhances your overall abilities. When active, time
-            slows around you and actions cost less stamina. At higher levels, your combat damage
-            will also increase. Combat Focus can be equipped from the Favorites Wheel. </Data>
+          <Data ss:Type="String">Combat Focus enhances your overall abilities. When active, time slows around you and actions cost less stamina. At higher levels, your combat damage will also increase. Combat Focus can be equipped from the Favorites Wheel. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Бойова концентрація покращує ваші здібності загалом. Коли вона
-            задіяна, час навколо вас сповільнюється, а дії витрачають менше витривалості. Бойову
-            концентрацію можна використовувати з колеса обраних функцій. </Data>
+          <Data ss:Type="String">Бойова концентрація покращує ваші здібності загалом. Коли вона задіяна, час навколо вас сповільнюється, а дії витрачають менше витривалості. Бойову концентрацію можна використовувати з колеса обраних функцій. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3298,12 +2913,10 @@
           <Data ss:Type="String">ui_nag2stungun</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hold %player:attack1% to charge your stun gun and release to fire.
-            Use %player:reload% to reload.</Data>
+          <Data ss:Type="String">Hold %player:attack1% to charge your stun gun and release to fire. Use %player:reload% to reload.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Затисніть %player:attack1%, щоб зарядити шокер, і відпустіть
-            кнопку, щоб вистрілити. Натисніть %player:reload% для перезаряджання.</Data>
+          <Data ss:Type="String">Затисніть %player:attack1%, щоб зарядити шокер, і відпустіть кнопку, щоб вистрілити. Натисніть %player:reload% для перезаряджання.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3317,14 +2930,10 @@
           <Data ss:Type="String">ui_suitdamagetutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit is damaged. The better condition your suit is in, the
-            more damage it will absorb from enemy attacks and hazards. Use a Suit Repair Kit to
-            repair your suit.</Data>
+          <Data ss:Type="String">Your suit is damaged. The better condition your suit is in, the more damage it will absorb from enemy attacks and hazards. Use a Suit Repair Kit to repair your suit.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ваш костюм пошкоджений. Що кращий стан вашого костюма, то більше
-            шкоди він поглинає, захищаючи вас від атак та інших загроз. Щоб полагодити його,
-            використовуйте набір для ремонту костюма.</Data>
+          <Data ss:Type="String">Ваш костюм пошкоджений. Що кращий стан вашого костюма, то більше шкоди він поглинає, захищаючи вас від атак та інших загроз. Щоб полагодити його, використовуйте набір для ремонту костюма.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3423,13 +3032,10 @@
           <Data ss:Type="String">ui_preordercard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you for preordering Prey. Your preorder items can be found in
-            the special container in Morgan&apos;s office. </Data>
+          <Data ss:Type="String">Thank you for preordering Prey. Your preorder items can be found in the special container in Morgan&apos;s office. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Дякуємо, що оформили попереднє замовлення на Prey. Предмети, які ви
-            отримали за передзамовлення, лежать в особливому контейнері, який Морган тримає у своєму
-            кабінеті. </Data>
+          <Data ss:Type="String">Дякуємо, що оформили попереднє замовлення на Prey. Предмети, які ви отримали за передзамовлення, лежать в особливому контейнері, який Морган тримає у своєму кабінеті. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3443,12 +3049,10 @@
           <Data ss:Type="String">ui_promptchipsetstip</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve acquired a Chipset.&lt;br&gt;Press %contextaction% to
-            install the chipset in your suit or scope.</Data>
+          <Data ss:Type="String">You&apos;ve acquired a Chipset.&lt;br&gt;Press %contextaction% to install the chipset in your suit or scope.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви отримали чіп.&lt;br&gt;Натисніть %contextaction%, щоб встановити
-            його в костюм або психоскоп.</Data>
+          <Data ss:Type="String">Ви отримали чіп.&lt;br&gt;Натисніть %contextaction%, щоб встановити його в костюм або психоскоп.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3479,16 +3083,10 @@
           <Data ss:Type="String">ui_electricjunctiontutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You&apos;ve been hit by an arc of electricity from a broken
-            Electric Junction. GLOO temporarily stops the arcing electricity long enough for you to
-            use Repair II or bypass the hazard entirely.&lt;br&gt;&lt;br&gt;Broken Electric
-            Junctions will damage your enemies as well. </Data>
+          <Data ss:Type="String">You&apos;ve been hit by an arc of electricity from a broken Electric Junction. GLOO temporarily stops the arcing electricity long enough for you to use Repair II or bypass the hazard entirely.&lt;br&gt;&lt;br&gt;Broken Electric Junctions will damage your enemies as well. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Вас вразив дуговий розряд від пошкодженого розподільчого щита.
-            ГІПС-гармата ненадовго запобігає виникненню розрядів, щоб ви встигли використати "Ремонт
-            II" або обійти загрозу. &lt;br&gt;&lt;br&gt;Зламані розподільчі щити наносять шкоду і
-            вашим ворогам. </Data>
+          <Data ss:Type="String">Вас вразив дуговий розряд від пошкодженого розподільчого щита. ГІПС-гармата ненадовго запобігає виникненню розрядів, щоб ви встигли використати "Ремонт II" або обійти загрозу. &lt;br&gt;&lt;br&gt;Зламані розподільчі щити наносять шкоду і вашим ворогам. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3502,19 +3100,10 @@
           <Data ss:Type="String">ui_exteriortutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your TranStar suit is equipped with a propulsion system to navigate
-            the harsh environment of space. To navigate in Zero-G, use %default:xi_movex% to thrust
-            and %player:sprint% to boost thrust. Press %player:leanleft% + %player:leanright% to
-            brake. &lt;br&gt;&lt;br&gt;You can press %player:jump% to ascend and %player:sneak% to
-            descend. Hold %player:leanleft% or %player:leanright% to roll.</Data>
+          <Data ss:Type="String">Your TranStar suit is equipped with a propulsion system to navigate the harsh environment of space. To navigate in Zero-G, use %default:xi_movex% to thrust and %player:sprint% to boost thrust. Press %player:leanleft% + %player:leanright% to brake. &lt;br&gt;&lt;br&gt;You can press %player:jump% to ascend and %player:sneak% to descend. Hold %player:leanleft% or %player:leanright% to roll.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ваш костюм "Транстар" оснащений реактивною установкою, що дає змогу
-            переміщатися в космосі. Використовуйте %default:xi_movex% для переміщення в невагомості
-            та %player:sprint% для посилення тяги. Натисніть %player:leanleft% + %player:leanright%,
-            щоб загальмувати. &lt;br&gt;&lt;br&gt;Натискайте %player:jump%, щоб підніматися, і
-            %player:sneak%, щоб опускатися. Кнопки %player:leanleft% і %player:leanright% керують
-            креном.</Data>
+          <Data ss:Type="String">Ваш костюм "Транстар" оснащений реактивною установкою, що дає змогу переміщатися в космосі. Використовуйте %default:xi_movex% для переміщення в невагомості та %player:sprint% для посилення тяги. Натисніть %player:leanleft% + %player:leanright%, щоб загальмувати. &lt;br&gt;&lt;br&gt;Натискайте %player:jump%, щоб підніматися, і %player:sneak%, щоб опускатися. Кнопки %player:leanleft% і %player:leanright% керують креном.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3531,8 +3120,7 @@
           <Data ss:Type="String">Combat Focus available. Hold %player:combat_focus% to focus.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Доступна бойова концентрація. Затисніть %player:combat_focus%, щоб
-            зосередитися.</Data>
+          <Data ss:Type="String">Доступна бойова концентрація. Затисніть %player:combat_focus%, щоб зосередитися.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3549,8 +3137,7 @@
           <Data ss:Type="String">Combat Focus available. Hold %player:combat_focus% to focus.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Доступна бойова концентрація. Затисніть %player:combat_focus%, щоб
-            зосередитися.</Data>
+          <Data ss:Type="String">Доступна бойова концентрація. Затисніть %player:combat_focus%, щоб зосередитися.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3598,25 +3185,10 @@
           <Data ss:Type="String">ui_democard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you for completing the Prey demo. Are you ready to unravel
-            the mysteries of Talos I? Your Mind. The Station. Earth Itself. Nothing is Safe from the
-            Alien Threat.&lt;br&gt;&lt;br&gt;Fight the Invasion on Friday, May 5th
-            2017.&lt;br&gt;&lt;br&gt;Preorder now to get the Exclusive Cosmonaut Shotgun Starter
-            Pack, consisting of Morgan Yu’s family heirloom Margrave shotgun and tools to fight
-            threats aboard Talos I including: three Neuromods players can spend to acquire new
-            abilities, two Medkits, a Fabrication plan to create the Shotgun and Ammo, a starter kit
-            for building tools and weapons, and a unique upgrade to help players preserve their
-            limited resources.</Data>
+          <Data ss:Type="String">Thank you for completing the Prey demo. Are you ready to unravel the mysteries of Talos I? Your Mind. The Station. Earth Itself. Nothing is Safe from the Alien Threat.&lt;br&gt;&lt;br&gt;Fight the Invasion on Friday, May 5th 2017.&lt;br&gt;&lt;br&gt;Preorder now to get the Exclusive Cosmonaut Shotgun Starter Pack, consisting of Morgan Yu’s family heirloom Margrave shotgun and tools to fight threats aboard Talos I including: three Neuromods players can spend to acquire new abilities, two Medkits, a Fabrication plan to create the Shotgun and Ammo, a starter kit for building tools and weapons, and a unique upgrade to help players preserve their limited resources.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Дякуємо, що зіграли в демоверсію Prey. Розкрийте інші таємниці
-            "Талоса-1". Ваш розум. Космічна станція. Планета Земля. Все може стати здобиччю
-            прибульців. &lt;br&gt;&lt;br&gt;Зупиніть вторгнення! Гра вийде 5 травня 2017
-            р.&lt;br&gt;&lt;br&gt;Оформіть попереднє замовлення та отримайте стартовий набір
-            "Космонавт-стрілець", який містить реліквію сім&apos;ї Ю - дробовик "Маркграф" - та інші
-            предмети, що допоможуть вам вижити: три нейромоди для здобуття нових здібностей, дві
-            аптечки, креслення дробовика та боєприпасів для нього, набір для створення інструментів
-            і зброї, а також унікальне поліпшення, що дасть змогу заощадити обмежені ресурси.</Data>
+          <Data ss:Type="String">Дякуємо, що зіграли в демоверсію Prey. Розкрийте інші таємниці "Талоса-1". Ваш розум. Космічна станція. Планета Земля. Все може стати здобиччю прибульців. &lt;br&gt;&lt;br&gt;Зупиніть вторгнення! Гра вийде 5 травня 2017 р.&lt;br&gt;&lt;br&gt;Оформіть попереднє замовлення та отримайте стартовий набір "Космонавт-стрілець", який містить реліквію сім&apos;ї Ю - дробовик "Маркграф" - та інші предмети, що допоможуть вам вижити: три нейромоди для здобуття нових здібностей, дві аптечки, креслення дробовика та боєприпасів для нього, набір для створення інструментів і зброї, а також унікальне поліпшення, що дасть змогу заощадити обмежені ресурси.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3647,12 +3219,10 @@
           <Data ss:Type="String">ui_promptweaponrepaircard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Damaged weapons can be repaired if you have the Repair skill and
-            enough Spare Parts.</Data>
+          <Data ss:Type="String">Damaged weapons can be repaired if you have the Repair skill and enough Spare Parts.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Зношену зброю можна полагодити, якщо у вас є навичка ремонту і
-            достатня кількість запчастин.</Data>
+          <Data ss:Type="String">Зношену зброю можна полагодити, якщо у вас є навичка ремонту і достатня кількість запчастин.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3683,14 +3253,10 @@
           <Data ss:Type="String">ui_weaponrepairtutorialcard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Damaged weapons can be repaired if you have the Repair skill and
-            enough Spare Parts. Select the weapon you wish to repair in your inventory and press
-            %menu:menu_examine%. Then choose &lt;i&gt;repair&lt;/i&gt;.</Data>
+          <Data ss:Type="String">Damaged weapons can be repaired if you have the Repair skill and enough Spare Parts. Select the weapon you wish to repair in your inventory and press %menu:menu_examine%. Then choose &lt;i&gt;repair&lt;/i&gt;.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Зношену зброю можна полагодити, якщо у вас є навичка ремонту і
-            достатня кількість запчастин. Виберіть зброю, яку потрібно полагодити, і натисніть
-            %menu:menu_examine%. Потім виберіть &lt;i&gt; "Полагодити"&lt;/i&gt;.</Data>
+          <Data ss:Type="String">Зношену зброю можна полагодити, якщо у вас є навичка ремонту і достатня кількість запчастин. Виберіть зброю, яку потрібно полагодити, і натисніть %menu:menu_examine%. Потім виберіть &lt;i&gt; "Полагодити"&lt;/i&gt;.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3704,14 +3270,10 @@
           <Data ss:Type="String">ui_newgamepluscard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I is once again waiting for you. You will be able to regain
-            all of the abilities you had in your previous playthrough when you acquire the
-            Psychoscope that has been placed in the cabinet in Morgan&apos;s office. Good luck!</Data>
+          <Data ss:Type="String">Talos I is once again waiting for you. You will be able to regain all of the abilities you had in your previous playthrough when you acquire the Psychoscope that has been placed in the cabinet in Morgan&apos;s office. Good luck!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Станція "Талос-1" знову чекає на вас. Ви знову знайдете всі
-            здібності, відкриті в попередньому проходженні, коли знайдете психоскоп у своєму
-            кабінеті. Удачі!</Data>
+          <Data ss:Type="String">Станція "Талос-1" знову чекає на вас. Ви знову знайдете всі здібності, відкриті в попередньому проходженні, коли знайдете психоскоп у своєму кабінеті. Удачі!</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

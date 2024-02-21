@@ -737,12 +737,10 @@
           <Data ss:Type="String">input_keyboardformatting</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;font
-            color=&apos;#f0c869&apos;&gt;&lt;b&gt;[%key%]&lt;/b&gt;&lt;/font&gt;</Data>
+          <Data ss:Type="String">&lt;font color=&apos;#f0c869&apos;&gt;&lt;b&gt;[%key%]&lt;/b&gt;&lt;/font&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;font
-            color=&apos;#f0c869&apos;&gt;&lt;b&gt;[%key%]&lt;/b&gt;&lt;/font&gt;</Data>
+          <Data ss:Type="String">&lt;font color=&apos;#f0c869&apos;&gt;&lt;b&gt;[%key%]&lt;/b&gt;&lt;/font&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

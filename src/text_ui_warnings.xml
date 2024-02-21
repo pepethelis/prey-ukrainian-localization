@@ -551,8 +551,7 @@
           <Data ss:Type="String">This game saves user data. You must sign in to continue.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ця гра зберігає дані користувача. Увійдіть у ваш обліковий запис,
-            щоб продовжити.</Data>
+          <Data ss:Type="String">Ця гра зберігає дані користувача. Увійдіть у ваш обліковий запис, щоб продовжити.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -654,8 +653,7 @@
           <Data ss:Type="String">User is not signed in, please sign in to use the online services</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Користувач не увійшов у свій обліковий запис. Увійдіть, щоб
-            скористатися мережевими функціями.</Data>
+          <Data ss:Type="String">Користувач не увійшов у свій обліковий запис. Увійдіть, щоб скористатися мережевими функціями.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -686,12 +684,10 @@
           <Data ss:Type="String">ui_outofmemorydesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There was not enough memory to allocate for the task or its
-            parameters</Data>
+          <Data ss:Type="String">There was not enough memory to allocate for the task or its parameters</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Не вдалося виділити достатньо пам'яті для виконання завдання або
-            його параметрів.</Data>
+          <Data ss:Type="String">Не вдалося виділити достатньо пам'яті для виконання завдання або його параметрів.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1011,12 +1007,10 @@
           <Data ss:Type="String">ui_maxsavecountmessage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Maximum save files reached. Please delete a save file before
-            creating a new one.</Data>
+          <Data ss:Type="String">Maximum save files reached. Please delete a save file before creating a new one.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Створено максимально можливу кількість файлів збереження. Видаліть
-            який-небудь файл збереження, щоб створити новий.</Data>
+          <Data ss:Type="String">Створено максимально можливу кількість файлів збереження. Видаліть який-небудь файл збереження, щоб створити новий.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1101,8 +1095,7 @@
           <Data ss:Type="String">Your profile lacks permissions to travel to this level.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рівень доступу вашого облікового запису не дає змоги переміститися
-            на цей рівень.</Data>
+          <Data ss:Type="String">Рівень доступу вашого облікового запису не дає змоги переміститися на цей рівень.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

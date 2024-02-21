@@ -53,12 +53,10 @@
           <Data ss:Type="String">description_ps4config</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official DualShock®4 configuration for PREY. Standard FPS gamepad
-            controls.</Data>
+          <Data ss:Type="String">Official DualShock®4 configuration for PREY. Standard FPS gamepad controls.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка контролера DUALSHOCK®4. Стандартне
-            керування для шутерів з видом від першої особи.</Data>
+          <Data ss:Type="String">Рекомендована розкладка контролера DUALSHOCK®4. Стандартне керування для шутерів з видом від першої особи.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -72,13 +70,10 @@
           <Data ss:Type="String">description_ps4config_sp</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Southpaw DualShock®4 configuration for PREY. Sticks are
-            swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
+          <Data ss:Type="String">Official Southpaw DualShock®4 configuration for PREY. Sticks are swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка контролера DUALSHOCK®4 для лівшів.
-            Джойстики та функції кнопок дій і кнопок напрямків міняються місцями. Функції кнопок L1,
-            L2, R1 і R2 - без змін.</Data>
+          <Data ss:Type="String">Рекомендована розкладка контролера DUALSHOCK®4 для лівшів. Джойстики та функції кнопок дій і кнопок напрямків міняються місцями. Функції кнопок L1, L2, R1 і R2 - без змін.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -92,13 +87,10 @@
           <Data ss:Type="String">description_ps4gyro</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official alternate DualShock®4 configuration for PREY. Uses motion
-            control to aim and turn while jumping, gliding, and ascending in microgravity.</Data>
+          <Data ss:Type="String">Official alternate DualShock®4 configuration for PREY. Uses motion control to aim and turn while jumping, gliding, and ascending in microgravity.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Альтернативна рекомендована розкладка контролера DUALSHOCK®4 для
-            PREY. Датчик переміщення використовується для прицілювання і поворотів у стрибку, під
-            час планування та польотів у невагомості.</Data>
+          <Data ss:Type="String">Альтернативна рекомендована розкладка контролера DUALSHOCK®4 для PREY. Датчик переміщення використовується для прицілювання і поворотів у стрибку, під час планування та польотів у невагомості.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -112,16 +104,10 @@
           <Data ss:Type="String">description_ps4gyro_sp</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Southpaw alternate DualShock®4 configuration for PREY.
-            Uses motion control to aim and turn while jumping, gliding, and ascending in
-            microgravity. Sticks are swapped and face buttons are swapped with d-pad. Triggers and
-            bumpers are unchanged.</Data>
+          <Data ss:Type="String">Official Southpaw alternate DualShock®4 configuration for PREY. Uses motion control to aim and turn while jumping, gliding, and ascending in microgravity. Sticks are swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Альтернативне керування: рекомендована розкладка контролера
-            DUALSHOCK®4 для лівшів. Датчик переміщення використовується для прицілювання і поворотів
-            у стрибку, під час планування і польотів у невагомості. Джойстики та функції кнопок дій
-            і кнопок напрямків міняються місцями. Функції кнопок L1, L2, R1 і R2 - без змін.</Data>
+          <Data ss:Type="String">Альтернативне керування: рекомендована розкладка контролера DUALSHOCK®4 для лівшів. Датчик переміщення використовується для прицілювання і поворотів у стрибку, під час планування і польотів у невагомості. Джойстики та функції кнопок дій і кнопок напрямків міняються місцями. Функції кнопок L1, L2, R1 і R2 - без змін.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -135,12 +121,10 @@
           <Data ss:Type="String">description_scconfig</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Steam Controller configuration for PREY. Uses a
-            combination of right pad and motion controls for aiming.</Data>
+          <Data ss:Type="String">Official Steam Controller configuration for PREY. Uses a combination of right pad and motion controls for aiming.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка контролера Steam у PREY. Для прицілювання
-            використовується правий трекпад і датчик переміщення.</Data>
+          <Data ss:Type="String">Рекомендована розкладка контролера Steam у PREY. Для прицілювання використовується правий трекпад і датчик переміщення.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -154,12 +138,10 @@
           <Data ss:Type="String">description_scconfig_sp</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Southpaw Steam Controller configuration for PREY. Uses
-            left stick for aiming and right pad for movement.</Data>
+          <Data ss:Type="String">Official Southpaw Steam Controller configuration for PREY. Uses left stick for aiming and right pad for movement.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка контролера Steam у PREY для лівшів. Для
-            прицілювання використовується аналоговий стік, для переміщення - правий трекпад.</Data>
+          <Data ss:Type="String">Рекомендована розкладка контролера Steam у PREY для лівшів. Для прицілювання використовується аналоговий стік, для переміщення - правий трекпад.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -173,12 +155,10 @@
           <Data ss:Type="String">description_xb1config</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Xbox One gamepad configuration for PREY. Standard FPS
-            gamepad controls.</Data>
+          <Data ss:Type="String">Official Xbox One gamepad configuration for PREY. Standard FPS gamepad controls.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox One для PREY. Стандартне
-            керування для шутерів із видом від першої особи.</Data>
+          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox One для PREY. Стандартне керування для шутерів із видом від першої особи.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -192,12 +172,10 @@
           <Data ss:Type="String">description_xb1config_sp</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Southpaw Xbox One gamepad configuration for PREY. Sticks
-            are swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
+          <Data ss:Type="String">Official Southpaw Xbox One gamepad configuration for PREY. Sticks are swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox One для лівшів. Стіки та
-            функції кнопок і хрестовини міняються місцями. Тригери та бампери - без змін.</Data>
+          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox One для лівшів. Стіки та функції кнопок і хрестовини міняються місцями. Тригери та бампери - без змін.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -211,12 +189,10 @@
           <Data ss:Type="String">description_xb360config</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Xbox 360 gamepad configuration for PREY. Standard FPS
-            gamepad controls.</Data>
+          <Data ss:Type="String">Official Xbox 360 gamepad configuration for PREY. Standard FPS gamepad controls.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox 360 для PREY. Стандартне
-            керування для шутерів із видом від першої особи.</Data>
+          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox 360 для PREY. Стандартне керування для шутерів із видом від першої особи.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -230,12 +206,10 @@
           <Data ss:Type="String">description_xb360config_sp</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Official Southpaw Xbox 360 gamepad configuration for PREY. Sticks
-            are swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
+          <Data ss:Type="String">Official Southpaw Xbox 360 gamepad configuration for PREY. Sticks are swapped and face buttons are swapped with d-pad. Triggers and bumpers are unchanged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox 360 для лівшів. Джойстики і
-            функції кнопок і хрестовини міняються місцями. Курки і тригери - без змін.</Data>
+          <Data ss:Type="String">Рекомендована розкладка геймпада Xbox 360 для лівшів. Джойстики і функції кнопок і хрестовини міняються місцями. Курки і тригери - без змін.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1085,8 +1059,7 @@
           <Data ss:Type="String">Official Southpaw DualShock®4 Configuration with Gyro</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Рекомендована розкладка контролера DUALSHOCK®4 (з гіроскопом) для
-            лівшів</Data>
+          <Data ss:Type="String">Рекомендована розкладка контролера DUALSHOCK®4 (з гіроскопом) для лівшів</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

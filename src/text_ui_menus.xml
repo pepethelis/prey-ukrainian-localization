@@ -72,14 +72,10 @@
           <Data ss:Type="String">ui_accesspermissionbody</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Next scheduled data archival and disk wipe:
-            [pending...]&lt;br&gt;Test Subject ID Numbers are not provided by this workstation! TS
-            Protocol #001&lt;br&gt;DIGITAL SIGNATURE: Dr. Morgan Yu</Data>
+          <Data ss:Type="String">Next scheduled data archival and disk wipe: [pending...]&lt;br&gt;Test Subject ID Numbers are not provided by this workstation! TS Protocol #001&lt;br&gt;DIGITAL SIGNATURE: Dr. Morgan Yu</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Дата наступної запланованої архівації та очищення диска: [не
-            визначено].&lt;br&gt;Цей термінал не надає ідентифікатори піддослідних! Протокол ТС
-            #001&lt;br&gt;ЦИФРОВИЙ ПІДПИС: д-р Морган Ю</Data>
+          <Data ss:Type="String">Дата наступної запланованої архівації та очищення диска: [не визначено].&lt;br&gt;Цей термінал не надає ідентифікатори піддослідних! Протокол ТС #001&lt;br&gt;ЦИФРОВИЙ ПІДПИС: д-р Морган Ю</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -722,12 +718,10 @@
           <Data ss:Type="String">ui_brightnesshelp</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Adjust the Brightness slider until the darkest symbol is barely
-            visible.</Data>
+          <Data ss:Type="String">Adjust the Brightness slider until the darkest symbol is barely visible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Переміщайте повзунок яскравості доти, доки найтемніший символ не
-            стане ледь помітним.</Data>
+          <Data ss:Type="String">Переміщайте повзунок яскравості доти, доки найтемніший символ не стане ледь помітним.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3025,8 +3019,7 @@
           <Data ss:Type="String">Suit Modification skill increases inventory size.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Вміння «Модификация костюма» збільшує кількість предметів, що
-            переносяться предметів, що переносяться.</Data>
+          <Data ss:Type="String">Вміння «Модификация костюма» збільшує кількість предметів, що переносяться предметів, що переносяться.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -7154,8 +7147,7 @@
           <Data ss:Type="String">ui_weaponupgrade_message</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Are you sure you want to spend a Weapon Upgrade Kit on this
-            upgrade?</Data>
+          <Data ss:Type="String">Are you sure you want to spend a Weapon Upgrade Kit on this upgrade?</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Ви хочете використати набір для поліпшення зброї?</Data>
@@ -7342,8 +7334,7 @@
           <Data ss:Type="String">ui_dockingstationbadcodedesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The system was unable to locate the specified container. Please try
-            again.</Data>
+          <Data ss:Type="String">The system was unable to locate the specified container. Please try again.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Системі не вдалося знайти зазначений контейнер. Спробуйте ще раз.</Data>
@@ -7411,12 +7402,10 @@
           <Data ss:Type="String">ui_dockingstationcargobaysdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Choose a gate to undock a container from below, or choose a new
-            option on the left.</Data>
+          <Data ss:Type="String">Choose a gate to undock a container from below, or choose a new option on the left.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Виберіть ворота для відстикування контейнера зі списку внизу або
-            виберіть нову опцію в меню зліва.</Data>
+          <Data ss:Type="String">Виберіть ворота для відстикування контейнера зі списку внизу або виберіть нову опцію в меню зліва.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -7501,8 +7490,7 @@
           <Data ss:Type="String">Please wait while the shipping container moves into position.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Будь ласка, зачекайте, поки вантажний контейнер не прибуде на
-            місце.</Data>
+          <Data ss:Type="String">Будь ласка, зачекайте, поки вантажний контейнер не прибуде на місце.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -7533,24 +7521,10 @@
           <Data ss:Type="String">ui_dockingstationhelpdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;Docking:&lt;/b&gt;&lt;br&gt;1. Enter the ID number of the
-            desired shipping container. &lt;br&gt;2. When the docking confirmation window appears,
-            select &quot;Dock Shipping Container&quot;. &lt;br&gt;3. The container will pilot itself
-            to the first open docking gate.
-            &lt;br&gt;&lt;br&gt;&lt;b&gt;Undocking:&lt;/b&gt;&lt;br&gt;1. Select &quot;Manage
-            Gates&quot;.&lt;br&gt;2. Select the Gate you wish to clear from the list at the bottom
-            of the screen. &lt;br&gt;3. The docked container will autopilot to its stowed location.</Data>
+          <Data ss:Type="String">&lt;b&gt;Docking:&lt;/b&gt;&lt;br&gt;1. Enter the ID number of the desired shipping container. &lt;br&gt;2. When the docking confirmation window appears, select &quot;Dock Shipping Container&quot;. &lt;br&gt;3. The container will pilot itself to the first open docking gate. &lt;br&gt;&lt;br&gt;&lt;b&gt;Undocking:&lt;/b&gt;&lt;br&gt;1. Select &quot;Manage Gates&quot;.&lt;br&gt;2. Select the Gate you wish to clear from the list at the bottom of the screen. &lt;br&gt;3. The docked container will autopilot to its stowed location.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;Стикування:&lt;/b&gt;&lt;br&gt;1. Вкажіть номер
-            необхідного вантажного контейнера. &lt;br&gt;2. Коли з'явиться вікно підтвердження
-            стикування, оберіть
-            «Пристикувати вантажний контейнер». &lt;br&gt;3. Контейнер автоматично попрямує до
-            перших відкритих воріт.
-            &lt;br&gt;&lt;br&gt;&lt;b&gt;Відстикування:&lt;/b&gt;&lt;br&gt;1.
-            Оберіть у меню пункт «Керування воротами».&lt;br&gt;2. Виберіть ворота, які
-            необхідно звільнити, зі списку в нижній частині екрана. &lt;br&gt;3. Пристикований
-            контейнер автоматично повернеться на місце зберігання.</Data>
+          <Data ss:Type="String">&lt;b&gt;Стикування:&lt;/b&gt;&lt;br&gt;1. Вкажіть номер необхідного вантажного контейнера. &lt;br&gt;2. Коли з'явиться вікно підтвердження стикування, оберіть «Пристикувати вантажний контейнер». &lt;br&gt;3. Контейнер автоматично попрямує до перших відкритих воріт. &lt;br&gt;&lt;br&gt;&lt;b&gt;Відстикування:&lt;/b&gt;&lt;br&gt;1. Оберіть у меню пункт «Керування воротами».&lt;br&gt;2. Виберіть ворота, які необхідно звільнити, зі списку в нижній частині екрана. &lt;br&gt;3. Пристикований контейнер автоматично повернеться на місце зберігання.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -7904,12 +7878,10 @@
           <Data ss:Type="String">ui_typhonmeterinfo1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon material in your system is just below the threshold where
-            station turrets will consider you a threat.</Data>
+          <Data ss:Type="String">Typhon material in your system is just below the threshold where station turrets will consider you a threat.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Матерії тифонів у вашому тілі трохи менше порога, після якого
-            турелі почнуть вважати вас ворогом.</Data>
+          <Data ss:Type="String">Матерії тифонів у вашому тілі трохи менше порога, після якого турелі почнуть вважати вас ворогом.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -8688,12 +8660,10 @@
           <Data ss:Type="String">ui_typhonmeterinfo2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You have enough Typhon material in your system that turrets will
-            consider you a threat.</Data>
+          <Data ss:Type="String">You have enough Typhon material in your system that turrets will consider you a threat.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ваше тіло містить стільки матерії тифонів, що турелі сприймуть вас
-            за ворога.</Data>
+          <Data ss:Type="String">Ваше тіло містить стільки матерії тифонів, що турелі сприймуть вас за ворога.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -8724,12 +8694,10 @@
           <Data ss:Type="String">ui_weaponrepair_message2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Spare Parts required:&lt;br&gt;&lt;br&gt;Repair %1%%:
-            1&lt;br&gt;Repair %2%%: %3%</Data>
+          <Data ss:Type="String">Spare Parts required:&lt;br&gt;&lt;br&gt;Repair %1%%: 1&lt;br&gt;Repair %2%%: %3%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Потрібні запчастини:&lt;br&gt;&lt;br&gt;Ремонт на %1%%:
-            1&lt;br&gt;Ремонт на %2%%: %3%</Data>
+          <Data ss:Type="String">Потрібні запчастини:&lt;br&gt;&lt;br&gt;Ремонт на %1%%: 1&lt;br&gt;Ремонт на %2%%: %3%</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -8760,8 +8728,7 @@
           <Data ss:Type="String">ui_activeusercontrollermessage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your controller has been disconnected. Please reconnect the
-            controller to continue.</Data>
+          <Data ss:Type="String">Your controller has been disconnected. Please reconnect the controller to continue.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Ваш геймпад вимкнено. Підключіть геймпад, щоб продовжити.</Data>
@@ -8795,12 +8762,10 @@
           <Data ss:Type="String">ui_activeuserquitconfirm</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You cannot continue. Please sign in as the last active user or
-            return to the main menu.</Data>
+          <Data ss:Type="String">You cannot continue. Please sign in as the last active user or return to the main menu.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви не можете продовжити. Увійдіть в останній активний обліковий
-            запис або поверніться в головне меню.</Data>
+          <Data ss:Type="String">Ви не можете продовжити. Увійдіть в останній активний обліковий запис або поверніться в головне меню.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -8834,8 +8799,7 @@
           <Data ss:Type="String">Please sign back in to continue playing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Будь ласка, повторно увійдіть в обліковий запис, щоб продовжити
-            гру.</Data>
+          <Data ss:Type="String">Будь ласка, повторно увійдіть в обліковий запис, щоб продовжити гру.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9155,12 +9119,10 @@
           <Data ss:Type="String">ui_appendedscandata</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;SCAN
-            DATA&lt;/b&gt;&lt;br&gt;--------------------&lt;br&gt;</Data>
+          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;SCAN DATA&lt;/b&gt;&lt;br&gt;--------------------&lt;br&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;ДАНІ
-            СКАНУВАННЯ&lt;/b&gt;&lt;br&gt;--------------------&lt;br&gt;</Data>
+          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;ДАНІ СКАНУВАННЯ&lt;/b&gt;&lt;br&gt;--------------------&lt;br&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9208,12 +9170,10 @@
           <Data ss:Type="String">ui_confirmresetdefaultspage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Do you want to restore default settings for the current category?
-            (%1%)</Data>
+          <Data ss:Type="String">Do you want to restore default settings for the current category? (%1%)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Хочете відновити параметри за замовчуванням для поточної категорії?
-            (%1%)</Data>
+          <Data ss:Type="String">Хочете відновити параметри за замовчуванням для поточної категорії? (%1%)</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9227,12 +9187,10 @@
           <Data ss:Type="String">ui_confirmresetdefaultssubpage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Do you want to restore default settings for the current category?
-            (%1% -&gt; %2%)</Data>
+          <Data ss:Type="String">Do you want to restore default settings for the current category? (%1% -&gt; %2%)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Хочете відновити параметри за замовчуванням для поточної категорії?
-            (%1% -&gt; %2%)</Data>
+          <Data ss:Type="String">Хочете відновити параметри за замовчуванням для поточної категорії? (%1% -&gt; %2%)</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9263,8 +9221,7 @@
           <Data ss:Type="String">ui_energydesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Harness the destructive power of electricity, fire, and kinetic
-            energy.</Data>
+          <Data ss:Type="String">Harness the destructive power of electricity, fire, and kinetic energy.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Керуйте електрикою, вогнем і кінетичною енергією.</Data>
@@ -9281,12 +9238,10 @@
           <Data ss:Type="String">ui_engineerdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Specialize in modifying your gear, repairing, and crushing problems
-            with your wrench.</Data>
+          <Data ss:Type="String">Specialize in modifying your gear, repairing, and crushing problems with your wrench.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Модифікуйте спорядження, лагодьте обладнання та усувайте проблеми
-            ударами розвідного ключа.</Data>
+          <Data ss:Type="String">Модифікуйте спорядження, лагодьте обладнання та усувайте проблеми ударами розвідного ключа.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9300,12 +9255,10 @@
           <Data ss:Type="String">ui_etherdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Manipulate the psychoactive ether to change shape and dupe your
-            enemies.</Data>
+          <Data ss:Type="String">Manipulate the psychoactive ether to change shape and dupe your enemies.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Маніпулюйте психоактивним ефіром, змінюючи свій вигляд і обманюючи
-            ворогів.</Data>
+          <Data ss:Type="String">Маніпулюйте психоактивним ефіром, змінюючи свій вигляд і обманюючи ворогів.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9659,12 +9612,10 @@
           <Data ss:Type="String">ui_scanmore</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scan more Typhon specimens with your psychoscope to unlock this
-            ability.</Data>
+          <Data ss:Type="String">Scan more Typhon specimens with your psychoscope to unlock this ability.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Проскануйте психоскопом ще кілька тифонів, щоб відкрити це
-            вміння.</Data>
+          <Data ss:Type="String">Проскануйте психоскопом ще кілька тифонів, щоб відкрити це вміння.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9695,12 +9646,10 @@
           <Data ss:Type="String">ui_scientistdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use knowledge of science, medicine, and specialized lab equipment
-            to your advantage. </Data>
+          <Data ss:Type="String">Use knowledge of science, medicine, and specialized lab equipment to your advantage. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Використовуйте наукові та медичні знання, а також
-            спеціалізоване лабораторне обладнання. </Data>
+          <Data ss:Type="String">Використовуйте наукові та медичні знання, а також спеціалізоване лабораторне обладнання. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9731,12 +9680,10 @@
           <Data ss:Type="String">ui_securitydesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Boost your physical abilities, skill with firearms, and security
-            tactics.</Data>
+          <Data ss:Type="String">Boost your physical abilities, skill with firearms, and security tactics.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Покращіть ваші фізичні дані, навички поводження з вогнепальною
-            зброєю і тактичну майстерність.</Data>
+          <Data ss:Type="String">Покращіть ваші фізичні дані, навички поводження з вогнепальною зброєю і тактичну майстерність.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -9767,12 +9714,10 @@
           <Data ss:Type="String">ui_telepathdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use your mind as a weapon or manipulate technology and objects at a
-            distance.</Data>
+          <Data ss:Type="String">Use your mind as a weapon or manipulate technology and objects at a distance.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Використовуйте свій розум як зброю або керуйте пристроями та
-            об'єктами на відстані.</Data>
+          <Data ss:Type="String">Використовуйте свій розум як зброю або керуйте пристроями та об'єктами на відстані.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -10704,8 +10649,7 @@
           <Data ss:Type="String">ui_activeusercontrollermessageps4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your controller has been disconnected. Please reconnect the
-            controller to continue.</Data>
+          <Data ss:Type="String">Your controller has been disconnected. Please reconnect the controller to continue.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Ваш контролер відключений. Підключіть контролер, щоб продовжити.</Data>
@@ -10946,8 +10890,7 @@
           <Data ss:Type="String">Load failed due to user sign out.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Не вдалося виконати завантаження: користувач вийшов з облікового
-            запису.</Data>
+          <Data ss:Type="String">Не вдалося виконати завантаження: користувач вийшов з облікового запису.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -11358,12 +11301,10 @@
           <Data ss:Type="String">ui_advancewarning</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning: Depending on hardware configuration, editing these
-            settings may negatively affect game performance.</Data>
+          <Data ss:Type="String">Warning: Depending on hardware configuration, editing these settings may negatively affect game performance.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Увага! Залежно від конфігурації системи, зміна цих
-            налаштувань може негативно позначитися на продуктивності.</Data>
+          <Data ss:Type="String">Увага! Залежно від конфігурації системи, зміна цих налаштувань може негативно позначитися на продуктивності.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -11870,12 +11811,10 @@
           <Data ss:Type="String">ui_steamcontrollernotice</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">*Enabling/disabling the steam controller requires application
-            restart.</Data>
+          <Data ss:Type="String">*Enabling/disabling the steam controller requires application restart.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">*Щоб увімкнути/вимкнути підтримку контролера Steam, потрібен
-            перезапуск гри.</Data>
+          <Data ss:Type="String">*Щоб увімкнути/вимкнути підтримку контролера Steam, потрібен перезапуск гри.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12042,14 +11981,10 @@
           <Data ss:Type="String">ui_difficultydesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Game difficulty can be changed at any point during the game. Keep
-            in mind the game will remember the lowest difficulty ever used during the campaign for
-            the end-game summary.</Data>
+          <Data ss:Type="String">Game difficulty can be changed at any point during the game. Keep in mind the game will remember the lowest difficulty ever used during the campaign for the end-game summary.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ви можете змінити рівень складності в будь-який момент. Врахуйте,
-            що під час підбиття підсумків вашого проходження гра буде враховувати тільки найнижчий
-            рівень складності, використаний вами в кампанії.</Data>
+          <Data ss:Type="String">Ви можете змінити рівень складності в будь-який момент. Врахуйте, що під час підбиття підсумків вашого проходження гра буде враховувати тільки найнижчий рівень складності, використаний вами в кампанії.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12182,12 +12117,10 @@
           <Data ss:Type="String">ui_survivalalltraumasdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Adds new trauma statuses to the game, such as Bone Fracture,
-            Concussion, Hemorrhage, and Third-Degree Burns.</Data>
+          <Data ss:Type="String">Adds new trauma statuses to the game, such as Bone Fracture, Concussion, Hemorrhage, and Third-Degree Burns.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Додає нові травми, зокрема переломи, струс мозку, крововтрату та
-            опіки третього ступеня.</Data>
+          <Data ss:Type="String">Додає нові травми, зокрема переломи, струс мозку, крововтрату та опіки третього ступеня.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12201,13 +12134,10 @@
           <Data ss:Type="String">ui_survivaldesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is a set of optional modifiers to make the game more
-            challenging. Warning! These options cannot be changed beyond this screen. Not
-            recommended for inexperienced players.</Data>
+          <Data ss:Type="String">This is a set of optional modifiers to make the game more challenging. Warning! These options cannot be changed beyond this screen. Not recommended for inexperienced players.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Це набір додаткових модифікаторів, що ускладнюють гру. Увага! Ці
-            параметри не можна змінити під час гри. Тільки для досвідчених гравців.</Data>
+          <Data ss:Type="String">Це набір додаткових модифікаторів, що ускладнюють гру. Увага! Ці параметри не можна змінити під час гри. Тільки для досвідчених гравців.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12238,13 +12168,10 @@
           <Data ss:Type="String">ui_survivalironmandesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Loading during Ironman Mode is disabled, and saving only occurs
-            when exiting. If you die all progress is lost.</Data>
+          <Data ss:Type="String">Loading during Ironman Mode is disabled, and saving only occurs when exiting. If you die all progress is lost.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">В режимі "Сталева воля" не можна завантажувати збережені ігри, а
-            гра зберігається тільки під час виходу. Якщо ви загинете, всі дані про проходження
-            будуть загублені.</Data>
+          <Data ss:Type="String">В режимі "Сталева воля" не можна завантажувати збережені ігри, а гра зберігається тільки під час виходу. Якщо ви загинете, всі дані про проходження будуть загублені.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12258,20 +12185,10 @@
           <Data ss:Type="String">ui_survivalmodenews</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;font color=&apos;#FFcc00&apos;
-            size=&apos;30&apos;&gt;&lt;b&gt;NEW MODES
-            AVAILABLE!&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Challenge yourself with new survival features
-            such as traumas and weapon degradation, or play in Story Mode, which reduces combat
-            difficulty so you can focus on the narrative. Survival options can only be enabled on a
-            New Game.</Data>
+          <Data ss:Type="String">&lt;font color=&apos;#FFcc00&apos; size=&apos;30&apos;&gt;&lt;b&gt;NEW MODES AVAILABLE!&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Challenge yourself with new survival features such as traumas and weapon degradation, or play in Story Mode, which reduces combat difficulty so you can focus on the narrative. Survival options can only be enabled on a New Game.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;font color=&apos;#FFcc00&apos;
-            size=&apos;30&apos;&gt;&lt;b&gt;З'ЯВИЛИСЯ НОВІ
-            РЕЖИМИ!&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Випробуйте свої навички виживання, увімкнувши
-            травми і поступове зношення зброї, або, навпаки, сконцентруйтеся на оповіданні в режимі
-            зі зниженою складністю боїв. Режим виживання можна ввімкнути тільки під час запуску
-            нової гри.</Data>
+          <Data ss:Type="String">&lt;font color=&apos;#FFcc00&apos; size=&apos;30&apos;&gt;&lt;b&gt;З'ЯВИЛИСЯ НОВІ РЕЖИМИ!&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Випробуйте свої навички виживання, увімкнувши травми і поступове зношення зброї, або, навпаки, сконцентруйтеся на оповіданні в режимі зі зниженою складністю боїв. Режим виживання можна ввімкнути тільки під час запуску нової гри.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12302,12 +12219,10 @@
           <Data ss:Type="String">ui_survivaloxygendesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Suit damage causes air to leak from your suit, limiting your air
-            supply in environments with no atmosphere, such as the station exterior.</Data>
+          <Data ss:Type="String">Suit damage causes air to leak from your suit, limiting your air supply in environments with no atmosphere, such as the station exterior.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">У разі пошкоджень костюма з нього починає виходити повітря,
-            зменшуючи ваш запас кисню в зонах без атмосфери - наприклад, за межами станції.</Data>
+          <Data ss:Type="String">У разі пошкоджень костюма з нього починає виходити повітря, зменшуючи ваш запас кисню в зонах без атмосфери - наприклад, за межами станції.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12372,12 +12287,10 @@
           <Data ss:Type="String">ui_survivalweapondegradationdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons wear down from use and environmental hazards. If not
-            repaired they will jam periodically.</Data>
+          <Data ss:Type="String">Weapons wear down from use and environmental hazards. If not repaired they will jam periodically.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Зброя поступово зношується через використання та шкідливий вплив
-            середовища.</Data>
+          <Data ss:Type="String">Зброя поступово зношується через використання та шкідливий вплив середовища.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12561,14 +12474,10 @@
           <Data ss:Type="String">ui_newgameplusdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Select which campaign slot you wish to load the abilities from for
-            your new game. Abilities will be re-granted when you acquire the Psychoscope in
-            Morgan&apos;s office.</Data>
+          <Data ss:Type="String">Select which campaign slot you wish to load the abilities from for your new game. Abilities will be re-granted when you acquire the Psychoscope in Morgan&apos;s office.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Виберіть слот кампанії, з якого ви хочете завантажити здібності для
-            нового проходження. Ви отримаєте ці здібності, коли знайдете психоскоп у своєму
-            кабінеті.</Data>
+          <Data ss:Type="String">Виберіть слот кампанії, з якого ви хочете завантажити здібності для нового проходження. Ви отримаєте ці здібності, коли знайдете психоскоп у своєму кабінеті.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -12599,8 +12508,7 @@
           <Data ss:Type="String">ui_newgameplusslotdesc</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The currently selected slot has unlocked abilities in the following
-            trees:</Data>
+          <Data ss:Type="String">The currently selected slot has unlocked abilities in the following trees:</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">В обраному слоті відкриті здібності в таких категоріях:</Data>

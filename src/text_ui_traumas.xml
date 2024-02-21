@@ -58,8 +58,7 @@
           <Data ss:Type="String">Temporarily more resistant to damage that causes Hemorrhage.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Тимчасове збільшення опірності до поранень, що викликають
-            крововтрату.</Data>
+          <Data ss:Type="String">Тимчасове збільшення опірності до поранень, що викликають крововтрату.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -73,12 +72,10 @@
           <Data ss:Type="String">ui_pharmaantiburnstatus</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Temporarily more resistant to damage that causes Third Degree
-            Burns.</Data>
+          <Data ss:Type="String">Temporarily more resistant to damage that causes Third Degree Burns.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Тимчасове збільшення опірності до поранень, що викликають опіки
-            третього ступеня.</Data>
+          <Data ss:Type="String">Тимчасове збільшення опірності до поранень, що викликають опіки третього ступеня.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -160,12 +157,10 @@
           <Data ss:Type="String">ui_pharmaantiradstatus</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Temporarily more resistant to damage that causes Radiation
-            Sickness.</Data>
+          <Data ss:Type="String">Temporarily more resistant to damage that causes Radiation Sickness.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Тимчасове збільшення опірності до поранень, що викликають променеву
-            хворобу.</Data>
+          <Data ss:Type="String">Тимчасове збільшення опірності до поранень, що викликають променеву хворобу.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
