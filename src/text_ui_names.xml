@@ -5,391 +5,49 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Title>Audio script template</Title>
-    <Author>Susan Kath</Author>
-    <LastAuthor>Susan Kath</LastAuthor>
-    <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
-    <Created>2002-06-17T19:14:00Z</Created>
-    <LastSaved>2016-01-12T01:08:30Z</LastSaved>
-    <Company>Arkane Studios</Company>
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12345</WindowHeight>
-    <WindowWidth>20295</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <TabRatio>274</TabRatio>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel" />
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Arial" x:Family="Swiss" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1" />
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid" />
+      <NumberFormat ss:Format="#,##0" />
     </Style>
-    <Style ss:ID="s62">
-      <Alignment ss:Vertical="Top" ss:WrapText="1" />
-      <Borders />
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1" />
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid" />
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
     </Style>
-    <Style ss:ID="s63">
-      <Alignment ss:Vertical="Top" ss:WrapText="1" />
-      <Borders />
-      <Font ss:FontName="Arial" x:Family="Swiss" />
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
     </Style>
-    <Style ss:ID="s65">
-      <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
-      <Borders />
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1" />
     </Style>
-    <Style ss:ID="s66">
-      <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
-      <Borders>
-        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
-      </Borders>
-      <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1" />
-      <Interior ss:Color="#FFCC00" ss:Pattern="Solid" />
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
+      <NumberFormat ss:Format="#,##0" />
     </Style>
-    <Style ss:ID="s67">
-      <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
-      <Borders>
-        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
-      </Borders>
-      <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1" />
-      <Interior ss:Color="#FF0000" ss:Pattern="Solid" />
-    </Style>
-    <Style ss:ID="s68">
-      <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" />
-      <Borders>
-        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-      </Borders>
-      <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" />
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" />
     </Style>
   </Styles>
   <Worksheet ss:Name="Sheet1">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="58" x:FullColumns="1"
-      x:FullRows="1" ss:StyleID="s62">
-      <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="186" />
-      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="458.25" />
-      <Column ss:StyleID="s62" ss:Width="412.5" />
-      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="160.5" />
-      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="126.75" />
-      <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s65">
-        <Cell ss:StyleID="s66">
+    <Table>
+      <Row>
+        <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
-        <Cell ss:StyleID="s67">
+        <Cell>
           <Data ss:Type="String">ORIGINAL TEXT</Data>
         </Cell>
-        <Cell ss:StyleID="s67">
+        <Cell>
           <Data ss:Type="String">TRANSLATED TEXT</Data>
         </Cell>
-        <Cell ss:StyleID="s67">
+        <Cell>
           <Data ss:Type="String">LOCKED</Data>
         </Cell>
-        <Cell ss:StyleID="s67">
+        <Cell>
           <Data ss:Type="String">CHARACTER LIMIT</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="25.5">
-        <Cell>
-          <Data ss:Type="String">npc_psyphantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Voltaic Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Voltaic Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_etherphantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Etheric Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Etheric Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="25.5">
-        <Cell>
-          <Data ss:Type="String">npc_mimic</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Mimic</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Mimic</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="25.5">
-        <Cell>
-          <Data ss:Type="String">npc_elitemimic</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Greater Mimic</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Greater Mimic</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="25.5">
-        <Cell>
-          <Data ss:Type="String">npc_corrupthuman</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Corrupted Human</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Corrupted Human</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_corruptoperator</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Corrupted Operator</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Corrupted Operator</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_nightmare</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Nightmare</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Nightmare</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_poltergeist</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Poltergeist</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Poltergeist</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_telepath</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Telepath</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Telepath</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_technopath</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Technopath</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Technopath</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_thermalphantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Thermal Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Thermal Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_voltaicphantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Voltaic Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Voltaic Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_weaver</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Weaver</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Weaver</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_cystoid</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Cystoid</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Cystoid</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_homosapiens</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Homo sapiens</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Homo sapiens</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_human</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Human</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Human</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_solarphantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Solar Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Solar Phantom</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_morganmale</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan Yu</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan Yu</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_morganfemale</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan Yu</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan Yu</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
         </Cell>
       </Row>
       <Row>
@@ -400,52 +58,13 @@
           <Data ss:Type="String">Tendril</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tendril</Data>
+          <Data ss:Type="String">Щупальце</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_cystoidnest</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cystoid Nest</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Cystoid Nest</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_turret</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Turret</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Turret</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_corpse</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">%1% (Corpse)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">%1% (Corpse)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -456,38 +75,30 @@
           <Data ss:Type="String">%1% (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Broken)</Data>
+          <Data ss:Type="String">%1% (зламано)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_destroyed</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Destroyed)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">%1% (Destroyed)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">npc_fortified</Data>
+          <Data ss:Type="String">npc_corpse</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Fortified)</Data>
+          <Data ss:Type="String">%1% (Corpse)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Fortified)</Data>
+          <Data ss:Type="String">%1% (труп)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -498,38 +109,404 @@
           <Data ss:Type="String">%1% (Corrupted)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Corrupted)</Data>
+          <Data ss:Type="String">%1% (уражено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_corrupteddevice</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">Corrupted Device</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Corrupted Device</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">npc_coral</Data>
+          <Data ss:Type="String">npc_corrupthuman</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Coral Node</Data>
+          <Data ss:Type="String">Corrupted Human</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Coral Node</Data>
+          <Data ss:Type="String">Заражена людина</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_corruptoperator</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Corrupted Operator</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Заражений оператор</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_cystoid</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cystoid</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Цистоїд</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_cystoidnest</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cystoid Nest</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Гніздо цистоїдів</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_destroyed</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">%1% (Destroyed)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">%1% (знищено)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_elitemimic</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Greater Mimic</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Вищий мімік</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_etherphantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Etheric Phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ефірний фантом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_homosapiens</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Homo sapiens</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Людина розумна</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_human</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Human</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Людина</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_mimic</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mimic</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Мімік</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_morganfemale</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Морган Ю</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_morganmale</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan Yu</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Морган Ю</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_nightmare</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nightmare</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Кошмар</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Фантом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_poltergeist</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Poltergeist</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Полтергейст</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_psyphantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Voltaic Phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Електрофантом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_solarphantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Solar Phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сонячний фантом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_technopath</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Technopath</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Технопат</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_telepath</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Telepath</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Телепат</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_thermalphantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Thermal Phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Термофантом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_turret</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Turret</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Турель</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_voltaicphantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Voltaic Phantom</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Електрофантом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_weaver</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weaver</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ткач</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -540,10 +517,30 @@
           <Data ss:Type="String">Apex</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Apex</Data>
+          <Data ss:Type="String">Альфа-тифон</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_coral</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Coral Node</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Вузол Корала</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -554,10 +551,30 @@
           <Data ss:Type="String">Cazavor (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cazavor (Broken)</Data>
+          <Data ss:Type="String">«Казавор» (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_corrupteddevice</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Corrupted Device</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Уражений пристрій</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -568,10 +585,13 @@
           <Data ss:Type="String">Danielle (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Danielle (Broken)</Data>
+          <Data ss:Type="String">Даніелла (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -582,10 +602,13 @@
           <Data ss:Type="String">December (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">December (Broken)</Data>
+          <Data ss:Type="String">«Грудень» (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -596,24 +619,30 @@
           <Data ss:Type="String">Dayo Igwe (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dayo Igwe (Broken)</Data>
+          <Data ss:Type="String">Дайо Ігве (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
         <Cell>
           <Data ss:Type="String">npc_januarybroken</Data>
         </Cell>
-        <Cell ss:StyleID="s68">
-          <Data ss:Type="String">January (Broken)</Data>
-        </Cell>
-        <Cell ss:StyleID="s68">
+        <Cell>
           <Data ss:Type="String">January (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String">«Січень» (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -624,13 +653,13 @@
           <Data ss:Type="String">Kaspar (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kaspar (Broken)</Data>
+          <Data ss:Type="String">Каспар (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -641,66 +670,13 @@
           <Data ss:Type="String">Mikhaila (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila (Broken)</Data>
+          <Data ss:Type="String">Катерина (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_sarahbroken</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sarah (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Sarah (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_skilletbroken</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Skillet (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Skillet (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_tizzybroken</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Tizzy (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Tizzy (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_softshellbroken</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Softshell (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Softshell (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -711,10 +687,64 @@
           <Data ss:Type="String">Portable Turret</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Portable Turret</Data>
+          <Data ss:Type="String">Портативна турель</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_sarahbroken</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Sarah (Broken)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сара (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_skilletbroken</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Skillet (Broken)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">«Сковорідка» (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_softshellbroken</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Softshell (Broken)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">«Софтшелл» (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -725,38 +755,13 @@
           <Data ss:Type="String">Typhon (Corpse)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon (Corpse)</Data>
+          <Data ss:Type="String">Тифон (труп)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_mindcontrol</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">%1% (Mind-Controlled)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">%1% (Mind-Controlled)</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_mindjack</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">%1% (Mindjack)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">%1% (Mindjack)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -767,52 +772,47 @@
           <Data ss:Type="String">%1% (Machine Mind)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Machine Mind)</Data>
+          <Data ss:Type="String">%1% (володар машин)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">npc_medopbroken</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medical Operator (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Medical Operator (Broken)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">npc_sciopbroken</Data>
+          <Data ss:Type="String">npc_mindcontrol</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Science Operator (Broken)</Data>
+          <Data ss:Type="String">%1% (Mind-Controlled)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Science Operator (Broken)</Data>
+          <Data ss:Type="String">%1% (контроль розуму)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">npc_milopbroken</Data>
+          <Data ss:Type="String">npc_mindjack</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Military Operator (Broken)</Data>
+          <Data ss:Type="String">%1% (Mindjack)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Military Operator (Broken)</Data>
+          <Data ss:Type="String">%1% (злом розуму)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -823,10 +823,13 @@
           <Data ss:Type="String">Corrupted Operator (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Corrupted Operator (Broken)</Data>
+          <Data ss:Type="String">Заражений оператор (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -837,38 +840,64 @@
           <Data ss:Type="String">Engineering Operator (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engineering Operator (Broken)</Data>
+          <Data ss:Type="String">Інженер-оператор (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">container_sciopdestroyed</Data>
+          <Data ss:Type="String" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">Science Operator (Destroyed)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Science Operator (Destroyed)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">container_milopdestroyed</Data>
+          <Data ss:Type="String">npc_medopbroken</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Military Operator (Destroyed)</Data>
+          <Data ss:Type="String">Medical Operator (Broken)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Military Operator (Destroyed)</Data>
+          <Data ss:Type="String">Медоператор (поломка)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_milopbroken</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Military Operator (Broken)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Бойовий оператор (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_sciopbroken</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Science Operator (Broken)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Науковий оператор (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -879,10 +908,13 @@
           <Data ss:Type="String">Engineering Operator (Destroyed)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engineering Operator (Destroyed)</Data>
+          <Data ss:Type="String">Інженер-оператор (знищено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -893,10 +925,81 @@
           <Data ss:Type="String">Medical Operator (Destroyed)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medical Operator (Destroyed)</Data>
+          <Data ss:Type="String">Медоператор (знищено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">container_milopdestroyed</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Military Operator (Destroyed)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Бойовий оператор (знищено)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">container_sciopdestroyed</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Science Operator (Destroyed)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Науковий оператор (знищено)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_tizzybroken</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Tizzy (Broken)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">«Шуміха» (поломка)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">npc_fortified</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">%1% (Fortified)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">%1% (укріплено)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
       <Row>
@@ -907,41 +1010,15 @@
           <Data ss:Type="String">%1% (Stasis)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">%1% (Stasis)</Data>
+          <Data ss:Type="String">%1% (знерухомлено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <PageSetup>
-        <Layout x:Orientation="Landscape" />
-        <Header x:Margin="0.51181102362204722"
-          x:Data="&amp;LTime restriction sample script" />
-        <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P" />
-        <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
-          x:Top="0.98425196850393704" />
-      </PageSetup>
-      <Print>
-        <ValidPrinterInfo />
-        <PaperSizeIndex>9</PaperSizeIndex>
-        <Scale>70</Scale>
-        <HorizontalResolution>600</HorizontalResolution>
-        <VerticalResolution>600</VerticalResolution>
-      </Print>
-      <Selected />
-      <TopRowVisible>15</TopRowVisible>
-      <LeftColumnVisible>2</LeftColumnVisible>
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>57</ActiveRow>
-          <ActiveCol>3</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
 </Workbook>
