@@ -1203,7 +1203,7 @@
           <Data ss:Type="String">CONTROLS</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Управління</Data>
+          <Data ss:Type="String">КЕРУВАННЯ</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -3213,7 +3213,7 @@
           <Data ss:Type="String">Display vehicle controls</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Показати управління транспортом</Data>
+          <Data ss:Type="String">Показати керування транспортом</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

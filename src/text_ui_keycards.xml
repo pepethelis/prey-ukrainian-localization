@@ -347,7 +347,7 @@
           <Data ss:Type="String">Shield Control Room Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ключ від пункту управління щитом</Data>
+          <Data ss:Type="String">Ключ від пункту керування щитом</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
