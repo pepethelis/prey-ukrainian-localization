@@ -5,21 +5,7 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>10305</WindowHeight>
-    <WindowWidth>26355</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
     <Style ss:ID="Default" ss:Name="Normal">
       <Alignment ss:Vertical="Bottom" />
@@ -31,11 +17,8 @@
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="110" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="159" />
-      <Column ss:AutoFitWidth="0" ss:Width="209.25" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -52,7 +35,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956151</Data>
         </Cell>
@@ -60,16 +43,16 @@
           <Data ss:Type="String">Topics Researched</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Topics Researched</Data>
+          <Data ss:Type="String">Досліджені теми</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956152</Data>
         </Cell>
@@ -77,16 +60,16 @@
           <Data ss:Type="String">Typhon Powers Discovered</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon Powers Discovered</Data>
+          <Data ss:Type="String">Відкриті здібності тифонів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956153</Data>
         </Cell>
@@ -94,16 +77,16 @@
           <Data ss:Type="String">Neuromods Installed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Neuromods Installed</Data>
+          <Data ss:Type="String">Задіяні нейромоди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956154</Data>
         </Cell>
@@ -111,16 +94,16 @@
           <Data ss:Type="String">Scans Performed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scans Performed</Data>
+          <Data ss:Type="String">Виконані скани</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956155</Data>
         </Cell>
@@ -128,16 +111,16 @@
           <Data ss:Type="String">Humans Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Humans Killed</Data>
+          <Data ss:Type="String">Вбиті люди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956156</Data>
         </Cell>
@@ -145,16 +128,16 @@
           <Data ss:Type="String">Phantoms Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Phantoms Killed</Data>
+          <Data ss:Type="String">Знищені фантоми</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956157</Data>
         </Cell>
@@ -162,16 +145,16 @@
           <Data ss:Type="String">Thermal Phantoms Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thermal Phantoms Killed</Data>
+          <Data ss:Type="String">Знищені термофантоми</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956158</Data>
         </Cell>
@@ -179,16 +162,16 @@
           <Data ss:Type="String">Etheric Phantoms Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Etheric Phantoms Killed</Data>
+          <Data ss:Type="String">Знищені ефірні фантоми</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956159</Data>
         </Cell>
@@ -196,16 +179,16 @@
           <Data ss:Type="String">Voltaic Phantoms Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Voltaic Phantoms Killed</Data>
+          <Data ss:Type="String">Знищені ефірні фантоми</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956161</Data>
         </Cell>
@@ -213,16 +196,16 @@
           <Data ss:Type="String">Mimics Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mimics Killed</Data>
+          <Data ss:Type="String">Убиті міміки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956162</Data>
         </Cell>
@@ -230,16 +213,16 @@
           <Data ss:Type="String">Greater Mimics Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Greater Mimics Killed</Data>
+          <Data ss:Type="String">Убиті вищі міміки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956163</Data>
         </Cell>
@@ -247,16 +230,16 @@
           <Data ss:Type="String">Technopaths Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Technopaths Killed</Data>
+          <Data ss:Type="String">Убиті технопати</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956164</Data>
         </Cell>
@@ -264,16 +247,16 @@
           <Data ss:Type="String">Telepaths Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Telepaths Killed</Data>
+          <Data ss:Type="String">Убиті телепати</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956165</Data>
         </Cell>
@@ -281,16 +264,16 @@
           <Data ss:Type="String">Weavers Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weavers Killed</Data>
+          <Data ss:Type="String">Убиті ткачі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956166</Data>
         </Cell>
@@ -298,16 +281,16 @@
           <Data ss:Type="String">Nightmares Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nightmares Killed</Data>
+          <Data ss:Type="String">Убиті кошмари</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956167</Data>
         </Cell>
@@ -315,33 +298,33 @@
           <Data ss:Type="String">Unique Operators Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Unique Operators Destroyed</Data>
+          <Data ss:Type="String">Убиті унікальні оператори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956168</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enemies Killed While GLOO'd</Data>
+          <Data ss:Type="String">Enemies Killed While GLOO&apos;d</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enemies Killed While GLOO'd</Data>
+          <Data ss:Type="String">Убиті вороги, оброблені ГІПСом</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956169</Data>
         </Cell>
@@ -349,16 +332,16 @@
           <Data ss:Type="String">Enemies Killed by Falling</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enemies Killed by Falling</Data>
+          <Data ss:Type="String">Вороги, що розбилися під час падіння</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956170</Data>
         </Cell>
@@ -366,16 +349,16 @@
           <Data ss:Type="String">Enemies Killed While Stunned</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enemies Killed While Stunned</Data>
+          <Data ss:Type="String">Убиті оглушені вороги</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956171</Data>
         </Cell>
@@ -383,16 +366,16 @@
           <Data ss:Type="String">Poltergeists Killed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Poltergeists Killed</Data>
+          <Data ss:Type="String">Знищені полтергейсти</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956172</Data>
         </Cell>
@@ -400,16 +383,16 @@
           <Data ss:Type="String">Typhon Powers Acquired</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon Powers Acquired</Data>
+          <Data ss:Type="String">Отримані здібності тифонів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956173</Data>
         </Cell>
@@ -417,16 +400,16 @@
           <Data ss:Type="String">Human Abilities Acquired</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Human Abilities Acquired</Data>
+          <Data ss:Type="String">Отримані людські здібності</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956174</Data>
         </Cell>
@@ -434,16 +417,16 @@
           <Data ss:Type="String">Total Abilities Acquired</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Total Abilities Acquired</Data>
+          <Data ss:Type="String">Отримані здібності</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956175</Data>
         </Cell>
@@ -451,16 +434,16 @@
           <Data ss:Type="String">Recycler Charges Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Recycler Charges Collected</Data>
+          <Data ss:Type="String">Знайдені утилізаційні гранати</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956176</Data>
         </Cell>
@@ -468,16 +451,16 @@
           <Data ss:Type="String">EMP Charges Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">EMP Charges Collected</Data>
+          <Data ss:Type="String">Знайдені ЕМ-заряди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956177</Data>
         </Cell>
@@ -485,16 +468,16 @@
           <Data ss:Type="String">GLOO Ammo Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">GLOO Ammo Collected</Data>
+          <Data ss:Type="String">Знайдені боєприпаси для ГІПС-гармати</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956178</Data>
         </Cell>
@@ -502,16 +485,16 @@
           <Data ss:Type="String">Q-Beam Cells Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Q-Beam Cells Collected</Data>
+          <Data ss:Type="String">Знайдені акумулятори для К-випромінювача</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956179</Data>
         </Cell>
@@ -519,16 +502,16 @@
           <Data ss:Type="String">Typhon Lures Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon Lures Collected</Data>
+          <Data ss:Type="String">Знайдені приманки для тифонів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956180</Data>
         </Cell>
@@ -536,16 +519,16 @@
           <Data ss:Type="String">Nullwave Transmitters Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nullwave Transmitters Collected</Data>
+          <Data ss:Type="String">Знайдені нуль-хвильові глушники</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956181</Data>
         </Cell>
@@ -553,16 +536,16 @@
           <Data ss:Type="String">Shotgun Shells Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shotgun Shells Collected</Data>
+          <Data ss:Type="String">Знайдені патрони 12 калібру</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956182</Data>
         </Cell>
@@ -570,16 +553,16 @@
           <Data ss:Type="String">9mm Bullets Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">9mm Bullets Collected</Data>
+          <Data ss:Type="String">Знайдені 9-мм патрони</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956183</Data>
         </Cell>
@@ -587,16 +570,16 @@
           <Data ss:Type="String">Disruptor Batteries Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disruptor Batteries Collected</Data>
+          <Data ss:Type="String">Знайдені батареї для «Приголомшувача»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956184</Data>
         </Cell>
@@ -604,16 +587,16 @@
           <Data ss:Type="String">FlexiFoam Bolts Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">FlexiFoam Bolts Collected</Data>
+          <Data ss:Type="String">Знайдені дротики</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956185</Data>
         </Cell>
@@ -621,16 +604,16 @@
           <Data ss:Type="String">Medkits Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medkits Collected</Data>
+          <Data ss:Type="String">Знайдені аптечки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956186</Data>
         </Cell>
@@ -638,16 +621,118 @@
           <Data ss:Type="String">Psi Hypos Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psi Hypos Collected</Data>
+          <Data ss:Type="String">Знайдені пси-ін'єктори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956187</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Skinsulators Picked Up</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зібраний «Покровол»</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956188</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Durashells Picked Up</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зібраний «Стійкостін»</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956189</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Bill&apos;s Psychic Tonics Picked Up</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зібраний психотонік доктора Білла</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956190</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Caffiends Picked Up</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зібрані «Кавадемони»</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956191</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mech-Techs Picked Up</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зібраний «Мехтех»</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956192</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Brawnies Picked Up</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зібрані «Бейсквіти»</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956193</Data>
         </Cell>
@@ -655,16 +740,16 @@
           <Data ss:Type="String">Coagulating Gels Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Coagulating Gels Collected</Data>
+          <Data ss:Type="String">Знайдений коагулювальний гель</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956194</Data>
         </Cell>
@@ -672,16 +757,16 @@
           <Data ss:Type="String">Dermaweb Skin Grafts Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dermaweb Skin Grafts Collected</Data>
+          <Data ss:Type="String">Знайдені клапті штучної шкіри</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956195</Data>
         </Cell>
@@ -689,16 +774,16 @@
           <Data ss:Type="String">Brained Pills Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Brained Pills Collected</Data>
+          <Data ss:Type="String">Знайдений «Мізкостін»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956196</Data>
         </Cell>
@@ -706,16 +791,16 @@
           <Data ss:Type="String">Skeletal Repair Kits Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Skeletal Repair Kits Collected</Data>
+          <Data ss:Type="String">Знайдені ортопедичні набори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956197</Data>
         </Cell>
@@ -723,16 +808,16 @@
           <Data ss:Type="String">Anti-Rads Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Anti-Rads Collected</Data>
+          <Data ss:Type="String">Знайдений «Антирад»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956198</Data>
         </Cell>
@@ -740,16 +825,16 @@
           <Data ss:Type="String">Food Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Food Collected</Data>
+          <Data ss:Type="String">Знайдена їжа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956199</Data>
         </Cell>
@@ -757,16 +842,16 @@
           <Data ss:Type="String">Alcohol Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alcohol Collected</Data>
+          <Data ss:Type="String">Знайдений алкоголь</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956200</Data>
         </Cell>
@@ -774,16 +859,16 @@
           <Data ss:Type="String">O2 Bottles Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">O2 Bottles Collected</Data>
+          <Data ss:Type="String">Знайдені балони O2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956201</Data>
         </Cell>
@@ -791,16 +876,16 @@
           <Data ss:Type="String">Suit Patch Kits Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Suit Patch Kits Collected</Data>
+          <Data ss:Type="String">Знайдені набори для ремонту костюма</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956202</Data>
         </Cell>
@@ -808,16 +893,16 @@
           <Data ss:Type="String">Neuromods Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Neuromods Collected</Data>
+          <Data ss:Type="String">Знайдені нейромоди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956203</Data>
         </Cell>
@@ -825,16 +910,16 @@
           <Data ss:Type="String">Spare Parts Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Spare Parts Collected</Data>
+          <Data ss:Type="String">Знайдені запчастини</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956204</Data>
         </Cell>
@@ -842,50 +927,16 @@
           <Data ss:Type="String">Weapon Upgrade Kits Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapon Upgrade Kits Collected</Data>
+          <Data ss:Type="String">Знайдені набори для поліпшення зброї</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956205</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Suit Chipsets Collected</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Suit Chipsets Collected</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956206</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Psychoscope Chipsets Collected</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Psychoscope Chipsets Collected</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956207</Data>
         </Cell>
@@ -893,16 +944,16 @@
           <Data ss:Type="String">Recycler Junk Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Recycler Junk Collected</Data>
+          <Data ss:Type="String">Зібраний мотлох для утилізатора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956208</Data>
         </Cell>
@@ -910,16 +961,16 @@
           <Data ss:Type="String">Materials (Exotic) Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Materials (Exotic) Collected</Data>
+          <Data ss:Type="String">Зібрана екзотична матерія</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956209</Data>
         </Cell>
@@ -927,16 +978,16 @@
           <Data ss:Type="String">Materials (Mineral) Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Materials (Mineral) Collected</Data>
+          <Data ss:Type="String">Зібрані мінерали</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956210</Data>
         </Cell>
@@ -944,16 +995,16 @@
           <Data ss:Type="String">Materials (Organic) Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Materials (Organic) Collected</Data>
+          <Data ss:Type="String">Собранная органика</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956211</Data>
         </Cell>
@@ -961,16 +1012,16 @@
           <Data ss:Type="String">Materials (Synthetic) Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Materials (Synthetic) Collected</Data>
+          <Data ss:Type="String">Зібраний пластик</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956212</Data>
         </Cell>
@@ -978,16 +1029,16 @@
           <Data ss:Type="String">GLOO Cannons Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">GLOO Cannons Collected</Data>
+          <Data ss:Type="String">Знайдені ГІПС-гармати</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956213</Data>
         </Cell>
@@ -995,16 +1046,16 @@
           <Data ss:Type="String">Q-Beams Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Q-Beams Collected</Data>
+          <Data ss:Type="String">Знайдені К-випромінювачі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956214</Data>
         </Cell>
@@ -1012,16 +1063,16 @@
           <Data ss:Type="String">Silenced Pistols Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Silenced Pistols Collected</Data>
+          <Data ss:Type="String">Знайдені пістолети з глушником</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956215</Data>
         </Cell>
@@ -1029,16 +1080,16 @@
           <Data ss:Type="String">Shotguns Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shotguns Collected</Data>
+          <Data ss:Type="String">Знайдені дробовики</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956216</Data>
         </Cell>
@@ -1046,16 +1097,16 @@
           <Data ss:Type="String">Disruptor Stun Guns Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disruptor Stun Guns Collected</Data>
+          <Data ss:Type="String">Знайдені шокери «Приголомшувач»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956217</Data>
         </Cell>
@@ -1063,16 +1114,16 @@
           <Data ss:Type="String">Huntress Boltcasters Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Huntress Boltcasters Collected</Data>
+          <Data ss:Type="String">Знайдені дротикомети «Мисливиця»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956218</Data>
         </Cell>
@@ -1080,170 +1131,16 @@
           <Data ss:Type="String">Wrenches Collected</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Wrenches Collected</Data>
+          <Data ss:Type="String">Знайдені розвідні ключі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956219</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Medkits Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Medkits Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956220</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Psi Hypos Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Psi Hypos Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956227</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiBleed Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiBleed Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956228</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiBurn Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiBurn Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956229</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiConcussion Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiConcussion Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956230</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiCripple Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiCripple Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956231</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiRad Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pharma AntiRad Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956232</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Alcohol Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Alcohol Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956233</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Food Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Food Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956234</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">O2 Bottle Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">O2 Bottle Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129890956235</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Suit Patch Kit Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Suit Patch Kit Used From World</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956236</Data>
         </Cell>
@@ -1251,16 +1148,16 @@
           <Data ss:Type="String">Food Items Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Food Items Consumed</Data>
+          <Data ss:Type="String">Використані продукти харчування</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956237</Data>
         </Cell>
@@ -1268,16 +1165,16 @@
           <Data ss:Type="String">Medkits Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medkits Consumed</Data>
+          <Data ss:Type="String">Використані аптечки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956238</Data>
         </Cell>
@@ -1285,16 +1182,16 @@
           <Data ss:Type="String">O2 Bottle Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">O2 Bottle Consumed</Data>
+          <Data ss:Type="String">Використані балони O2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956239</Data>
         </Cell>
@@ -1302,16 +1199,118 @@
           <Data ss:Type="String">Psi Hypos Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psi Hypos Consumed</Data>
+          <Data ss:Type="String">Використані пси-ін'єктори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956240</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Skinsulators Consumed (Total)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використаний «Покровол» (усього)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956241</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Durashells Consumed (Total)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використаний «Стійкостін» (усього)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956242</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Bill&apos;s Psychic Tonics Consumed (Total)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використаний психотонік доктора Білла (усього)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956243</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Caffiends Consumed (Total)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані «Кавадемони» (усього)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956244</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mech-Techs Consumed (Total)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використаний «Мехтех» (усього)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956245</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Brawnies Consumed (Total)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані «Бейсквіти» (усього)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956246</Data>
         </Cell>
@@ -1319,16 +1318,16 @@
           <Data ss:Type="String">Coagulated Gels Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Coagulated Gels Consumed</Data>
+          <Data ss:Type="String">Використаний коагулюючий гель</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956247</Data>
         </Cell>
@@ -1336,16 +1335,16 @@
           <Data ss:Type="String">Dermaweb Skin Grafts Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dermaweb Skin Grafts Consumed</Data>
+          <Data ss:Type="String">Використані клапті штучної шкіри</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956248</Data>
         </Cell>
@@ -1353,16 +1352,16 @@
           <Data ss:Type="String">Brained Pills Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Brained Pills Consumed</Data>
+          <Data ss:Type="String">Використаний «Мізкостін»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956249</Data>
         </Cell>
@@ -1370,16 +1369,16 @@
           <Data ss:Type="String">Skeletal Repair Kits Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Skeletal Repair Kits Consumed</Data>
+          <Data ss:Type="String">Використані ортопедичні набори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956250</Data>
         </Cell>
@@ -1387,16 +1386,16 @@
           <Data ss:Type="String">Anti-Rads Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Anti-Rads Consumed</Data>
+          <Data ss:Type="String">Використаний «Антирад»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129890956251</Data>
         </Cell>
@@ -1404,16 +1403,16 @@
           <Data ss:Type="String">Suit Patch Kit Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Suit Patch Kit Consumed</Data>
+          <Data ss:Type="String">Використані набори для ремонту костюма</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10641886185852514354</Data>
         </Cell>
@@ -1421,16 +1420,16 @@
           <Data ss:Type="String">Neuromods Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Neuromods Consumed</Data>
+          <Data ss:Type="String">Використані нейромоди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956152976954</Data>
         </Cell>
@@ -1438,16 +1437,16 @@
           <Data ss:Type="String">Enemies Killed During Combat Focus</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enemies Killed During Combat Focus</Data>
+          <Data ss:Type="String">Вороги, вбиті під час бойової концентрації</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956152977032</Data>
         </Cell>
@@ -1455,16 +1454,16 @@
           <Data ss:Type="String">Mimics Mimicked</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mimics Mimicked</Data>
+          <Data ss:Type="String">Зімітовані міміки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956152977223</Data>
         </Cell>
@@ -1472,16 +1471,16 @@
           <Data ss:Type="String">Distinct Objects Mimicked</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Distinct Objects Mimicked</Data>
+          <Data ss:Type="String">Зімітовані об'єкти</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956152977633</Data>
         </Cell>
@@ -1489,16 +1488,16 @@
           <Data ss:Type="String">Objects Repaired</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Objects Repaired</Data>
+          <Data ss:Type="String">Відновлені об'єкти</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956152977656</Data>
         </Cell>
@@ -1506,16 +1505,16 @@
           <Data ss:Type="String">Objects Hacked</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Objects Hacked</Data>
+          <Data ss:Type="String">Зламані об'єкти</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956152977819</Data>
         </Cell>
@@ -1523,16 +1522,16 @@
           <Data ss:Type="String">Deprogrammed Humans</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Deprogrammed Humans</Data>
+          <Data ss:Type="String">Звільнені люди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153010718</Data>
         </Cell>
@@ -1540,16 +1539,16 @@
           <Data ss:Type="String">Enemies Killed While Lifted</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enemies Killed While Lifted</Data>
+          <Data ss:Type="String">Вороги, вбиті в повітрі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153010940</Data>
         </Cell>
@@ -1557,16 +1556,16 @@
           <Data ss:Type="String">Phantoms Created</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Phantoms Created</Data>
+          <Data ss:Type="String">Створені фантоми</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153011169</Data>
         </Cell>
@@ -1574,16 +1573,16 @@
           <Data ss:Type="String">Types of Food and Drink Consumed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Types of Food and Drink Consumed</Data>
+          <Data ss:Type="String">Типи використаних їжі та напоїв</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153075256</Data>
         </Cell>
@@ -1591,16 +1590,16 @@
           <Data ss:Type="String">Weapons Fully Upgraded</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons Fully Upgraded</Data>
+          <Data ss:Type="String">Повністю поліпшені види зброї</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153075341</Data>
         </Cell>
@@ -1608,16 +1607,16 @@
           <Data ss:Type="String">TranStar Crew and Visitors Located</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar Crew and Visitors Located</Data>
+          <Data ss:Type="String">Знайдені співробітники та гості на «Талосі-1»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153075408</Data>
         </Cell>
@@ -1625,16 +1624,16 @@
           <Data ss:Type="String">E-mails Read</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">E-mails Read</Data>
+          <Data ss:Type="String">Прочитані електронні листи</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153076359</Data>
         </Cell>
@@ -1642,16 +1641,33 @@
           <Data ss:Type="String">TranScribe Messages Listened To</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranScribe Messages Listened To</Data>
+          <Data ss:Type="String">Прослухані повідомлення на транскрипторі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_10739735956153077390</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Messages From Past Yu Listened To</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Прослухані повідомлення від Ю з минулого</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153077438</Data>
         </Cell>
@@ -1659,16 +1675,16 @@
           <Data ss:Type="String">Starbender Books Read</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Starbender Books Read</Data>
+          <Data ss:Type="String">Прочитані книги серії «Підкорювач зірок»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153151094</Data>
         </Cell>
@@ -1676,16 +1692,16 @@
           <Data ss:Type="String">Most Mimics Killed in Five Second Burst</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Most Mimics Killed in Five Second Burst</Data>
+          <Data ss:Type="String">Максимум міміків, убитих за 5 секунд</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153151158</Data>
         </Cell>
@@ -1693,16 +1709,16 @@
           <Data ss:Type="String">Farthest Distance Blasted While Mimicking</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Farthest Distance Blasted While Mimicking</Data>
+          <Data ss:Type="String">Найдальший політ під час мімікрії</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153151295</Data>
         </Cell>
@@ -1710,16 +1726,16 @@
           <Data ss:Type="String">Most Objects Recycled In Single Charge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Most Objects Recycled In Single Charge</Data>
+          <Data ss:Type="String">Максимум об'єктів, утилізованих однією гранатою</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153151346</Data>
         </Cell>
@@ -1727,16 +1743,16 @@
           <Data ss:Type="String">Most Operators Hit With Single Electrostatic Burst</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Most Operators Hit With Single Electrostatic Burst</Data>
+          <Data ss:Type="String">Максимум операторів, уражених одним електростатичним вибухом</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153185550</Data>
         </Cell>
@@ -1744,16 +1760,16 @@
           <Data ss:Type="String">Humans Hit With Psychoshock</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Humans Hit With Psychoshock</Data>
+          <Data ss:Type="String">Люди, уражені психошоком</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153517298</Data>
         </Cell>
@@ -1761,16 +1777,16 @@
           <Data ss:Type="String">Cystoids Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cystoids Destroyed</Data>
+          <Data ss:Type="String">Знищені цистоїди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956153517300</Data>
         </Cell>
@@ -1778,16 +1794,16 @@
           <Data ss:Type="String">Cystoid Nests Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cystoid Nests Destroyed</Data>
+          <Data ss:Type="String">Знищені гнізда цистоїдів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956158510287</Data>
         </Cell>
@@ -1795,16 +1811,16 @@
           <Data ss:Type="String">Military Operators Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Military Operators Destroyed</Data>
+          <Data ss:Type="String">Знищені бойові оператори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956158510325</Data>
         </Cell>
@@ -1812,16 +1828,16 @@
           <Data ss:Type="String">Engineering Operators Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engineering Operators Destroyed</Data>
+          <Data ss:Type="String">Знищені інженер-оператори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956158510349</Data>
         </Cell>
@@ -1829,16 +1845,16 @@
           <Data ss:Type="String">Medical Operators Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medical Operators Destroyed</Data>
+          <Data ss:Type="String">Знищені медоператори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_10739735956158510367</Data>
         </Cell>
@@ -1846,16 +1862,50 @@
           <Data ss:Type="String">Science Operators Destroyed</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Science Operators Destroyed</Data>
+          <Data ss:Type="String">Знищені наукові оператори</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956205</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Suit Chipsets Collected</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Знайдені чіпи для костюма</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956206</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Psychoscope Chipsets Collected</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Знайдені чіпи для психоскопа</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_17591291352674037713</Data>
         </Cell>
@@ -1863,30 +1913,202 @@
           <Data ss:Type="String">Rescued Humans</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rescued Humans</Data>
+          <Data ss:Type="String">Врятовані люди</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956219</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Medkits Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані аптечки (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956220</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Psi Hypos Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані пси-ін'єктори (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956227</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Pharma AntiBleed Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані засоби від кровотечі (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956228</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Pharma AntiBurn Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані засоби від опіків (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956229</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Pharma AntiConcussion Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані засоби від оглушення (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956230</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Pharma AntiCripple Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані засоби від каліцтв (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956231</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Pharma AntiRad Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані засоби від радіації (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956232</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Alcohol Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використаний алкоголь (найденный)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956233</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Food Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використана їжа (найденная)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956234</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">O2 Bottle Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані балони O2 (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129890956235</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Suit Patch Kit Used From World</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використані набори для ремонту костюма (знайдені)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>8</ActiveRow>
-          <ActiveCol>2</ActiveCol>
-          <RangeSelection>R9C3:R10C3</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
