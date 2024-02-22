@@ -5,21 +5,7 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12045</WindowHeight>
-    <WindowWidth>27165</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
     <Style ss:ID="Default" ss:Name="Normal">
       <Alignment ss:Vertical="Bottom" />
@@ -29,23 +15,10 @@
       <NumberFormat />
       <Protection />
     </Style>
-    <Style ss:ID="s62">
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-    </Style>
-    <Style ss:ID="s63">
-      <Alignment ss:Vertical="Top" ss:WrapText="1" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-    </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="45" x:FullColumns="1"
-      x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="54"
-      ss:DefaultRowHeight="15">
-      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="193.5" />
-      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="378.75" />
-      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="467.25" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -62,606 +35,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_BuffWellFedRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Effect is temporary and can be cut short by radiation poisoning.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Effect is temporary and can be cut short by radiation poisoning.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaBurns</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Third Degree Burns</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Third Degree Burns</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaBurnsDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reduced maximum health</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reduced maximum health</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaBurnsRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Dermaweb Skin Graft or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Dermaweb Skin Graft or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaConcussion</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Concussion</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Concussion</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaConcussionDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reduced maximum Psi || Reduced resistance to psychic attacks ||
-            Blurry vision || Prevents Neuromod installation</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reduced maximum Psi || Reduced resistance to psychic attacks ||
-            Blurry vision || Prevents Neuromod installation</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaConcussionRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Brained pills or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Brained pills or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaCrippled</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Fracture</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Fracture</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaCrippledDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Movement impaired || Cannot sprint</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Movement impaired || Cannot sprint</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaCrippledRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use a Skeletal Repair Kit or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use a Skeletal Repair Kit or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaDisruption</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Disruption</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Disruption</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaDisruptionDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Electrical equipment failure</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Electrical equipment failure</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaDisruptionRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Equipment recovers automatically.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Equipment recovers automatically.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaDrunk</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Drunk</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Drunk</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaDrunkDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Bonus physical damage || Reduced Stamina || Blurry vision ||
-            Stumbling</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Bonus physical damage || Reduced Stamina || Blurry vision ||
-            Stumbling</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaDrunkRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Effect is temporary.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Effect is temporary.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaExhausted</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Exhausted</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Exhausted</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaExhaustedDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Cannot sprint || Melee damage penalty</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Cannot sprint || Melee damage penalty</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaExhaustedRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Wait to catch your breath.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Wait to catch your breath.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaFear</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Fear</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Fear</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaFearDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Loss of composure || Reduced accuracy with firearms</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Loss of composure || Reduced accuracy with firearms</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaFearRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Consume alcohol or wait for the effect to subside.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Consume alcohol or wait for the effect to subside.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaLacerations</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Hemorrhage</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Hemorrhage</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaLacerationsDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Take extra damage from physical attacks || Sprinting and jumping
-            cause damage</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Take extra damage from physical attacks || Sprinting and jumping
-            cause damage</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaLacerationsRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Coagulating Gel or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Coagulating Gel or visit a Medical Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaPsychoshock</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Psi Nullified</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Psi Nullified</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaPsychoshockDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Can't use psionic powers</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Can't use psionic powers</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaPsychoshockRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Effect is temporary.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Effect is temporary.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaRadationDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Slows Health Regeneration || Stamina Drains Faster || Prevents Well
-            Fed || Stumbling</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Slows Health Regeneration || Stamina Drains Faster || Prevents Well
-            Fed || Stumbling</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaRadiation</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Radiation Sickness</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Radiation Sickness</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaRadiationRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Anti-Rads or visit a Medical Operator. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use Anti-Rads or visit a Medical Operator. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaSuitDamaged</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Suit Damage</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Suit Damage</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaSuitDesc</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Your suit cannot block any damage until it is repaired. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Your suit cannot block any damage until it is repaired. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_TraumaSuitRemove</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use a Suit Repair Kit or visit an Engineering Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Use a Suit Repair Kit or visit an Engineering Operator.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">ui_statusWellFed</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Well Fed</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Well Fed</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
       <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">ui_statusWellFedDesc</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">Increased health regeneration || Increased stamina recovery</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">Increased health regeneration || Increased stamina recovery</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
         <Cell>
           <Data ss:Type="String">loc_3149325216972306415</Data>
         </Cell>
@@ -669,16 +43,16 @@
           <Data ss:Type="String">Immobilized</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Immobilized</Data>
+          <Data ss:Type="String">Параліч</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_3149325216972306463</Data>
         </Cell>
@@ -686,16 +60,16 @@
           <Data ss:Type="String">Electric Shock</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Electric Shock</Data>
+          <Data ss:Type="String">Електрошок</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_3149325216972306670</Data>
         </Cell>
@@ -703,16 +77,475 @@
           <Data ss:Type="String">Effect is temporary.</Data>
         </Cell>
         <Cell>
+          <Data ss:Type="String">Це тимчасовий ефект.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_statuswellfed</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Well Fed</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ситість</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_statuswellfeddesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Increased health regeneration || Increased stamina recovery</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Прискорена регенерація здоров'я || Прискорене відновлення витривалості</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumablind</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Blind</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сліпота</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumablinddesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Impaired vision || Reduced accuracy with firearms</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Порушений зір || Знижена влучність стрільби</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumablindremove</Data>
+        </Cell>
+        <Cell>
           <Data ss:Type="String">Effect is temporary.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String">Це тимчасовий ефект.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaburns</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Third Degree Burns</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Опік третього ступеня</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaburnsdesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reduced maximum health</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зменшений максимум здоров'я</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaburnsremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Use Dermaweb Skin Graft or visit a Medical Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використовуйте клапоть штучної шкіри або зверніться до медоператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaconcussiondesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reduced maximum Psi || Reduced resistance to psychic attacks || Blurry vision || Prevents Neuromod installation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зменшений запас пси-енергії || Знижена опірність псионічним атакам || Розмитий зір || Неможливо встановити нейромоди</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumacrippled</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Fracture</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Перелом</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumadisruption</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Disruption</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Збій</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumadrunk</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Drunk</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сп'яніння</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumadrunkdesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Bonus physical damage || Reduced Stamina || Blurry vision || Stumbling</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Підвищена фізична шкода || Погіршена витривалість || Розмитий зір || Порушення координації рухів</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumadrunkremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Effect is temporary.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Це тимчасовий ефект.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaexhausted</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Exhausted</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Виснаження</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumafear</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Fear</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Страх</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumafeardesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Loss of composure || Reduced accuracy with firearms</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Втрата самовладання || Знижена влучність стрільби</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumafearremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Consume alcohol or wait for the effect to subside.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Уживіть алкоголь або дочекайтеся, коли дія ефекту ослабне.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumalacerations</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hemorrhage</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Крововтрата</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumalacerationsdesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Take extra damage from physical attacks ||  Sprinting and jumping cause damage</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ви отримуєте додаткову шкоду від фізичних атак || Прискорення і стрибки також завдають вам шкоди</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumalacerationsremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Use Coagulating Gel or visit a Medical Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використовуйте коагулюючий гель або зверніться до медоператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaradationdesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Slows Health Regeneration || Stamina Drains Faster || Prevents Well Fed || Stumbling</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Уповільнена регенерація здоров'я || Прискорена витрата витривалості || Стан ситості не настає || Порушення координації рухів</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaradiation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Radiation Sickness</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Променева хвороба</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaradiationremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Use Anti-Rads or visit a Medical Operator. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використовуйте «Антирад» або зверніться до медоператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumasuitdamaged</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Suit Damage</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Пошкодження костюма</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumasuitdesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Your suit cannot block any damage until it is repaired. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ваш костюм не блокуватиме шкоди, поки ви його не полагодите</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumasuitremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Use a Suit Repair Kit or visit an Engineering Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використовуйте набір для ремонту костюма або зверніться до інженера-оператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_12348086275184903804</Data>
         </Cell>
@@ -720,16 +553,16 @@
           <Data ss:Type="String">Your suit blocks less damage than normal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit blocks less damage than normal.</Data>
+          <Data ss:Type="String">Ваш костюм блокує менше шкоди, ніж зазвичай</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_12348086275184917763</Data>
         </Cell>
@@ -737,16 +570,220 @@
           <Data ss:Type="String">Your suit blocks significantly less damage than normal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit blocks significantly less damage than normal.</Data>
+          <Data ss:Type="String">Ваш костюм блокує значно менше шкоди, ніж зазвичай</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_buffwellfedremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Effect is temporary and can be cut short by radiation poisoning.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Це тимчасовий ефект. Радіаційне ураження може перервати його дію.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaconcussion</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Concussion</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Струс</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumacrippleddesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Movement impaired || Cannot sprint</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Порушення мобільності || Неможливо прискорюватися</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumacrippledremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Use a Skeletal Repair Kit or visit a Medical Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використовуйте ортопедичний набір або зверніться до медоператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumadisruptiondesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Electrical equipment failure</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Збій електричного обладнання</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumadisruptionremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Equipment recovers automatically.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Обладнання відновлюється автоматично.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaexhausteddesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cannot sprint || Melee damage penalty</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Неможливо бігати || Знижена шкода в рукопашному бою</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaexhaustedremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wait to catch your breath.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Потрібно перепочити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumapsychoshock</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Psi Nullified</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Пси-здібності нейтралізовано</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumapsychoshockdesc</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can&apos;t use psionic powers</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Неможливо використовувати пси-здібності</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumapsychoshockremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Effect is temporary.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Це тимчасовий ефект.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_traumaconcussionremove</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Use Brained pills or visit a Medical Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Використовуйте таблетки «Мізкостін» або зверніться до медоператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_12348086275196485447</Data>
         </Cell>
@@ -754,13 +791,16 @@
           <Data ss:Type="String">Drunk</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Drunk</Data>
+          <Data ss:Type="String">Сп'яніння</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_12348086275196485448</Data>
         </Cell>
@@ -768,13 +808,16 @@
           <Data ss:Type="String">Effect is temporary.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Effect is temporary.</Data>
+          <Data ss:Type="String">Це тимчасовий ефект.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_12348086275196485449</Data>
         </Cell>
@@ -782,29 +825,15 @@
           <Data ss:Type="String">Bonus physical damage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bonus physical damage</Data>
+          <Data ss:Type="String">Підвищена фізична шкода</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>48</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
