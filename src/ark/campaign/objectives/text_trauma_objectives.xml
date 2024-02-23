@@ -5,35 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11400</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="41" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultColumnWidth="173.25" ss:DefaultRowHeight="15">
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -50,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632803</Data>
         </Cell>
@@ -58,70 +58,67 @@
           <Data ss:Type="String">Repair the Medical Station</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair the Medical Station</Data>
+          <Data ss:Type="String">Відремонтувати медпункт</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632804</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Trauma Center is missing its operator. I could summon a new one
-            or repair an existing one if I want to make use of it.</Data>
+          <Data ss:Type="String">The Trauma Center is missing its operator. I could summon a new one or repair an existing one if I want to make use of it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Trauma Center is missing its operator. I could summon a new one
-            or repair an existing one if I want to make use of it.</Data>
+          <Data ss:Type="String">У травмпункті не вистачає оператора. Мені слід створити нового або полагодити вже існуючого.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632805</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Trauma Center was missing a medical operator, but everything in
-            working order again.</Data>
+          <Data ss:Type="String">The Trauma Center was missing a medical operator, but everything in working order again.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Trauma Center was missing a medical operator, but everything in
-            working order again.</Data>
+          <Data ss:Type="String">У травмпункті не вистачало оператора, але тепер усе гаразд.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632806</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair the broken medical operator in the Medical Technician's
-            office.</Data>
+          <Data ss:Type="String">Repair the broken medical operator in the Medical Technician&apos;s office.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair the broken medical operator in the Medical Technician's
-            office.</Data>
+          <Data ss:Type="String">Полагодити зламаного медоператора в кабінеті медтехніка</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632807</Data>
         </Cell>
@@ -129,16 +126,16 @@
           <Data ss:Type="String">Summon a new medical operator from the dispenser in the ER.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Summon a new medical operator from the dispenser in the ER.</Data>
+          <Data ss:Type="String">Викликати нового медоператора, скориставшись розподільником у реанімації</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632808</Data>
         </Cell>
@@ -146,13 +143,16 @@
           <Data ss:Type="String">Find a medical operator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find a medical operator</Data>
+          <Data ss:Type="String">Знайти медоператора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632809</Data>
         </Cell>
@@ -160,108 +160,84 @@
           <Data ss:Type="String">Medical Station</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medical Station</Data>
+          <Data ss:Type="String">Медпункт</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891632810</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED]Place the medical operator in the medical station</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED]Place the medical operator in the medical station</Data>
-        </Cell>
-        <Cell ss:Index="5">
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632811</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There's a broken medical operator that can be repaired in the
-            Medical Technician's office.</Data>
+          <Data ss:Type="String">There&apos;s a broken medical operator that can be repaired in the Medical Technician&apos;s office.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There's a broken medical operator that can be repaired in the
-            Medical Technician's office.</Data>
+          <Data ss:Type="String">У кабінеті медтехніка є зламаний медоператор, якого можна полагодити.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632812</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A new medical operator can be summoned from the dispenser in the
-            ER.</Data>
+          <Data ss:Type="String">A new medical operator can be summoned from the dispenser in the ER.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A new medical operator can be summoned from the dispenser in the
-            ER.</Data>
+          <Data ss:Type="String">Нового медоператора можна викликати, скориставшись розподільником у реанімації.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891632813</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Pharmacology</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Pharmacology</Data>
-        </Cell>
-        <Cell ss:Index="5">
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632814</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The pharmacist had been working on a custom pharmaceutical that
-            works with an individual's own physiology. You can complete the formula to create a
-            fabrication plan for a unique drug.</Data>
+          <Data ss:Type="String">The pharmacist had been working on a custom pharmaceutical that works with an individual&apos;s own physiology. You can complete the formula to create a fabrication plan for a unique drug.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The pharmacist had been working on a custom pharmaceutical that
-            works with an individual's own physiology. You can complete the formula to create a
-            fabrication plan for a unique drug.</Data>
+          <Data ss:Type="String">Фармацевт працював над особливим препаратом, який підлаштовується під фізіологію людини. Я можу завершити цю роботу і створити схему виготовлення унікальних ліків.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632815</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You've completed the Pharmacology objective.</Data>
+          <Data ss:Type="String">You&apos;ve completed the Pharmacology objective.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You've completed the Pharmacology objective.</Data>
+          <Data ss:Type="String">Мені вдалося створити препарат.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632816</Data>
         </Cell>
@@ -269,13 +245,16 @@
           <Data ss:Type="String">Unlock Surgery Storage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Unlock Surgery Storage</Data>
+          <Data ss:Type="String">Отримати доступ до сховища в операційній</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632817</Data>
         </Cell>
@@ -283,13 +262,16 @@
           <Data ss:Type="String">Get the Exogenuous Contrast Agent</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get the Exogenuous Contrast Agent</Data>
+          <Data ss:Type="String">Добути екзогенний контрастний агент</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632818</Data>
         </Cell>
@@ -297,13 +279,16 @@
           <Data ss:Type="String">Get to the MRI Room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get to the MRI Room</Data>
+          <Data ss:Type="String">Дістатися до кімнати з томографом</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632819</Data>
         </Cell>
@@ -311,13 +296,16 @@
           <Data ss:Type="String">Place Medical Operator in MRI</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Place Medical Operator in MRI</Data>
+          <Data ss:Type="String">Помістити медоператора в томограф</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632820</Data>
         </Cell>
@@ -325,13 +313,16 @@
           <Data ss:Type="String">Use MRI</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use MRI</Data>
+          <Data ss:Type="String">Використати томограф</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632821</Data>
         </Cell>
@@ -339,164 +330,135 @@
           <Data ss:Type="String">Do No Harm</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Do No Harm</Data>
+          <Data ss:Type="String">Не нашкодь</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632822</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found a TranScribe in the lobby on the body of Hendrik DeVries,
-            the head of the Trauma Center. The TranScribe is encrypted, but if I could find a
-            decryption key I could figure out what's on it.</Data>
+          <Data ss:Type="String">I found a TranScribe in the lobby on the body of Hendrik DeVries, the head of the Trauma Center. The TranScribe is encrypted, but if I could find a decryption key I could figure out what&apos;s on it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found a TranScribe in the lobby on the body of Hendrik DeVries,
-            the head of the Trauma Center. The TranScribe is encrypted, but if I could find a
-            decryption key I could figure out what's on it.</Data>
+          <Data ss:Type="String">У лобі лежить труп начальника травмпункту Гендріка Девріса. Його транскриптор зашифрований, але якщо я знайду ключ до шифру, то дізнаюся, що в ньому.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632823</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation - of me. DeVries was using a special encryption to communicate with Alex, so
-            just finding their TranScribe messages might not be enough.</Data>
+          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych evaluation - of me. DeVries was using a special encryption to communicate with Alex, so just finding their TranScribe messages might not be enough.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation - of me. DeVries was using a special encryption to communicate with Alex, so
-            just finding their TranScribe messages might not be enough.</Data>
+          <Data ss:Type="String">Алекс хотів, щоб Гендрік Девріс приніс йому результати дослідження психіки... моєї психіки. Девріс спілкувався з Алексом за допомогою особливого коду, тому просто знайти повідомлення транскрипторів буде недостатньо.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632824</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation that I had prior to being trapped in the simulation. I found DeVries'
-            TranScribe which might have a clue about its location, but the message is encrypted.</Data>
+          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych evaluation that I had prior to being trapped in the simulation. I found DeVries&apos; TranScribe which might have a clue about its location, but the message is encrypted.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation that I had prior to being trapped in the simulation. I found DeVries'
-            TranScribe which might have a clue about its location, but the message is encrypted.</Data>
+          <Data ss:Type="String">Алекс хотів, щоб Гендрік Девріс приніс йому результати дослідження моєї психіки, яке було проведено, перш ніж мене помістили в симулятор. Мені вдалося знайти транскриптор Девріса, однак повідомлення в ньому зашифровано.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632825</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation that I had between trials of the experimental Neuromods. I found DeVries'
-            TranScribe which might have a clue about its location, but the message is encrypted. I
-            have the decryption key now, so all I have to do is listen to it again.</Data>
+          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych evaluation that I had between trials of the experimental Neuromods. I found DeVries&apos; TranScribe which might have a clue about its location, but the message is encrypted. I have the decryption key now, so all I have to do is listen to it again.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation that I had between trials of the experimental Neuromods. I found DeVries'
-            TranScribe which might have a clue about its location, but the message is encrypted. I
-            have the decryption key now, so all I have to do is listen to it again.</Data>
+          <Data ss:Type="String">Алекс хотів, щоб Гендрік Девріс приніс йому результати дослідження моєї психіки, яке було проведено між випробуваннями експериментальних нейромодів. Мені вдалося знайти транскриптор Девріса, однак повідомлення в ньому зашифровано. Тепер у мене є дешифрувальний ключ, тож потрібно просто прослухати повідомлення ще раз.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632826</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of psych evaluation
-            that I had between trials of the experimental Neuromods. I decrypted a TranScribe I
-            found on DeVries that might tell me where the log is.</Data>
+          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of psych evaluation that I had between trials of the experimental Neuromods. I decrypted a TranScribe I found on DeVries that might tell me where the log is.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of psych evaluation
-            that I had between trials of the experimental Neuromods. I decrypted a TranScribe I
-            found on DeVries that might tell me where the log is.</Data>
+          <Data ss:Type="String">Алекс хотів, щоб Гендрік Девріс приніс йому результати дослідження моєї психіки, яке було проведено між випробуваннями експериментальних нейромодів. Мені вдалося розшифрувати транскриптор Девріса, в якому може бути інформація про те, де знаходиться цей запис.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632827</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted to retrieve a recording of a psych eval from Hendrik
-            DeVries where apparently I had some sort of mental breakdown. I decrypted a
-            communication between him and Alex and learned the eval is somewhere in Mathias Kohl's
-            office.</Data>
+          <Data ss:Type="String">Alex wanted to retrieve a recording of a psych eval from Hendrik DeVries where apparently I had some sort of mental breakdown. I decrypted a communication between him and Alex and learned the eval is somewhere in Mathias Kohl&apos;s office.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted to retrieve a recording of a psych eval from Hendrik
-            DeVries where apparently I had some sort of mental breakdown. I decrypted a
-            communication between him and Alex and learned the eval is somewhere in Mathias Kohl's
-            office.</Data>
+          <Data ss:Type="String">Алекс хотів отримати у Гендрика Девріса запис дослідження моєї психіки — на ній у мене начебто стався нервовий зрив. Мені вдалося розшифрувати їхню розмову і дізнатися, що запис перебуває в кабінеті Матіаса Коля.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632828</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation that I had between trials of the experimental Neuromods. I intercepted and
-            decrypted one of their communications, learning where the log was kept.</Data>
+          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych evaluation that I had between trials of the experimental Neuromods. I intercepted and decrypted one of their communications, learning where the log was kept.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex wanted Hendrik DeVries to bring him a log of a psych
-            evaluation that I had between trials of the experimental Neuromods. I intercepted and
-            decrypted one of their communications, learning where the log was kept.</Data>
+          <Data ss:Type="String">Алекс хотів, щоб Гендрік Девріс приніс йому результати дослідження моєї психіки, яке було проведено між випробуваннями експериментальних нейромодів. Мені вдалося перехопити і розшифрувати одну з їхніх розмов і дізнатися, де знаходиться цей запис.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632829</Data>
         </Cell>
@@ -504,30 +466,33 @@
           <Data ss:Type="String">Decryption Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Decryption Key</Data>
+          <Data ss:Type="String">Дешифрувальний ключ</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632830</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Download DeVries' Decryption Key</Data>
+          <Data ss:Type="String">Download DeVries&apos; Decryption Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Download DeVries' Decryption Key</Data>
+          <Data ss:Type="String">Завантажити дешифрувальний ключ Девріса</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632831</Data>
         </Cell>
@@ -535,30 +500,33 @@
           <Data ss:Type="String">Listen to the decrypted TranScribe message</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Listen to the decrypted TranScribe message</Data>
+          <Data ss:Type="String">Прослухати зашифроване повідомлення на транскрипторі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632832</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kohl's Office</Data>
+          <Data ss:Type="String">Kohl&apos;s Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kohl's Office</Data>
+          <Data ss:Type="String">Кабінет Коля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632833</Data>
         </Cell>
@@ -566,41 +534,50 @@
           <Data ss:Type="String">Find Your Psychological Evaluation</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find Your Psychological Evaluation</Data>
+          <Data ss:Type="String">Знайти запис психологічного обстеження</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632834</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kohl's Office</Data>
+          <Data ss:Type="String">Kohl&apos;s Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kohl's Office</Data>
+          <Data ss:Type="String">Кабінет Коля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632835</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search Dr. Kohl's Office</Data>
+          <Data ss:Type="String">Search Dr. Kohl&apos;s Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search Dr. Kohl's Office</Data>
+          <Data ss:Type="String">Обшукати кабінет Коля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632836</Data>
         </Cell>
@@ -608,13 +585,16 @@
           <Data ss:Type="String">Safe</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Safe</Data>
+          <Data ss:Type="String">Сейф</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632837</Data>
         </Cell>
@@ -622,13 +602,16 @@
           <Data ss:Type="String">Search Safe</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search Safe</Data>
+          <Data ss:Type="String">Обшукати сейф</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632838</Data>
         </Cell>
@@ -636,29 +619,33 @@
           <Data ss:Type="String">Listen to your psychological evaluation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Listen to your psychological evaluation. </Data>
+          <Data ss:Type="String">Прослухати запис психологічного обстеження </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632839</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mathias Kohl's is the chief counselor on Talos 1, his office is in
-            the Trauma Center.</Data>
+          <Data ss:Type="String">Mathias Kohl&apos;s is the chief counselor on Talos 1, his office is in the Trauma Center.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mathias Kohl's is the chief counselor on Talos 1, his office is in
-            the Trauma Center.</Data>
+          <Data ss:Type="String">Матіас Коль — головний психолог «Талоса-1». Його кабінет знаходиться в травмпункті.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632840</Data>
         </Cell>
@@ -669,10 +656,13 @@
           <Data ss:Type="String">A, C, B, A, C?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632841</Data>
         </Cell>
@@ -680,13 +670,16 @@
           <Data ss:Type="String">Hendrik DeVries is the head of the Trauma Center</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hendrik DeVries is the head of the Trauma Center</Data>
+          <Data ss:Type="String">Гендрік Девріс — начальник травмпункту.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632842</Data>
         </Cell>
@@ -694,27 +687,15 @@
           <Data ss:Type="String">If you find Hendrik DeVries, maybe you can find that evaluation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you find Hendrik DeVries, maybe you can find that evaluation. </Data>
+          <Data ss:Type="String">Якщо знайти Гендрика Девріса, то, можливо, вдасться відшукати запис цього обстеження. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <TopRowVisible>12</TopRowVisible>
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>5</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
