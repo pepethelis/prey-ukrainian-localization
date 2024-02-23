@@ -74,10 +74,5 @@
 <img src="./screenshots/img3.png" alt="image" width="32%" height="auto">
 <img src="./screenshots/img4.png" alt="image" width="32%" height="auto">
 <img src="./screenshots/img5.png" alt="image" width="32%" height="auto">
+<img src="./screenshots/img6.png" alt="image" width="32%" height="auto">
 </p>
-
-<!-- ![prey 2017 main menu](/screenshots/img1.png "Приклад локалізації головного меню")
-![prey 2017 main menu](/screenshots/img2.png "Приклад локалізації головного меню")
-![prey 2017 main menu](/screenshots/img3.png "Приклад локалізації головного меню")
-![prey 2017 main menu](/screenshots/img4.png "Приклад локалізації головного меню")
-![prey 2017 main menu](/screenshots/img5.png "Приклад локалізації головного меню") -->
