@@ -68,11 +68,13 @@
 
 ---
 
-<img src="./screenshots/img1.png" alt="image" width="300" height="auto">
-<img src="./screenshots/img2.png" alt="image" width="300" height="auto">
-<img src="./screenshots/img3.png" alt="image" width="300" height="auto">
-<img src="./screenshots/img4.png" alt="image" width="300" height="auto">
-<img src="./screenshots/img5.png" alt="image" width="300" height="auto">
+<p float="left">
+<img src="./screenshots/img1.png" alt="image" width="32%" height="auto">
+<img src="./screenshots/img2.png" alt="image" width="32%" height="auto">
+<img src="./screenshots/img3.png" alt="image" width="32%" height="auto">
+<img src="./screenshots/img4.png" alt="image" width="32%" height="auto">
+<img src="./screenshots/img5.png" alt="image" width="32%" height="auto">
+</p>
 
 <!-- ![prey 2017 main menu](/screenshots/img1.png "Приклад локалізації головного меню")
 ![prey 2017 main menu](/screenshots/img2.png "Приклад локалізації головного меню")
