@@ -136,14 +136,10 @@
     <Style ss:ID="s82">
       <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" />
       <Borders>
-        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
-        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
-          ss:Color="#A5A5A5" />
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#A5A5A5" />
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#A5A5A5" />
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#A5A5A5" />
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#A5A5A5" />
       </Borders>
       <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" />
     </Style>
@@ -1403,7 +1399,7 @@
           <Data ss:Type="String">Press %contextaction% to view information on hacking.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Нажмите %contextaction%, чтобы получить справку о взломе.</Data>
+          <Data ss:Type="String">Натисніть %contextaction%, щоб отримати довідку про злом.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />
@@ -1437,7 +1433,7 @@
           <Data ss:Type="String">You&apos;ve acquired a Neuromod.&lt;br&gt;Press %contextaction% to install new abilities.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Вы получили нейромод.&lt;br&gt;Нажмите %contextaction%, чтобы установить новые способности.</Data>
+          <Data ss:Type="String">Ви отримали нейромод.&lt;br&gt;Натисніть %contextaction%, щоб встановити нові здібності.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String" />

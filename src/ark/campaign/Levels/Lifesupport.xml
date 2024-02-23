@@ -75,7 +75,7 @@
           <Data ss:Type="String">Required Action: Activate Central Auxiliary Terminal</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Требуется действие: активируйте центральный вспомогательный терминал</Data>
+          <Data ss:Type="String">Потрібна дія: активуйте центральний допоміжний термінал</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>

@@ -58,7 +58,7 @@
           <Data ss:Type="String">Create a shield for 20 seconds which prevents the next enemy attack from damaging you. Enemies that attack the shield are repelled.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Создает щит, действующий в течение 20 секунд. Он нейтрализует урон от двух следующих атак. Органических врагов, атакующих щит, отбрасывает назад.</Data>
+          <Data ss:Type="String">Створює щит, що діє протягом 20 секунд. Він нейтралізує шкоду від наступної атаки. Органічних ворогів, які атакують щит, відкидає назад.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -636,7 +636,7 @@
           <Data ss:Type="String">Increase overall movement speed. Run, sneak, climb, and sprint 25% faster.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Увеличивается скорость движения. Вы бежите, крадетесь, карабкаетесь и ускоряетесь на 25% быстрее.</Data>
+          <Data ss:Type="String">Збільшується швидкість руху. Ви біжите, крадетеся, дерётеся і прискорюєтеся на 25% швидше.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
