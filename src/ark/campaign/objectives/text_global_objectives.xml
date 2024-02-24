@@ -347,7 +347,7 @@
           <Data ss:Type="String">Use a Fabricator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Использовать фабрикатор</Data>
+          <Data ss:Type="String">Використовувати фабрикатор</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -364,7 +364,7 @@
           <Data ss:Type="String">I found a fabrication plan. I should find a fabricator in order to create the object. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Мне удалось найти чертеж. Теперь нужно отыскать фабрикатор и создать предмет. </Data>
+          <Data ss:Type="String">Мені вдалося знайти креслення. Тепер потрібно відшукати фабрикатор і створити предмет. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -381,7 +381,7 @@
           <Data ss:Type="String">I&apos;ve found a fabricator. I should find a fabrication plan to utilize it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Мне удалось найти фабрикатор. Чтобы воспользоваться им, понадобится чертеж.</Data>
+          <Data ss:Type="String">Мені вдалося знайти фабрикатор. Щоб скористатися ним, знадобиться креслення.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -398,7 +398,7 @@
           <Data ss:Type="String">Find a Fabricator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Найти фабрикатор</Data>
+          <Data ss:Type="String">Знайти фабрикатор</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -432,7 +432,7 @@
           <Data ss:Type="String">Use a Fabricator to create an object</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Создать предмет с помощью фабрикатора</Data>
+          <Data ss:Type="String">Створити предмет за допомогою фабрикатора</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -449,7 +449,7 @@
           <Data ss:Type="String">Find a Fabrication Plan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Найти чертеж</Data>
+          <Data ss:Type="String">Знайти креслення</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -466,7 +466,7 @@
           <Data ss:Type="String">PreventDahlFromEscaping</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Не дать Далю уйти</Data>
+          <Data ss:Type="String">Не дати Далю піти</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -500,7 +500,7 @@
           <Data ss:Type="String">Zero G Propulsion System</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Двигательная установка для работы в невесомости</Data>
+          <Data ss:Type="String">Рухова установка для роботи в невагомості</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -517,7 +517,7 @@
           <Data ss:Type="String">There&apos;s an Artax Propulsion System fabrication plan somewhere in the Machine Shop of Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Где-то в механическом цеху аппаратной лаборатории находится схема двигательной установки «Артакс».</Data>
+          <Data ss:Type="String">Десь у механічному цеху апаратної лабораторії знаходиться схема рухової установки «Артакс».</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -534,7 +534,7 @@
           <Data ss:Type="String">I need to upgrade my suit with an Artax Propulsion System to enter maneuver outside the space station. There&apos;s a fabrication plan somewhere in the Machine Shop of the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Мне нужно установить на свой костюм двигательную установку «Артакс» для передвижения за пределами станции. Где-то в механическом цеху аппаратной лаборатории есть ее схема.</Data>
+          <Data ss:Type="String">Мені потрібно встановити на свій костюм рухову установку «Артакс» для пересування за межами станції. Десь у механічному цеху апаратної лабораторії є її схема.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -551,7 +551,7 @@
           <Data ss:Type="String">I found the Artax Propulsion System fabrication plan. Now I need to fabricate and equip it to gain access to the station exterior.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Мне удалось найти схему двигательной установки «Артакс». Теперь нужно изготовить ее и установить — это позволит мне выйти за пределы станции.</Data>
+          <Data ss:Type="String">Мені вдалося знайти схему рухової установки «Артакс». Тепер потрібно виготовити її і встановити — це дасть мені змогу вийти за межі станції.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -568,7 +568,7 @@
           <Data ss:Type="String">I upgraded my suit with an Artax Propulsion System. I can use it to glide in normal gravity or maneuver when in a zero gravity environment.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Мне удалось установить на костюм двигательную установку «Артакс». Я могу использовать ее для передвижения как в обычных условиях, так и в невесомости.</Data>
+          <Data ss:Type="String">Мені вдалося встановити на костюм рухову установку «Артакс». Я можу використовувати її для пересування як у звичайних умовах, так і в невагомості.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -585,7 +585,7 @@
           <Data ss:Type="String">Artax Fabrication Plan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Чертеж «Артакса»</Data>
+          <Data ss:Type="String">Креслення «Артакса»</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -602,7 +602,7 @@
           <Data ss:Type="String">Find an Artax Propulsion System fabrication plan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Найти чертеж двигательной установки «Артакс»</Data>
+          <Data ss:Type="String">Знайти креслення рухової установки «Артакс»</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -636,7 +636,7 @@
           <Data ss:Type="String">Fabricate the Artax Propulsion System.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Создать двигательную установку «Артакс»</Data>
+          <Data ss:Type="String">Створити рухову установку «Артакс»</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -670,7 +670,7 @@
           <Data ss:Type="String">Glide to the cargo platform</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Долететь до грузовой платформы</Data>
+          <Data ss:Type="String">Долетіти до вантажної платформи</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -687,7 +687,7 @@
           <Data ss:Type="String">Locate Crew Member</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Найти члена экипажа</Data>
+          <Data ss:Type="String">Знайти члена екіпажу</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -704,7 +704,7 @@
           <Data ss:Type="String">When I tag a crew member from a security station, I get the location of their tracking bracelet. I can use this to find missing crew.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Если выбрать члена экипажа на терминале службы безопасности, я вижу координаты его браслета-маячка. Это пригодится для поиска выживших.</Data>
+          <Data ss:Type="String">Якщо вибрати члена екіпажу на терміналі служби безпеки, я бачу координати його браслета-маячка. Це стане в пригоді для пошуку тих, хто вижив.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -721,7 +721,7 @@
           <Data ss:Type="String">Crew Member</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Член экипажа</Data>
+          <Data ss:Type="String">Член екіпажу</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -738,7 +738,7 @@
           <Data ss:Type="String">Locate crew member</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Найти члена экипажа</Data>
+          <Data ss:Type="String">Знайти члена екіпажу</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -755,7 +755,7 @@
           <Data ss:Type="String">I&apos;ve successfully used a fabricator to create something from a fabrication plan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Мне удалось создать предмет с помощью фабрикатора.</Data>
+          <Data ss:Type="String">Мені вдалося створити предмет за допомогою фабрикатора.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
