@@ -1,37 +1,39 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11400</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -48,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630525</Data>
         </Cell>
@@ -56,114 +58,67 @@
           <Data ss:Type="String">The Repo Man</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Repo Man</Data>
+          <Data ss:Type="String">Консультант</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630526</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">After I scanned the Coral for Alex, the data transfer was
-            interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar
-            board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is
-            locking him out of the system. Dahl&apos;s command shuttle should have information on
-            where to find the tech officer.</Data>
+          <Data ss:Type="String">After I scanned the Coral for Alex, the data transfer was interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is locking him out of the system. Dahl&apos;s command shuttle should have information on where to find the tech officer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">After I scanned the Coral for Alex, the data transfer was
-            interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar
-            board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is
-            locking him out of the system. Dahl&apos;s command shuttle should have information on
-            where to find the tech officer.</Data>
+          <Data ss:Type="String">Після сканування Корала передачу даних перервав капітан Вальтер Даль, «консультант із персоналу» ради директорів «Транстар». Алекс не може зі мною зустрітися, бо офіцер-технік Даля заблокував йому вхід у систему. Інформація про місцезнаходження техніка має бути в шатлі Даля.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630527</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">After I scanned the coral for Alex, the data transfer was
-            interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar
-            board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is
-            locking him out of the system. Dahl&apos;s command shuttle had information on the tech
-            officer&apos;s locations and evidence that Dahl&apos;s orders came directly from my
-            father. I need to track this tech officer down and cut him off.</Data>
+          <Data ss:Type="String">After I scanned the coral for Alex, the data transfer was interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is locking him out of the system. Dahl&apos;s command shuttle had information on the tech officer&apos;s locations and evidence that Dahl&apos;s orders came directly from my father. I need to track this tech officer down and cut him off.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">After I scanned the coral for Alex, the data transfer was
-            interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar
-            board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is
-            locking him out of the system. Dahl&apos;s command shuttle had information on the tech
-            officer&apos;s locations and evidence that Dahl&apos;s orders came directly from my
-            father. I need to track this tech officer down and cut him off.</Data>
+          <Data ss:Type="String">Після сканування Корала передачу даних перервав капітан Вальтер Даль, «консультант із персоналу» ради директорів «Транстар». Алекс не може зі мною зустрітися, тому що офіцер-технік Даля заблокував йому вхід у систему. Інформація про місцезнаходження техніка була в шатлі Даля. Там же мені вдалося дізнатися, що Даль отримав інструкції від мого батька. Необхідно знайти і знешкодити його техніка.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630528</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">After I scanned the coral for Alex, the data transfer was
-            interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar
-            board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is
-            locking him out of the system. Dahl&apos;s command shuttle had information on the tech
-            officer&apos;s location. The tech officer turned out to be an operator named Kaspar. I
-            neutralized it. Now I can meet with Alex.</Data>
+          <Data ss:Type="String">After I scanned the coral for Alex, the data transfer was interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is locking him out of the system. Dahl&apos;s command shuttle had information on the tech officer&apos;s location. The tech officer turned out to be an operator named Kaspar. I neutralized it. Now I can meet with Alex.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">After I scanned the coral for Alex, the data transfer was
-            interrupted by Commander Walther Dahl, an &quot;HR Consultant&quot; for the TranStar
-            board of directors. Alex won&apos;t meet with me because Dahl&apos;s tech officer is
-            locking him out of the system. Dahl&apos;s command shuttle had information on the tech
-            officer&apos;s location. The tech officer turned out to be an operator named Kaspar. I
-            neutralized it. Now I can meet with Alex.</Data>
+          <Data ss:Type="String">Після сканування Корала передачу даних перервав капітан Вальтер Даль, «консультант із персоналу» ради директорів «Транстар». Алекс не може зі мною зустрітися, тому що офіцер-технік Даля заблокував йому вхід у систему. Інформація про місцезнаходження техніка була в шатлі Даля. Технік виявився оператором на ім'я Каспар. Його вдалося нейтралізувати. Тепер я можу зустрітися з Алексом.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630529</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">DEPRECATED Now that you&apos;ve gained access to Dahl&apos;s
-            command shuttle search for Clues to his tech officer&apos;s location</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">DEPRECATED Now that you&apos;ve gained access to Dahl&apos;s
-            command shuttle search for Clues to his tech officer&apos;s location</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630530</Data>
         </Cell>
@@ -171,13 +126,16 @@
           <Data ss:Type="String">Command Shuttle</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Command Shuttle</Data>
+          <Data ss:Type="String">Шаттл капітана</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630531</Data>
         </Cell>
@@ -185,13 +143,16 @@
           <Data ss:Type="String">Access Dahl&apos;s command shuttle</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access Dahl&apos;s command shuttle</Data>
+          <Data ss:Type="String">Пробратися на шаттл капітана Даля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630532</Data>
         </Cell>
@@ -199,32 +160,33 @@
           <Data ss:Type="String">Command Shuttle</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Command Shuttle</Data>
+          <Data ss:Type="String">Шаттл капітана</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630533</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search Dahl&apos;s Shuttle for clues to his tech officer&apos;s
-            location</Data>
+          <Data ss:Type="String">Search Dahl&apos;s Shuttle for clues to his tech officer&apos;s location</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search Dahl&apos;s Shuttle for clues to his tech officer&apos;s
-            location</Data>
+          <Data ss:Type="String">Відшукати на шатлі Даля інформацію про місцезнаходження його техніка</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630534</Data>
         </Cell>
@@ -232,32 +194,33 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630535</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            G.U.T.S.</Data>
+          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the G.U.T.S.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            G.U.T.S.</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь у САГІТТі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630536</Data>
         </Cell>
@@ -265,32 +228,33 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630537</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Trauma Center</Data>
+          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the Trauma Center</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Trauma Center</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь у травмпункті</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630538</Data>
         </Cell>
@@ -298,32 +262,33 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630539</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Cargo Bay</Data>
+          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the Cargo Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Cargo Bay</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь у вантажному відсіку</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630540</Data>
         </Cell>
@@ -331,32 +296,33 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630541</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Hardware Labs</Data>
+          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the Hardware Labs</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Hardware Labs</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь в апаратній лабораторії</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630542</Data>
         </Cell>
@@ -364,32 +330,33 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630543</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Neuromod Division</Data>
+          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the Neuromod Division</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere within the
-            Neuromod Division</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь у відділі нейромодів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630544</Data>
         </Cell>
@@ -397,32 +364,33 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630545</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere on the
-            exterior</Data>
+          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere on the exterior</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disable Dahl&apos;s Tech Officer who is hiding somewhere on the
-            exterior</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь зовні</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630546</Data>
         </Cell>
@@ -430,42 +398,32 @@
           <Data ss:Type="String">Tech Officer</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tech Officer</Data>
+          <Data ss:Type="String">Технік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630547</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hunt down and disable Dahl&apos;s Tech Officer who is hiding
-            somewhere within Psychotronics</Data>
+          <Data ss:Type="String">Hunt down and disable Dahl&apos;s Tech Officer who is hiding somewhere within Psychotronics</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hunt down and disable Dahl&apos;s Tech Officer who is hiding
-            somewhere within Psychotronics</Data>
+          <Data ss:Type="String">Вивести з ладу техніка Даля; він ховається десь у лабораторії психотроніки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>11</ActiveRow>
-          <ActiveCol>2</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
