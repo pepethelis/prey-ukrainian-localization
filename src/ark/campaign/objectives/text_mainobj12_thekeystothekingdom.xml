@@ -1,29 +1,16 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>15.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12270</WindowHeight>
-    <WindowWidth>26625</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
     <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
+      <Alignment ss:Vertical="Bottom"/>
       <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
+      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
       <Interior />
       <NumberFormat />
       <Protection />
@@ -31,10 +18,7 @@
   </Styles>
   <Worksheet ss:Name="LocStuff">
     <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:AutoFitWidth="0" ss:Width="195.75" />
-      <Column ss:AutoFitWidth="0" ss:Width="273" />
-      <Column ss:AutoFitWidth="0" ss:Width="228.75" />
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -51,7 +35,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630476</Data>
         </Cell>
@@ -59,174 +43,84 @@
           <Data ss:Type="String">The Keys to the Kingdom</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Keys to the Kingdom</Data>
+          <Data ss:Type="String">Ключі від раю</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630477</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, but I don&apos;t think getting Alex&apos;s will be
-            as straightforward.</Data>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to secure a fabrication plan for mine, but I don&apos;t think getting Alex&apos;s will be as straightforward.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, but I don&apos;t think getting Alex&apos;s will be
-            as straightforward.</Data>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Мені вдалося добути креслення для створення мого ключа, але, боюся, отримати ключ Алекса буде не так просто.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630480</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, but Alex is in hiding until Dahl and his tech
-            officer have been dealt with.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, but Alex is in hiding until Dahl and his tech
-            officer have been dealt with.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630483</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, and Alex says he&apos;ll give me his if I help him
-            with the early stages of an alternate plan that I apparently conceived myself.</Data>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to secure a fabrication plan for mine, and Alex says he&apos;ll give me his if I help him with the early stages of an alternate plan that I apparently conceived myself.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, and Alex says he&apos;ll give me his if I help him
-            with the early stages of an alternate plan that I apparently conceived myself.</Data>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Алекс сказав, що віддасть мені свій ключ, якщо я допоможу йому виконати перший етап альтернативного плану, який, схоже, придуманий мною.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630486</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, and Alex is waiting for me in the Arboretum to give
-            me his.</Data>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to secure a fabrication plan for mine, and Alex is waiting for me in the Arboretum to give me his.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, and Alex is waiting for me in the Arboretum to give
-            me his.</Data>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Мені вдалося добути креслення для створення мого ключа. Алекс чекає на мене в дендрарії, де передасть мені свій ключ.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630487</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, but Alex didn&apos;t live long enough to give me
-            his. If I search him, maybe I can find it.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine, but Alex didn&apos;t live long enough to give me
-            his. If I search him, maybe I can find it.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630489</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            fabricate mine from a plan I hid. Now I&apos;ve got Alex&apos;s. All that&apos;s left is
-            to put them to use.</Data>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to fabricate mine from a plan I hid. Now I&apos;ve got Alex&apos;s. All that&apos;s left is to put them to use.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            fabricate mine from a plan I hid. Now I&apos;ve got Alex&apos;s. All that&apos;s left is
-            to put them to use.</Data>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Заховане мною креслення дозволило мені зробити свій ключ. Тепер у мене є і ключ Алекса. Залишилося лише застосувати їх.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630490</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine. Even though Alex is in hiding with his, Dahl is
-            closing in on his location and I don&apos;t think he has much time.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke
-            out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to
-            secure a fabrication plan for mine. Even though Alex is in hiding with his, Dahl is
-            closing in on his location and I don&apos;t think he has much time.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630492</Data>
         </Cell>
@@ -234,13 +128,16 @@
           <Data ss:Type="String">Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Key</Data>
+          <Data ss:Type="String">Ключ</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630493</Data>
         </Cell>
@@ -248,16 +145,16 @@
           <Data ss:Type="String">Fabricate your Arming Key.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabricate your Arming Key.</Data>
+          <Data ss:Type="String">Створити ключ-активатор</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630494</Data>
         </Cell>
@@ -265,16 +162,16 @@
           <Data ss:Type="String">Self Destruct Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Self Destruct Key</Data>
+          <Data ss:Type="String">Ключ самознищення</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630495</Data>
         </Cell>
@@ -282,16 +179,16 @@
           <Data ss:Type="String">Get Alex&apos;s Arming Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get Alex&apos;s Arming Key</Data>
+          <Data ss:Type="String">Добути ключ-активатор Алекса</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630496</Data>
         </Cell>
@@ -299,16 +196,16 @@
           <Data ss:Type="String">Alex&apos;s Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex&apos;s Office</Data>
+          <Data ss:Type="String">Кабінет Алекса</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630497</Data>
         </Cell>
@@ -316,16 +213,16 @@
           <Data ss:Type="String">Go hear Alex out in his office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Go hear Alex out in his office</Data>
+          <Data ss:Type="String">Дістатися до кабінету Алекса і вислухати його</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630498</Data>
         </Cell>
@@ -333,19 +230,16 @@
           <Data ss:Type="String">Scan Coral for Alex</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scan Coral for Alex</Data>
+          <Data ss:Type="String">Просканувати Корал</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630499</Data>
         </Cell>
@@ -353,16 +247,16 @@
           <Data ss:Type="String">Alex is in hiding until Dahl and his tech officer are disabled</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex is in hiding until Dahl and his tech officer are disabled</Data>
+          <Data ss:Type="String">Алекс ховатиметься доти, доки Даль і його технік не будуть знешкоджені</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630500</Data>
         </Cell>
@@ -370,16 +264,16 @@
           <Data ss:Type="String">Meet with Alex in the Arboretum at (Deprecated)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Meet with Alex in the Arboretum at (Deprecated)</Data>
+          <Data ss:Type="String">Зустрітися з Алексом у дендрарії (виключено)</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630501</Data>
         </Cell>
@@ -387,16 +281,16 @@
           <Data ss:Type="String">Alex Yu</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex Yu</Data>
+          <Data ss:Type="String">Алекс Ю</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630502</Data>
         </Cell>
@@ -404,16 +298,16 @@
           <Data ss:Type="String">Alex is ready to meet in the Arboretum.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex is ready to meet in the Arboretum.</Data>
+          <Data ss:Type="String">Алекс готовий зустрітися зі мною в дендрарії</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630503</Data>
         </Cell>
@@ -421,16 +315,16 @@
           <Data ss:Type="String">Your Brother</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your Brother</Data>
+          <Data ss:Type="String">Брат</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630504</Data>
         </Cell>
@@ -438,16 +332,16 @@
           <Data ss:Type="String">Get Alex&apos;s Arming Key off of his body.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get Alex&apos;s Arming Key off of his body.</Data>
+          <Data ss:Type="String">Забрати ключ-активатор у Алекса</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630505</Data>
         </Cell>
@@ -455,16 +349,16 @@
           <Data ss:Type="String">Protect Alex from Dahl.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Protect Alex from Dahl.</Data>
+          <Data ss:Type="String">Захистити Алекса від Даля</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630506</Data>
         </Cell>
@@ -472,16 +366,16 @@
           <Data ss:Type="String">Bunker</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bunker</Data>
+          <Data ss:Type="String">Бункер</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630507</Data>
         </Cell>
@@ -489,16 +383,16 @@
           <Data ss:Type="String">Stop Dahl before he hacks his way into Alex&apos;s bunker.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop Dahl before he hacks his way into Alex&apos;s bunker.</Data>
+          <Data ss:Type="String">Не дати Далю пробратися в бункер Алекса</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630508</Data>
         </Cell>
@@ -506,16 +400,16 @@
           <Data ss:Type="String">Alex is probably in his office in the arboretum.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex is probably in his office in the arboretum.</Data>
+          <Data ss:Type="String">Алекс, напевно, перебуває у своєму кабінеті в дендрарії.</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13680621263408025953</Data>
         </Cell>
@@ -523,16 +417,16 @@
           <Data ss:Type="String">Stop Dahl</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop Dahl</Data>
+          <Data ss:Type="String">Зупинити Даля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417328378002</Data>
         </Cell>
@@ -540,29 +434,66 @@
           <Data ss:Type="String">The arming keys can always be fabricated if they get lost.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The arming keys can always be fabricated if they get lost.</Data>
+          <Data ss:Type="String">Якщо ключі-активатори загубилися, можна виготовити нові, скориставшись фабрикатором.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
-        <Cell ss:Index="6">
-          <Data ss:Type="String" />
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630480</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to secure a fabrication plan for mine, but Alex is in hiding until Dahl and his tech officer have been dealt with.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Мені вдалося добути креслення для створення мого ключа, але Алекс зачаївся доти, доки я не розберуся з Далем і його техніком.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630487</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to secure a fabrication plan for mine, but Alex didn&apos;t live long enough to give me his. If I search him, maybe I can find it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Мені вдалося добути креслення для створення мого ключа, але Алекс загинув до того, як зміг передати мені свій. Можливо, я знайду ключ, обшукавши його тіло.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630490</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I left myself instructions to destroy Talos I if the Typhon broke out. The process requires two Arming Keys, mine and my brother&apos;s. I managed to secure a fabrication plan for mine. Even though Alex is in hiding with his, Dahl is closing in on his location and I don&apos;t think he has much time.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Мені вдалося залишити собі інструкції, як знищити «Талос», якщо тифони вирвуться на свободу. Для цього потрібні два ключі-активатори — мій і мого брата. Мені вдалося добути креслення для створення мого ключа. Алекс скрылся со своим, но Даль вот-вот до него доберется.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>31</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
