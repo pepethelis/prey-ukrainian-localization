@@ -5,37 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>15.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12270</WindowHeight>
-    <WindowWidth>21525</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="18" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="367.5" />
-      <Column ss:AutoFitWidth="0" ss:Width="534.75" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -52,135 +50,92 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632453</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila's Father</Data>
+          <Data ss:Type="String">Mikhaila&apos;s Father</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila's Father</Data>
+          <Data ss:Type="String">Батько Катерини</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632454</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wants to know what happened to her father. Deep Storage
-            has an archive of audiologs - recordings of experiments that took place in
-            Psychotronics. She's asked me to dig up the last entry that matches her father's
-            volunteer number.</Data>
+          <Data ss:Type="String">Mikhaila wants to know what happened to her father. Deep Storage has an archive of audiologs - recordings of experiments that took place in Psychotronics. She&apos;s asked me to dig up the last entry that matches her father&apos;s volunteer number.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wants to know what happened to her father. Deep Storage
-            has an archive of audiologs - recordings of experiments that took place in
-            Psychotronics. She's asked me to dig up the last entry that matches her father's
-            volunteer number.</Data>
+          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632455</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage
-            has an archive of audiologs - recordings of experiments that took place in
-            Psychotronics. I dug up an entry that matched her father's volunteer number and listened
-            to the recording. Mikhaila's father died in an experiment conducted by TranStar
-            scientists. One of the scientists was me. Now, I have to decide if I'm going to give the
-            recording to Mikhaila or erase it for good. </Data>
+          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiologs - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father&apos;s volunteer number and listened to the recording. Mikhaila&apos;s father died in an experiment conducted by TranStar scientists. One of the scientists was me. Now, I have to decide if I&apos;m going to give the recording to Mikhaila or erase it for good. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage
-            has an archive of audiologs - recordings of experiments that took place in
-            Psychotronics. I dug up an entry that matched her father's volunteer number and listened
-            to the recording. Mikhaila's father died in an experiment conducted by TranStar
-            scientists. One of the scientists was me. Now, I have to decide if I'm going to give the
-            recording to Mikhaila or erase it for good. </Data>
+          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Катерини загинув під час експерименту, який проводили вчені «Транстар» і я. Тепер потрібно вирішити — віддати запис Катерині або стерти. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632456</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage
-            has an archive of audiolog - recordings of experiments that took place in Psychotronics.
-            I dug up an entry that matched her father's volunteer number and listened to the
-            recording. Mikhaila's father died in an experiment conducted by TranStar scientists. One
-            of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to listen to the recoding with
-            Mikhaila, even though it sounds like I'm an accessory to her father's death. I can't
-            change the past, but I don't even remember being that person. She's upset, but maybe
-            she'll be willing to give me some grace. I'm sure she'll be watching to see what I do
-            from here on out. </Data>
+          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiolog - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father&apos;s volunteer number and listened to the recording. Mikhaila&apos;s father died in an experiment conducted by TranStar scientists. One of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to listen to the recoding with Mikhaila, even though it sounds like I&apos;m an accessory to her father&apos;s death. I can&apos;t change the past, but I don&apos;t even remember being that person. She&apos;s upset, but maybe she&apos;ll be willing to give me some grace. I&apos;m sure she&apos;ll be watching to see what I do from here on out.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage
-            has an archive of audiolog - recordings of experiments that took place in Psychotronics.
-            I dug up an entry that matched her father's volunteer number and listened to the
-            recording. Mikhaila's father died in an experiment conducted by TranStar scientists. One
-            of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to listen to the recoding with
-            Mikhaila, even though it sounds like I'm an accessory to her father's death. I can't
-            change the past, but I don't even remember being that person. She's upset, but maybe
-            she'll be willing to give me some grace. I'm sure she'll be watching to see what I do
-            from here on out. </Data>
+          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Катерини загинув під час експерименту, який проводили вчені «Транстар» і я. &lt;br&gt;&lt;br&gt;Катерина отримала і прослухала запис — тепер вона знає, що на мені лежить вина у смерті її батька. Я не можу змінити минуле. Я його навіть не пам'ятаю. Катерина засмучена, але, можливо, виявить до мене поблажливість. Напевно вона стежитиме за моїми діями.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632457</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage
-            has an archive of audiolog - recordings of experiments that took place in Psychotronics.
-            I dug up an entry that matched her father's volunteer number and listened to the
-            recording. Mikhaila's father died in an experiment conducted by TranStar scientists. One
-            of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to erase the audiolog of her
-            father's last moments. It sounded like I was an accessory to her father's death, but I
-            don't even remember being that person. She's upset. I'm sure she'll be watching to see
-            what I do from here on out. </Data>
+          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiolog - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father&apos;s volunteer number and listened to the recording. Mikhaila&apos;s father died in an experiment conducted by TranStar scientists. One of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to erase the audiolog of her father&apos;s last moments. It sounded like I was an accessory to her father&apos;s death, but I don&apos;t even remember being that person. She&apos;s upset. I&apos;m sure she&apos;ll be watching to see what I do from here on out. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage
-            has an archive of audiolog - recordings of experiments that took place in Psychotronics.
-            I dug up an entry that matched her father's volunteer number and listened to the
-            recording. Mikhaila's father died in an experiment conducted by TranStar scientists. One
-            of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to erase the audiolog of her
-            father's last moments. It sounded like I was an accessory to her father's death, but I
-            don't even remember being that person. She's upset. I'm sure she'll be watching to see
-            what I do from here on out. </Data>
+          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Катерини загинув під час експерименту, який проводили вчені «Транстар» і я. &lt;br&gt;&lt;br&gt;Запис довелося стерти. Судячи з нього, вина за його смерть лежить на мені — але я навіть не пам'ятаю людину, яка це зробила. Катерина засмучена. Напевно тепер вона стежитиме за моїми діями. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632458</Data>
         </Cell>
@@ -188,73 +143,84 @@
           <Data ss:Type="String">Access the Volunteer Archive Terminal in Deep Storage.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access the Volunteer Archive Terminal in Deep Storage.</Data>
+          <Data ss:Type="String">Отримати доступ до терміналу з архівом добровольців у сховищі даних</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632459</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Input Yuri Andronov's volunteer number to find his final audiolog
-            entry.</Data>
+          <Data ss:Type="String">Input Yuri Andronov&apos;s volunteer number to find his final audiolog entry.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Input Yuri Andronov's volunteer number to find his final audiolog
-            entry.</Data>
+          <Data ss:Type="String">Ввести номер батька Катерини, щоб знайти його останній аудіощоденник</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632460</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Transfer Yuri Andronov's final audiolog to your office workstation.</Data>
+          <Data ss:Type="String">Transfer Yuri Andronov&apos;s final audiolog to your office workstation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Transfer Yuri Andronov's final audiolog to your office workstation.</Data>
+          <Data ss:Type="String">Завантажити останній аудіощоденник батька Катерини в термінал у моєму кабінеті</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632461</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Erase Yuri Andronov's final audiolog entry.</Data>
+          <Data ss:Type="String">Erase Yuri Andronov&apos;s final audiolog entry.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Erase Yuri Andronov's final audiolog entry.</Data>
+          <Data ss:Type="String">Видалити останній аудіощоденник батька Катерини</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632462</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Listen to the Yuri Andronov's final audiolog with Mikhaila in your
-            office.</Data>
+          <Data ss:Type="String">Listen to the Yuri Andronov&apos;s final audiolog with Mikhaila in your office.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Listen to the Yuri Andronov's final audiolog with Mikhaila in your
-            office.</Data>
+          <Data ss:Type="String">Послухати останній аудіощоденник батька Катерини разом із Катериною в моєму кабінеті</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632463</Data>
         </Cell>
@@ -262,13 +228,16 @@
           <Data ss:Type="String">Talk to Mikhaila</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talk to Mikhaila</Data>
+          <Data ss:Type="String">Поговорити з Катериною</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_6732635291241098447</Data>
         </Cell>
@@ -276,13 +245,16 @@
           <Data ss:Type="String">Mikhaila</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila</Data>
+          <Data ss:Type="String">Катерина</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417329839008</Data>
         </Cell>
@@ -290,13 +262,16 @@
           <Data ss:Type="String">Terminal</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Terminal</Data>
+          <Data ss:Type="String">Термінал</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417329839011</Data>
         </Cell>
@@ -304,13 +279,16 @@
           <Data ss:Type="String">Terminal</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Terminal</Data>
+          <Data ss:Type="String">Термінал</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417329839017</Data>
         </Cell>
@@ -318,13 +296,16 @@
           <Data ss:Type="String">Terminal</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Terminal</Data>
+          <Data ss:Type="String">Термінал</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417329839022</Data>
         </Cell>
@@ -332,13 +313,16 @@
           <Data ss:Type="String">Terminal</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Terminal</Data>
+          <Data ss:Type="String">Термінал</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417329839028</Data>
         </Cell>
@@ -346,27 +330,15 @@
           <Data ss:Type="String">Mikhaila</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mikhaila</Data>
+          <Data ss:Type="String">Катерина</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>12</ActiveRow>
-          <ActiveCol>3</ActiveCol>
-          <RangeSelection>R13C4:R18C4</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
