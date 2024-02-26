@@ -5,34 +5,34 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11205</WindowHeight>
-    <WindowWidth>28245</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="6" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
+    <Table>
       <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
@@ -55,13 +55,16 @@
           <Data ss:Type="String">loc_15373294129891632383</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Kelstrup's Neuromods</Data>
+          <Data ss:Type="String">Dr. Kelstrup&apos;s Neuromods</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Kelstrup's Neuromods</Data>
+          <Data ss:Type="String">Нейромоди доктора Келструпа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -69,18 +72,16 @@
           <Data ss:Type="String">loc_15373294129891632384</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex sent the code for Dr. Kelstrup's safe. I should collect the
-            Neuromods he says are inside.</Data>
+          <Data ss:Type="String">Alex sent the code for Dr. Kelstrup&apos;s safe. I should collect the Neuromods he says are inside.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex sent the code for Dr. Kelstrup's safe. I should collect the
-            Neuromods he says are inside.</Data>
+          <Data ss:Type="String">Алекс надіслав мені пароль від сейфа доктора Келструпа. Мені потрібно забрати нейромоди, які, за словами брата, лежать у сейфі.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -88,13 +89,16 @@
           <Data ss:Type="String">loc_15373294129891632385</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kelstrup's safe</Data>
+          <Data ss:Type="String">Kelstrup&apos;s safe</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kelstrup's safe</Data>
+          <Data ss:Type="String">Сейф Келструпа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -102,16 +106,16 @@
           <Data ss:Type="String">loc_15373294129891632386</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Collect Neuromods from Dr. Kelstrup's office</Data>
+          <Data ss:Type="String">Collect Neuromods from Dr. Kelstrup&apos;s office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Collect Neuromods from Dr. Kelstrup's office</Data>
+          <Data ss:Type="String">Забрати нейромоди з кабінету доктора Келструпа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -119,34 +123,18 @@
           <Data ss:Type="String">loc_844024417316350775</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex sent the passcode for Dr. Kelstrup's safe, which had Neuromods
-            inside.</Data>
+          <Data ss:Type="String">Alex sent the passcode for Dr. Kelstrup&apos;s safe, which had Neuromods inside.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex sent the passcode for Dr. Kelstrup's safe, which had Neuromods
-            inside.</Data>
+          <Data ss:Type="String">Алекс прислал мне пароль от сейфа доктора Келструпа, в котором лежат нейромоды.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>2</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-          <RangeSelection>R1:R1048576</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
