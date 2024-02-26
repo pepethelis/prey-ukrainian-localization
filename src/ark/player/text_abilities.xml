@@ -194,7 +194,7 @@
           <Data ss:Type="String">Increase your health to 115 and your stamina to 105. Run, sneak, climb, and sprint 5% faster.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ваш рівень здоров'я підвищується до 115, а витривалість — до 105. Ви бігаєте, крадетесь, дерётеся і прискорюєтеся на 5% швидше.</Data>
+          <Data ss:Type="String">Ваш рівень здоров'я підвищується до 115, а витривалість — до 105. Ви бігаєте, крадетесь, деретеся і прискорюєтеся на 5% швидше.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -636,7 +636,7 @@
           <Data ss:Type="String">Increase overall movement speed. Run, sneak, climb, and sprint 25% faster.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Збільшується швидкість руху. Ви біжите, крадетеся, дерётеся і прискорюєтеся на 25% швидше.</Data>
+          <Data ss:Type="String">Збільшується швидкість руху. Ви бігаєте, крадетесь, деретеся і прискорюєтеся на 25% швидше.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
