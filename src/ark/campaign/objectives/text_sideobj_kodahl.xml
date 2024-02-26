@@ -5,37 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>13200</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="22" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="180.75" />
-      <Column ss:AutoFitWidth="0" ss:Width="470.25" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -52,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632396</Data>
         </Cell>
@@ -60,98 +58,50 @@
           <Data ss:Type="String">Incapacitate Dahl</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Incapacitate Dahl</Data>
+          <Data ss:Type="String">Вивести з ладу Даля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632397</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I to
-            propose an alternate way of dealing with Dahl. Igwe wants me to incapacitate him - not
-            kill him. Removing Dahl's more recent Neuromods will make Dahl forget his orders to
-            infiltrate Talos I, but keep his knowledge of how to pilot the shuttle home. Maybe he
-            can fly us home.</Data>
+          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I to propose an alternate way of dealing with Dahl. Igwe wants me to incapacitate him - not kill him. Removing Dahl&apos;s more recent Neuromods will make Dahl forget his orders to infiltrate Talos I, but keep his knowledge of how to pilot the shuttle home. Maybe he can fly us home.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I to
-            propose an alternate way of dealing with Dahl. Igwe wants me to incapacitate him - not
-            kill him. Removing Dahl's more recent Neuromods will make Dahl forget his orders to
-            infiltrate Talos I, but keep his knowledge of how to pilot the shuttle home. Maybe he
-            can fly us home.</Data>
+          <Data ss:Type="String">Ігве зв'язався зі мною і запропонував інший спосіб нейтралізувати капітана Даля. Ігве хоче не вбивати його, а вивести з ладу. Якщо видалити нещодавно встановлені нейромоди, Даль забуде наказ проникнути на «Талос-1», але, як і раніше, буде здатний керувати шатлом. Може, він зуміє доставити нас додому.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632398</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe wants you to get Dahl to the Medical Bay where he will be safe
-            and can be picked up by some of his medbots later.</Data>
+          <Data ss:Type="String">Igwe wants you to get Dahl to the Medical Bay where he will be safe and can be picked up by some of his medbots later.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe wants you to get Dahl to the Medical Bay where he will be safe
-            and can be picked up by some of his medbots later.</Data>
+          <Data ss:Type="String">Ігве хоче, щоб Даля доставили в медичний відсік, де він буде в безпеці; звідти його забере один із медботів.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891632399</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Igwe now has Dahl in the Medbay and is ready to start
-            his procedure on him.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Igwe now has Dahl in the Medbay and is ready to start
-            his procedure on him.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891632400</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Igwe wants you to activate the Neuromod insertion
-            chair to remove Dahl's.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Igwe wants you to activate the Neuromod insertion
-            chair to remove Dahl's.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632401</Data>
         </Cell>
@@ -159,13 +109,16 @@
           <Data ss:Type="String">Meet Igwe at your office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Meet Igwe at your office</Data>
+          <Data ss:Type="String">Поговорити з Ігве у вашому кабінеті</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632402</Data>
         </Cell>
@@ -173,13 +126,16 @@
           <Data ss:Type="String">Dahl</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dahl</Data>
+          <Data ss:Type="String">Даль</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632403</Data>
         </Cell>
@@ -187,34 +143,16 @@
           <Data ss:Type="String">Subdue Dahl without killing him.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subdue Dahl without killing him.</Data>
+          <Data ss:Type="String">Вивести Даля з ладу, не вбиваючи його</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891632404</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Get item or blueprint to fix Neuromod insertion chair.
-            (this is to get player to head to another location so Igwe can retrieve body otherwise
-            player can go straight to chair and wait.)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Get item or blueprint to fix Neuromod insertion chair.
-            (this is to get player to head to another location so Igwe can retrieve body otherwise
-            player can go straight to chair and wait.)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632405</Data>
         </Cell>
@@ -222,13 +160,16 @@
           <Data ss:Type="String">Get Dahl safely to the Medical Bay.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get Dahl safely to the Medical Bay.</Data>
+          <Data ss:Type="String">Доставити Даля в медичний відсік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632406</Data>
         </Cell>
@@ -236,13 +177,16 @@
           <Data ss:Type="String">Get Dahl safely to the Medical Bay.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get Dahl safely to the Medical Bay.</Data>
+          <Data ss:Type="String">Доставити Даля в медичний відсік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632407</Data>
         </Cell>
@@ -250,16 +194,16 @@
           <Data ss:Type="String"> Wait for further instructions from Dr. Igwe.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"> Wait for further instructions from Dr. Igwe.</Data>
+          <Data ss:Type="String"> Дочекатися нових інструкцій від доктора Ігве</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632408</Data>
         </Cell>
@@ -267,16 +211,16 @@
           <Data ss:Type="String">Meet Igwe in Neuromod insertion room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Meet Igwe in Neuromod insertion room</Data>
+          <Data ss:Type="String">Поговорити з Ігве в кімнаті імплантації нейромодів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632409</Data>
         </Cell>
@@ -284,72 +228,50 @@
           <Data ss:Type="String">Activate the Neuromod removal process.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Activate the Neuromod removal process.</Data>
+          <Data ss:Type="String">Активувати процес вилучення нейромода</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417316593720</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe contacted me after Commander Dahl's arrived on Talos I. Igwe
-            wants to meet in my office before I confront Dahl, so he can propose an idea.</Data>
+          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I. Igwe wants to meet in my office before I confront Dahl, so he can propose an idea.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I. Igwe
-            wants to meet in my office before I confront Dahl, so he can propose an idea.</Data>
+          <Data ss:Type="String">Незабаром після прибуття капітана Даля на «Талос» зі мною зв'язався Ігве. Він хоче, щоб ми зустрілися в моєму кабінеті. У нього ідея щодо того, як потрібно вчинити з Далем.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417316595707</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe contacted me after Commander Dahl's arrived on Talos I to
-            propose an alternate way of dealing with Dahl. I incapacitated Dahl instead of killing
-            him. Then we removed Dahl's more recent Neuromods to make him forget his orders to
-            infiltrate Talos I, but kept his piloting skills.</Data>
+          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I to propose an alternate way of dealing with Dahl. I incapacitated Dahl instead of killing him. Then we removed Dahl&apos;s more recent Neuromods to make him forget his orders to infiltrate Talos I, but kept his piloting skills.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Igwe contacted me after Commander Dahl arrived on Talos I to
-            propose an alternate way of dealing with Dahl. I incapacitated Dahl instead of killing
-            him. Then we removed Dahl's more recent Neuromods to make him forget his orders to
-            infiltrate Talos I, but kept his piloting skills.</Data>
+          <Data ss:Type="String">Ігве зв'язався зі мною і запропонував інший спосіб нейтралізувати капітана Даля. Мне вдалося вивести Даля з ладу. Потім ми видалили йому нещодавно встановлені нейромоди, щоб він забув наказ проникнути на «Талос-1», але зберіг свої навички пілота.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_14667999412573264763</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Save Dahl</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Save Dahl</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013225818805</Data>
         </Cell>
@@ -357,13 +279,16 @@
           <Data ss:Type="String">Meet Igwe</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Meet Igwe</Data>
+          <Data ss:Type="String">Зустрітися з Ігве</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013226174701</Data>
         </Cell>
@@ -371,35 +296,50 @@
           <Data ss:Type="String">Wait for Dahl to contact you from the shuttle.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Wait for Dahl to contact you from the shuttle.</Data>
+          <Data ss:Type="String">Почекати, поки Даль вийде зі мною на зв'язок із шатла</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013226174782</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dahl will be able to help me escape from Talos I but isn't ready to
-            take off just yet. In the meantime, I should continue with my other priorities.</Data>
+          <Data ss:Type="String">Dahl will be able to help me escape from Talos I but isn&apos;t ready to take off just yet. In the meantime, I should continue with my other priorities.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dahl will be able to help me escape from Talos I but isn't ready to
-            take off just yet. In the meantime, I should continue with my other priorities.</Data>
+          <Data ss:Type="String">Даль може допомогти мені покинути «Талос-1», але поки він не готовий відлітати. Тим часом мені потрібно зайнятися іншими справами.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_14667999412573264763</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Save Dahl</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Врятувати Даля</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129903449369</Data>
         </Cell>
@@ -407,27 +347,15 @@
           <Data ss:Type="String">Dr. Igwe</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Igwe</Data>
+          <Data ss:Type="String">Доктор Ігве</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>16</ActiveRow>
-          <ActiveCol>3</ActiveCol>
-          <RangeSelection>R17C4:R22C4</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
