@@ -5,39 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12345</WindowHeight>
-    <WindowWidth>20295</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="30" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:AutoFitWidth="0" ss:Width="231" />
-      <Column ss:AutoFitWidth="0" ss:Width="154.5" />
-      <Column ss:AutoFitWidth="0" ss:Width="176.25" />
-      <Column ss:AutoFitWidth="0" ss:Width="166.5" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -54,21 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15659330456357135940</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Airlock - Arboretum</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Airlock - Arboretum</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216729865</Data>
         </Cell>
@@ -76,13 +58,16 @@
           <Data ss:Type="String">Airlock - Shuttle Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Shuttle Bay</Data>
+          <Data ss:Type="String">Шлюз — відсік для шатла</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216729868</Data>
         </Cell>
@@ -90,13 +75,16 @@
           <Data ss:Type="String">Airlock - Psychotronics</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Psychotronics</Data>
+          <Data ss:Type="String">Шлюз — лабораторія психотроніки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216729870</Data>
         </Cell>
@@ -104,13 +92,16 @@
           <Data ss:Type="String">Airlock - Power Plant</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Power Plant</Data>
+          <Data ss:Type="String">Шлюз — електростанція</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216729873</Data>
         </Cell>
@@ -118,13 +109,16 @@
           <Data ss:Type="String">Airlock - Hardware Labs</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Hardware Labs</Data>
+          <Data ss:Type="String">Шлюз — апаратна лабораторія</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730215</Data>
         </Cell>
@@ -132,13 +126,16 @@
           <Data ss:Type="String">Airlock - Hardware Labs (Locked)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Hardware Labs (Locked)</Data>
+          <Data ss:Type="String">Шлюз — апаратна лабораторія (зачинено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730233</Data>
         </Cell>
@@ -146,13 +143,16 @@
           <Data ss:Type="String">Airlock - Power Plant (Locked)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Power Plant (Locked)</Data>
+          <Data ss:Type="String">Шлюз — електростанція (зачинено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730252</Data>
         </Cell>
@@ -160,13 +160,16 @@
           <Data ss:Type="String">Airlock - Psychotronics (Locked)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Psychotronics (Locked)</Data>
+          <Data ss:Type="String">Шлюз — лабораторія психотроніки (зачинено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730271</Data>
         </Cell>
@@ -174,13 +177,16 @@
           <Data ss:Type="String">Airlock - Shuttle Bay (Locked)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Shuttle Bay (Locked)</Data>
+          <Data ss:Type="String">Шлюз — відсік для шатла (зачинено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730287</Data>
         </Cell>
@@ -188,13 +194,16 @@
           <Data ss:Type="String">Airlock - Arboretum (Locked)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Airlock - Arboretum (Locked)</Data>
+          <Data ss:Type="String">Шлюз — дендрарій (зачинено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730418</Data>
         </Cell>
@@ -202,16 +211,16 @@
           <Data ss:Type="String">Derelict Shuttle</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Derelict Shuttle</Data>
+          <Data ss:Type="String">Покинутий шаттл</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730526</Data>
         </Cell>
@@ -219,13 +228,16 @@
           <Data ss:Type="String">Oxygen Refill Station</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oxygen Refill Station</Data>
+          <Data ss:Type="String">Станція регенерації повітря</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216730637</Data>
         </Cell>
@@ -233,13 +245,16 @@
           <Data ss:Type="String">Human Corpse</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Human Corpse</Data>
+          <Data ss:Type="String">Труп людини</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216735785</Data>
         </Cell>
@@ -247,16 +262,16 @@
           <Data ss:Type="String">Hull Breach - Cargo Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hull Breach - Cargo Bay</Data>
+          <Data ss:Type="String">Пробоїна — вантажний відсік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216735951</Data>
         </Cell>
@@ -264,16 +279,16 @@
           <Data ss:Type="String">Hull Breach - Hardware Labs</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hull Breach - Hardware Labs</Data>
+          <Data ss:Type="String">Пробоїна — апаратна лабораторія</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216735969</Data>
         </Cell>
@@ -281,16 +296,16 @@
           <Data ss:Type="String">Hull Breach - Power Plant</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hull Breach - Power Plant</Data>
+          <Data ss:Type="String">Пробоїна — електростанція</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216735986</Data>
         </Cell>
@@ -298,16 +313,16 @@
           <Data ss:Type="String">Hull Breach - Crew Quarters</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hull Breach - Crew Quarters</Data>
+          <Data ss:Type="String">Пробоїна — житлова секція</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013216736016</Data>
         </Cell>
@@ -315,16 +330,33 @@
           <Data ss:Type="String">Hull Breach - Crew Quarters</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hull Breach - Crew Quarters</Data>
+          <Data ss:Type="String">Пробоїна — житлова секція</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15659330456357135940</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Airlock - Arboretum</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Шлюз — дендрарій</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047996836362</Data>
         </Cell>
@@ -332,13 +364,16 @@
           <Data ss:Type="String">Magnetosphere Control Room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Magnetosphere Control Room</Data>
+          <Data ss:Type="String">Управління магнітосферою</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997184321</Data>
         </Cell>
@@ -346,13 +381,16 @@
           <Data ss:Type="String">Workstation</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Workstation</Data>
+          <Data ss:Type="String">Термінал</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997184997</Data>
         </Cell>
@@ -360,13 +398,16 @@
           <Data ss:Type="String">Power Station</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Power Station</Data>
+          <Data ss:Type="String">Генераторна станція</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997186278</Data>
         </Cell>
@@ -374,13 +415,16 @@
           <Data ss:Type="String">Cargo Debris</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cargo Debris</Data>
+          <Data ss:Type="String">Звалище</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997186484</Data>
         </Cell>
@@ -388,13 +432,16 @@
           <Data ss:Type="String">Cargo Processing</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cargo Processing</Data>
+          <Data ss:Type="String">Сортування вантажів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997186504</Data>
         </Cell>
@@ -402,13 +449,16 @@
           <Data ss:Type="String">Cargo Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cargo Bay</Data>
+          <Data ss:Type="String">Вантажний відсік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997186519</Data>
         </Cell>
@@ -416,13 +466,16 @@
           <Data ss:Type="String">Arboretum</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Arboretum</Data>
+          <Data ss:Type="String">Дендрарій</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997186592</Data>
         </Cell>
@@ -430,13 +483,16 @@
           <Data ss:Type="String">Shuttle Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shuttle Bay</Data>
+          <Data ss:Type="String">Відсік для шатла</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047997187195</Data>
         </Cell>
@@ -444,57 +500,49 @@
           <Data ss:Type="String">Debris</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Debris</Data>
+          <Data ss:Type="String">Уламки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
-          <Data ss:Type="String">loc_Arb_SprinklerSystem</Data>
+          <Data ss:Type="String">loc_arb_sprinklersystem</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Sprinkler system</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sprinkler system</Data>
+          <Data ss:Type="String">Система поливу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
-          <Data ss:Type="String">loc_HumanCorpseFound</Data>
+          <Data ss:Type="String">loc_humancorpsefound</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Human Corpse (found)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Human Corpse (found)</Data>
+          <Data ss:Type="String">Труп людини (знайдено)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>2</ActiveRow>
-          <ActiveCol>2</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
