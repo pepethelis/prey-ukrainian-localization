@@ -5,34 +5,34 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11205</WindowHeight>
-    <WindowWidth>28245</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="11" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
+    <Table>
       <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
@@ -58,10 +58,13 @@
           <Data ss:Type="String">Save Alex</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Save Alex</Data>
+          <Data ss:Type="String">Врятувати Алекса</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -69,20 +72,16 @@
           <Data ss:Type="String">loc_15373294129891632642</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex lost consciousness after the Apex Typhon assaulted the station
-            and cracked the Arboretum dome. If I want him to live I need to get him to the safety of
-            his bunker before he runs out of air.</Data>
+          <Data ss:Type="String">Alex lost consciousness after the Apex Typhon assaulted the station and cracked the Arboretum dome. If I want him to live I need to get him to the safety of his bunker before he runs out of air.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex lost consciousness after the Apex Typhon assaulted the station
-            and cracked the Arboretum dome. If I want him to live I need to get him to the safety of
-            his bunker before he runs out of air.</Data>
+          <Data ss:Type="String">Після того як альфа-тифон напав на станцію і пробив купол дендрарію, Алекс знепритомнів. Якщо я хочу, щоб брат вижив, мені потрібно доставити Алекса в його бункер, поки він не задихнувся.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -93,10 +92,13 @@
           <Data ss:Type="String">Alex</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex</Data>
+          <Data ss:Type="String">Алекс</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -107,13 +109,13 @@
           <Data ss:Type="String">Get to Alex before he dies.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get to Alex before he dies.</Data>
+          <Data ss:Type="String">Дістатися до Алекса, поки він не помер</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -124,10 +126,13 @@
           <Data ss:Type="String">Safe Room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Safe Room</Data>
+          <Data ss:Type="String">Безпечне приміщення</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -138,10 +143,13 @@
           <Data ss:Type="String">Put Alex in his safe room.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Put Alex in his safe room.</Data>
+          <Data ss:Type="String">Залишити Алекса в безпечному приміщенні</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -152,10 +160,13 @@
           <Data ss:Type="String">Keypad</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Keypad</Data>
+          <Data ss:Type="String">Кодовий замок</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -166,13 +177,13 @@
           <Data ss:Type="String">Use voice lock to shut safe room door.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use voice lock to shut safe room door.</Data>
+          <Data ss:Type="String">Замкнути двері безпечного приміщення на голосовий замок</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -180,20 +191,16 @@
           <Data ss:Type="String">loc_844024417316847599</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex lost consciousness after the Apex Typhon assaulted the station
-            and cracked the Arboretum dome. I managed to get him safely to his bunker. He owes me
-            big time.</Data>
+          <Data ss:Type="String">Alex lost consciousness after the Apex Typhon assaulted the station and cracked the Arboretum dome. I managed to get him safely to his bunker. He owes me big time.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex lost consciousness after the Apex Typhon assaulted the station
-            and cracked the Arboretum dome. I managed to get him safely to his bunker. He owes me
-            big time.</Data>
+          <Data ss:Type="String">Після того як альфа-тифон напав на станцію і пробив купол дендрарію, Алекс знепритомнів. Мені вдалося доставити Алекса в його бункер. Він у великому боргу переді мною.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -201,34 +208,18 @@
           <Data ss:Type="String">loc_844024417316847609</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex lost unconscious after the Apex Typhon assaulted the station
-            crashed the Arboretum dome. I wasn't able to get him to the safety before he died.</Data>
+          <Data ss:Type="String">Alex lost unconscious after the Apex Typhon assaulted the station crashed the Arboretum dome. I wasn&apos;t able to get him to the safety before he died.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex lost unconscious after the Apex Typhon assaulted the station
-            crashed the Arboretum dome. I wasn't able to get him to the safety before he died.</Data>
+          <Data ss:Type="String">Після того як альфа-тифон напав на станцію і пробив купол дендрарію, Алекс знепритомнів. Мені не вдалося врятувати Алекса, і він помер.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>10</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-          <RangeSelection>R1:R1048576</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

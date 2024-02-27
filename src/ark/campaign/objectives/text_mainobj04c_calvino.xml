@@ -5,37 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12300</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="24" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15">
-      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="283.5" />
-      <Column ss:AutoFitWidth="0" ss:Width="380.25" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -52,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630262</Data>
         </Cell>
@@ -60,64 +58,67 @@
           <Data ss:Type="String">Through a Glass Darkly</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Through a Glass Darkly</Data>
+          <Data ss:Type="String">Крізь тьмяне скло</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630263</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino is located in the breached hallway outside the station.
-            I need to get to an airlock in order to reach him.</Data>
+          <Data ss:Type="String">Dr. Calvino is located in the breached hallway outside the station. I need to get to an airlock in order to reach him.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino is located in the breached hallway outside the station.
-            I need to get to an airlock in order to reach him.</Data>
+          <Data ss:Type="String">Доктор Кальвіно перебуває в розгерметизованому коридорі за межами станції. Щоб дістатися до нього, мені слід знайти шлюз.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630264</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino is currently suspended in the Micro Gravity chamber.
-            Reaching him would require an Artax Propulsion System suit upgrade.</Data>
+          <Data ss:Type="String">Dr. Calvino is currently suspended in the Micro Gravity chamber. Reaching him would require an Artax Propulsion System suit upgrade.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino is currently suspended in the Micro Gravity chamber.
-            Reaching him would require an Artax Propulsion System suit upgrade.</Data>
+          <Data ss:Type="String">Наразі доктор Кальвіно перебуває в камері мікрогравітації. Для того щоб дістатися до нього, потрібно встановити на костюм рухову установку «Артакс».</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630265</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino is likely to have the keycard for his workshop. You can
-            locate him - or what's left of him - with the security roster.</Data>
+          <Data ss:Type="String">Dr. Calvino is likely to have the keycard for his workshop. You can locate him - or what&apos;s left of him - with the security roster.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino is likely to have the keycard for his workshop. You can
-            locate him - or what's left of him - with the security roster.</Data>
+          <Data ss:Type="String">У Кальвіно напевно є перепустка від його майстерні. Його — або його останки — можна відшукати за списком персоналу.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630266</Data>
         </Cell>
@@ -125,89 +126,84 @@
           <Data ss:Type="String">The security roster can be used to track station personnel.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The security roster can be used to track station personnel.</Data>
+          <Data ss:Type="String">За допомогою списку персоналу можна розшукувати членів екіпажу станції.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630267</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex disabled the Looking Glass servers before I could finish
-            watching my video. January believes Dr. Lorenzo Calvino, the man who invented the
-            technology, knows a way to restore the video file. His workshop is in the Hardware Labs.</Data>
+          <Data ss:Type="String">Alex disabled the Looking Glass servers before I could finish watching my video. January believes Dr. Lorenzo Calvino, the man who invented the technology, knows a way to restore the video file. His workshop is in the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex disabled the Looking Glass servers before I could finish
-            watching my video. January believes Dr. Lorenzo Calvino, the man who invented the
-            technology, knows a way to restore the video file. His workshop is in the Hardware Labs.</Data>
+          <Data ss:Type="String">Алекс відключив сервери «Дзеркала», не давши мені додивитися відео. «Січень» вважає, що файл може відновити доктор Лоренцо Кальвіно, який винайшов цю технологію. Його майстерня розташована в апаратній лабораторії.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630268</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex disabled the Looking Glass servers before I could finish
-            watching my video. I restored the Looking Glass servers from Dr. Calvino's workshop and
-            can now return to my office in the Lobby to watch the rest of the video.</Data>
+          <Data ss:Type="String">Alex disabled the Looking Glass servers before I could finish watching my video. I restored the Looking Glass servers from Dr. Calvino&apos;s workshop and can now return to my office in the Lobby to watch the rest of the video.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex disabled the Looking Glass servers before I could finish
-            watching my video. I restored the Looking Glass servers from Dr. Calvino's workshop and
-            can now return to my office in the Lobby to watch the rest of the video.</Data>
+          <Data ss:Type="String">Алекс відключив сервери «Дзеркала», не давши мені додивитися відео. Мені вдалося увімкнути їх. Тепер я можу повернутися до свого кабінету в холі й закінчити перегляд.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630269</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">January, the video file - all of it - was a secret contingency plan
-            I created in case Alex ever tried to stop me from destroying Talos I. With the Typhon
-            organisms spreading and nearly everyone dead, it's the only sane option. To do it, I'll
-            need two Arming Keys. Alex's has one. I had the other, but Alex destroyed it.
-            Fortunately, I hid a fabrication plan in Deep Storage to recreate it.</Data>
+          <Data ss:Type="String">January, the video file - all of it - was a secret contingency plan I created in case Alex ever tried to stop me from destroying Talos I. With the Typhon organisms spreading and nearly everyone dead, it&apos;s the only sane option. To do it, I&apos;ll need two Arming Keys. Alex&apos;s has one. I had the other, but Alex destroyed it. Fortunately, I hid a fabrication plan in Deep Storage to recreate it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">January, the video file - all of it - was a secret contingency plan
-            I created in case Alex ever tried to stop me from destroying Talos I. With the Typhon
-            organisms spreading and nearly everyone dead, it's the only sane option. To do it, I'll
-            need two Arming Keys. Alex's has one. I had the other, but Alex destroyed it.
-            Fortunately, I hid a fabrication plan in Deep Storage to recreate it.</Data>
+          <Data ss:Type="String">«Січень» і відеофайл — це частина мого плану на випадок, якщо Алекс спробує не дати мені знищити «Талос-1». Це єдиний вихід: майже весь персонал загинув, а станцію захопили тифони. Мені знадобляться два ключі-активатори. Один — у Алекса. Другий був у мене, але Алекс його знищив. На щастя, у сховищі даних є креслення ключа.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630270</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">While you didn't find the clue Danielle mentioned in Calvino's
-            workstation, you found another potential thread in the Arboretum. It looks like Deep
-            Storage might contain the key for restoring your video.</Data>
+          <Data ss:Type="String">While you didn&apos;t find the clue Danielle mentioned in Calvino&apos;s workstation, you found another potential thread in the Arboretum. It looks like Deep Storage might contain the key for restoring your video.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">While you didn't find the clue Danielle mentioned in Calvino's
-            workstation, you found another potential thread in the Arboretum. It looks like Deep
-            Storage might contain the key for restoring your video.</Data>
+          <Data ss:Type="String">У майстерні Кальвіно не було підказки, про яку говорила Даніелла, але дещо вдалося знайти в дендрарії. Схоже, що в сховищі даних можна відшукати спосіб відновити відео.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630271</Data>
         </Cell>
@@ -215,13 +211,16 @@
           <Data ss:Type="String">January</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">January</Data>
+          <Data ss:Type="String">«Січень»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630272</Data>
         </Cell>
@@ -229,13 +228,16 @@
           <Data ss:Type="String">Take the Lab keycard from January</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Take the Lab keycard from January</Data>
+          <Data ss:Type="String">Отримати у «Січня» перепустку в лабораторії</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630273</Data>
         </Cell>
@@ -243,32 +245,33 @@
           <Data ss:Type="String">Security Station</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Security Station</Data>
+          <Data ss:Type="String">Термінал служби безпеки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630274</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Optional) Use the security station to discover Dr. Calvino's
-            location.</Data>
+          <Data ss:Type="String">(Optional) Use the security station to discover Dr. Calvino&apos;s location.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Optional) Use the security station to discover Dr. Calvino's
-            location.</Data>
+          <Data ss:Type="String">(Додатково) Знайти доктора Кальвіно з терміналу служби безпеки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630275</Data>
         </Cell>
@@ -276,83 +279,101 @@
           <Data ss:Type="String">Dr. Lorenzo Calvino</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Lorenzo Calvino</Data>
+          <Data ss:Type="String">Доктор Лоренцо Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630276</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find Dr. Calvino's workshop keycard</Data>
+          <Data ss:Type="String">Find Dr. Calvino&apos;s workshop keycard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find Dr. Calvino's workshop keycard</Data>
+          <Data ss:Type="String">Знайти перепустку в майстерню доктора Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630277</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Dr. Calvino&apos;s Workshop</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Майстерня доктора Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630278</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access Dr. Calvino's workshop</Data>
+          <Data ss:Type="String">Access Dr. Calvino&apos;s workshop</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access Dr. Calvino's workshop</Data>
+          <Data ss:Type="String">Потрапити в майстерню доктора Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630279</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Dr. Calvino&apos;s Workshop</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Майстерня доктора Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630280</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Access Dr. Calvino&apos;s Workshop</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Потрапити в майстерню доктора Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630281</Data>
         </Cell>
@@ -360,13 +381,16 @@
           <Data ss:Type="String">Looking Glass Console</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Looking Glass Console</Data>
+          <Data ss:Type="String">Термінал «Дзеркала»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630282</Data>
         </Cell>
@@ -374,16 +398,16 @@
           <Data ss:Type="String">Diagnose and repair the Looking Glass server connection</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Diagnose and repair the Looking Glass server connection</Data>
+          <Data ss:Type="String">Протестувати та відновити з'єднання із сервером «Дзеркала»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630283</Data>
         </Cell>
@@ -391,13 +415,16 @@
           <Data ss:Type="String">Video</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Video</Data>
+          <Data ss:Type="String">Відео</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630284</Data>
         </Cell>
@@ -405,26 +432,15 @@
           <Data ss:Type="String">Watch the rest of your video</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Watch the rest of your video</Data>
+          <Data ss:Type="String">Додивитися відео до кінця</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>21</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

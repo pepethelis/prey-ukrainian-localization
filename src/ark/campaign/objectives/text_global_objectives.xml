@@ -1,40 +1,39 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>12300</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15">
-      <Column ss:AutoFitWidth="0" ss:Width="127.5" />
-      <Column ss:AutoFitWidth="0" ss:Width="603" />
-      <Column ss:AutoFitWidth="0" ss:Width="452.25" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -51,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630164</Data>
         </Cell>
@@ -59,32 +58,33 @@
           <Data ss:Type="String">Traumatized</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Traumatized</Data>
+          <Data ss:Type="String">Травма</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630165</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a traumatic injury. A medical operator can help get rid of
-            it, or I can find some pharmas.</Data>
+          <Data ss:Type="String">I have a traumatic injury. A medical operator can help get rid of it, or I can find some pharmas.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a traumatic injury. A medical operator can help get rid of
-            it, or I can find some pharmas.</Data>
+          <Data ss:Type="String">В мене травма. Потрібно знайти медоператора або відповідні медикаменти.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630166</Data>
         </Cell>
@@ -92,16 +92,16 @@
           <Data ss:Type="String">A medical operator healed my traumatic injury.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A medical operator healed my traumatic injury.</Data>
+          <Data ss:Type="String">Медоператор вилікував мою травму.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630167</Data>
         </Cell>
@@ -109,35 +109,33 @@
           <Data ss:Type="String">I used a pharma to get rid of my trauma.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I used a pharma to get rid of my trauma.</Data>
+          <Data ss:Type="String">Мені вдалося вилікувати травму за допомогою медикаментів.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630168</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I used a Medkit (after upping my medical skill with a Neuromod) to
-            get rid of my trauma.</Data>
+          <Data ss:Type="String">I used a Medkit (after upping my medical skill with a Neuromod) to get rid of my trauma.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I used a Medkit (after upping my medical skill with a Neuromod) to
-            get rid of my trauma.</Data>
+          <Data ss:Type="String">Мені вдалося вилікувати травму за допомогою аптечки (після поліпшення лікарських навичок за допомогою нейромода).</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630169</Data>
         </Cell>
@@ -145,16 +143,16 @@
           <Data ss:Type="String">I managed to recover from my trauma.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I managed to recover from my trauma.</Data>
+          <Data ss:Type="String">Мені вдалося відновитися після травми.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630170</Data>
         </Cell>
@@ -162,16 +160,16 @@
           <Data ss:Type="String">Cure your trauma</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cure your trauma</Data>
+          <Data ss:Type="String">Вилікувати свою травму</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630171</Data>
         </Cell>
@@ -179,13 +177,16 @@
           <Data ss:Type="String">Trauma Center</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Trauma Center</Data>
+          <Data ss:Type="String">Травмпункт</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630172</Data>
         </Cell>
@@ -193,13 +194,16 @@
           <Data ss:Type="String">Go to the Trauma Center</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Go to the Trauma Center</Data>
+          <Data ss:Type="String">Дістатися до травмпункту</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630173</Data>
         </Cell>
@@ -207,16 +211,16 @@
           <Data ss:Type="String">Find a Medical Operator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find a Medical Operator</Data>
+          <Data ss:Type="String">Знайти медоператора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630174</Data>
         </Cell>
@@ -224,13 +228,16 @@
           <Data ss:Type="String">Medical Dispenser</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medical Dispenser</Data>
+          <Data ss:Type="String">Розподільник медоператорів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630175</Data>
         </Cell>
@@ -238,13 +245,16 @@
           <Data ss:Type="String">Summon a Medical Operator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Summon a Medical Operator</Data>
+          <Data ss:Type="String">Викликати медоператора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630176</Data>
         </Cell>
@@ -252,13 +262,16 @@
           <Data ss:Type="String">Medical Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Medical Bay</Data>
+          <Data ss:Type="String">Медичний відсік</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630177</Data>
         </Cell>
@@ -266,73 +279,67 @@
           <Data ss:Type="String">Use a Medical Operator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use a Medical Operator</Data>
+          <Data ss:Type="String">Використовувати медоператора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630178</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Traumas can be cured with pharmaceutical supplies or by visiting a
-            medical operator. </Data>
+          <Data ss:Type="String">Traumas can be cured with pharmaceutical  supplies or by visiting a medical operator. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Traumas can be cured with pharmaceutical supplies or by visiting a
-            medical operator. </Data>
+          <Data ss:Type="String">Травму можна вилікувати за допомогою певних медикаментів або медоператора. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630179</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There&apos;s a medical operator in the Trauma Center, off the main
-            Lobby.</Data>
+          <Data ss:Type="String">There&apos;s a medical operator in the Trauma Center, off the main Lobby.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There&apos;s a medical operator in the Trauma Center, off the main
-            Lobby.</Data>
+          <Data ss:Type="String">Медоператор є в травмпункті, який розташований неподалік від головного холу.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630180</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There&apos;s a medical operator in the Trauma Center, off the main
-            Lobby.</Data>
+          <Data ss:Type="String">There&apos;s a medical operator in the Trauma Center, off the main Lobby.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There&apos;s a medical operator in the Trauma Center, off the main
-            Lobby.</Data>
+          <Data ss:Type="String">Медоператор є в травмпункті, який розташований неподалік від головного холу.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630181</Data>
         </Cell>
@@ -340,51 +347,50 @@
           <Data ss:Type="String">Use a Fabricator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use a Fabricator</Data>
+          <Data ss:Type="String">Використовувати фабрикатор</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630182</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found a fabrication plan. I should find a fabricator in order to
-            create the object. </Data>
+          <Data ss:Type="String">I found a fabrication plan. I should find a fabricator in order to create the object. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found a fabrication plan. I should find a fabricator in order to
-            create the object. </Data>
+          <Data ss:Type="String">Мені вдалося знайти креслення. Тепер потрібно відшукати фабрикатор і створити предмет. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630183</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I&apos;ve found a fabricator. I should find a fabrication plan to
-            utilize it.</Data>
+          <Data ss:Type="String">I&apos;ve found a fabricator. I should find a fabrication plan to utilize it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I&apos;ve found a fabricator. I should find a fabrication plan to
-            utilize it.</Data>
+          <Data ss:Type="String">Мені вдалося знайти фабрикатор. Щоб скористатися ним, знадобиться креслення.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630184</Data>
         </Cell>
@@ -392,13 +398,16 @@
           <Data ss:Type="String">Find a Fabricator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find a Fabricator</Data>
+          <Data ss:Type="String">Знайти фабрикатор</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630185</Data>
         </Cell>
@@ -406,13 +415,16 @@
           <Data ss:Type="String">Fabricator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabricator</Data>
+          <Data ss:Type="String">Фабрикатор</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630186</Data>
         </Cell>
@@ -420,16 +432,16 @@
           <Data ss:Type="String">Use a Fabricator to create an object</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use a Fabricator to create an object</Data>
+          <Data ss:Type="String">Створити предмет за допомогою фабрикатора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630187</Data>
         </Cell>
@@ -437,13 +449,16 @@
           <Data ss:Type="String">Find a Fabrication Plan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find a Fabrication Plan</Data>
+          <Data ss:Type="String">Знайти креслення</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630188</Data>
         </Cell>
@@ -451,27 +466,16 @@
           <Data ss:Type="String">PreventDahlFromEscaping</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">PreventDahlFromEscaping</Data>
+          <Data ss:Type="String">Не дати Далю піти</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630189</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Prevent Dahl&apos;s escape</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Prevent Dahl&apos;s escape</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630190</Data>
         </Cell>
@@ -479,32 +483,16 @@
           <Data ss:Type="String">Dahl</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dahl</Data>
+          <Data ss:Type="String">Даль</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630191</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Dahl is in Shuttle Bay preparing to escape on the
-            shuttle.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED] Dahl is in Shuttle Bay preparing to escape on the
-            shuttle.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-        <Cell>
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630192</Data>
         </Cell>
@@ -512,91 +500,84 @@
           <Data ss:Type="String">Zero G Propulsion System</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Zero G Propulsion System</Data>
+          <Data ss:Type="String">Рухова установка для роботи в невагомості</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630193</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There&apos;s an Artax Propulsion System fabrication plan somewhere
-            in the Machine Shop of Hardware Labs.</Data>
+          <Data ss:Type="String">There&apos;s an Artax Propulsion System fabrication plan somewhere in the Machine Shop of Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There&apos;s an Artax Propulsion System fabrication plan somewhere
-            in the Machine Shop of Hardware Labs.</Data>
+          <Data ss:Type="String">Десь у механічному цеху апаратної лабораторії знаходиться схема рухової установки «Артакс».</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630194</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I need to upgrade my suit with an Artax Propulsion System to enter
-            maneuver outside the space station. There&apos;s a fabrication plan somewhere in the
-            Machine Shop of the Hardware Labs.</Data>
+          <Data ss:Type="String">I need to upgrade my suit with an Artax Propulsion System to enter maneuver outside the space station. There&apos;s a fabrication plan somewhere in the Machine Shop of the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I need to upgrade my suit with an Artax Propulsion System to enter
-            maneuver outside the space station. There&apos;s a fabrication plan somewhere in the
-            Machine Shop of the Hardware Labs.</Data>
+          <Data ss:Type="String">Мені потрібно встановити на свій костюм рухову установку «Артакс» для пересування за межами станції. Десь у механічному цеху апаратної лабораторії є її схема.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630195</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found the Artax Propulsion System fabrication plan. Now I need to
-            fabricate and equip it to gain access to the station exterior.</Data>
+          <Data ss:Type="String">I found the Artax Propulsion System fabrication plan. Now I need to fabricate and equip it to gain access to the station exterior.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found the Artax Propulsion System fabrication plan. Now I need to
-            fabricate and equip it to gain access to the station exterior.</Data>
+          <Data ss:Type="String">Мені вдалося знайти схему рухової установки «Артакс». Тепер потрібно виготовити її і встановити — це дасть мені змогу вийти за межі станції.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630196</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I upgraded my suit with an Artax Propulsion System. I can use it to
-            glide in normal gravity or maneuver when in a zero gravity environment.</Data>
+          <Data ss:Type="String">I upgraded my suit with an Artax Propulsion System. I can use it to glide in normal gravity or maneuver when in a zero gravity environment.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I upgraded my suit with an Artax Propulsion System. I can use it to
-            glide in normal gravity or maneuver when in a zero gravity environment.</Data>
+          <Data ss:Type="String">Мені вдалося встановити на костюм рухову установку «Артакс». Я можу використовувати її для пересування як у звичайних умовах, так і в невагомості.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630197</Data>
         </Cell>
@@ -604,13 +585,16 @@
           <Data ss:Type="String">Artax Fabrication Plan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Artax Fabrication Plan</Data>
+          <Data ss:Type="String">Креслення «Артакса»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630198</Data>
         </Cell>
@@ -618,13 +602,16 @@
           <Data ss:Type="String">Find an Artax Propulsion System fabrication plan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find an Artax Propulsion System fabrication plan.</Data>
+          <Data ss:Type="String">Знайти креслення рухової установки «Артакс»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630199</Data>
         </Cell>
@@ -632,13 +619,16 @@
           <Data ss:Type="String">Fabricator</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabricator</Data>
+          <Data ss:Type="String">Фабрикатор</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630200</Data>
         </Cell>
@@ -646,16 +636,16 @@
           <Data ss:Type="String">Fabricate the Artax Propulsion System.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fabricate the Artax Propulsion System.</Data>
+          <Data ss:Type="String">Створити рухову установку «Артакс»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630201</Data>
         </Cell>
@@ -663,13 +653,16 @@
           <Data ss:Type="String">Platform</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Platform</Data>
+          <Data ss:Type="String">Платформа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630202</Data>
         </Cell>
@@ -677,13 +670,16 @@
           <Data ss:Type="String">Glide to the cargo platform</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Glide to the cargo platform</Data>
+          <Data ss:Type="String">Долетіти до вантажної платформи</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630203</Data>
         </Cell>
@@ -691,32 +687,33 @@
           <Data ss:Type="String">Locate Crew Member</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Locate Crew Member</Data>
+          <Data ss:Type="String">Знайти члена екіпажу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630204</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I tag a crew member from a security station, I get the
-            location of their tracking bracelet. I can use this to find missing crew.</Data>
+          <Data ss:Type="String">When I tag a crew member from a security station, I get the location of their tracking bracelet. I can use this to find missing crew.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">When I tag a crew member from a security station, I get the
-            location of their tracking bracelet. I can use this to find missing crew.</Data>
+          <Data ss:Type="String">Якщо вибрати члена екіпажу на терміналі служби безпеки, я бачу координати його браслета-маячка. Це стане в пригоді для пошуку тих, хто вижив.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630205</Data>
         </Cell>
@@ -724,13 +721,16 @@
           <Data ss:Type="String">Crew Member</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Crew Member</Data>
+          <Data ss:Type="String">Член екіпажу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630206</Data>
         </Cell>
@@ -738,48 +738,32 @@
           <Data ss:Type="String">Locate crew member</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Locate crew member</Data>
+          <Data ss:Type="String">Знайти члена екіпажу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417315039387</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I&apos;ve successfully used a fabricator to create something from a
-            fabrication plan.</Data>
+          <Data ss:Type="String">I&apos;ve successfully used a fabricator to create something from a fabrication plan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I&apos;ve successfully used a fabricator to create something from a
-            fabrication plan.</Data>
+          <Data ss:Type="String">Мені вдалося створити предмет за допомогою фабрикатора.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>34</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

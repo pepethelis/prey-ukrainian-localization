@@ -5,35 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>15.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>13035</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="16" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -50,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630327</Data>
         </Cell>
@@ -58,87 +58,84 @@
           <Data ss:Type="String">Psychotronics </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychotronics </Data>
+          <Data ss:Type="String">Лабораторія психотроніки </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630328</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">In order to pass through Psychotronics to the G.U.T.S., I have to
-            end a localized lock-down. To do this I'll have to complete the experiment that was
-            previously initiated in Live Exam.</Data>
+          <Data ss:Type="String">In order to pass through Psychotronics to the G.U.T.S., I have to end a localized lock-down. To do this I&apos;ll have to complete the experiment that was previously initiated in Live Exam.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">In order to pass through Psychotronics to the G.U.T.S., I have to
-            end a localized lock-down. To do this I'll have to complete the experiment that was
-            previously initiated in Live Exam.</Data>
+          <Data ss:Type="String">Щоб потрапити з лабораторії психотроніки до САГІТТу, мені слід зняти карантин. Для цього потрібно завершити експеримент, розпочатий в оглядовій залі.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630329</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">In order to pass through Psychotronics to the G.U.T.S., I have to
-            end a localized lock-down. To do this I'll have to exterminate the Phantom created in
-            the Live Exam procedure.</Data>
+          <Data ss:Type="String">In order to pass through Psychotronics to the G.U.T.S., I have to end a localized lock-down. To do this I&apos;ll have to exterminate the Phantom created in the Live Exam procedure.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">In order to pass through Psychotronics to the G.U.T.S., I have to
-            end a localized lock-down. To do this I'll have to exterminate the Phantom created in
-            the Live Exam procedure.</Data>
+          <Data ss:Type="String">Щоб потрапити з лабораторії психотроніки до САГІТТу, мені слід зняти карантин. Для цього потрібно ліквідувати фантома, створений під час експерименту.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630330</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychotronics access requires a calibrated Psychoscope. I'll need
-            to scan the Typhon xenomorphs to properly calibrate the device. </Data>
+          <Data ss:Type="String">Psychotronics access requires a calibrated Psychoscope. I&apos;ll need to scan the Typhon xenomorphs to properly calibrate the device. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychotronics access requires a calibrated Psychoscope. I'll need
-            to scan the Typhon xenomorphs to properly calibrate the device. </Data>
+          <Data ss:Type="String">Для доступу в лабораторію психотроніки потрібен відкалібрований психоскоп. Щоб відкалібрувати пристрій, потрібно сканувати ксеноморфів-тифонів. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630331</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex sent the passcode for Dr. Kelstrup's safe. I should collect
-            the Neuromods he says are inside.</Data>
+          <Data ss:Type="String">Alex sent the passcode for Dr. Kelstrup&apos;s safe. I should collect the Neuromods he says are inside.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex sent the passcode for Dr. Kelstrup's safe. I should collect
-            the Neuromods he says are inside.</Data>
+          <Data ss:Type="String">Алекс надіслав мені пароль від сейфа доктора Келструпа. Мені потрібно забрати нейромоди, які, за словами брата, лежать у сейфі.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630332</Data>
         </Cell>
@@ -146,13 +143,16 @@
           <Data ss:Type="String">Live Exam</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Live Exam</Data>
+          <Data ss:Type="String">Оглядове відділення</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630333</Data>
         </Cell>
@@ -160,13 +160,16 @@
           <Data ss:Type="String">Complete the live examination procedure</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Complete the live examination procedure</Data>
+          <Data ss:Type="String">Завершити обстеження</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630334</Data>
         </Cell>
@@ -174,27 +177,33 @@
           <Data ss:Type="String">Exterminate the Phantom</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Exterminate the Phantom</Data>
+          <Data ss:Type="String">Ліквідувати фантома</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630335</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Investigate xenobiologist Gallegos's quarters in crew facilities. </Data>
+          <Data ss:Type="String">Investigate xenobiologist Gallegos&apos;s quarters in crew facilities. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Investigate xenobiologist Gallegos's quarters in crew facilities. </Data>
+          <Data ss:Type="String">Оглянути каюту ксенобіолога Гальєгос у приміщеннях для екіпажу. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630336</Data>
         </Cell>
@@ -202,13 +211,16 @@
           <Data ss:Type="String">Scan Typhon xenomorphs to calibrate Psychoscope</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scan Typhon xenomorphs to calibrate Psychoscope</Data>
+          <Data ss:Type="String">Сканувати тифонів для калібрування психоскопа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630337</Data>
         </Cell>
@@ -216,62 +228,67 @@
           <Data ss:Type="String">Proceed past Psychoscope calibration checkpoint</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Proceed past Psychoscope calibration checkpoint</Data>
+          <Data ss:Type="String">Пройти повз пункт калібрування психоскопів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630338</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Collect Neuromods from Dr. Kelstrup's office</Data>
+          <Data ss:Type="String">Collect Neuromods from Dr. Kelstrup&apos;s office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Collect Neuromods from Dr. Kelstrup's office</Data>
+          <Data ss:Type="String">Забрати нейромоди з кабінету доктора Келструпа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630339</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The service operator lets itself in the morgue every thirty
-            minutes.</Data>
+          <Data ss:Type="String">The service operator lets itself in the morgue every thirty minutes.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The service operator lets itself in the morgue every thirty
-            minutes.</Data>
+          <Data ss:Type="String">Оператор заходить у морг щопівгодини.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630340</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search the private quarters of Dr. Annalise Gallegos for a package
-            labelled mementos. </Data>
+          <Data ss:Type="String">Search the private quarters of Dr. Annalise Gallegos for a package labelled mementos. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search the private quarters of Dr. Annalise Gallegos for a package
-            labelled mementos. </Data>
+          <Data ss:Type="String">Знайти в каюті лікарки Анналізи Гальєгос згорток із позначкою «Сувеніри» </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630341</Data>
         </Cell>
@@ -279,26 +296,15 @@
           <Data ss:Type="String">Investigate the secret Psychotronics Looking Glass station.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Investigate the secret Psychotronics Looking Glass station.</Data>
+          <Data ss:Type="String">Оглянути таємну станцію «Дзеркала» у лабораторії психотроніки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>9</ActiveRow>
-          <ActiveCol>2</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

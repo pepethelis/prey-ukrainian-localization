@@ -1,36 +1,38 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11205</WindowHeight>
-    <WindowWidth>28245</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+    <Table>
       <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
@@ -56,13 +58,13 @@
           <Data ss:Type="String">Exterior Challenge (Beginner)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Exterior Challenge (Beginner)</Data>
+          <Data ss:Type="String">Випробування у відкритому космосі (початківець)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -70,20 +72,16 @@
           <Data ss:Type="String">loc_15373294129891632430</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a
-            propulsion suit maneuvers challenge outside Talos I. The Beginner&apos;s Challenge looks
-            easy.</Data>
+          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a propulsion suit maneuvers challenge outside Talos I. The Beginner&apos;s Challenge looks easy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a
-            propulsion suit maneuvers challenge outside Talos I. The Beginner&apos;s Challenge looks
-            easy.</Data>
+          <Data ss:Type="String">Інженери з апаратної лабораторії влаштували змагання у відкритому космосі. Випробування для початківців здається доволі легким.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -91,18 +89,16 @@
           <Data ss:Type="String">loc_15373294129891632431</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I completed the beginner&apos;s microgravity challenge. Piece of
-            cake.</Data>
+          <Data ss:Type="String">I completed the beginner&apos;s microgravity challenge. Piece of cake.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I completed the beginner&apos;s microgravity challenge. Piece of
-            cake.</Data>
+          <Data ss:Type="String">Мені вдалося пройти випробування для початківців. Простіше простого.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -113,10 +109,13 @@
           <Data ss:Type="String">Begin Challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Begin Challenge</Data>
+          <Data ss:Type="String">Почати випробування</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -127,13 +126,13 @@
           <Data ss:Type="String">Start the Beginner microgravity challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Start the Beginner microgravity challenge</Data>
+          <Data ss:Type="String">Почати випробування з маневрування в невагомості для початківців</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -144,13 +143,13 @@
           <Data ss:Type="String">Complete the Beginner&apos;s challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Complete the Beginner&apos;s challenge</Data>
+          <Data ss:Type="String">Пройти випробування для початківців</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -161,13 +160,13 @@
           <Data ss:Type="String">Unlock Intermediate Challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Unlock Intermediate Challenge</Data>
+          <Data ss:Type="String">Отримати доступ до випробування середньої складності</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -178,13 +177,13 @@
           <Data ss:Type="String">Unlock the next tier of challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Unlock the next tier of challenge</Data>
+          <Data ss:Type="String">Отримати доступ до наступного рівня випробувань</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -195,13 +194,13 @@
           <Data ss:Type="String">Exterior Challenge (Intermediate)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Exterior Challenge (Intermediate)</Data>
+          <Data ss:Type="String">Випробування у відкритому космосі (середній рівень)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -209,20 +208,16 @@
           <Data ss:Type="String">loc_15373294129891632438</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a
-            propulsion suit maneuvers challenge outside Talos I. The Intermediate Challenge looks
-            tricky.</Data>
+          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a propulsion suit maneuvers challenge outside Talos I. The Intermediate Challenge looks tricky.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a
-            propulsion suit maneuvers challenge outside Talos I. The Intermediate Challenge looks
-            tricky.</Data>
+          <Data ss:Type="String">Інженери з апаратної лабораторії влаштували змагання у відкритому космосі. Випробування середнього рівня здається досить хитромудрим.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -233,13 +228,13 @@
           <Data ss:Type="String">I completed the intermediate microgravity challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I completed the intermediate microgravity challenge</Data>
+          <Data ss:Type="String">Мені вдалося пройти випробування середнього рівня</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -250,10 +245,13 @@
           <Data ss:Type="String">Begin Challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Begin Challenge</Data>
+          <Data ss:Type="String">Почати випробування</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -264,13 +262,13 @@
           <Data ss:Type="String">Start the Intermediate microgravity challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Start the Intermediate microgravity challenge</Data>
+          <Data ss:Type="String">Почати випробування середнього рівня з маневрування в невагомості</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -281,13 +279,13 @@
           <Data ss:Type="String">Complete the Intermediate challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Complete the Intermediate challenge</Data>
+          <Data ss:Type="String">Пройти випробування середнього рівня</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -298,10 +296,13 @@
           <Data ss:Type="String">Claim prize</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Claim prize</Data>
+          <Data ss:Type="String">Отримати приз</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -312,10 +313,13 @@
           <Data ss:Type="String">Claim your prize</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Claim your prize</Data>
+          <Data ss:Type="String">Отримати свій приз</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -326,13 +330,13 @@
           <Data ss:Type="String">Exterior Challenge (Expert)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Exterior Challenge (Expert)</Data>
+          <Data ss:Type="String">Випробування у відкритому космосі (експерт)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -340,20 +344,16 @@
           <Data ss:Type="String">loc_15373294129891632446</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a
-            propulsion suit maneuvers challenge outside Talos I. No one&apos;s ever completed the
-            expert challenge.</Data>
+          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a propulsion suit maneuvers challenge outside Talos I. No one&apos;s ever completed the expert challenge.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered some of the engineers from Hardware Labs set up a
-            propulsion suit maneuvers challenge outside Talos I. No one&apos;s ever completed the
-            expert challenge.</Data>
+          <Data ss:Type="String">Інженери з апаратної лабораторії влаштували змагання у відкритому космосі. Випробування для експертів ще ніхто не пройшов.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -361,18 +361,16 @@
           <Data ss:Type="String">loc_15373294129891632447</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I completed the expert microgravity challenge. I should be
-            untouchable out there.</Data>
+          <Data ss:Type="String">I completed the expert microgravity challenge. I should be untouchable out there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I completed the expert microgravity challenge. I should be
-            untouchable out there.</Data>
+          <Data ss:Type="String">Мені вдалося пройти випробування з маневрування в невагомості для експертів. Зі мною ніхто не зрівняється.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -383,10 +381,13 @@
           <Data ss:Type="String">Begin Challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Begin Challenge</Data>
+          <Data ss:Type="String">Почати випробування</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -397,13 +398,13 @@
           <Data ss:Type="String">Start the Expert microgravity challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Start the Expert microgravity challenge</Data>
+          <Data ss:Type="String">Розпочати випробування з маневрування в невагомості для експертів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -414,13 +415,13 @@
           <Data ss:Type="String">Complete the Expert challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Complete the Expert challenge</Data>
+          <Data ss:Type="String">Пройти випробування для експертів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -431,10 +432,13 @@
           <Data ss:Type="String">Claim prize</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Claim prize</Data>
+          <Data ss:Type="String">Отримати приз</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -445,10 +449,13 @@
           <Data ss:Type="String">Claim your prize</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Claim your prize</Data>
+          <Data ss:Type="String">Отримати свій приз</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -459,13 +466,13 @@
           <Data ss:Type="String">Beginner&apos;s challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Beginner&apos;s challenge</Data>
+          <Data ss:Type="String">Випробування для початківців</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -476,13 +483,13 @@
           <Data ss:Type="String">Intermediate challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Intermediate challenge</Data>
+          <Data ss:Type="String">Випробування середньої складності</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -493,28 +500,15 @@
           <Data ss:Type="String">Expert challenge</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Expert challenge</Data>
+          <Data ss:Type="String">Випробування для експертів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>2</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
