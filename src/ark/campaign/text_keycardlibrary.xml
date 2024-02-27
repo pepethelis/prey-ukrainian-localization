@@ -5,48 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <LastAuthor>Quin Matteson</LastAuthor>
-    <LastSaved>2016-10-07T15:05:40Z</LastSaved>
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>10440</WindowHeight>
-    <WindowWidth>26490</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
     </Style>
-    <Style ss:ID="s62">
-      <Alignment ss:Vertical="Top" ss:WrapText="1" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
-    <Style ss:ID="s63">
-      <Alignment ss:Vertical="Top" ss:WrapText="1" />
-      <Borders />
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="63" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:AutoFitWidth="0" ss:Width="135.75" />
-      <Column ss:Width="144.75" ss:Span="1" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -63,7 +50,58 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">i_crewfacilitieskey</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Crew Quarters</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Житлова секція</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">i_psychotronicskeycard</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">General Access</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Загальний вхід</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_12889009725042907358</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Mikhaila Ilyushin&apos;s Cabin</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Каюта Катерини Ільюшиної</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564216</Data>
         </Cell>
@@ -71,16 +109,16 @@
           <Data ss:Type="String">EP101</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">EP101</Data>
+          <Data ss:Type="String">ЕР101</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564217</Data>
         </Cell>
@@ -88,135 +126,135 @@
           <Data ss:Type="String">Storage Room A2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Storage Room A2</Data>
+          <Data ss:Type="String">Сховище A2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564218</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kevin Sabian's Cabin</Data>
+          <Data ss:Type="String">Kevin Sabian&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kevin Sabian's Cabin</Data>
+          <Data ss:Type="String">Каюта Кевіна Сабіана</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564219</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Emma Beaty's Habitation Pod</Data>
+          <Data ss:Type="String">Emma Beaty&apos;s Habitation Pod</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Emma Beaty's Habitation Pod</Data>
+          <Data ss:Type="String">Житлова капсула Емми Біті</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564220</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jorgen Thorstein's Cabin</Data>
+          <Data ss:Type="String">Jorgen Thorstein&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jorgen Thorstein's Cabin</Data>
+          <Data ss:Type="String">Каюта Йоргена Торстейна</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564221</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Annalise Gallegos' Cabin</Data>
+          <Data ss:Type="String">Annalise Gallegos&apos; Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Annalise Gallegos' Cabin</Data>
+          <Data ss:Type="String">Каюта Анналізи Гальєгос</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564222</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Abigail Foy's Cabin</Data>
+          <Data ss:Type="String">Abigail Foy&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Abigail Foy's Cabin</Data>
+          <Data ss:Type="String">Каюта Абігейл Фой</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564223</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Will Mitchell's Cabin</Data>
+          <Data ss:Type="String">Will Mitchell&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Will Mitchell's Cabin</Data>
+          <Data ss:Type="String">Каюта Вілла Мітчелла</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564224</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lorenzo Calvino's Cabin</Data>
+          <Data ss:Type="String">Lorenzo Calvino&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lorenzo Calvino's Cabin</Data>
+          <Data ss:Type="String">Каюта Лоренцо Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564225</Data>
         </Cell>
@@ -224,16 +262,16 @@
           <Data ss:Type="String">Maintenance Tunnel</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Maintenance Tunnel</Data>
+          <Data ss:Type="String">Сервісний тунель</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564226</Data>
         </Cell>
@@ -241,16 +279,16 @@
           <Data ss:Type="String">Fuel Storage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fuel Storage</Data>
+          <Data ss:Type="String">Сховище палива</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564227</Data>
         </Cell>
@@ -258,33 +296,33 @@
           <Data ss:Type="String">Ballistics Lab</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ballistics Lab</Data>
+          <Data ss:Type="String">Лабораторія балістики</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564228</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Dr. Calvino&apos;s Workshop</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Calvino's Workshop</Data>
+          <Data ss:Type="String">Майстерня доктора Кальвіно</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564229</Data>
         </Cell>
@@ -292,16 +330,16 @@
           <Data ss:Type="String">Employee Entrance</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Employee Entrance</Data>
+          <Data ss:Type="String">Вхід для персоналу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564230</Data>
         </Cell>
@@ -309,16 +347,16 @@
           <Data ss:Type="String">Trauma Center</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Trauma Center</Data>
+          <Data ss:Type="String">Травмпункт</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564231</Data>
         </Cell>
@@ -326,16 +364,16 @@
           <Data ss:Type="String">Looking Glass Station </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Looking Glass Station </Data>
+          <Data ss:Type="String">Станція «Дзеркала» </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564232</Data>
         </Cell>
@@ -343,33 +381,33 @@
           <Data ss:Type="String">Morgue</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgue</Data>
+          <Data ss:Type="String">Морг</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564233</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan's Self Destruct Access</Data>
+          <Data ss:Type="String">Morgan&apos;s Self Destruct Access</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan's Self Destruct Access</Data>
+          <Data ss:Type="String">Доступ до механізму самознищення (Морган)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564234</Data>
         </Cell>
@@ -377,16 +415,16 @@
           <Data ss:Type="String">Parts Storage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Parts Storage</Data>
+          <Data ss:Type="String">Сховище деталей</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564235</Data>
         </Cell>
@@ -394,33 +432,33 @@
           <Data ss:Type="String">Reactor Access</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Reactor Access</Data>
+          <Data ss:Type="String">Прохід до реактора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564236</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex's Self Destruct Access</Data>
+          <Data ss:Type="String">Alex&apos;s Self Destruct Access</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex's Self Destruct Access</Data>
+          <Data ss:Type="String">Доступ до механізму самознищення (Алекс)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564237</Data>
         </Cell>
@@ -428,50 +466,50 @@
           <Data ss:Type="String">Shuttle Bay</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shuttle Bay</Data>
+          <Data ss:Type="String">Відсік для шатла</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564238</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Halden Graves' Office</Data>
+          <Data ss:Type="String">Halden Graves&apos; Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Halden Graves' Office</Data>
+          <Data ss:Type="String">Кабінет Холдена Грейвса</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564239</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dahl's Cargo Hold</Data>
+          <Data ss:Type="String">Dahl&apos;s Cargo Hold</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dahl's Cargo Hold</Data>
+          <Data ss:Type="String">Вантажний відсік Даля</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564240</Data>
         </Cell>
@@ -479,16 +517,16 @@
           <Data ss:Type="String">Simulation Lab</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Simulation Lab</Data>
+          <Data ss:Type="String">Лабораторія симуляції</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564241</Data>
         </Cell>
@@ -496,16 +534,16 @@
           <Data ss:Type="String">Secured Pharmaceuticals</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Secured Pharmaceuticals</Data>
+          <Data ss:Type="String">Препарати з обмеженим доступом</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564242</Data>
         </Cell>
@@ -513,16 +551,16 @@
           <Data ss:Type="String">Briefing Room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Briefing Room</Data>
+          <Data ss:Type="String">Кімната для нарад</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564243</Data>
         </Cell>
@@ -530,16 +568,16 @@
           <Data ss:Type="String">Cargo Loading Access 01</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cargo Loading Access 01</Data>
+          <Data ss:Type="String">Вхід у зону навантаження № 01</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564244</Data>
         </Cell>
@@ -547,16 +585,16 @@
           <Data ss:Type="String">Shuttle Control Room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shuttle Control Room</Data>
+          <Data ss:Type="String">Пункт керування шатлом</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564245</Data>
         </Cell>
@@ -564,16 +602,16 @@
           <Data ss:Type="String">Director Level Access</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Director Level Access</Data>
+          <Data ss:Type="String">Вхід на поверх директора</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564246</Data>
         </Cell>
@@ -581,16 +619,16 @@
           <Data ss:Type="String">Atmosphere Control Room</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Atmosphere Control Room</Data>
+          <Data ss:Type="String">Пункт керування атмосферою</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564247</Data>
         </Cell>
@@ -598,16 +636,16 @@
           <Data ss:Type="String">Waste Processing</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Waste Processing</Data>
+          <Data ss:Type="String">Обробка відходів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564248</Data>
         </Cell>
@@ -615,16 +653,16 @@
           <Data ss:Type="String">Bunk A13</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bunk A13</Data>
+          <Data ss:Type="String">Спальне місце A13</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564249</Data>
         </Cell>
@@ -632,67 +670,67 @@
           <Data ss:Type="String">Kitchen Access</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kitchen Access</Data>
+          <Data ss:Type="String">Вхід на кухню</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564250</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dayo Igwe's Cabin</Data>
+          <Data ss:Type="String">Dayo Igwe&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dayo Igwe's Cabin</Data>
+          <Data ss:Type="String">Каюта Дайо Ігве</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564251</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Danielle Sho's Cabin</Data>
+          <Data ss:Type="String">Danielle Sho&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Danielle Sho's Cabin</Data>
+          <Data ss:Type="String">Каюта Даніелли Шоу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564252</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jada Marks' Cabin</Data>
+          <Data ss:Type="String">Jada Marks&apos; Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jada Marks' Cabin</Data>
+          <Data ss:Type="String">Каюта Джади Маркс</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564253</Data>
         </Cell>
@@ -700,101 +738,101 @@
           <Data ss:Type="String">December</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">December</Data>
+          <Data ss:Type="String">«Грудень»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564254</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bianca Goodwin's Cabin</Data>
+          <Data ss:Type="String">Bianca Goodwin&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bianca Goodwin's Cabin</Data>
+          <Data ss:Type="String">Каюта Б'янки Гудвін</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564255</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sylvain Bellamy's Cabin</Data>
+          <Data ss:Type="String">Sylvain Bellamy&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sylvain Bellamy's Cabin</Data>
+          <Data ss:Type="String">Каюта Сільвена Белламі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564256</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sarah Elazar's Cabin</Data>
+          <Data ss:Type="String">Sarah Elazar&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sarah Elazar's Cabin</Data>
+          <Data ss:Type="String">Каюта Сари Елазар</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564257</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hans Kelstrup's Cabin</Data>
+          <Data ss:Type="String">Hans Kelstrup&apos;s Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hans Kelstrup's Cabin</Data>
+          <Data ss:Type="String">Каюта Ганса Келструпа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564258</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hendrik DeVries' Cabin</Data>
+          <Data ss:Type="String">Hendrik DeVries&apos; Cabin</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hendrik DeVries' Cabin</Data>
+          <Data ss:Type="String">Каюта Хендріка Девріса</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564259</Data>
         </Cell>
@@ -802,16 +840,16 @@
           <Data ss:Type="String">Yellow Tulip Supply Closet</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yellow Tulip Supply Closet</Data>
+          <Data ss:Type="String">Сховище «Жовтого тюльпана»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564260</Data>
         </Cell>
@@ -819,16 +857,16 @@
           <Data ss:Type="String">Security Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Security Office</Data>
+          <Data ss:Type="String">Кабінет служби безпеки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564261</Data>
         </Cell>
@@ -836,16 +874,16 @@
           <Data ss:Type="String">Coolant Chamber</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Coolant Chamber</Data>
+          <Data ss:Type="String">Камера з теплоносієм</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564262</Data>
         </Cell>
@@ -853,16 +891,16 @@
           <Data ss:Type="String">I.T. Supply Closet</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I.T. Supply Closet</Data>
+          <Data ss:Type="String">Сховище відділу ІТ</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564263</Data>
         </Cell>
@@ -870,16 +908,16 @@
           <Data ss:Type="String">Security Key</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Security Key</Data>
+          <Data ss:Type="String">Перепустка служби безпеки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564264</Data>
         </Cell>
@@ -887,129 +925,67 @@
           <Data ss:Type="String">G.U.T.S. Cargo Terminal</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">G.U.T.S. Cargo Terminal</Data>
+          <Data ss:Type="String">Вантажний термінал САГІТТи</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564265</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex Yu's Suite</Data>
+          <Data ss:Type="String">Alex Yu&apos;s Suite</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex Yu's Suite</Data>
+          <Data ss:Type="String">Апартаменти (Алекс Ю)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129887564266</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan Yu's Suite</Data>
+          <Data ss:Type="String">Morgan Yu&apos;s Suite</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan Yu's Suite</Data>
+          <Data ss:Type="String">Апартаменти (Морган Ю)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">i_CrewFacilitiesKey</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Crew Quarters</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Crew Quarters</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:Index="55" ss:AutoFitHeight="0" ss:Height="45">
-        <Cell ss:StyleID="s62">
-          <Data ss:Type="String">ui_BallisticsLabKey</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">Ballistics Lab</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">Ballistics Lab</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="45">
-        <Cell ss:StyleID="s62">
-          <Data ss:Type="String">ui_PRDirectorsKey</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">DEPRECATED</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">DEPRECATED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="45">
-        <Cell ss:StyleID="s62">
-          <Data ss:Type="String">i_psychotronicsKeycard</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">General Access</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">General Access</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_6732635291222790586</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Director Kelstrup's Office</Data>
+          <Data ss:Type="String">Director Kelstrup&apos;s Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Director Kelstrup's Office</Data>
+          <Data ss:Type="String">Кабінет директора Келструпа</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_761057047996404705</Data>
         </Cell>
@@ -1017,33 +993,16 @@
           <Data ss:Type="String">Blackbox Lab</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Blackbox Lab</Data>
+          <Data ss:Type="String">Лабораторія «Блекбокс»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_12889009725042907358</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Mikhaila Ilyushin's Cabin</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Mikhaila Ilyushin's Cabin</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417314372119</Data>
         </Cell>
@@ -1051,33 +1010,50 @@
           <Data ss:Type="String">Security Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Security Office</Data>
+          <Data ss:Type="String">Кабінет служби безпеки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">ui_ballisticslabkey</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ballistics Lab</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Лабораторія балістики</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13680621263411175871</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hendrik DeVries' Office</Data>
+          <Data ss:Type="String">Hendrik DeVries&apos; Office</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hendrik DeVries' Office</Data>
+          <Data ss:Type="String">Кабінет Хендріка Девріса</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_1713490239448502259</Data>
         </Cell>
@@ -1085,31 +1061,15 @@
           <Data ss:Type="String">Teleconferencing</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Teleconferencing</Data>
+          <Data ss:Type="String">Центр телеконференцій</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <TopRowVisible>45</TopRowVisible>
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>61</ActiveRow>
-          <ActiveCol>3</ActiveCol>
-          <RangeSelection>R62C4:R63C4</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
