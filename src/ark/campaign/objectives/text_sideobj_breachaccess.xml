@@ -5,35 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11400</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="9" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -50,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631852</Data>
         </Cell>
@@ -58,72 +58,67 @@
           <Data ss:Type="String">Breach Access</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Breach Access</Data>
+          <Data ss:Type="String">Пробоїна</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631853</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An accident caused a breach in the Hardware Labs. I'll need to find
-            a way to restore atmosphere to the connecting hallway in order to reach the Beams and
-            Waves lab.</Data>
+          <Data ss:Type="String">An accident caused a breach in the Hardware Labs. I&apos;ll need to find a way to restore atmosphere to the connecting hallway in order to reach the Beams and Waves lab.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An accident caused a breach in the Hardware Labs. I'll need to find
-            a way to restore atmosphere to the connecting hallway in order to reach the Beams and
-            Waves lab.</Data>
+          <Data ss:Type="String">В апаратній лабораторії стався нещасний випадок, який призвів до розгерметизації. Мені потрібно відновити атмосферу в сусідньому коридорі — тоді я зможу потрапити в лабораторію хвильової фізики.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631854</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've restored atmosphere to the breached hallway. Now I can get to
-            the Beams and Waves lab.</Data>
+          <Data ss:Type="String">I&apos;ve restored atmosphere to the breached hallway. Now I can get to the Beams and Waves lab.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've restored atmosphere to the breached hallway. Now I can get to
-            the Beams and Waves lab.</Data>
+          <Data ss:Type="String">Мені вдалося відновити атмосферу в коридорі. Тепер я зможу потрапити в лабораторію хвильової фізики.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631855</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An accident caused a breach in Hardware Labs. I've restored
-            atmosphere to the breached hallway. Now I can get to the Beams and Waves lab.</Data>
+          <Data ss:Type="String">An accident caused a breach in Hardware Labs. I&apos;ve restored atmosphere to the breached hallway. Now I can get to the Beams and Waves lab.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An accident caused a breach in Hardware Labs. I've restored
-            atmosphere to the breached hallway. Now I can get to the Beams and Waves lab.</Data>
+          <Data ss:Type="String">В апаратній лабораторії стався нещасний випадок, який призвів до розгерметизації. Мені вдалося відновити атмосферу в коридорі. Тепер я зможу потрапити в лабораторію хвильової фізики.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631856</Data>
         </Cell>
@@ -131,13 +126,16 @@
           <Data ss:Type="String">Restore Atmosphere</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Restore Atmosphere</Data>
+          <Data ss:Type="String">Відновити атмосферу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631857</Data>
         </Cell>
@@ -145,13 +143,16 @@
           <Data ss:Type="String">Restore atmosphere to the breached hallway</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Restore atmosphere to the breached hallway</Data>
+          <Data ss:Type="String">Відновити атмосферу у розгерметизованому коридорі</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631858</Data>
         </Cell>
@@ -159,13 +160,16 @@
           <Data ss:Type="String">Beams and Waves Lab</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Beams and Waves Lab</Data>
+          <Data ss:Type="String">Лабораторія хвильової фізики</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891631859</Data>
         </Cell>
@@ -173,29 +177,15 @@
           <Data ss:Type="String">Access the Beams and Waves lab</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access the Beams and Waves lab</Data>
+          <Data ss:Type="String">Увійти в лабораторію хвильової фізики</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>4</ActiveRow>
-          <ActiveCol>2</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

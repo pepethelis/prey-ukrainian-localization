@@ -5,35 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>13200</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="31" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -50,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630394</Data>
         </Cell>
@@ -58,206 +58,169 @@
           <Data ss:Type="String">Restore From Backup</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Restore From Backup</Data>
+          <Data ss:Type="String">Відновити з резервної копії</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630395</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">With Danielle's voice I have a way into Deep Storage. I hid the
-            fabrication plan for my Arming Key on a drive somewhere in the Central Repository. I'll
-            have to plug the drive back into the system and mount it, then download the plan from a
-            workstation in the Command Center.</Data>
+          <Data ss:Type="String">With Danielle&apos;s voice I have a way into Deep Storage. I hid the fabrication plan for my Arming Key on a drive somewhere in the Central Repository. I&apos;ll have to plug the drive back into the system and mount it, then download the plan from a workstation in the Command Center.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">With Danielle's voice I have a way into Deep Storage. I hid the
-            fabrication plan for my Arming Key on a drive somewhere in the Central Repository. I'll
-            have to plug the drive back into the system and mount it, then download the plan from a
-            workstation in the Command Center.</Data>
+          <Data ss:Type="String">За допомогою голосу Даніелли я тепер можу потрапити в сховище даних. Мені вдалося заховати креслення для виготовлення мого ключа-активатора на диску в центральному архіві. Тепер потрібно під'єднати диск до комп'ютера, а потім завантажити креслення з терміналу в центрі управління.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630396</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. The drive is plugged in. I should be able to
-            download the Arming Key fabrication plan from the Download Station on Danielle Sho's
-            desk.</Data>
+          <Data ss:Type="String">I hid the plan for my Arming Key on a drive somewhere in the Central Repository of Deep Storage. The drive is plugged in. I should be able to download the arming key fabrication plan from the Download Station on Danielle Sho&apos;s desk.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. The drive is plugged in. I should be able to
-            download the Arming Key fabrication plan from the Download Station on Danielle Sho's
-            desk.</Data>
+          <Data ss:Type="String">Мені вдалося заховати креслення мого ключа-активатора на диску в центральному архіві сховища даних. Диск уже підключено. Тепер я зможу завантажити схему ключа-активатора з терміналу на столі Даніелли Шоу.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630397</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. Central Repository is locked down. I need to
-            open the doors using the access controls in the Security Booth. </Data>
+          <Data ss:Type="String">I hid the plan for my Arming Key on a drive somewhere in the Central Repository of Deep Storage. Central Repository is locked down. I need to open the doors using the access controls in the Security Booth. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. Central Repository is locked down. I need to
-            open the doors using the access controls in the Security Booth. </Data>
+          <Data ss:Type="String">Мені вдалося заховати креслення мого ключа-активатора на диску в центральному архіві сховища даних. Вхід туди заблоковано. Мені потрібно відкрити двері, використовуючи пульт у кабінці служби безпеки. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630398</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I need to get inside the Central Repository
-            and find it.</Data>
+          <Data ss:Type="String">I hid the plan for my Arming Key on a drive somewhere in the Central Repository of Deep Storage. I need to get inside the Central Repository and find it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I need to get inside the Central Repository
-            and find it.</Data>
+          <Data ss:Type="String">Мені вдалося заховати креслення мого ключа-активатора на диску в центральному архіві сховища даних. Потрібно пробратися в архів і знайти його.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630399</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I need to plug the drive back into File
-            Server Arx-F76 before I can download the Arming Key plan.</Data>
+          <Data ss:Type="String">I hid the plan for my Arming Key on a drive somewhere in the Central Repository of Deep Storage. I need to plug the drive back into File Server Arx-F76 before I can download the arming key plan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I need to plug the drive back into File
-            Server Arx-F76 before I can download the Arming Key plan.</Data>
+          <Data ss:Type="String">Мені вдалося заховати креслення мого ключа-активатора на диску в центральному архіві сховища даних. Потрібно підключити диск до сервера Arx-F76, щоб завантажити схему ключа-активатора.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630400</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have the plan for my Arming Key. Alex trapped me in Deep Storage,
-            which forced me to use a Data Vault module to jettison myself into space. Now I'll have
-            to find my way back into the station so I can get ahold of Alex's Key.</Data>
+          <Data ss:Type="String">I have the plan for my Arming Key. Alex trapped me in Deep Storage, which forced me to use a Data Vault module to jettison myself into space. Now I&apos;ll have to find my way back into the station so I can get ahold of Alex&apos;s Key.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have the plan for my Arming Key. Alex trapped me in Deep Storage,
-            which forced me to use a Data Vault module to jettison myself into space. Now I'll have
-            to find my way back into the station so I can get ahold of Alex's Key.</Data>
+          <Data ss:Type="String">Мені вдалося добути креслення ключа-активатора. Алекс замкнув мене у сховищі даних. Мені довелося відстрелити один із модулів і вийти у відкритий космос. Тепер потрібно якось повернутися на станцію і добути ключ Алекса.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630401</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I'll have to plug the drive back into the
-            system before I can download the plan. </Data>
+          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere in the Central Repository of Deep Storage. I&apos;ll have to plug the drive back into the system before I can download the plan. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I hid the plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I'll have to plug the drive back into the
-            system before I can download the plan. </Data>
+          <Data ss:Type="String">[ВИКЛЮЧЕНО] Мені вдалося заховати схему мого ключа-активатора на диску в центральному архіві сховища даних. Потрібно під'єднати диск до комп'ютера і завантажити схему ключа-активатора. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630402</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I downloaded the fabrication plan for my Arming Key from a drive
-            that I hid in the Central Repository of Deep Storage. Alex locked me in as soon as I
-            arrived, but Chief Sho contacted me with an escape route. There are Data Vault modules
-            designed to be jettisoned from the station and she can help me access one and launch it.</Data>
+          <Data ss:Type="String">I downloaded the fabrication plan for my Arming Key from a drive that I hid in the Central Repository of Deep Storage. Alex locked me in as soon as I arrived, but Chief Sho contacted me with an escape route. There are Data Vault modules designed to be jettisoned from the station and she can help me access one and launch it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I downloaded the fabrication plan for my Arming Key from a drive
-            that I hid in the Central Repository of Deep Storage. Alex locked me in as soon as I
-            arrived, but Chief Sho contacted me with an escape route. There are Data Vault modules
-            designed to be jettisoned from the station and she can help me access one and launch it.</Data>
+          <Data ss:Type="String">Мені вдалося завантажити креслення мого ключа активатора з диска, захованого мною в центральному архіві сховища даних. Алекс замкнув мене одразу ж після прибуття, але директор Шоу зв'язалася зі мною і пояснила, як можна вибратися. Модулі даних можна запускати в космос. Вона допоможе мені дістатися до одного з них і від'єднати його від станції.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630403</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I need to escape Deep Storage. A Data Vault Module
-            should now be open. I just need to get inside and find the manual release.</Data>
+          <Data ss:Type="String">I need to escape Deep Storage. A Data Vault Module should now be open. I just need to get inside and find the manual release.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[DEPRECATED] I need to escape Deep Storage. A Data Vault Module
-            should now be open. I just need to get inside and find the manual release.</Data>
+          <Data ss:Type="String">Мені потрібно вибратися зі сховища даних. Модуль даних має бути відкритий. Залишилося забратися в нього і знайти ручне керування.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630404</Data>
         </Cell>
@@ -265,13 +228,16 @@
           <Data ss:Type="String">Central Repository</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Central Repository</Data>
+          <Data ss:Type="String">Центральний архів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630405</Data>
         </Cell>
@@ -279,13 +245,16 @@
           <Data ss:Type="String">Find Central Repository</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find Central Repository</Data>
+          <Data ss:Type="String">Знайти центральний архів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630406</Data>
         </Cell>
@@ -293,13 +262,16 @@
           <Data ss:Type="String">Security Booth</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Security Booth</Data>
+          <Data ss:Type="String">Кабінка служби безпеки</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630407</Data>
         </Cell>
@@ -307,13 +279,16 @@
           <Data ss:Type="String">Unseal the Doors</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Unseal the Doors</Data>
+          <Data ss:Type="String">Відчинити двері</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630408</Data>
         </Cell>
@@ -321,13 +296,16 @@
           <Data ss:Type="String">Central Repository</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Central Repository</Data>
+          <Data ss:Type="String">Центральний архів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630409</Data>
         </Cell>
@@ -335,13 +313,16 @@
           <Data ss:Type="String">Enter Central Repository</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Enter Central Repository</Data>
+          <Data ss:Type="String">Увійти в центральний архів</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630410</Data>
         </Cell>
@@ -349,13 +330,16 @@
           <Data ss:Type="String">Hard Drive</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hard Drive</Data>
+          <Data ss:Type="String">Жорсткий диск</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630411</Data>
         </Cell>
@@ -363,13 +347,16 @@
           <Data ss:Type="String">Find the Drive</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find the Drive</Data>
+          <Data ss:Type="String">Знайти диск</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630412</Data>
         </Cell>
@@ -377,13 +364,16 @@
           <Data ss:Type="String">File Server</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">File Server</Data>
+          <Data ss:Type="String">Файловий сервер</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630413</Data>
         </Cell>
@@ -391,16 +381,16 @@
           <Data ss:Type="String">Plug in and Mount the Drive</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Plug in and Mount the Drive</Data>
+          <Data ss:Type="String">Підключити диск</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630414</Data>
         </Cell>
@@ -408,13 +398,16 @@
           <Data ss:Type="String">Download Station</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Download Station</Data>
+          <Data ss:Type="String">Термінал</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630415</Data>
         </Cell>
@@ -422,13 +415,16 @@
           <Data ss:Type="String">Download the Plan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Download the Plan</Data>
+          <Data ss:Type="String">Завантажити креслення</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630416</Data>
         </Cell>
@@ -436,13 +432,16 @@
           <Data ss:Type="String">Workstation Utility</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Workstation Utility</Data>
+          <Data ss:Type="String">Програма</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630417</Data>
         </Cell>
@@ -450,13 +449,16 @@
           <Data ss:Type="String">Open Vault</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Open Vault</Data>
+          <Data ss:Type="String">Відкрити сховище</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630418</Data>
         </Cell>
@@ -464,13 +466,16 @@
           <Data ss:Type="String">DVM-01</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">DVM-01</Data>
+          <Data ss:Type="String">МХД-01</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630419</Data>
         </Cell>
@@ -478,13 +483,16 @@
           <Data ss:Type="String">Escape</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Escape</Data>
+          <Data ss:Type="String">Вибратися</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891630420</Data>
         </Cell>
@@ -492,56 +500,50 @@
           <Data ss:Type="String">Central Repository is sealed. Check the Security Booth.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Central Repository is sealed. Check the Security Booth.</Data>
+          <Data ss:Type="String">Центральний архів замкнений. Перевірити в кабінку служби безпеки.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417325847587</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I hid the fabrication plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I'll have to plug the drive back into the
-            system and mount it, then download the plan from a workstation in the Command Center.
-            Alex locked me in as soon as I got here so I'll have to find a way out once I'm done. </Data>
+          <Data ss:Type="String">I hid the fabrication plan for my Arming Key on a drive somewhere in the Central Repository of Deep Storage. I&apos;ll have to plug the drive back into the system and mount it, then download the plan from a workstation in the Command Center. Alex locked me in as soon as I got here so I&apos;ll have to find a way out once I&apos;m done. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I hid the fabrication plan for my Arming Key on a drive somewhere
-            in the Central Repository of Deep Storage. I'll have to plug the drive back into the
-            system and mount it, then download the plan from a workstation in the Command Center.
-            Alex locked me in as soon as I got here so I'll have to find a way out once I'm done. </Data>
+          <Data ss:Type="String">Мені вдалося заховати креслення для виготовлення мого ключа-активатора на диску в центральному архіві сховища даних. Потрібно підключити диск до комп'ютера, а потім завантажити креслення з терміналу в центрі управління. Алекс замкнув мене, тож, коли я тут закінчу, мені доведеться шукати вихід. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417325847660</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use samples of Danielle Sho's voice to enter Deep Storage</Data>
+          <Data ss:Type="String">Use samples of Danielle Sho&apos;s voice to enter Deep Storage</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Use samples of Danielle Sho's voice to enter Deep Storage</Data>
+          <Data ss:Type="String">Увійти в сховище даних, використовуючи зразки голосу Даніелли Шоу</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_844024417325847678</Data>
         </Cell>
@@ -549,27 +551,15 @@
           <Data ss:Type="String">Voice Lock</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Voice Lock</Data>
+          <Data ss:Type="String">Голосовий замок</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>28</ActiveRow>
-          <ActiveCol>3</ActiveCol>
-          <RangeSelection>R29C4:R31C4</RangeSelection>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

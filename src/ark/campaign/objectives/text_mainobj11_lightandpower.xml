@@ -5,36 +5,35 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11070</WindowHeight>
-    <WindowWidth>20085</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="22" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15">
-      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="615" />
-      <Column ss:AutoFitWidth="0" ss:Width="450" />
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -51,327 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630456</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reboot</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reboot</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630457</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I can't destroy Talos I without Alex's Arming Key, but I'm stuck
-            down here. Rebooting the station reactor will remove the lockdown Alex placed on the
-            main lift and airlocks. Then I could move freely around the station.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I can't destroy Talos I without Alex's Arming Key, but I'm stuck
-            down here. Rebooting the station reactor will remove the lockdown Alex placed on the
-            main lift and airlocks. Then I could move freely around the station.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630458</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I can't destroy Talos I without Alex's Arming Key, but I'm stuck
-            down here. Rebooting the station reactor will remove the lockdown Alex placed on the
-            main lift and airlocks. Then I could move freely around the station.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I can't destroy Talos I without Alex's Arming Key, but I'm stuck
-            down here. Rebooting the station reactor will remove the lockdown Alex placed on the
-            main lift and airlocks. Then I could move freely around the station.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630459</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I can't destroy Talos I without Alex's Arming Key, but I'm stuck
-            down here. Rebooting the station reactor will remove the lockdown Alex placed on the
-            main lift and airlocks. Then I could move freely around the station.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I can't destroy Talos I without Alex's Arming Key, but I'm stuck
-            down here. Rebooting the station reactor will remove the lockdown Alex placed on the
-            main lift and airlocks. Then I could move freely around the station.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630460</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I rebooted the Power Plant reactor to remove the lock down Alex put
-            on the main lift and airlocks. That got my brother's attention. He wants to meet. I know
-            he'll want to make some kind of pitch. Maybe I can grab his Arming Key then. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I rebooted the Power Plant reactor to remove the lock down Alex put
-            on the main lift and airlocks. That got my brother's attention. He wants to meet. I know
-            he'll want to make some kind of pitch. Maybe I can grab his Arming Key then. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630461</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Access Power Plant</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Access Power Plant</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630462</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Access the Power Plant</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Access the Power Plant</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630463</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Control Room</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Control Room</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630464</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Access the Reactor Control Room</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Access the Reactor Control Room</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630465</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Interior</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Interior</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630466</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Investigate the malfunction in the reactor's interior.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Investigate the malfunction in the reactor's interior.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630467</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Divertor</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Divertor</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630468</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Fix or replace the damaged reactor divertor.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Fix or replace the damaged reactor divertor.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630469</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Control Room</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Control Room</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630470</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Complete the reboot sequence</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Complete the reboot sequence</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630471</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Control Station</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reactor Control Station</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630472</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reboot Talos Power Plant</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Reboot Talos Power Plant</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630473</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Replace or repair the grounding resistor to restore lighting and
-            power to Mikhaila's office.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Replace or repair the grounding resistor to restore lighting and
-            power to Mikhaila's office.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630474</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Replacement reactor divertors are on the freight elevator in the
-            reactor room. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Replacement reactor divertors are on the freight elevator in the
-            reactor room. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891630475</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Last seen in the Coolant Chamber, Talia Brooks should have the
-            keycard to the Reactor Room and Engineer Offices.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Last seen in the Coolant Chamber, Talia Brooks should have the
-            keycard to the Reactor Room and Engineer Offices.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">LOCKED</Data>
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_13856881013223469413</Data>
         </Cell>
@@ -379,29 +58,355 @@
           <Data ss:Type="String">Eliminate the Technopath disrupting the entrance to Power Plant.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Eliminate the Technopath disrupting the entrance to Power Plant.</Data>
+          <Data ss:Type="String">Знищити технопата, який заважає потрапити на електростанцію</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String"></Data>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630456</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reboot</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Перезавантаження</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630457</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can&apos;t destroy Talos I without Alex&apos;s Arming Key, but I&apos;m stuck down here. Rebooting the station reactor will remove the lockdown Alex placed on the main lift and airlocks. Then I could move freely around the station.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Без ключа-активатора Алекса «Талос» не знищити, але я не можу вибратися звідси. Якщо влаштувати перезавантаження реактора, головний ліфт і шлюзи буде розблоковано. Тоді я зможу вільно пересуватися по станції.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630458</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can&apos;t destroy Talos I without Alex&apos;s Arming Key, but I&apos;m stuck down here. Rebooting the station reactor will remove the lockdown Alex placed on the main lift and airlocks. Then I could move freely around the station.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Без ключа-активатора Алекса «Талос» не знищити, але я не можу вибратися звідси. Якщо влаштувати перезавантаження реактора, головний ліфт і шлюзи буде розблоковано. Тоді я зможу вільно пересуватися по станції.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630459</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I can&apos;t destroy Talos I without Alex&apos;s Arming Key, but I&apos;m stuck down here. Rebooting the station reactor will remove the lockdown Alex placed on the main lift and airlocks. Then I could move freely around the station.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Без ключа-активатора Алекса «Талос» не знищити, але я не можу вибратися звідси. Якщо влаштувати перезавантаження реактора, головний ліфт і шлюзи буде розблоковано. Тоді я зможу вільно пересуватися по станції.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630460</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I rebooted the Power Plant reactor to remove the lock down Alex put on the main lift and airlocks. That got my brother&apos;s attention. He wants to meet. I know he&apos;ll want to make some kind of pitch. Maybe I can grab his Arming Key then. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Мені вдалося перезавантажити реактор і розблокувати головний ліфт і шлюзи. Це привернуло увагу мого брата. Він хоче зі мною зустрітися — мабуть, щоб зробити мені якусь пропозицію. Може, тоді мені вдасться забрати в нього ключ. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630461</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Access Power Plant</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Дістатися до електростанції</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630462</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Access the Power Plant</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Дістатися до електростанції</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630463</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reactor Control Room</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Кімната керування реактором</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630464</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Access the Reactor Control Room</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Дістатися до кімнати керування реактором</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630465</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reactor Interior</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Внутрішня частина реактора</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630466</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Investigate the malfunction in the reactor&apos;s interior.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">З'ясувати причини неполадок у внутрішній частині реактора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630467</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Divertor</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Дивертер</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630468</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Fix or replace the damaged reactor divertor.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Полагодити або замінити пошкоджений дивертер реактора</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630469</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reactor Control Room</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Кімната керування реактором</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630470</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Complete the reboot sequence</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Завершити перезавантаження</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630471</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reactor Control Station</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Пост керування реактором</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630472</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reboot Talos Power Plant</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Перезавантажити електростанцію «Талоса»</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630473</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Replace or repair the grounding resistor to restore lighting and power to Mikhaila&apos;s office.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Замінити або полагодити заземлювальний резистор, щоб відновити подачу електрики в кабінет Катерини</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630474</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Replacement reactor divertors are on the freight elevator in the reactor room. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Запасні дивертери знаходяться у вантажному ліфті реакторного відсіку. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">loc_15373294129891630475</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Last seen in the Coolant Chamber, Talia Brooks should have the keycard to the Reactor Room and Engineer Offices.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Перепустка в реакторний відсік та інженерні приміщення має бути в Талії Брукс. Востаннє її бачили в камері з теплоносієм.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>12</ActiveRow>
-          <ActiveCol>1</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>

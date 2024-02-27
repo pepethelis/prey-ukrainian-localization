@@ -1,37 +1,39 @@
 <?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
-  xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-    <Version>16.00</Version>
-  </DocumentProperties>
-  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
-  </OfficeDocumentSettings>
-  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-    <WindowHeight>11400</WindowHeight>
-    <WindowWidth>28800</WindowWidth>
-    <WindowTopX>0</WindowTopX>
-    <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
-    <ProtectStructure>False</ProtectStructure>
-    <ProtectWindows>False</ProtectWindows>
-  </ExcelWorkbook>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"/>
   <Styles>
-    <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+    <Style ss:ID="s25">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s26">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+      <Interior ss:Color="#FFFF99" ss:Pattern="Solid"/>
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s20">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+    </Style>
+    <Style ss:ID="s21">
+      <Font x:CharSet="204" x:Family="Swiss" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <NumberFormat ss:Format="#,##0"/>
+    </Style>
+    <Style ss:ID="s23">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
-      <Row ss:AutoFitHeight="0">
+    <Table>
+      <Row>
         <Cell>
           <Data ss:Type="String">KEY</Data>
         </Cell>
@@ -48,7 +50,7 @@
           <Data ss:Type="String">CHARACTER LIMIT</Data>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632492</Data>
         </Cell>
@@ -56,159 +58,118 @@
           <Data ss:Type="String">The Blackbox Project</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Blackbox Project</Data>
+          <Data ss:Type="String">Проект «Блекбокс»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632493</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An email on Lane Carpenter&apos;s workstation mentioned missing
-            Blackbox equipment in the G.U.T.S.</Data>
+          <Data ss:Type="String">An email on Lane Carpenter&apos;s workstation mentioned missing Blackbox equipment in the G.U.T.S.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An email on Lane Carpenter&apos;s workstation mentioned missing
-            Blackbox equipment in the G.U.T.S.</Data>
+          <Data ss:Type="String">У комп'ютері Лейна Карпентера був лист, у якому згадувалося обладнання для «Блекбокс», Блекбоксзагублене в САГІТТі.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
-        <Cell>
-          <Data ss:Type="String">loc_15373294129891632494</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED]The Hardware Labs&apos; security roster showed Josh
-            Dalton&apos;s location to be in the G.U.T.S.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[DEPRECATED]The Hardware Labs&apos; security roster showed Josh
-            Dalton&apos;s location to be in the G.U.T.S.</Data>
-        </Cell>
-        <Cell ss:Index="5">
-          <Data ss:Type="String" />
-        </Cell>
-      </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632495</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered information that Josh Dalton, a designer in the
-            Hardware Labs, had gone missing. He was involved in something called the Blackbox
-            project. Finding Josh Dalton may provide answers to what exactly the Blackbox project
-            is. I could use a Security Station to track him down.</Data>
+          <Data ss:Type="String">I discovered information that Josh Dalton, a designer in the Hardware Labs, had gone missing. He was involved in something called the Blackbox project. Finding Josh Dalton may provide answers to what exactly the Blackbox project is. I could use a Security Station to track him down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I discovered information that Josh Dalton, a designer in the
-            Hardware Labs, had gone missing. He was involved in something called the Blackbox
-            project. Finding Josh Dalton may provide answers to what exactly the Blackbox project
-            is. I could use a Security Station to track him down.</Data>
+          <Data ss:Type="String">Мені вдалося дізнатися, що Джош Далтон, конструктор з апаратної лабораторії, зник. Він брав участь у проекті під назвою «Блекбокс». Відшукавши Далтона, я зумію з'ясувати, що це за проект. Для цього можна скористатися терміналом на посту служби безпеки.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632496</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found a keycard labeled, &quot;Blackbox Lab&quot; on Josh Dalton.
-            There was also a transcribe on Josh&apos;s corpse that may provide more information.</Data>
+          <Data ss:Type="String">I found a keycard labeled, &quot;Blackbox Lab&quot; on Josh Dalton. There was also a transcribe on Josh&apos;s corpse that may provide more information.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found a keycard labeled, &quot;Blackbox Lab&quot; on Josh Dalton.
-            There was also a transcribe on Josh&apos;s corpse that may provide more information.</Data>
+          <Data ss:Type="String">У Джоша Далтона був пропуск із позначкою «Лабораторія Блекбокс». Можливо, я знайду додаткову інформацію в його транскрипторі.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632497</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found Josh Dalton dead in the G.U.T.S. He had a transcribe
-            presenting evidence of an altercation with his co-worker, Lane Carpenter. Lane mentioned
-            working on something called the Blackbox project, and a broken Q-Beam was near his
-            corpse. Perhaps the Blackbox tech is involved with high-energy beams. The laser lab in
-            Hardware Labs may provide the answer.</Data>
+          <Data ss:Type="String">I found Josh Dalton dead in the G.U.T.S. He had a transcribe presenting evidence of an altercation with his co-worker, Lane Carpenter. Lane mentioned working on something called the Blackbox project, and a broken Q-Beam was near his corpse. Perhaps the Blackbox tech is involved with high-energy beams. The laser lab in Hardware Labs may provide the answer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found Josh Dalton dead in the G.U.T.S. He had a transcribe
-            presenting evidence of an altercation with his co-worker, Lane Carpenter. Lane mentioned
-            working on something called the Blackbox project, and a broken Q-Beam was near his
-            corpse. Perhaps the Blackbox tech is involved with high-energy beams. The laser lab in
-            Hardware Labs may provide the answer.</Data>
+          <Data ss:Type="String">У САГІТТі мені вдалося знайти тіло Джоша Далтона. Із записів у його транскрипторі стало зрозуміло, що він посварився зі своїм колегою Лейном Карпентером. Лейн сказав, що працює над проектом «Блекбокс», а поруч із його тілом лежав зламаний К-випромінювач. Можливо, «Блекбокс» якось пов'язаний із високоенергетичними променями. Може, мені вдасться що-небудь довідатися у відділі лазерів, який розташований в апаратній лабораторії.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632498</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have found information that Josh Dalton, a designer in the
-            Hardware Labs, had gone missing. I found Josh Dalton dead in the G.U.T.S. He had a
-            transcribe presenting evidence of an altercation with his co-worker, Lane Carpenter. A
-            broken Q-Beam was near his corpse. Perhaps the Blackbox tech is involved with
-            high-energy beams. The laser lab in Hardware Labs may provide the answer.</Data>
+          <Data ss:Type="String">I have found information that Josh Dalton, a designer in the Hardware Labs, had gone missing. I found Josh Dalton dead in the G.U.T.S. He had a transcribe presenting evidence of an altercation with his co-worker, Lane Carpenter. A broken Q-Beam was near his corpse. Perhaps the Blackbox tech is involved with high-energy beams. The laser lab in Hardware Labs may provide the answer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have found information that Josh Dalton, a designer in the
-            Hardware Labs, had gone missing. I found Josh Dalton dead in the G.U.T.S. He had a
-            transcribe presenting evidence of an altercation with his co-worker, Lane Carpenter. A
-            broken Q-Beam was near his corpse. Perhaps the Blackbox tech is involved with
-            high-energy beams. The laser lab in Hardware Labs may provide the answer.</Data>
+          <Data ss:Type="String">У САГІТТі мені вдалося знайти тіло зниклого конструктора Джоша Далтона. Із записів у його транскрипторі стало зрозуміло, що він посварився зі своїм колегою Лейном Карпентером. Поруч із його тілом лежав зламаний К-випромінювач. Можливо, «Блекбокс» якось пов'язаний із високоенергетичними променями. Може, мені вдасться що-небудь довідатися у відділі лазерів, який розташований в апаратній лабораторії.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632499</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found Josh Dalton dead in the G.U.T.S. He had a transcribe
-            presenting evidence of an altercation with his co-worker, Lane Carpenter. Josh and Lane
-            were working on the Blackbox Project which designed and constructed Operators with
-            attached laser cannons. These models were sent back to TranStar on Earth to carry out
-            military operations.</Data>
+          <Data ss:Type="String">I found Josh Dalton dead in the G.U.T.S. He had a transcribe presenting evidence of an altercation with his co-worker, Lane Carpenter. Josh and Lane were working on the Blackbox Project which designed and constructed Operators with attached laser cannons. These models were sent back to TranStar on Earth to carry out military operations.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I found Josh Dalton dead in the G.U.T.S. He had a transcribe
-            presenting evidence of an altercation with his co-worker, Lane Carpenter. Josh and Lane
-            were working on the Blackbox Project which designed and constructed Operators with
-            attached laser cannons. These models were sent back to TranStar on Earth to carry out
-            military operations.</Data>
+          <Data ss:Type="String">У САГІТТі мені вдалося знайти тіло зниклого конструктора Джоша Далтона. Із записів у його транскрипторі стало зрозуміло, що він посварився зі своїм колегою Лейном Карпентером. Джош і Лейн працювали над проектом «Блекбокс», мета якого — створення операторів із лазерними гарматами. Ці моделі відправлялися в «Транстар» на Землю для проведення бойових операцій.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String" />
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632500</Data>
         </Cell>
@@ -216,13 +177,16 @@
           <Data ss:Type="String">Find Josh Dalton.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find Josh Dalton.</Data>
+          <Data ss:Type="String">Знайти Джоша Далтона</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632501</Data>
         </Cell>
@@ -230,13 +194,16 @@
           <Data ss:Type="String">Search the Blackbox Lab</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search the Blackbox Lab</Data>
+          <Data ss:Type="String">Обшукати лабораторію «Блекбокс»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
-      <Row ss:AutoFitHeight="0">
+      <Row>
         <Cell>
           <Data ss:Type="String">loc_15373294129891632502</Data>
         </Cell>
@@ -244,26 +211,15 @@
           <Data ss:Type="String">Find information on the Blackbox project</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Find information on the Blackbox project</Data>
+          <Data ss:Type="String">Знайти інформацію про проєкт «Блекбокс»</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">LOCKED</Data>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
-    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
-      <Panes>
-        <Pane>
-          <Number>3</Number>
-          <ActiveRow>7</ActiveRow>
-          <ActiveCol>2</ActiveCol>
-        </Pane>
-      </Panes>
-      <ProtectObjects>False</ProtectObjects>
-      <ProtectScenarios>False</ProtectScenarios>
-    </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
 </Workbook>
