@@ -29,7 +29,13 @@
           <Data ss:Type="String">Miyu? This is uhm... this is Dr. Calvino. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Miyu? This is uhm... this is Dr. Calvino. </Data>
+          <Data ss:Type="String">Мію? Це, хм... Це доктор Кальвіно. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -40,7 +46,13 @@
           <Data ss:Type="String">Miyu. This is Dr. Calvino</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Miyu. This is Dr. Calvino</Data>
+          <Data ss:Type="String">Мію. Це доктор Кальвіно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -48,12 +60,16 @@
           <Data ss:Type="String">BDDB548E552D1FBD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm feeling ill. Not myself today. I think I won't be in for my
-            shift at all. </Data>
+          <Data ss:Type="String">I&apos;m feeling ill. Not myself today. I think I won&apos;t be in for my shift at all. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm feeling ill. Not myself today. I think I won't be in for my
-            shift at all. </Data>
+          <Data ss:Type="String">Я хворий. Сам не свій. Мабуть, я сьогодні не вийду на зміну. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -61,10 +77,16 @@
           <Data ss:Type="String">BDDB548E552D1FBE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Array? I... don't recall-</Data>
+          <Data ss:Type="String">Array? I... don&apos;t recall-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Array? I... don't recall-</Data>
+          <Data ss:Type="String">Набір? Я... не можу згадати...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -72,12 +94,16 @@
           <Data ss:Type="String">BDDB548E552D1FBF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You... must have misunderstood. Eh... are you- honestly I'd prefer
-            it if you left my experiments alone in my absence.</Data>
+          <Data ss:Type="String">You... must have misunderstood. Eh... are you- honestly I&apos;d prefer it if you left my experiments alone in my absence.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You... must have misunderstood. Eh... are you- honestly I'd prefer
-            it if you left my experiments alone in my absence.</Data>
+          <Data ss:Type="String">Ви... напевно, не так зрозуміли. Е... Ви... краще не чіпайте мою апаратуру, доки мене немає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -85,12 +111,16 @@
           <Data ss:Type="String">BDDB548E552D1FF7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No, no, of course. I remember now. Let's just... for the time
-            being... it doesn't matter.</Data>
+          <Data ss:Type="String">No, no, of course. I remember now. Let&apos;s just... for the time being... it doesn&apos;t matter.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No, no, of course. I remember now. Let's just... for the time
-            being... it doesn't matter.</Data>
+          <Data ss:Type="String">Ні, ні, звісно. Я пам'ятаю. Просто... зараз... це не важливо.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -98,10 +128,16 @@
           <Data ss:Type="String">BDDB548E552D2000</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Let's talk about it tomorrow.</Data>
+          <Data ss:Type="String">Let&apos;s talk about it tomorrow.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Let's talk about it tomorrow.</Data>
+          <Data ss:Type="String">Поговоримо про це завтра.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -109,10 +145,16 @@
           <Data ss:Type="String">BDDB548E553AC7FC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're leaving?</Data>
+          <Data ss:Type="String">You&apos;re leaving?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're leaving?</Data>
+          <Data ss:Type="String">Йдете?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -123,7 +165,13 @@
           <Data ss:Type="String">Just turn it off then.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Just turn it off then.</Data>
+          <Data ss:Type="String">Тоді… тоді вимкніть це.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -131,10 +179,16 @@
           <Data ss:Type="String">BDDB548E553AC98F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No. I suppose it's late after all. Go. Sleep.</Data>
+          <Data ss:Type="String">No. I suppose it&apos;s late after all. Go. Sleep.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No. I suppose it's late after all. Go. Sleep.</Data>
+          <Data ss:Type="String">Ні. Я... Взагалі-то вже пізно. Ідіть. Ідіть спати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -142,10 +196,16 @@
           <Data ss:Type="String">BDDB548E553ACA4F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What about me? Don't concern yourself. I'll finish.</Data>
+          <Data ss:Type="String">What about me? Don&apos;t concern yourself. I&apos;ll finish.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What about me? Don't concern yourself. I'll finish.</Data>
+          <Data ss:Type="String">А що я? Не турбуйтеся про мене. Я закінчу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -156,7 +216,13 @@
           <Data ss:Type="String">You guess.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You guess.</Data>
+          <Data ss:Type="String">Напевно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -164,23 +230,16 @@
           <Data ss:Type="String">BDDB548E553ACBC1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're always saying, "I guess.""That worked, I guess. I'll see you
-            later, I guess." You're a scientist. Stop guessing. Know. Or be quiet. That is all.</Data>
+          <Data ss:Type="String">You&apos;re always saying, &quot;I guess.&quot; &quot;That worked, I guess. I&apos;ll see you later, I guess.&quot; You&apos;re a scientist. Stop guessing. Know. Or be quiet. That is all.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're always saying, "I guess.""That worked, I guess. I'll see you
-            later, I guess." You're a scientist. Stop guessing. Know. Or be quiet. That is all.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E553ACCF6</Data>
+          <Data ss:Type="String">Ви все повторюєте «напевно». «Спрацювало, напевно. Я піду, напевно». Ви вчений. Досить гадати. Знайте. Або мовчіть. Ось і все.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Frustrated Grunt)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Frustrated Grunt)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -193,16 +252,28 @@
         <Cell>
           <Data ss:Type="String">Che rompi scatole...</Data>
         </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
       </Row>
       <Row>
         <Cell>
           <Data ss:Type="String">BDDB548E553E590E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's running?</Data>
+          <Data ss:Type="String">It&apos;s running?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's running?</Data>
+          <Data ss:Type="String">Це працює?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -210,10 +281,16 @@
           <Data ss:Type="String">BDDB548E553E5C3F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Where's the photometer? The handheld. Did you take it?</Data>
+          <Data ss:Type="String">Where&apos;s the photometer? The handheld. Did you take it?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Where's the photometer? The handheld. Did you take it?</Data>
+          <Data ss:Type="String">Де фотометр? Ручний? Ви його взяли?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -221,10 +298,16 @@
           <Data ss:Type="String">BDDB548E553E6DE3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yesterday we had two. Now I can't find one.</Data>
+          <Data ss:Type="String">Yesterday we had two. Now I can&apos;t find one.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yesterday we had two. Now I can't find one.</Data>
+          <Data ss:Type="String">Ах, учора було два. А тепер жодного.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -235,7 +318,13 @@
           <Data ss:Type="String">Nonsense. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nonsense. </Data>
+          <Data ss:Type="String">Нонсенс!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -246,7 +335,13 @@
           <Data ss:Type="String">Eh... Yes. I was just about to call you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Eh... Yes. I was just about to call you.</Data>
+          <Data ss:Type="String">Е-е-е... Так. Я саме збирався вам дзвонити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -254,12 +349,16 @@
           <Data ss:Type="String">BDDB548E55C0B7DF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes. That's right. It's the calibration system for the new
-            touchscreen. You only have to run it one time.</Data>
+          <Data ss:Type="String">Yes. That&apos;s right. It&apos;s the calibration system for the new touchscreen. You only have to run it one time.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes. That's right. It's the calibration system for the new
-            touchscreen. You only have to run it one time.</Data>
+          <Data ss:Type="String">Так. Правильно. Це програма калібрування нового сенсорного екрана. Її потрібно запустити тільки один раз.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -270,7 +369,13 @@
           <Data ss:Type="String">The dream. Yes.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The dream. Yes.</Data>
+          <Data ss:Type="String">Сон. Так.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -278,10 +383,16 @@
           <Data ss:Type="String">BDDB548E563A277E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Miyu? Miyu - I... I can't move!</Data>
+          <Data ss:Type="String">Miyu? Miyu - I... I can&apos;t move!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Miyu? Miyu - I... I can't move!</Data>
+          <Data ss:Type="String">Мію? Мію, я… Я не можу поворухнутися!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -289,12 +400,16 @@
           <Data ss:Type="String">BDDB548E563A2847</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm in the microgravity lab. Franklin's gone. I don't know what's
-            happening.</Data>
+          <Data ss:Type="String">I&apos;m in the microgravity lab. Franklin&apos;s gone. I don&apos;t know what&apos;s happening.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm in the microgravity lab. Franklin's gone. I don't know what's
-            happening.</Data>
+          <Data ss:Type="String">Я в лабораторії мікрогравітації. Френкліна більше немає. Я не знаю, що відбувається.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -302,10 +417,16 @@
           <Data ss:Type="String">BDDB548E563A291E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes! I can't get out. Can you come?</Data>
+          <Data ss:Type="String">Yes! I can&apos;t get out. Can you come?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes! I can't get out. Can you come?</Data>
+          <Data ss:Type="String">Так! Я не можу вибратися. Можете прийти?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -316,7 +437,13 @@
           <Data ss:Type="String">Miyu?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Miyu?</Data>
+          <Data ss:Type="String">Мію?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -324,12 +451,16 @@
           <Data ss:Type="String">BDDB548E56B94DE2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh) Miyu- ah, no. Wait. I see an Operator. I think it's trying
-            to help me. Ng-</Data>
+          <Data ss:Type="String">(Sigh) Miyu- ah, no. Wait. I see an Operator. I think it&apos;s trying to help me. Ng-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh) Miyu- ah, no. Wait. I see an Operator. I think it's trying
-            to help me. Ng-</Data>
+          <Data ss:Type="String">Мію… А, ні. Зачекайте. Я бачу оператора. Здається, він хоче мені допомогти…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -340,7 +471,13 @@
           <Data ss:Type="String">Just follow the dot! When it turns green touch it. It should-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Just follow the dot! When it turns green touch it. It should-</Data>
+          <Data ss:Type="String">Слідкуйте за точкою! Коли стане зеленою, торкніться її…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -348,10 +485,16 @@
           <Data ss:Type="String">BDDB548E56BCEDE5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ahh - well, I suppose you've turned in. Or you're ignoring me.</Data>
+          <Data ss:Type="String">Ahh - well, I suppose you&apos;ve turned in. Or you&apos;re ignoring me.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ahh - well, I suppose you've turned in. Or you're ignoring me.</Data>
+          <Data ss:Type="String">А-а-а-а. Я думав, ви лягли спати. Або ігноруєте мене.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -359,12 +502,16 @@
           <Data ss:Type="String">BDDB548E56BCEDF9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I just want to... I'll be a little late for my shift tomorrow. But,
-            uh, first thing in the morning I want you to put together a new micro lens array. </Data>
+          <Data ss:Type="String">I just want to... I&apos;ll be a little late for my shift tomorrow. But, uh, first thing in the morning I want you to put together a new micro lens array. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I just want to... I'll be a little late for my shift tomorrow. But,
-            uh, first thing in the morning I want you to put together a new micro lens array. </Data>
+          <Data ss:Type="String">Я хотів... Я завтра запізнюся на зміну. Але хочу, щоб насамперед зібрали новий набір мікролінз. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -372,12 +519,16 @@
           <Data ss:Type="String">BDDB548E56BCEE0C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You see, the old one is garbage. Get what you need from the machine
-            shop. </Data>
+          <Data ss:Type="String">You see, the old one is garbage. Get what you need from the machine shop. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You see, the old one is garbage. Get what you need from the machine
-            shop. </Data>
+          <Data ss:Type="String">Старий вже мені не потрібен. Візьміть усе, що потрібно, у машинному цеху. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -385,12 +536,16 @@
           <Data ss:Type="String">BDDB548E56BCEE11</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">And if Clive is being an ass just take it from the supply closet
-            when he's not looking. </Data>
+          <Data ss:Type="String">And if Clive is being an ass just take it from the supply closet when he&apos;s not looking. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">And if Clive is being an ass just take it from the supply closet
-            when he's not looking. </Data>
+          <Data ss:Type="String">А якщо Клайв буде викаблучуватися, просто стягніть, коли він відвернеться. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -398,12 +553,16 @@
           <Data ss:Type="String">BDDB548E56BCEE15</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We're not supposed to know the code, but I'm sending it to you
-            anyway. </Data>
+          <Data ss:Type="String">We&apos;re not supposed to know the code, but I&apos;m sending it to you anyway.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We're not supposed to know the code, but I'm sending it to you
-            anyway. </Data>
+          <Data ss:Type="String">Нам не належить знати код, але я все одно його висилаю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -411,12 +570,16 @@
           <Data ss:Type="String">BDDB548E56C73213</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's uh... it's always in my lab. And... I'm standing in front of
-            the glass.</Data>
+          <Data ss:Type="String">It&apos;s uh... it&apos;s always in my lab. And... I&apos;m standing in front of the glass.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's uh... it's always in my lab. And... I'm standing in front of
-            the glass.</Data>
+          <Data ss:Type="String">Я… Я завжди у своїй лабораторії. Стою біля «Дзеркала».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -427,7 +590,13 @@
           <Data ss:Type="String">Yes.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes.</Data>
+          <Data ss:Type="String">Так.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -435,10 +604,16 @@
           <Data ss:Type="String">BDDB548E56C7324A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nothing. At first. I don't want to turn it on. </Data>
+          <Data ss:Type="String">Nothing. At first. I don&apos;t want to turn it on. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nothing. At first. I don't want to turn it on. </Data>
+          <Data ss:Type="String">Нічого. Спочатку. Я не хочу його вмикати. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -446,12 +621,16 @@
           <Data ss:Type="String">BDDB548E56C73255</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But... I can't help it. I have to turn it on. When I do - it's like
-            the heart of a black hole.</Data>
+          <Data ss:Type="String">But... I can&apos;t help it. I have to turn it on. When I do - it&apos;s like the heart of a black hole.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But... I can't help it. I have to turn it on. When I do - it's like
-            the heart of a black hole.</Data>
+          <Data ss:Type="String">Але… Я не можу втриматися. Я маю його ввімкнути. І там… немов чорна діра.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -459,12 +638,16 @@
           <Data ss:Type="String">BDDB548E56C7325E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An immense... darkness. There's... something... swimming in the
-            black. I catch glimpses. Edges of the shape.</Data>
+          <Data ss:Type="String">An immense... darkness. There&apos;s... something... swimming in the black. I catch glimpses. Edges of the shape.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An immense... darkness. There's... something... swimming in the
-            black. I catch glimpses. Edges of the shape.</Data>
+          <Data ss:Type="String">Величезна… тьма. Там… щось… плаває в темряві. Я щось бачу. Обриси.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -475,7 +658,13 @@
           <Data ss:Type="String">I feel as though it wants to come through... onto my side. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I feel as though it wants to come through... onto my side. </Data>
+          <Data ss:Type="String">Я відчуваю, що воно хоче вийти… до мене. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -483,12 +672,16 @@
           <Data ss:Type="String">BDDB548E56C7326C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have to turn off the glass before it sees me but I always wake
-            before I can.</Data>
+          <Data ss:Type="String">I have to turn off the glass before it sees me but I always wake before I can.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have to turn off the glass before it sees me but I always wake
-            before I can.</Data>
+          <Data ss:Type="String">Я маю відключити «Дзеркало», поки воно мене не помітило... Але завжди прокидаюся раніше.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -499,7 +692,13 @@
           <Data ss:Type="String">I, uh- nothing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I, uh- nothing.</Data>
+          <Data ss:Type="String">Я… Ні на що.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -507,10 +706,16 @@
           <Data ss:Type="String">BDDB548E56C732A2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No. No, no. That's... I don't...</Data>
+          <Data ss:Type="String">No. No, no. That&apos;s... I don&apos;t...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No. No, no. That's... I don't...</Data>
+          <Data ss:Type="String">Ні. Ні, ні, ні. Це… Я не…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -521,7 +726,13 @@
           <Data ss:Type="String">Where did you get that drawing? Have you been spying on me?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Where did you get that drawing? Have you been spying on me?</Data>
+          <Data ss:Type="String">Звідки у вас цей малюнок? Ви шпигуєте за мною?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -529,10 +740,16 @@
           <Data ss:Type="String">BDDB548E56C732BF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't want to talk to you anymore.</Data>
+          <Data ss:Type="String">I don&apos;t want to talk to you anymore.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't want to talk to you anymore.</Data>
+          <Data ss:Type="String">Я не збираюся більше з вами розмовляти.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -543,7 +760,13 @@
           <Data ss:Type="String">What about the mirrors?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What about the mirrors?</Data>
+          <Data ss:Type="String">Що з дзеркалами?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -551,12 +774,16 @@
           <Data ss:Type="String">BDDB548E57AB48E9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Never. I have never removed a Neuromod... and yet, today I could
-            not find my way to the Hardware Labs.</Data>
+          <Data ss:Type="String">Never. I have never removed a Neuromod... and yet, today I could not find my way to the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Never. I have never removed a Neuromod... and yet, today I could
-            not find my way to the Hardware Labs.</Data>
+          <Data ss:Type="String">Ніколи. Я не видаляв нейромоди… Але сьогодні я не зміг знайти дорогу в апаратну лабораторію.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -564,12 +791,16 @@
           <Data ss:Type="String">BDDB548E57AB4908</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wandered the Arboretum for an hour. I made some excuse. But... I
-            know Miyu suspects.</Data>
+          <Data ss:Type="String">I wandered the Arboretum for an hour. I made some excuse. But... I know Miyu suspects.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wandered the Arboretum for an hour. I made some excuse. But... I
-            know Miyu suspects.</Data>
+          <Data ss:Type="String">Цілу годину бродив дендрарієм... Придумав відмовку. Але... Мію щось запідозрила.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -577,12 +808,16 @@
           <Data ss:Type="String">BDDB548E57AB4BD6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I cannot keep making toys for TranStar when... (deep breath) I told
-            Alex what I want to try.</Data>
+          <Data ss:Type="String">I cannot keep making toys for TranStar when... (deep breath) I told Alex what I want to try.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I cannot keep making toys for TranStar when... (deep breath) I told
-            Alex what I want to try.</Data>
+          <Data ss:Type="String">Я не зможу робити іграшки для «Транстар», якщо… Я сказав Алексу, що хочу спробувати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -593,7 +828,13 @@
           <Data ss:Type="String">He gave me a device to help. Parapsychological contraption. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">He gave me a device to help. Parapsychological contraption. </Data>
+          <Data ss:Type="String">Він дав мені прилад. Парапсихологічний пристрій. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -604,7 +845,13 @@
           <Data ss:Type="String">Morgan made it. Some of the components are... beyond me.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan made it. Some of the components are... beyond me.</Data>
+          <Data ss:Type="String">Автор — Морган. Частина компонентів... за межами мого розуміння.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -612,12 +859,16 @@
           <Data ss:Type="String">BDDB548E57AB4CA0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The same dream again. There is... something wrong with this
-            station. Something here with us... but-</Data>
+          <Data ss:Type="String">The same dream again. There is... something wrong with this station. Something here with us... but-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The same dream again. There is... something wrong with this
-            station. Something here with us... but-</Data>
+          <Data ss:Type="String">Той самий сон. На станції… коїться щось дивне. Тут, поруч із нами, щось є… але…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -628,7 +879,13 @@
           <Data ss:Type="String">I am hallucinating now. There is no question.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I am hallucinating now. There is no question.</Data>
+          <Data ss:Type="String">У мене галюцинації. Я впевнений.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -636,12 +893,16 @@
           <Data ss:Type="String">BDDB548E57AB4D13</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I... tried to open the locker, but I could not remember our
-            anniversary.</Data>
+          <Data ss:Type="String">I... tried to open the locker, but I could not remember our anniversary.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I... tried to open the locker, but I could not remember our
-            anniversary.</Data>
+          <Data ss:Type="String">Я… намагався відкрити шафку, але не зміг згадати дату нашого весілля.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -652,7 +913,13 @@
           <Data ss:Type="String">And for a moment, even her name escaped me. Her name!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">And for a moment, even her name escaped me. Her name!</Data>
+          <Data ss:Type="String">І на секунду забув навіть її ім'я. Її ім'я!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -660,12 +927,16 @@
           <Data ss:Type="String">BDDB548E57AB4D50</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If one day I wake up and cannot even remember the work I am doing -
-            I must give it all to Morgan.</Data>
+          <Data ss:Type="String">If one day I wake up and cannot even remember the work I am doing - I must give it all to Morgan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If one day I wake up and cannot even remember the work I am doing -
-            I must give it all to Morgan.</Data>
+          <Data ss:Type="String">Якщо одного разу я прокинуся і не зможу згадати нічого про свою роботу… Нехай усе забере Морган.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -676,7 +947,13 @@
           <Data ss:Type="String">He will know what to do with it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">He will know what to do with it.</Data>
+          <Data ss:Type="String">Він придумає, що з цим робити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -687,7 +964,13 @@
           <Data ss:Type="String">She will know what to do with it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">She will know what to do with it.</Data>
+          <Data ss:Type="String">Вона придумає, що з цим робити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -698,7 +981,13 @@
           <Data ss:Type="String">First test. Anterior electrodes overheated after six seconds.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">First test. Anterior electrodes overheated after six seconds.</Data>
+          <Data ss:Type="String">Перший тест. Передні електроди перегрілися за шість секунд.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -706,12 +995,33 @@
           <Data ss:Type="String">BDDB548E57AB4E54</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But... I swear - there was a moment... I saw her again. The day we
-            met on the Costa Amalfi. Her lemon sundress. My Clorinda.</Data>
+          <Data ss:Type="String">But... I swear - there was a moment... I saw her again. The day we met on the Costa Amalfi. Her lemon sundress. My Clorinda.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But... I swear - there was a moment... I saw her again. The day we
-            met on the Costa Amalfi. Her lemon sundress. My Clorinda.</Data>
+          <Data ss:Type="String">Але в якийсь момент… Я знову її побачив. День, коли ми зустрілися на Коста-Амальфі. Її жовту сукню. Моя Клорінда.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553ACCF6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Frustrated Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
