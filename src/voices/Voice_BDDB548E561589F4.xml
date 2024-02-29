@@ -23,35 +23,19 @@
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">BDDB548E56158A87</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(muffled yelling)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(muffled yelling)</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56158AEF</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(choking gasp)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(choking gasp)</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
           <Data ss:Type="String">BDDB548E56B37658</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Do you have a family?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Do you have a family?</Data>
+          <Data ss:Type="String">У вас є рідні?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -62,7 +46,13 @@
           <Data ss:Type="String">I have a daughter. They took me from her. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a daughter. They took me from her. </Data>
+          <Data ss:Type="String">У мене є дочка. Вони забрали мене в неї. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -73,7 +63,13 @@
           <Data ss:Type="String">I was promised I would see her again. I signed your papers.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I was promised I would see her again. I signed your papers.</Data>
+          <Data ss:Type="String">Мені обіцяли, що я побачу її знову. І я все підписав.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -81,12 +77,16 @@
           <Data ss:Type="String">BDDB548E56B37887</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your family. You must hate them very much to do this. I hear it in
-            your voices. </Data>
+          <Data ss:Type="String">Your family. You must hate them very much to do this. I hear it in your voices. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your family. You must hate them very much to do this. I hear it in
-            your voices. </Data>
+          <Data ss:Type="String">Як ви повинні ненавидіти свої сім'ї, якщо робите... таке. Я чую це у ваших голосах. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -97,7 +97,13 @@
           <Data ss:Type="String">Look at me. Look at the man you are killing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Look at me. Look at the man you are killing.</Data>
+          <Data ss:Type="String">Подивіться на мене. Дивіться на людину, яку ти вбиваєте!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -108,7 +114,47 @@
           <Data ss:Type="String">What you do, kills us both.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What you do, kills us both.</Data>
+          <Data ss:Type="String">Давайте, вбийте нас обох.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56158A87</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(muffled yelling)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56158AEF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(choking gasp)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
