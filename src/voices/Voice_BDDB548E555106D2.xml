@@ -29,7 +29,13 @@
           <Data ss:Type="String">Commander Dahl. This is Kaspar. Status report. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander Dahl. This is Kaspar. Status report. </Data>
+          <Data ss:Type="String">Капітан Даль. Це Каспар. Доповідаю. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -37,12 +43,16 @@
           <Data ss:Type="String">BDDB548E563CA005</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All major servers and terminals are locked down. Rip and Intecept
-            Protocols are in operation.</Data>
+          <Data ss:Type="String">All major servers and terminals are locked down. Rip and Intecept Protocols are in operation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All major servers and terminals are locked down. Rip and Intecept
-            Protocols are in operation.</Data>
+          <Data ss:Type="String">Усі основні сервери та термінали заблоковані. Діє протокол «Злом і перехоплення».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -50,12 +60,16 @@
           <Data ss:Type="String">BDDB548E563CA23E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Searching access patterns within the last three hours. Progress
-            estimate. Sixty three percent. </Data>
+          <Data ss:Type="String">Searching access patterns within the last three hours. Progress estimate. Sixty three percent. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Searching access patterns within the last three hours. Progress
-            estimate. Sixty three percent. </Data>
+          <Data ss:Type="String">Аналізую журнали доступу за останні три години. Оцінка виконання: шістдесят три відсотки. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -66,7 +80,13 @@
           <Data ss:Type="String">Affirmative. Resuming.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Affirmative. Resuming.</Data>
+          <Data ss:Type="String">Прийнято. Продовжую роботу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -74,12 +94,16 @@
           <Data ss:Type="String">BDDB548E563CA3DA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander Dahl. This is Kaspar. Morgan Yu sighted. I repeat Morgan
-            Yu sighted. </Data>
+          <Data ss:Type="String">Commander Dahl. This is Kaspar. Morgan Yu sighted. I repeat Morgan Yu sighted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander Dahl. This is Kaspar. Morgan Yu sighted. I repeat Morgan
-            Yu sighted. </Data>
+          <Data ss:Type="String">Капітан Даль. Це Каспар. Тут Морган Ю. Повторюю: тут Морган Ю.. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -90,7 +114,13 @@
           <Data ss:Type="String">Commander Dahl, do you copy? Commander Dahl...?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander Dahl, do you copy? Commander Dahl...?</Data>
+          <Data ss:Type="String">Капітане Даль, прийом? Капітан Даль?..</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -101,7 +131,13 @@
           <Data ss:Type="String">Server Arx F30 through F37 ripped. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Server Arx F30 through F37 ripped. </Data>
+          <Data ss:Type="String">Сервери з F30 по F37 зламані. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -112,7 +148,13 @@
           <Data ss:Type="String">Index cluster. Null mask reference. Deleted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Index cluster. Null mask reference. Deleted. </Data>
+          <Data ss:Type="String">Індексація кластера. Посилання на порожній шаблон. Видалено. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -120,34 +162,16 @@
           <Data ss:Type="String">BDDB548E563CA659</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ghost job InterceptD operational. Sensitives routing to shuttle
-            cache.</Data>
+          <Data ss:Type="String">Ghost job InterceptD operational. Sensitives routing to shuttle cache.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ghost job InterceptD operational. Sensitives routing to shuttle
-            cache.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563CA687</Data>
+          <Data ss:Type="String">Фонове завдання «Перехоплення-Д». Направляю цінні дані до сховища шаттла.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Machine Sounds)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Machine Sounds)</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563CA6BC</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Machine Sounds)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Machine Sounds)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -158,7 +182,13 @@
           <Data ss:Type="String">Servers Arx F13 through F21 ripped.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Servers Arx F13 through F21 ripped.</Data>
+          <Data ss:Type="String">Сервери з F13 по F21 зламані.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -169,7 +199,13 @@
           <Data ss:Type="String">Psychotronics data. Priority tag. Delivery node Occam LSDS-3.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychotronics data. Priority tag. Delivery node Occam LSDS-3.</Data>
+          <Data ss:Type="String">Дані лабораторії психотроніки. Позначка «важливо». Вузол доставки: Оккам ЛСДС-3.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -177,10 +213,16 @@
           <Data ss:Type="String">BDDB548E56A0F76C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Data vault DVM-3. Prior ejection.</Data>
+          <Data ss:Type="String">Data vault  DVM-3. Prior ejection.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Data vault DVM-3. Prior ejection.</Data>
+          <Data ss:Type="String">Модуль МХД-3. Ранній запуск.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -191,7 +233,13 @@
           <Data ss:Type="String">I read you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I read you.</Data>
+          <Data ss:Type="String">Слухаю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -202,7 +250,13 @@
           <Data ss:Type="String">Holding. Small group of survivors still present. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Holding. Small group of survivors still present. </Data>
+          <Data ss:Type="String">Нормально. Там усе ще перебувають кілька виживших. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -210,10 +264,16 @@
           <Data ss:Type="String">BDDB548E56A16520</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Network is still locked down. Alex has no means of access. </Data>
+          <Data ss:Type="String">Network is still locked down. Alex has no means of access.    </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Network is still locked down. Alex has no means of access. </Data>
+          <Data ss:Type="String">Мережа ще заблокована. У Алекса немає ніякого доступу.    </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -221,12 +281,16 @@
           <Data ss:Type="String">BDDB548E56A1652F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Installing Rip and Intercept protocols. Thirty five percent
-            complete. </Data>
+          <Data ss:Type="String">Installing Rip and Intercept protocols. Thirty five percent complete.   </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Installing Rip and Intercept protocols. Thirty five percent
-            complete. </Data>
+          <Data ss:Type="String">Встановлення протоколів злому і перехоплення. Тридцять п'ять відсотків.   </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -234,12 +298,16 @@
           <Data ss:Type="String">BDDB548E56A16604</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Negative. The encryption is trivial, but another user is employing
-            countermeasures against me.</Data>
+          <Data ss:Type="String">Negative. The encryption is trivial, but another user is employing countermeasures against me.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Negative. The encryption is trivial, but another user is employing
-            countermeasures against me.</Data>
+          <Data ss:Type="String">Ні. Захист стандартний, але користувач активно протидіє злому.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -250,7 +318,13 @@
           <Data ss:Type="String">I would like dedicate more processing power to it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I would like dedicate more processing power to it.</Data>
+          <Data ss:Type="String">Я хочу виділити на це більше обчислювальної потужності.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -258,12 +332,16 @@
           <Data ss:Type="String">BDDB548E56A16654</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There is no person aboard Talos I who can perform operations as
-            fast-</Data>
+          <Data ss:Type="String">There is no person aboard Talos I who can perform operations as fast-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There is no person aboard Talos I who can perform operations as
-            fast-</Data>
+          <Data ss:Type="String">На «Талосі-1» ніхто не може виконувати операції так швидко.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -271,10 +349,16 @@
           <Data ss:Type="String">BDDB548E56A166EE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Improbable. There are none like me. </Data>
+          <Data ss:Type="String">Improbable. There are none like me.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Improbable. There are none like me. </Data>
+          <Data ss:Type="String">Неможливо. Таких, як я, більше немає.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -285,7 +369,13 @@
           <Data ss:Type="String">Oxygen nearly depleted. I expect loss of consciousness momentarily.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oxygen nearly depleted. I expect loss of consciousness momentarily.</Data>
+          <Data ss:Type="String">Кисень майже скінчився. Вони ось-ось мають втратити свідомість.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -296,7 +386,13 @@
           <Data ss:Type="String">Killphrase. Navarre, Orange, Delilah.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Killphrase. Navarre, Orange, Delilah.</Data>
+          <Data ss:Type="String">Активація самознищення. Наварра. Апельсин. Делайла.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -307,7 +403,13 @@
           <Data ss:Type="String">Initiate.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Initiate.</Data>
+          <Data ss:Type="String">Виконати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
