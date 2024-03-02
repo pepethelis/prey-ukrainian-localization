@@ -29,18 +29,13 @@
           <Data ss:Type="String">Commander. We found the access panel. Biometric authentication.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander. We found the access panel. Biometric authentication.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55CB715B</Data>
+          <Data ss:Type="String">Капітан. Ми знайшли панель доступу. Біометрична перевірка.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All done.</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All done.</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -51,7 +46,13 @@
           <Data ss:Type="String">All units report no sign of Morgan Yu.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All units report no sign of Morgan Yu.</Data>
+          <Data ss:Type="String">Не вдалося виявити доктора Ю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -62,7 +63,13 @@
           <Data ss:Type="String">Affirmative.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Affirmative.</Data>
+          <Data ss:Type="String">Так точно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -73,7 +80,13 @@
           <Data ss:Type="String">Yes, commander.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes, commander.</Data>
+          <Data ss:Type="String">Так, капітане.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -84,161 +97,13 @@
           <Data ss:Type="String">Establishing defensive perimeter.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Establishing defensive perimeter.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A018A3</Data>
+          <Data ss:Type="String">Встановлюю оборонний периметр.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan? Is that you?</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan? Is that you?</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01908</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Primary target is in the kill zone. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Primary target is in the kill zone. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01968</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan?</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan?</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A019AB</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Back here.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Back here.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A019EC</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Over here.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Over here.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A019F7</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I don't think I can move.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I don't think I can move.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A019FF</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Hurry up, man.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Hurry up, man.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01A07</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I need some help.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I need some help.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01A0F</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Hey!</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Hey!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01A1A</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I'm in the ICU.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I'm in the ICU.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01A24</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">My arm's broken.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">My arm's broken.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01A2C</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Back here.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Back here.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01A3B</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">It's me! Luther!</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">It's me! Luther!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A01BD5</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Open fire.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Open fire.</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -249,7 +114,13 @@
           <Data ss:Type="String">Gathering...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Gathering...</Data>
+          <Data ss:Type="String">Складаю...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -260,7 +131,13 @@
           <Data ss:Type="String">Relaying order.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Relaying order.</Data>
+          <Data ss:Type="String">Передача наказу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -268,12 +145,17 @@
           <Data ss:Type="String">BDDB548E56A2612C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've got a blip. Investigate.
+          <Data ss:Type="String">I&apos;ve got a blip. Investigate. 
           </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've got a blip. Investigate.
-          </Data>
+          <Data ss:Type="String">Сигнал на радарі. Вивчаю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -281,10 +163,16 @@
           <Data ss:Type="String">BDDB548E56A26132</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible echo on the radar... </Data>
+          <Data ss:Type="String">Possible echo on the radar...   </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible echo on the radar... </Data>
+          <Data ss:Type="String">Можливий супротивник на радарі...   </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -292,10 +180,16 @@
           <Data ss:Type="String">BDDB548E56A26138</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Something just splashed my scanners. </Data>
+          <Data ss:Type="String">Notify. Something just splashed my scanners.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Something just splashed my scanners. </Data>
+          <Data ss:Type="String">Повідомлення. Щось з'явилося на сканері.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -303,10 +197,16 @@
           <Data ss:Type="String">BDDB548E56A2613E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat. </Data>
+          <Data ss:Type="String">Possible threat.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat. </Data>
+          <Data ss:Type="String">Можлива загроза.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -317,7 +217,13 @@
           <Data ss:Type="String">Notify. Might have an echo.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Might have an echo.</Data>
+          <Data ss:Type="String">Повідомлення. Потенційний ворог.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -325,12 +231,17 @@
           <Data ss:Type="String">BDDB548E56A2614E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Interrupt. I've got suspicious pingback.
+          <Data ss:Type="String">Interrupt. I&apos;ve got suspicious pingback. 
           </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Interrupt. I've got suspicious pingback.
-          </Data>
+          <Data ss:Type="String">Переривання. Підозрілий відгук.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -341,7 +252,13 @@
           <Data ss:Type="String">Contact.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Contact.</Data>
+          <Data ss:Type="String">Контакт.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -349,10 +266,16 @@
           <Data ss:Type="String">BDDB548E56A26517</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo found. Echo found. </Data>
+          <Data ss:Type="String">Echo found. Echo found.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo found. Echo found. </Data>
+          <Data ss:Type="String">Ворога виявлено. Ворога виявлено.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -360,10 +283,16 @@
           <Data ss:Type="String">BDDB548E56A26526</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engaging. </Data>
+          <Data ss:Type="String">Engaging.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Engaging. </Data>
+          <Data ss:Type="String">Відкриваю вогонь.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -374,7 +303,13 @@
           <Data ss:Type="String">Visual contact.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Visual contact.</Data>
+          <Data ss:Type="String">Візуальний контакт.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -385,18 +320,13 @@
           <Data ss:Type="String">Echo painted.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo painted.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A265A8</Data>
+          <Data ss:Type="String">Виявлено ворога.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Alarm Sounding)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Alarm Sounding)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -407,7 +337,13 @@
           <Data ss:Type="String">Got her.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Got her.</Data>
+          <Data ss:Type="String">Ось вона.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -418,7 +354,13 @@
           <Data ss:Type="String">Got him.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Got him.</Data>
+          <Data ss:Type="String">Ось він.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -426,10 +368,16 @@
           <Data ss:Type="String">BDDB548E56A2671A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons hot. </Data>
+          <Data ss:Type="String">Weapons hot.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons hot. </Data>
+          <Data ss:Type="String">На прицілі.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -437,10 +385,16 @@
           <Data ss:Type="String">BDDB548E56A2674E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Firing. </Data>
+          <Data ss:Type="String">Firing.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Firing. </Data>
+          <Data ss:Type="String">Стріляю.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -451,7 +405,13 @@
           <Data ss:Type="String">Notify. Cleared hot.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Cleared hot.</Data>
+          <Data ss:Type="String">Дозволено відкрити вогонь.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -462,7 +422,13 @@
           <Data ss:Type="String">Full burn.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Full burn.</Data>
+          <Data ss:Type="String">Вогонь на повну.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -473,7 +439,13 @@
           <Data ss:Type="String">Firing angle zero.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Firing angle zero.</Data>
+          <Data ss:Type="String">Вогонь прямим наведенням.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -484,7 +456,13 @@
           <Data ss:Type="String">Lights on.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lights on.</Data>
+          <Data ss:Type="String">Вогневий контакт.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -495,7 +473,13 @@
           <Data ss:Type="String">Fox seven. Fox seven.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fox seven. Fox seven.</Data>
+          <Data ss:Type="String">Фокс сім. Фокс сім.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -506,7 +490,13 @@
           <Data ss:Type="String">Lasers on.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lasers on.</Data>
+          <Data ss:Type="String">Лазери активовані.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -517,7 +507,13 @@
           <Data ss:Type="String">Lasing echos.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lasing echos.</Data>
+          <Data ss:Type="String">Лазерний вогонь по ворогу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -528,7 +524,13 @@
           <Data ss:Type="String">Green to kill.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Green to kill.</Data>
+          <Data ss:Type="String">Вогонь на ураження.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -539,7 +541,13 @@
           <Data ss:Type="String">A-star in progress. Will report.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">A-star in progress. Will report.</Data>
+          <Data ss:Type="String">Алгоритм пошуку А. Очікування звіту.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -550,7 +558,13 @@
           <Data ss:Type="String">Looking for echo contacts.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Looking for echo contacts.</Data>
+          <Data ss:Type="String">Пошук ворога.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -561,7 +575,13 @@
           <Data ss:Type="String">Instruments wide open.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Instruments wide open.</Data>
+          <Data ss:Type="String">Інструменти відкриті.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -572,7 +592,13 @@
           <Data ss:Type="String">Perimeter check.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Perimeter check.</Data>
+          <Data ss:Type="String">Перевірка периметра.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -583,7 +609,13 @@
           <Data ss:Type="String">Zone sweep. Checking angles of attack.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Zone sweep. Checking angles of attack.</Data>
+          <Data ss:Type="String">Обшук зони. Перевірка сектора атаки.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -594,7 +626,13 @@
           <Data ss:Type="String">Greenlight on sierra delta.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Greenlight on sierra delta.</Data>
+          <Data ss:Type="String">Дозволено пошук і знищення.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -605,7 +643,13 @@
           <Data ss:Type="String">Bracketing area for clean sweep.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bracketing area for clean sweep.</Data>
+          <Data ss:Type="String">Призначення сектора для зачищення.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -613,10 +657,16 @@
           <Data ss:Type="String">BDDB548E56A27174</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Checking three, six, nine, and noon. </Data>
+          <Data ss:Type="String">Checking three, six, nine, and noon.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Checking three, six, nine, and noon. </Data>
+          <Data ss:Type="String">Перевірка на три, шість, дев'ять і полудень.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -624,12 +674,16 @@
           <Data ss:Type="String">BDDB548E56A271B0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue
-            Operator.</Data>
+          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue Operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you are TranStar personnel, please stand down. I am a rescue
-            Operator.</Data>
+          <Data ss:Type="String">Якщо ви працівник «Транстар», не втручайтеся. Я оператор-рятувальник.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -637,10 +691,16 @@
           <Data ss:Type="String">BDDB548E56A271BB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please show yourself so I can assist you. </Data>
+          <Data ss:Type="String">Please show yourself so I can assist you.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please show yourself so I can assist you. </Data>
+          <Data ss:Type="String">Покажіться, щоб я могла вам допомогти.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -648,12 +708,16 @@
           <Data ss:Type="String">BDDB548E56A271C8</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation
-            procedures.</Data>
+          <Data ss:Type="String">Don&apos;t hide. I&apos;m programmed to assist Talos I crew in evacutation procedures.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm programmed to assist Talos I crew in evacutation
-            procedures.</Data>
+          <Data ss:Type="String">Не ховайтеся. Я запрограмована сприяти евакуації «Талоса-1».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -661,21 +725,16 @@
           <Data ss:Type="String">BDDB548E56A271DC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm not a threat. I am a search and rescue Operator.</Data>
+          <Data ss:Type="String">I&apos;m not a threat. I am a search and rescue Operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm not a threat. I am a search and rescue Operator.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A273FD</Data>
+          <Data ss:Type="String">Я не небезпечна. Я пошуково-рятувальний оператор.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Scanning)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Scanning)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -686,7 +745,13 @@
           <Data ss:Type="String">Sweep turned up zero.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sweep turned up zero.</Data>
+          <Data ss:Type="String">Результати пошуку нульові.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -697,7 +762,13 @@
           <Data ss:Type="String">Nothing found.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nothing found.</Data>
+          <Data ss:Type="String">Нічого не знайдено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -705,10 +776,16 @@
           <Data ss:Type="String">BDDB548E56A2745F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No echos. That's a negative.</Data>
+          <Data ss:Type="String">No echos. That&apos;s a negative.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No echos. That's a negative.</Data>
+          <Data ss:Type="String">Немає ворогів. Негативно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -719,7 +796,13 @@
           <Data ss:Type="String">Zone is clean. No echos.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Zone is clean. No echos.</Data>
+          <Data ss:Type="String">Тут чисто. Ворогів немає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -730,7 +813,13 @@
           <Data ss:Type="String">Nothing. Sensor charlie foxtrot.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nothing. Sensor charlie foxtrot.</Data>
+          <Data ss:Type="String">Нічого. Сніг на сенсорах.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -741,7 +830,13 @@
           <Data ss:Type="String">Stop search. Point of origin... unknown.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop search. Point of origin... unknown.</Data>
+          <Data ss:Type="String">Пошук припинено. Джерело... невідоме.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -752,7 +847,13 @@
           <Data ss:Type="String">No sign. Breaking off.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No sign. Breaking off.</Data>
+          <Data ss:Type="String">Немає ознак. Призупинено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -763,7 +864,13 @@
           <Data ss:Type="String">Lost visual on the echo.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lost visual on the echo.</Data>
+          <Data ss:Type="String">Втрачено візуальний контакт із ворогом.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -774,7 +881,13 @@
           <Data ss:Type="String">Hostile is out of sensor range.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hostile is out of sensor range.</Data>
+          <Data ss:Type="String">Противник поза зоною дії сенсорів.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -785,7 +898,13 @@
           <Data ss:Type="String">Contact lost. I repeat, contact lost.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Contact lost. I repeat, contact lost.</Data>
+          <Data ss:Type="String">Втрата контакту. Повторюю, втрата контакту.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -796,7 +915,13 @@
           <Data ss:Type="String">No contact. Disengaging. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No contact. Disengaging. </Data>
+          <Data ss:Type="String">Немає контакту. Припиняю вогонь. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -804,10 +929,16 @@
           <Data ss:Type="String">BDDB548E56A274FF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo is out of bounds. Dropping combat. </Data>
+          <Data ss:Type="String">Echo is out of bounds. Dropping combat.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo is out of bounds. Dropping combat. </Data>
+          <Data ss:Type="String">Ворог поза зоною доступу. Припинення бою.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -818,7 +949,13 @@
           <Data ss:Type="String">Weapons cold. Nothing to burn.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons cold. Nothing to burn.</Data>
+          <Data ss:Type="String">Опустити зброю. Нікого вбивати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -829,7 +966,13 @@
           <Data ss:Type="String">Contact faded.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Contact faded.</Data>
+          <Data ss:Type="String">Контакт втрачено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -840,7 +983,13 @@
           <Data ss:Type="String">Maintain a personal perimeter of one meter.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Maintain a personal perimeter of one meter.</Data>
+          <Data ss:Type="String">Підтримую персональний периметр.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -851,7 +1000,13 @@
           <Data ss:Type="String">Buffering.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Buffering.</Data>
+          <Data ss:Type="String">Буферизація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -862,7 +1017,13 @@
           <Data ss:Type="String">Stand at safe distance.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stand at safe distance.</Data>
+          <Data ss:Type="String">Відійдіть на безпечну відстань.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -873,7 +1034,13 @@
           <Data ss:Type="String">You are too close.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You are too close.</Data>
+          <Data ss:Type="String">Ви занадто близько.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -884,7 +1051,13 @@
           <Data ss:Type="String">Notify Dahl. Morgan Yu eliminated.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify Dahl. Morgan Yu eliminated.</Data>
+          <Data ss:Type="String">Повідомлення Далю. Ми ліквідували доктора Ю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -895,7 +1068,13 @@
           <Data ss:Type="String">Echo down. Echo down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echo down. Echo down.</Data>
+          <Data ss:Type="String">Ворога усунуто. Ворога усунуто.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -906,29 +1085,13 @@
           <Data ss:Type="String">Threat level zulu.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Threat level zulu.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A277FA</Data>
+          <Data ss:Type="String">Загроза: нульовий рівень.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A2781C</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -936,10 +1099,16 @@
           <Data ss:Type="String">BDDB548E56A297DC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject Morgan Yu approaching. </Data>
+          <Data ss:Type="String">Subject Morgan Yu approaching.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject Morgan Yu approaching. </Data>
+          <Data ss:Type="String">Об'єкт Морган Ю наближається.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -950,7 +1119,13 @@
           <Data ss:Type="String">Verifying IFF. Morgan Yu is off the echo list.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Verifying IFF. Morgan Yu is off the echo list.</Data>
+          <Data ss:Type="String">Ідентифікація «свій-чужий». Морган Ю не в списку ворогів.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -961,7 +1136,13 @@
           <Data ss:Type="String">Weapons Safe. Do not engage.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons Safe. Do not engage.</Data>
+          <Data ss:Type="String">Зброя на запобіжнику. Не атакувати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -972,7 +1153,13 @@
           <Data ss:Type="String">Alpha check. Affirmative.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alpha check. Affirmative.</Data>
+          <Data ss:Type="String">Перевірка альфа. Ствердно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -983,7 +1170,13 @@
           <Data ss:Type="String">Instrument IFF. Typhon class echos... validated.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Instrument IFF. Typhon class echos... validated.</Data>
+          <Data ss:Type="String">Свій-чужий. Противник класу тифон... підтверджено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -994,7 +1187,13 @@
           <Data ss:Type="String">Cleared for Sierra and Delta actions.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cleared for Sierra and Delta actions.</Data>
+          <Data ss:Type="String">Пошук і знищення дозволено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1005,7 +1204,13 @@
           <Data ss:Type="String">Perimeter secure. Resume.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Perimeter secure. Resume.</Data>
+          <Data ss:Type="String">Периметр очищено. Продовжити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1016,7 +1221,13 @@
           <Data ss:Type="String">Flying CAP. Status as fragged. Over.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Flying CAP. Status as fragged. Over.</Data>
+          <Data ss:Type="String">Повітряний патруль. Усе за планом. Відбій.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1027,7 +1238,13 @@
           <Data ss:Type="String">Zone tagged and stamped. Resume.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Zone tagged and stamped. Resume.</Data>
+          <Data ss:Type="String">Зону розмічено. Продовжити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1038,7 +1255,13 @@
           <Data ss:Type="String">All units. Pingback and authenticate.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All units. Pingback and authenticate.</Data>
+          <Data ss:Type="String">Усім одиницям. Відгукнутися і назвати себе.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1049,7 +1272,13 @@
           <Data ss:Type="String">All clear.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All clear.</Data>
+          <Data ss:Type="String">Все чисто.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1060,7 +1289,13 @@
           <Data ss:Type="String">Instruments clean. No echos. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Instruments clean. No echos. </Data>
+          <Data ss:Type="String">Чисто. Жодних ворогів. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1071,7 +1306,13 @@
           <Data ss:Type="String">Insruments- (Operator Voice Malfunctioning) I am an instrument.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Insruments- (Operator Voice Malfunctioning) I am an instrument.</Data>
+          <Data ss:Type="String">Інструменти... Я інструмент.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1082,7 +1323,13 @@
           <Data ss:Type="String">IFF look up- (Operator Voice Malfunctioning) - new table loaded.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">IFF look up- (Operator Voice Malfunctioning) - new table loaded.</Data>
+          <Data ss:Type="String">База «свій-чужий»... Завантажено нову таблицю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1090,10 +1337,16 @@
           <Data ss:Type="String">BDDB548E56C6345A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All units. Pingback and authenticate-ate-ate-ate.</Data>
+          <Data ss:Type="String">All units. Pingback and authenticate.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All units. Pingback and authenticate-ate-ate-ate.</Data>
+          <Data ss:Type="String">Усім бойовим одиницям. Відгукнутися і назвати себе.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1101,10 +1354,16 @@
           <Data ss:Type="String">BDDB548E56C6348C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're not Co-co-co-commander Dahl. Comply. Complying.</Data>
+          <Data ss:Type="String">You&apos;re not Commander Dahl. Comply. Complying.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're not Co-co-co-commander Dahl. Comply. Complying.</Data>
+          <Data ss:Type="String">Ви не командир Даль. Виконувати накази. Виконую.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1112,10 +1371,16 @@
           <Data ss:Type="String">BDDB548E56C634E0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echos-os-os-os [machine malfunctioning]. </Data>
+          <Data ss:Type="String">Echos [machine malfunctioning]. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Echos-os-os-os [machine malfunctioning]. </Data>
+          <Data ss:Type="String">Противник. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1123,12 +1388,16 @@
           <Data ss:Type="String">BDDB548E56C6351C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure
-            perimter.</Data>
+          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure perimter.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Status check. As fragged. (Operator Malfunctioning Noises) Secure
-            perimter.</Data>
+          <Data ss:Type="String">Перевірка статусу. За планом. Охороняти периметр.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1139,7 +1408,13 @@
           <Data ss:Type="String">New CO. Direct comm. Inaudible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New CO. Direct comm. Inaudible.</Data>
+          <Data ss:Type="String">Новий командир. Прямий наказ. Не чутно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1150,7 +1425,13 @@
           <Data ss:Type="String">Moving.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Moving.</Data>
+          <Data ss:Type="String">Двигаюсь.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1161,7 +1442,13 @@
           <Data ss:Type="String">Moving- (Operator Voice Malfunctioning) </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Moving- (Operator Voice Malfunctioning) </Data>
+          <Data ss:Type="String">Рухаюсь... </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1169,12 +1456,16 @@
           <Data ss:Type="String">BDDB548E56C63637</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning)
-            -Yu. </Data>
+          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning) -Yu. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Possible threat. Possible Morgan- (Operator Voice Malfunctioning)
-            -Yu. </Data>
+          <Data ss:Type="String">Можлива загроза. Можливо, Морган... Ю. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1185,7 +1476,13 @@
           <Data ss:Type="String">Notify. Suspicious activity.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Notify. Suspicious activity.</Data>
+          <Data ss:Type="String">Повідомлення. Підозріла активність.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1193,10 +1490,16 @@
           <Data ss:Type="String">BDDB548E56C636BA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scanners got an echo-o-o-o (Operator Voice Malfunctioning)</Data>
+          <Data ss:Type="String">Scanners got an echo (Operator Voice Malfunctioning)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scanners got an echo-o-o-o (Operator Voice Malfunctioning)</Data>
+          <Data ss:Type="String">На сканерах ворог.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1207,7 +1510,13 @@
           <Data ss:Type="String">Interrupt.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Interrupt.</Data>
+          <Data ss:Type="String">Переривання.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1218,18 +1527,13 @@
           <Data ss:Type="String">Contact.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Contact.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C636ED</Data>
+          <Data ss:Type="String">Контакт.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Alarm Beeps)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Alarm Beeps)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1240,7 +1544,13 @@
           <Data ss:Type="String">Lost visual. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Lost visual. </Data>
+          <Data ss:Type="String">Втрата візуального контакту. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1248,10 +1558,16 @@
           <Data ss:Type="String">BDDB548E56C637F4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hostile is out of ran- (Operator Voice Malfunctioning)</Data>
+          <Data ss:Type="String">Hostile is out of range (Operator Voice Malfunctioning)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hostile is out of ran- (Operator Voice Malfunctioning)</Data>
+          <Data ss:Type="String">Ворог поза зоною досяжності.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1259,10 +1575,16 @@
           <Data ss:Type="String">BDDB548E56C63806</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons col-col-col-cold.</Data>
+          <Data ss:Type="String">Weapons cold.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Weapons col-col-col-cold.</Data>
+          <Data ss:Type="String">Зброя на запобіжнику.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1273,7 +1595,13 @@
           <Data ss:Type="String">No contact.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No contact.</Data>
+          <Data ss:Type="String">Немає контакту.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1284,7 +1612,13 @@
           <Data ss:Type="String">New commander is pleased.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New commander is pleased.</Data>
+          <Data ss:Type="String">Новий командир задоволений.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1292,10 +1626,16 @@
           <Data ss:Type="String">BDDB548E56C6385C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mission accom-om-om-omplished.</Data>
+          <Data ss:Type="String">Mission accomplished.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mission accom-om-om-omplished.</Data>
+          <Data ss:Type="String">Місію завершено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1306,40 +1646,13 @@
           <Data ss:Type="String">All echoes cleared [machine malfunctioning].</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All echoes cleared [machine malfunctioning].</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C638B7</Data>
+          <Data ss:Type="String">Усіх ворогів ліквідовано.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C638D0</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C638EA</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Operator Explodes) </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">(Operator Explodes) </Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1347,10 +1660,16 @@
           <Data ss:Type="String">BDDB548E56C63920</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I would like to rescue you.</Data>
+          <Data ss:Type="String">Я хотів би врятувати тебе.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I would like to rescue you.</Data>
+          <Data ss:Type="String">Я хочу врятувати вас.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1358,10 +1677,16 @@
           <Data ss:Type="String">BDDB548E56C6393D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I am a rescue- (Operator Voice Malfunctioning) -erator.</Data>
+          <Data ss:Type="String">I am a rescue operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I am a rescue- (Operator Voice Malfunctioning) -erator.</Data>
+          <Data ss:Type="String">Я оператор-рятувальник.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1369,10 +1694,16 @@
           <Data ss:Type="String">BDDB548E56C63958</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm not a threat. </Data>
+          <Data ss:Type="String">I&apos;m not a threat. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm not a threat. </Data>
+          <Data ss:Type="String">Я не становлю небезпеки. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1383,7 +1714,13 @@
           <Data ss:Type="String">Search and rescue protocols active. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Search and rescue protocols active. </Data>
+          <Data ss:Type="String">Пошуково-рятувальний протокол активовано. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1394,7 +1731,13 @@
           <Data ss:Type="String">Target re-re-re-rescued.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Target re-re-re-rescued.</Data>
+          <Data ss:Type="String">Ціль вря-ря-ря-товано.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1402,12 +1745,16 @@
           <Data ss:Type="String">BDDB548E56C639FB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in
-            evacuation.</Data>
+          <Data ss:Type="String">Don&apos;t hide. I&apos;m here to assist you in evacuation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't hide. I'm- (Operator Voice Malfunctioning) -to assist you in
-            evacuation.</Data>
+          <Data ss:Type="String">Не ховайтеся. Я тут, щоб сприяти евакуації.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1415,12 +1762,16 @@
           <Data ss:Type="String">BDDB548E56C63A45</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning)
-            -no vital signs.</Data>
+          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning) -no vital signs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will assist you until you have- (Operator Voice Malfunctioning)
-            -no vital signs.</Data>
+          <Data ss:Type="String">Я допомагатиму, поки у вас не... ...ознаки життя.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1428,10 +1779,16 @@
           <Data ss:Type="String">BDDB548E56C63A8E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I won't haaaaarm you.</Data>
+          <Data ss:Type="String">I won&apos;t haaaaarm you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I won't haaaaarm you.</Data>
+          <Data ss:Type="String">Я не заподію вам шкоди-и-и.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1442,7 +1799,13 @@
           <Data ss:Type="String">Zero targets to rescue.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Zero targets to rescue.</Data>
+          <Data ss:Type="String">Цілей для порятунку: нуль.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1450,10 +1813,16 @@
           <Data ss:Type="String">BDDB548E56C63ABB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No survivors f-f-f-found.</Data>
+          <Data ss:Type="String">No survivors found.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No survivors f-f-f-found.</Data>
+          <Data ss:Type="String">Вцілілих не виявлено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1464,7 +1833,13 @@
           <Data ss:Type="String">Stop search. (Machine Error Beep)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop search. (Machine Error Beep)</Data>
+          <Data ss:Type="String">Припинити пошук.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1475,7 +1850,13 @@
           <Data ss:Type="String">No more signal. Breaking off.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No more signal. Breaking off.</Data>
+          <Data ss:Type="String">Немає сигналу. Переривання.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1486,7 +1867,13 @@
           <Data ss:Type="String">Initiate rescue.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Initiate rescue.</Data>
+          <Data ss:Type="String">Розпочати рятувальну операцію.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1494,10 +1881,16 @@
           <Data ss:Type="String">BDDB548E56C63B62</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm here to (Operator Voice Malfunctioning) help.</Data>
+          <Data ss:Type="String">I&apos;m here to (Operator Voice Malfunctioning) help.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm here to (Operator Voice Malfunctioning) help.</Data>
+          <Data ss:Type="String">Я тут, щоб... Допомогти.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1508,7 +1901,13 @@
           <Data ss:Type="String">Help is on the way.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Help is on the way.</Data>
+          <Data ss:Type="String">Допомога в дорозі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1516,10 +1915,16 @@
           <Data ss:Type="String">BDDB548E56C63B98</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Remain ca-ca-ca-calm.</Data>
+          <Data ss:Type="String">Remain calm.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Remain ca-ca-ca-calm.</Data>
+          <Data ss:Type="String">Без паніки.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1530,18 +1935,268 @@
           <Data ss:Type="String">I can assist.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can assist.</Data>
+          <Data ss:Type="String">Я можу допомогти.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">BDDB548E56C63BF8</Data>
+          <Data ss:Type="String">BDDB548E55CB715B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Machine Malfunctioning, Beeps Loudly)</Data>
+          <Data ss:Type="String">All done.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Machine Malfunctioning, Beeps Loudly)</Data>
+          <Data ss:Type="String">Готово.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A018A3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan? Is that you?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Морган? Це ви?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01908</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Primary target is in the kill zone. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Головна ціль — у зоні ураження. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01968</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Морган?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019AB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Back here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сюда.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019EC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Over here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сюди.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019F7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t think I can move.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я навряд чи зможу рухатися.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A019FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hurry up, man.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Поквапся.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A07</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I need some help.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Мені потрібна допомога.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A0F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Hey!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ей!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A1A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I&apos;m in the ICU.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я в інтенсивній терапії.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A24</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">My arm&apos;s broken.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">У мене зламана рука.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A2C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Back here.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сюди.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01A3B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It&apos;s me! Luther!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Це я! Лютер!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A01BD5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Open fire.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Вогонь!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1552,7 +2207,13 @@
           <Data ss:Type="String">Morgan?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan?</Data>
+          <Data ss:Type="String">Морган?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1563,7 +2224,472 @@
           <Data ss:Type="String">Hey!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey!</Data>
+          <Data ss:Type="String">Ей!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A265A8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Alarm Sounding)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A273FD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Scanning)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277FA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2781C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Malfunction Beep, Mechanical Noises)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C636ED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Alarm Beeps)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C638B7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C638D0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Voice Malfunctioning) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C638EA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Operator Explodes) </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C63BF8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Machine Malfunctioning, Beeps Loudly)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A04555_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Relaying order.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Передаю наказ.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A04555_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Relaying order.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Передача наказу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271BB_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please show yourself so I can assist you.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Покажіться, щоб я міг вам допомогти.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271BB_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please show yourself so I can assist you.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Покажіться, щоб я могла вам допомогти.  </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271C8_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Don&apos;t hide. I&apos;m programmed to assist Talos I crew in evacutation procedures.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не ховайтеся. Я запрограмований сприяти евакуації «Талоса-1».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271C8_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Don&apos;t hide. I&apos;m programmed to assist Talos I crew in evacutation procedures.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не ховайтеся. Я запрограмована сприяти евакуації «Талоса-1».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271DC_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I&apos;m not a threat. I am a search and rescue Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я не небезпечний. Я пошуково-рятувальний оператор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A271DC_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I&apos;m not a threat. I am a search and rescue Operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я не небезпечна. Я пошуково-рятувальний оператор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277C2_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo down. Echo down.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Сигнал погашений. Сигнал погашений.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A277C2_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Echo down. Echo down.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ворога усунуто. Ворога усунуто.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2984B_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instrument IFF. Typhon class echos... validated.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Свій-чужий. Ціль класу тифон... підтверджено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2984B_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instrument IFF. Typhon class echos... validated.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Свій-чужий. Ціль класу тифон... підтверджено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29875_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instruments clean. No echos. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Чисто. Жодних сигналів. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A29875_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Instruments clean. No echos. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Чисто. Жодних ворогів. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6393D_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I am a rescue- (Operator Voice Malfunctioning) operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я опера... ...рятувальник.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C6393D_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I am a rescue operator.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я оператор-рятувальник.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C639C7_BDDB548E555106D2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Target rescued.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ціль врятовано.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C639C7_BDDB548E555105C7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Target re-re-re-rescued.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ціль вря-ря-ря-товано.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
