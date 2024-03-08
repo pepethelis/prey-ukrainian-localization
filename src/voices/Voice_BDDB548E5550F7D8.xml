@@ -2001,7 +2001,7 @@
           <Data ss:Type="String">We&apos;re secure here, door is covered, no hostiles - but there&apos;s bound to be other survivors in the station. If you find any, send them here. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ми тут у безпеці, двері укріплені, ворогів немає. Но на станции наверняка остались выжившие. Якщо кого знайдете — відправляйте сюди. </Data>
+          <Data ss:Type="String">Ми тут у безпеці, двері укріплені, ворогів немає. Але на станції напевно залишилися вцілілі. Якщо кого знайдете — відправляйте сюди. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -3531,7 +3531,7 @@
           <Data ss:Type="String">Mika, get safe, then call.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Кейт, найди укрытие. Потом поговорим.</Data>
+          <Data ss:Type="String">Кейт, знайди укриття. Потім поговоримо.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
