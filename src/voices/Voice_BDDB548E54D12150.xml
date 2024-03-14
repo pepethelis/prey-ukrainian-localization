@@ -29,7 +29,13 @@
           <Data ss:Type="String">Uh...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Uh...</Data>
+          <Data ss:Type="String">Е-е-е…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -40,7 +46,13 @@
           <Data ss:Type="String">Was that really you?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Was that really you?</Data>
+          <Data ss:Type="String">Це були ви?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -48,10 +60,16 @@
           <Data ss:Type="String">BDDB548E56C77F76</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know how that's possible.</Data>
+          <Data ss:Type="String">I don&apos;t know how that&apos;s possible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know how that's possible.</Data>
+          <Data ss:Type="String">Але це просто неможливо.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -59,10 +77,16 @@
           <Data ss:Type="String">BDDB548E56C77FB5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can't explain that.</Data>
+          <Data ss:Type="String">I can&apos;t explain that.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can't explain that.</Data>
+          <Data ss:Type="String">Я не можу цього пояснити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -73,7 +97,13 @@
           <Data ss:Type="String">No way.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No way.</Data>
+          <Data ss:Type="String">Ну ні.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -84,7 +114,13 @@
           <Data ss:Type="String">Holy shit!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Holy shit!</Data>
+          <Data ss:Type="String">Чорт забирай!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -92,10 +128,16 @@
           <Data ss:Type="String">BDDB548E56C780C0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's not right.</Data>
+          <Data ss:Type="String">That&apos;s not right.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's not right.</Data>
+          <Data ss:Type="String">Щось не так.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -106,7 +148,13 @@
           <Data ss:Type="String">Jesus! Are you... one of them?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jesus! Are you... one of them?</Data>
+          <Data ss:Type="String">Боже мій! Ви… один з них?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -117,7 +165,13 @@
           <Data ss:Type="String">My God.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">My God.</Data>
+          <Data ss:Type="String">О боже.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -125,10 +179,16 @@
           <Data ss:Type="String">BDDB548E56C78188</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's impossible.</Data>
+          <Data ss:Type="String">That&apos;s impossible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's impossible.</Data>
+          <Data ss:Type="String">Не може бути!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -139,7 +199,13 @@
           <Data ss:Type="String">You all right?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You all right?</Data>
+          <Data ss:Type="String">З вами все гаразд?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -147,10 +213,16 @@
           <Data ss:Type="String">BDDB548E56C7825D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You don't look so good.</Data>
+          <Data ss:Type="String">You don&apos;t look so good.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You don't look so good.</Data>
+          <Data ss:Type="String">Ви погано виглядаєте.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -161,7 +233,13 @@
           <Data ss:Type="String">You look like you need a Medical Operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You look like you need a Medical Operator.</Data>
+          <Data ss:Type="String">Здається, вам потрібен медоператор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -169,10 +247,16 @@
           <Data ss:Type="String">BDDB548E56C78377</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's it!</Data>
+          <Data ss:Type="String">That&apos;s it!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's it!</Data>
+          <Data ss:Type="String">Ну все!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -183,7 +267,13 @@
           <Data ss:Type="String">You crossed a line.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You crossed a line.</Data>
+          <Data ss:Type="String">Це була остання крапля.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -191,10 +281,16 @@
           <Data ss:Type="String">BDDB548E56C78389</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's enough!</Data>
+          <Data ss:Type="String">That&apos;s enough!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's enough!</Data>
+          <Data ss:Type="String">Достатньо!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -202,10 +298,16 @@
           <Data ss:Type="String">BDDB548E56C78397</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What's wrong with you?</Data>
+          <Data ss:Type="String">What&apos;s wrong with you?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What's wrong with you?</Data>
+          <Data ss:Type="String">Що з вами таке?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -216,7 +318,13 @@
           <Data ss:Type="String">You lost your mind?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You lost your mind?</Data>
+          <Data ss:Type="String">Ви що, збожеволіли?!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -227,7 +335,13 @@
           <Data ss:Type="String">Sick of you!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sick of you!</Data>
+          <Data ss:Type="String">Мені це набридло!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -238,7 +352,13 @@
           <Data ss:Type="String">Seriously?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Seriously?</Data>
+          <Data ss:Type="String">Серйозно?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -249,7 +369,13 @@
           <Data ss:Type="String">Not a good time.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Not a good time.</Data>
+          <Data ss:Type="String">Дуже невчасно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -260,7 +386,13 @@
           <Data ss:Type="String">Quit messing around.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Quit messing around.</Data>
+          <Data ss:Type="String">Досить дурити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -271,7 +403,13 @@
           <Data ss:Type="String">Stop it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop it.</Data>
+          <Data ss:Type="String">Досить!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -279,21 +417,16 @@
           <Data ss:Type="String">BDDB548E56C7846A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yeah, that's hilarious.</Data>
+          <Data ss:Type="String">Yeah, that&apos;s hilarious.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yeah, that's hilarious.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C78475</Data>
+          <Data ss:Type="String">Так, дуже смішно.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -301,10 +434,16 @@
           <Data ss:Type="String">BDDB548E56C78757</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh) Thank God that's over.</Data>
+          <Data ss:Type="String">(Sigh) Thank God that&apos;s over.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh) Thank God that's over.</Data>
+          <Data ss:Type="String">Дякувати богу, все позаду.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -315,7 +454,13 @@
           <Data ss:Type="String">We made it.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We made it.</Data>
+          <Data ss:Type="String">Ми вижили.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -323,10 +468,16 @@
           <Data ss:Type="String">BDDB548E56C7877B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Can't believe I survived.</Data>
+          <Data ss:Type="String">Can&apos;t believe I survived.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Can't believe I survived.</Data>
+          <Data ss:Type="String">Я й не думав, що виживу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -337,7 +488,13 @@
           <Data ss:Type="String">Is that all of them?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Is that all of them?</Data>
+          <Data ss:Type="String">Їх більше немає?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -345,10 +502,16 @@
           <Data ss:Type="String">BDDB548E56C787B5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did we get'em all?</Data>
+          <Data ss:Type="String">Did we get&apos;em all?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did we get'em all?</Data>
+          <Data ss:Type="String">Ми всіх убили?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -359,7 +522,13 @@
           <Data ss:Type="String">Mimic!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mimic!</Data>
+          <Data ss:Type="String">Мімік!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -367,10 +536,16 @@
           <Data ss:Type="String">BDDB548E56C7889E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't let it grab you!</Data>
+          <Data ss:Type="String">Don&apos;t let it grab you!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't let it grab you!</Data>
+          <Data ss:Type="String">Не дай себе схопити!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -378,21 +553,16 @@
           <Data ss:Type="String">BDDB548E56C788A4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't let it get away!</Data>
+          <Data ss:Type="String">Don&apos;t let it get away!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't let it get away!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C788BB</Data>
+          <Data ss:Type="String">Не дай йому втекти!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Cry)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Cry)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -403,7 +573,13 @@
           <Data ss:Type="String">No!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No!</Data>
+          <Data ss:Type="String">Ні!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -414,7 +590,13 @@
           <Data ss:Type="String">Kill it! Quick!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kill it! Quick!</Data>
+          <Data ss:Type="String">Вбий його! Швидше!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -425,7 +607,13 @@
           <Data ss:Type="String">Phantom!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Phantom!</Data>
+          <Data ss:Type="String">Фантом!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -436,7 +624,13 @@
           <Data ss:Type="String">That thing used to be one of us.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That thing used to be one of us.</Data>
+          <Data ss:Type="String">Раніше це був один із нас.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -444,21 +638,16 @@
           <Data ss:Type="String">BDDB548E56C78A30</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's a mimic!</Data>
+          <Data ss:Type="String">It&apos;s a mimic!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's a mimic!</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C78A70</Data>
+          <Data ss:Type="String">Це мімік!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Growl)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Growl)</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -469,7 +658,13 @@
           <Data ss:Type="String">Go to hell!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Go to hell!</Data>
+          <Data ss:Type="String">Іди до біса!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -480,7 +675,13 @@
           <Data ss:Type="String">Son of a bitch.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Son of a bitch.</Data>
+          <Data ss:Type="String">Сволота.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -491,7 +692,13 @@
           <Data ss:Type="String">Die already.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Die already.</Data>
+          <Data ss:Type="String">Помри нарешті!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -499,10 +706,16 @@
           <Data ss:Type="String">BDDB548E56C78B46</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't let it get close!</Data>
+          <Data ss:Type="String">Don&apos;t let it get close!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't let it get close!</Data>
+          <Data ss:Type="String">Не підпускай його!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -510,10 +723,16 @@
           <Data ss:Type="String">BDDB548E56C78B99</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shit. We're dead.</Data>
+          <Data ss:Type="String">Shit. We&apos;re dead.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shit. We're dead.</Data>
+          <Data ss:Type="String">Чорт. Нам кінець.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -524,7 +743,13 @@
           <Data ss:Type="String">Get away from me!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Get away from me!</Data>
+          <Data ss:Type="String">Забирайся геть!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -535,7 +760,13 @@
           <Data ss:Type="String">Piece of shit trash can.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Piece of shit trash can.</Data>
+          <Data ss:Type="String">Срана бляшанка.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -546,7 +777,13 @@
           <Data ss:Type="String">Shut it down!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shut it down!</Data>
+          <Data ss:Type="String">Вирубай його!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -557,7 +794,13 @@
           <Data ss:Type="String">What was that?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What was that?</Data>
+          <Data ss:Type="String">Що це було?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -565,10 +808,16 @@
           <Data ss:Type="String">BDDB548E56C79089</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't think that was a rat.</Data>
+          <Data ss:Type="String">I don&apos;t think that was a rat.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't think that was a rat.</Data>
+          <Data ss:Type="String">Здається, це не пацюк.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -576,10 +825,16 @@
           <Data ss:Type="String">BDDB548E56C79097</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There's something over there.</Data>
+          <Data ss:Type="String">There&apos;s something over there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There's something over there.</Data>
+          <Data ss:Type="String">Там щось є.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -590,7 +845,13 @@
           <Data ss:Type="String">I swear...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I swear...</Data>
+          <Data ss:Type="String">Присягаюся…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -598,10 +859,16 @@
           <Data ss:Type="String">BDDB548E56C79174</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's not right.</Data>
+          <Data ss:Type="String">That&apos;s not right.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's not right.</Data>
+          <Data ss:Type="String">Щось не так.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -609,10 +876,16 @@
           <Data ss:Type="String">BDDB548E56C7920E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shhh... there's something.</Data>
+          <Data ss:Type="String">Shhh... there&apos;s something.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shhh... there's something.</Data>
+          <Data ss:Type="String">Тс-с-с… Тут щось є.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -620,10 +893,16 @@
           <Data ss:Type="String">BDDB548E56C7925D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm going to take look over here.</Data>
+          <Data ss:Type="String">I&apos;m going to take look over here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm going to take look over here.</Data>
+          <Data ss:Type="String">Я подивлюся, що там.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -634,7 +913,13 @@
           <Data ss:Type="String">There better not be anything.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There better not be anything.</Data>
+          <Data ss:Type="String">Сподіваюся, там нічого немає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -645,7 +930,13 @@
           <Data ss:Type="String">Just give me a clean shot.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Just give me a clean shot.</Data>
+          <Data ss:Type="String">Тільки покажися.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -656,7 +947,13 @@
           <Data ss:Type="String">Come out.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Come out.</Data>
+          <Data ss:Type="String">Виходь.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -664,10 +961,16 @@
           <Data ss:Type="String">BDDB548E56C792ED</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't see anything yet.</Data>
+          <Data ss:Type="String">I don&apos;t see anything yet.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't see anything yet.</Data>
+          <Data ss:Type="String">Поки що нічого не бачу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -675,10 +978,16 @@
           <Data ss:Type="String">BDDB548E56C7937F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I didn't find anything.</Data>
+          <Data ss:Type="String">I didn&apos;t find anything.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I didn't find anything.</Data>
+          <Data ss:Type="String">Тут нічого немає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -689,7 +998,13 @@
           <Data ss:Type="String">Nothing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nothing.</Data>
+          <Data ss:Type="String">Нічого.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -700,7 +1015,13 @@
           <Data ss:Type="String">I must be losing my mind.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I must be losing my mind.</Data>
+          <Data ss:Type="String">Здається, я божеволію.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -711,7 +1032,13 @@
           <Data ss:Type="String">I swear there was something here a second ago.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I swear there was something here a second ago.</Data>
+          <Data ss:Type="String">Присягаюся, секунду тому тут щось було!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -722,7 +1049,13 @@
           <Data ss:Type="String">...just vanished.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">...just vanished.</Data>
+          <Data ss:Type="String">Просто зник…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -733,7 +1066,13 @@
           <Data ss:Type="String">It was just here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It was just here.</Data>
+          <Data ss:Type="String">Він був тут.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -744,7 +1083,13 @@
           <Data ss:Type="String">He was just here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">He was just here.</Data>
+          <Data ss:Type="String">Він був тут.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -755,7 +1100,13 @@
           <Data ss:Type="String">She was just here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">She was just here.</Data>
+          <Data ss:Type="String">Вона була тут.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -766,7 +1117,13 @@
           <Data ss:Type="String">Gone.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Gone.</Data>
+          <Data ss:Type="String">Пішов.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -774,10 +1131,16 @@
           <Data ss:Type="String">BDDB548E56C79451</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Means we're going to have to fight it again later, huh?</Data>
+          <Data ss:Type="String">Means we&apos;re going to have to fight it again later, huh?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Means we're going to have to fight it again later, huh?</Data>
+          <Data ss:Type="String">Отже, з ним знову доведеться битися, так?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -788,7 +1151,13 @@
           <Data ss:Type="String">I got a bad feeling.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I got a bad feeling.</Data>
+          <Data ss:Type="String">У мене погане передчуття.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -799,7 +1168,13 @@
           <Data ss:Type="String">What the hell was that?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What the hell was that?</Data>
+          <Data ss:Type="String">Це що за чортівня?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -810,7 +1185,13 @@
           <Data ss:Type="String">How are we supposed to fight that!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">How are we supposed to fight that!</Data>
+          <Data ss:Type="String">Як нам із ним впоратися?!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -821,7 +1202,13 @@
           <Data ss:Type="String">No way we can take that!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No way we can take that!</Data>
+          <Data ss:Type="String">Ми з ним не впораємося!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -832,7 +1219,13 @@
           <Data ss:Type="String">What is that thing?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What is that thing?</Data>
+          <Data ss:Type="String">Що це за тварюка?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -840,10 +1233,16 @@
           <Data ss:Type="String">BDDB548E56C7958D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh shit, we're so dead!</Data>
+          <Data ss:Type="String">Oh shit, we&apos;re so dead!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh shit, we're so dead!</Data>
+          <Data ss:Type="String">Ну все, ми в дупі!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -854,7 +1253,13 @@
           <Data ss:Type="String">This is some kind of bad dream.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is some kind of bad dream.</Data>
+          <Data ss:Type="String">Це просто поганий сон.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -862,10 +1267,16 @@
           <Data ss:Type="String">BDDB548E56CA7D8F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll try to get somewhere safe as soon as I catch my breath.</Data>
+          <Data ss:Type="String">I&apos;ll try to get somewhere safe as soon as I catch my breath.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll try to get somewhere safe as soon as I catch my breath.</Data>
+          <Data ss:Type="String">Я трохи віддихаюся, а потім постараюся знайти укриття.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -873,10 +1284,16 @@
           <Data ss:Type="String">BDDB548E56CA7DDC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Still a little woozy. I'll head out as soon as I feel better.</Data>
+          <Data ss:Type="String">Still a little woozy. I&apos;ll head out as soon as I feel better.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Still a little woozy. I'll head out as soon as I feel better.</Data>
+          <Data ss:Type="String">Голова паморочиться. Піду, коли стане краще.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -884,10 +1301,16 @@
           <Data ss:Type="String">BDDB548E56CA7DF7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thanks, Morgan. My head's clear. I just need a minute.</Data>
+          <Data ss:Type="String">Thanks, Morgan. My head&apos;s clear. I just need a minute.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thanks, Morgan. My head's clear. I just need a minute.</Data>
+          <Data ss:Type="String">Дякую, Морган. У голові прояснилося. Просто потрібно перепочити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -895,12 +1318,16 @@
           <Data ss:Type="String">BDDB548E56CA7E27</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Appreciate the help. Maybe I'll try the Cargo Bay. Heard Chief
-            Elazar's there.</Data>
+          <Data ss:Type="String">Appreciate the help. Maybe I&apos;ll try the Cargo Bay. Heard Chief Elazar&apos;s there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Appreciate the help. Maybe I'll try the Cargo Bay. Heard Chief
-            Elazar's there.</Data>
+          <Data ss:Type="String">Дякую за допомогу. Я піду у вантажний відсік. Начебто Елазар там.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -908,12 +1335,16 @@
           <Data ss:Type="String">BDDB548E56CA7E36</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You ever been half-awake - can't move your body no matter how hard
-            you try. What do they call that... sleep paralysis?</Data>
+          <Data ss:Type="String">You ever been half-awake - can&apos;t move your body no matter how hard you try. What do they call that... sleep paralysis?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You ever been half-awake - can't move your body no matter how hard
-            you try. What do they call that... sleep paralysis?</Data>
+          <Data ss:Type="String">Знаєте це відчуття? Коли наче і не спиш, але не можеш поворухнутися? Сонний параліч?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -921,10 +1352,16 @@
           <Data ss:Type="String">BDDB548E56CA7FB7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm out of here as soon as my legs stop shaking. </Data>
+          <Data ss:Type="String">I&apos;m out of here as soon as my legs stop shaking. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm out of here as soon as my legs stop shaking. </Data>
+          <Data ss:Type="String">Піду звідси, щойно ноги перестануть тремтіти. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -932,10 +1369,16 @@
           <Data ss:Type="String">BDDB548E56CA7FDA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's what it was like. Terrifying.</Data>
+          <Data ss:Type="String">That&apos;s what it was like. Terrifying.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That's what it was like. Terrifying.</Data>
+          <Data ss:Type="String">Ось на що це схоже. Жахливо.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -943,10 +1386,16 @@
           <Data ss:Type="String">BDDB548E56CA805A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can't believe you beat that thing.</Data>
+          <Data ss:Type="String">I can&apos;t believe you beat that thing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can't believe you beat that thing.</Data>
+          <Data ss:Type="String">Навіть не віриться, що ви вбили ту тварюку.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -957,7 +1406,13 @@
           <Data ss:Type="String">Where did something like that even come from?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Where did something like that even come from?</Data>
+          <Data ss:Type="String">Звідки вони взагалі взялися?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -965,12 +1420,16 @@
           <Data ss:Type="String">BDDB548E56CA80E7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know if I want to live in a universe where something like
-            that is possible.</Data>
+          <Data ss:Type="String">I don&apos;t know if I want to live in a universe where something like that is possible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't know if I want to live in a universe where something like
-            that is possible.</Data>
+          <Data ss:Type="String">Не впевнений, що хочу жити у всесвіті, де є таке.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -981,7 +1440,13 @@
           <Data ss:Type="String">I just want to get home. Feel real grass under my feet. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I just want to get home. Feel real grass under my feet. </Data>
+          <Data ss:Type="String">Я просто хочу додому. Гуляти по справжній траві. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -992,7 +1457,64 @@
           <Data ss:Type="String">Did we... make that in one of the labs? God, I hope not.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Did we... make that in one of the labs? God, I hope not.</Data>
+          <Data ss:Type="String">Ми… створили це в лабораторії? Сподіваюся, що ні!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C78475</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Sigh)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C788BB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Cry)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C78A70</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Growl)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1003,18 +1525,217 @@
           <Data ss:Type="String">(Sigh)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Sigh)</Data>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">49B3C706581A61ED</Data>
+          <Data ss:Type="String">BDDB548E56C77F76_BDDB548E54DBAF6A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rule [HumanGeneric] Player Bumped/Touched Player</Data>
+          <Data ss:Type="String">I don&apos;t know how that&apos;s possible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rule [HumanGeneric] Player Bumped/Touched Player</Data>
+          <Data ss:Type="String">Але це ж просто неможливо.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C77F76_BDDB548E559556CC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t know how that&apos;s possible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Але це просто неможливо.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7877B_BDDB548E54DBAF6A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can&apos;t believe I survived.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я й не думала, що виживу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7877B_BDDB548E54D12179</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can&apos;t believe I survived.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я й не думав, що виживу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7877B_BDDB548E54DBAF39</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can&apos;t believe I survived.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я й не думав, що виживу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7877B_BDDB548E54DBAF56</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can&apos;t believe I survived.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я й не думав, що виживу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7877B_BDDB548E559556CC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Can&apos;t believe I survived.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я й не думав, що виживу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CA80E7_BDDB548E54DBAF6A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t know if I want to live in a universe where something like that is possible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не впевнена, що хочу жити у всесвіті, де є таке.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CA80E7_BDDB548E54D12179</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t know if I want to live in a universe where something like that is possible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не впевнений, що хочу жити у всесвіті, де є таке.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CA80E7_BDDB548E54DBAF39</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t know if I want to live in a universe where something like that is possible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не впевнений, що хочу жити у всесвіті, де є таке.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CA80E7_BDDB548E54DBAF56</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t know if I want to live in a universe where something like that is possible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не впевнений, що хочу жити у всесвіті, де є таке.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56CA80E7_BDDB548E559556CC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don&apos;t know if I want to live in a universe where something like that is possible.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Не впевнений, що хочу жити у всесвіті, де є таке.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
