@@ -23,15 +23,36 @@
       </Row>
       <Row>
         <Cell>
+          <Data ss:Type="String">A419427655DCC802</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Three...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Три…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
           <Data ss:Type="String">BDDB548E55D276B0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error. Server not responding. Please contact Engineering Support in
-            Deep Storage.</Data>
+          <Data ss:Type="String">Error. Server not responding. Please contact Engineering Support in Deep Storage.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error. Server not responding. Please contact Engineering Support in
-            Deep Storage.</Data>
+          <Data ss:Type="String">Помилка. Сервер не відповідає. Зверніться до служби підтримки в сховище даних.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -42,7 +63,13 @@
           <Data ss:Type="String">Initiating reactor shutdown sequence.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Initiating reactor shutdown sequence.</Data>
+          <Data ss:Type="String">Запускаю програму зупинки реактора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -53,7 +80,13 @@
           <Data ss:Type="String">Substation power grid... offline.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Substation power grid... offline.</Data>
+          <Data ss:Type="String">Енергосистема підстанції… вимкнена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -64,7 +97,13 @@
           <Data ss:Type="String">Magnetosphere... offline.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Magnetosphere... offline.</Data>
+          <Data ss:Type="String">Магнітосфера… вимкнена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -75,7 +114,13 @@
           <Data ss:Type="String">Photovoltaic rings... offline.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Photovoltaic rings... offline.</Data>
+          <Data ss:Type="String">Фотоелектричні кільця… вимкнені.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -86,7 +131,13 @@
           <Data ss:Type="String">Life support... offline.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Life support... offline.</Data>
+          <Data ss:Type="String">Життєзабезпечення… вимкнено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -97,7 +148,13 @@
           <Data ss:Type="String">Gravity... offline</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Gravity... offline</Data>
+          <Data ss:Type="String">Гравітація… вимкнена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -108,7 +165,13 @@
           <Data ss:Type="String">Main reactor cold shutdown in...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Main reactor cold shutdown in...</Data>
+          <Data ss:Type="String">Зупинення головного реактора через…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -119,7 +182,13 @@
           <Data ss:Type="String">Three...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Three...</Data>
+          <Data ss:Type="String">Три…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -130,7 +199,13 @@
           <Data ss:Type="String">Two...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two...</Data>
+          <Data ss:Type="String">Дві…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -141,7 +216,13 @@
           <Data ss:Type="String">One...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">One...</Data>
+          <Data ss:Type="String">Одну…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -152,7 +233,13 @@
           <Data ss:Type="String">Reactor successfully shut down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Reactor successfully shut down.</Data>
+          <Data ss:Type="String">Реактор зупинено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -163,7 +250,13 @@
           <Data ss:Type="String">Initiating main reactor ignition sequence in...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Initiating main reactor ignition sequence in...</Data>
+          <Data ss:Type="String">Головний реактор буде запущено через…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -174,7 +267,13 @@
           <Data ss:Type="String">Sustained fusion... online.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sustained fusion... online.</Data>
+          <Data ss:Type="String">Ланцюгова реакція... запущена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -185,7 +284,13 @@
           <Data ss:Type="String">Gravity... online.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Gravity... online.</Data>
+          <Data ss:Type="String">Гравітація… увімкнена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -196,7 +301,13 @@
           <Data ss:Type="String">Life support... online.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Life support... online.</Data>
+          <Data ss:Type="String">Життєзабезпечення… увімкнено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -207,7 +318,13 @@
           <Data ss:Type="String">Magnetosphere...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Magnetosphere...</Data>
+          <Data ss:Type="String">Магнітосфера…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -218,7 +335,13 @@
           <Data ss:Type="String">Warning... reactor initialization interrupted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning... reactor initialization interrupted. </Data>
+          <Data ss:Type="String">Увага… Запуск реактора перервано. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -229,7 +352,13 @@
           <Data ss:Type="String">Routing auxillary power.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Routing auxillary power.</Data>
+          <Data ss:Type="String">Вмикаю запасний генератор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -240,7 +369,13 @@
           <Data ss:Type="String">Resuming reactor initialization.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Resuming reactor initialization.</Data>
+          <Data ss:Type="String">Поновлюю запуск реактора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -251,7 +386,13 @@
           <Data ss:Type="String">Magnetosphere... online.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Magnetosphere... online.</Data>
+          <Data ss:Type="String">Магнітосфера… увімкнена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -262,7 +403,13 @@
           <Data ss:Type="String">Substation power grids... online.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Substation power grids... online.</Data>
+          <Data ss:Type="String">Енергосистема підстанції… увімкнена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -273,7 +420,13 @@
           <Data ss:Type="String">Reactor initializtion complete. Systems restored. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Reactor initializtion complete. Systems restored. </Data>
+          <Data ss:Type="String">Запуск реактора завершено. Системи в нормі. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -284,7 +437,13 @@
           <Data ss:Type="String">Escape Pod Launch in...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Escape Pod Launch in...</Data>
+          <Data ss:Type="String">Запуск капсули через…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -295,7 +454,13 @@
           <Data ss:Type="String">Ten...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ten...</Data>
+          <Data ss:Type="String">Десять…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -306,7 +471,13 @@
           <Data ss:Type="String">Nine...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nine...</Data>
+          <Data ss:Type="String">Дев'ять…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -317,7 +488,13 @@
           <Data ss:Type="String">Eight...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Eight...</Data>
+          <Data ss:Type="String">Вісімь…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -328,7 +505,13 @@
           <Data ss:Type="String">Seven...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Seven...</Data>
+          <Data ss:Type="String">Сім…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -339,7 +522,13 @@
           <Data ss:Type="String">Six...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Six...</Data>
+          <Data ss:Type="String">Шість…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -350,7 +539,13 @@
           <Data ss:Type="String">Five...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Five...</Data>
+          <Data ss:Type="String">П'ять…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -361,7 +556,13 @@
           <Data ss:Type="String">Four...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Four...</Data>
+          <Data ss:Type="String">Чотири…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -372,7 +573,13 @@
           <Data ss:Type="String">Launch.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Launch.</Data>
+          <Data ss:Type="String">Запуск.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -383,18 +590,13 @@
           <Data ss:Type="String">Launch aborted.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Launch aborted.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">A419427655DCC802</Data>
+          <Data ss:Type="String">Запуск перервано.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Three...</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Three...</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -402,12 +604,16 @@
           <Data ss:Type="String">BDDB548E562668B2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Life Support air quality ratio below standard operating levels.
-            Atmospheric contaminant flush recommended.</Data>
+          <Data ss:Type="String">Life Support air quality ratio below standard operating levels. Atmospheric contaminant flush recommended.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Life Support air quality ratio below standard operating levels.
-            Atmospheric contaminant flush recommended.</Data>
+          <Data ss:Type="String">Якість повітря нижче стандартного рівня. Рекомендується провести знезараження.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -415,12 +621,16 @@
           <Data ss:Type="String">BDDB548E5626691F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Atmospheric decontamination procedure initiated. Oxygen flush
-            commencing in...</Data>
+          <Data ss:Type="String">Atmospheric decontamination procedure initiated. Oxygen flush commencing in...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Atmospheric decontamination procedure initiated. Oxygen flush
-            commencing in...</Data>
+          <Data ss:Type="String">Розпочато знезараження атмосфери. Продування киснем через…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -431,7 +641,13 @@
           <Data ss:Type="String">Decontamination completed successfully. Stand by for oxygenation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Decontamination completed successfully. Stand by for oxygenation.</Data>
+          <Data ss:Type="String">Знезараження завершено. Насичення атмосфери киснем.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -442,7 +658,13 @@
           <Data ss:Type="String">Oxygen levels normal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oxygen levels normal.</Data>
+          <Data ss:Type="String">Рівень кисню в нормі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -453,7 +675,13 @@
           <Data ss:Type="String">Data Vault DVM-3 airlock sealed. Pressure nominal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Data Vault DVM-3 airlock sealed. Pressure nominal.</Data>
+          <Data ss:Type="String">Сховище даних МЗД-3 зачинено. Тиск у нормі</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -464,7 +692,13 @@
           <Data ss:Type="String">Emergency seal engaged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Emergency seal engaged.</Data>
+          <Data ss:Type="String">Аварійна герметизація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -475,7 +709,13 @@
           <Data ss:Type="String">DVM undocking procedure initiated.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">DVM undocking procedure initiated.</Data>
+          <Data ss:Type="String">Почалося відстикування модуля зберігання даних.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -486,7 +726,13 @@
           <Data ss:Type="String">Module release in...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Module release in...</Data>
+          <Data ss:Type="String">Модуль відстикується через…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -497,7 +743,13 @@
           <Data ss:Type="String">Requesting new operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Requesting new operator.</Data>
+          <Data ss:Type="String">Запит нового оператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -508,7 +760,13 @@
           <Data ss:Type="String">N-CN9 Blackbox Operator ready to deploy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">N-CN9 Blackbox Operator ready to deploy.</Data>
+          <Data ss:Type="String">Оператор класу N-CN9 «Блекбокс» готовий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -519,7 +777,13 @@
           <Data ss:Type="String">Please stand clear of aperture.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please stand clear of aperture.</Data>
+          <Data ss:Type="String">Не зачепіть проєм.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -530,7 +794,13 @@
           <Data ss:Type="String">Voice identification required.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Voice identification required.</Data>
+          <Data ss:Type="String">Потрібна голосова ідентифікація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -541,7 +811,13 @@
           <Data ss:Type="String">Please repeat the following words:</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please repeat the following words:</Data>
+          <Data ss:Type="String">Повторіть наступні слова:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -549,10 +825,16 @@
           <Data ss:Type="String">BDDB548E56CC8810</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar "Kobold" 410 engineering class operator ready to deploy.</Data>
+          <Data ss:Type="String">TranStar &quot;Kobold&quot; 410 engineering class operator ready to deploy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar "Kobold" 410 engineering class operator ready to deploy.</Data>
+          <Data ss:Type="String">Оператор-інженер «Транстар» класу «Кобольд-410» готовий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -560,10 +842,16 @@
           <Data ss:Type="String">BDDB548E56CC881F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar "Sybil" 495 science class operator ready to deploy.</Data>
+          <Data ss:Type="String">TranStar &quot;Sybil&quot; 495 science class operator ready to deploy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar "Sybil" 495 science class operator ready to deploy.</Data>
+          <Data ss:Type="String">Науковий оператор «Сибілла-495» готовий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -571,10 +859,16 @@
           <Data ss:Type="String">BDDB548E56CC88E7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar "Pyramid" 490 medical class operator ready to deploy.</Data>
+          <Data ss:Type="String">TranStar &quot;Pyramid&quot; 490 medical class operator ready to deploy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar "Pyramid" 490 medical class operator ready to deploy.</Data>
+          <Data ss:Type="String">Медоператор «Транстар» класу «Піраміда-490» готовий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -585,7 +879,13 @@
           <Data ss:Type="String">(Alarm Beep) Obstruction detected. Please clear aperture of debris.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Alarm Beep) Obstruction detected. Please clear aperture of debris.</Data>
+          <Data ss:Type="String">Виявлено перешкоду. Розчистіть уламки.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -596,7 +896,13 @@
           <Data ss:Type="String">Aperture cleared. Operator deployment resuming.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Aperture cleared. Operator deployment resuming.</Data>
+          <Data ss:Type="String">Проєм чистий. Видачу операторів відновлено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -604,12 +910,16 @@
           <Data ss:Type="String">BDDB548E56CCC072</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychoscope user mismatch. Please calibrate your scope before
-            entering examination area.</Data>
+          <Data ss:Type="String">Psychoscope user mismatch. Please calibrate your scope before entering examination area.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychoscope user mismatch. Please calibrate your scope before
-            entering examination area.</Data>
+          <Data ss:Type="String">Новий користувач психоскопа. Відкалібруйте психоскоп перед входом в оглядову зону.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -617,12 +927,16 @@
           <Data ss:Type="String">BDDB548E56CCC07B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychoscope error. Please recalibrate before entering examination
-            area.</Data>
+          <Data ss:Type="String">Psychoscope error. Please recalibrate before entering examination area.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychoscope error. Please recalibrate before entering examination
-            area.</Data>
+          <Data ss:Type="String">Помилка психоскопа. Відкалібруйте його перед входом в оглядову зону.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -633,7 +947,13 @@
           <Data ss:Type="String">Voice recognized. Access granted.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Voice recognized. Access granted.</Data>
+          <Data ss:Type="String">Голос розпізнано. Доступ дозволено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -644,7 +964,13 @@
           <Data ss:Type="String">Access denied. Voice not recognized.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Access denied. Voice not recognized.</Data>
+          <Data ss:Type="String">У доступі відмовлено. Голос не розпізнано.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -655,7 +981,13 @@
           <Data ss:Type="String">Sealing control room.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sealing control room.</Data>
+          <Data ss:Type="String">Герметизую центр керування.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -666,7 +998,13 @@
           <Data ss:Type="String">Director level override. Lockdown engaged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Director level override. Lockdown engaged.</Data>
+          <Data ss:Type="String">Перехоплення керування на рівні директора. Замки блоковано.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -677,7 +1015,13 @@
           <Data ss:Type="String">Artax propulsion system required for EVA.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Artax propulsion system required for EVA.</Data>
+          <Data ss:Type="String">Для виходу в космос необхідна рухова установка «Артакс».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -688,7 +1032,13 @@
           <Data ss:Type="String">Please contact engineering in the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please contact engineering in the Hardware Labs.</Data>
+          <Data ss:Type="String">Зверніться до інженерів з апаратної лабораторії.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -699,7 +1049,13 @@
           <Data ss:Type="String">Harmonica.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Harmonica.</Data>
+          <Data ss:Type="String">Гармоніка.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -710,7 +1066,13 @@
           <Data ss:Type="String">Gravity.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Gravity.</Data>
+          <Data ss:Type="String">Гравітація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -721,7 +1083,13 @@
           <Data ss:Type="String">Chameleon.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Chameleon.</Data>
+          <Data ss:Type="String">Хамелеон.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -732,7 +1100,13 @@
           <Data ss:Type="String">Bovine.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bovine.</Data>
+          <Data ss:Type="String">Бичачий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -743,7 +1117,13 @@
           <Data ss:Type="String">Perspective.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Perspective.</Data>
+          <Data ss:Type="String">Перспектива.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -754,7 +1134,13 @@
           <Data ss:Type="String">Chasm.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Chasm.</Data>
+          <Data ss:Type="String">Безодня.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -765,7 +1151,13 @@
           <Data ss:Type="String">Fortitude.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Fortitude.</Data>
+          <Data ss:Type="String">Стійкість.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -776,7 +1168,13 @@
           <Data ss:Type="String">Doctrine.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Doctrine.</Data>
+          <Data ss:Type="String">Доктрина.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -787,7 +1185,13 @@
           <Data ss:Type="String">Corkscrew.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Corkscrew.</Data>
+          <Data ss:Type="String">Штопор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -798,7 +1202,13 @@
           <Data ss:Type="String">Auspicious.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Auspicious.</Data>
+          <Data ss:Type="String">Сприятливий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -809,7 +1219,13 @@
           <Data ss:Type="String">Rendezvous.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rendezvous.</Data>
+          <Data ss:Type="String">Побачення.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -820,7 +1236,13 @@
           <Data ss:Type="String">Laconic.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Laconic.</Data>
+          <Data ss:Type="String">Лаконічний.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -831,7 +1253,13 @@
           <Data ss:Type="String">Entropy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Entropy.</Data>
+          <Data ss:Type="String">Ентропія.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -842,7 +1270,13 @@
           <Data ss:Type="String">Antipathy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Antipathy.</Data>
+          <Data ss:Type="String">Антипатія.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -853,7 +1287,13 @@
           <Data ss:Type="String">Proclivity.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Proclivity.</Data>
+          <Data ss:Type="String">Схильність.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -864,7 +1304,13 @@
           <Data ss:Type="String">Pencil.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Pencil.</Data>
+          <Data ss:Type="String">Олівець.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -875,7 +1321,13 @@
           <Data ss:Type="String">Mauve.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mauve.</Data>
+          <Data ss:Type="String">Ліловий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -886,7 +1338,13 @@
           <Data ss:Type="String">Erroneous.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Erroneous.</Data>
+          <Data ss:Type="String">Помилковий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -897,7 +1355,13 @@
           <Data ss:Type="String">Malicious.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Malicious.</Data>
+          <Data ss:Type="String">Зловмисний.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -908,7 +1372,13 @@
           <Data ss:Type="String">Speculation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Speculation.</Data>
+          <Data ss:Type="String">Спекуляція.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
