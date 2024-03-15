@@ -26,10 +26,16 @@
           <Data ss:Type="String">3C5D528955D3AE61</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We've had enemy contact. But the enemy... they're...</Data>
+          <Data ss:Type="String">We&apos;ve had enemy contact. But the enemy... they&apos;re...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We've had enemy contact. But the enemy... they're...</Data>
+          <Data ss:Type="String">Візуальний контакт із ворогом. Але ворог... він...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -37,10 +43,16 @@
           <Data ss:Type="String">3C5D528955D3AE98</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I couldn't, Chief, I couldn't let those people...</Data>
+          <Data ss:Type="String">I couldn&apos;t, Chief, I couldn&apos;t let those people...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I couldn't, Chief, I couldn't let those people...</Data>
+          <Data ss:Type="String">Я не могла, шеф. Не могла допустити, щоб ці люди...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -48,12 +60,16 @@
           <Data ss:Type="String">3C5D528955D3AEC2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Negative... the escape pods are malfunctioning, it's like they're
-            locked in place. Only four of us made it to Life Support...</Data>
+          <Data ss:Type="String">Negative... the escape pods are malfunctioning, it&apos;s like they&apos;re locked in place. Only four of us made it to Life Support...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Negative... the escape pods are malfunctioning, it's like they're
-            locked in place. Only four of us made it to Life Support...</Data>
+          <Data ss:Type="String">Ні... Капсули несправні. Здається, їх заблокували. Тільки четверо з нас прорвалися у відсік життєзабезпечення...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -61,12 +77,16 @@
           <Data ss:Type="String">3C5D528955D3AED6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Negative, Remmer - Remmer isn't Remmer, Chief. These things...
-            Chief, the main lift - it isn't working - we're locked out.</Data>
+          <Data ss:Type="String">Negative, Remmer - Remmer isn&apos;t Remmer, Chief. These things... Chief, the main lift - it isn&apos;t working - we&apos;re locked out.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Negative, Remmer - Remmer isn't Remmer, Chief. These things...
-            Chief, the main lift - it isn't working - we're locked out.</Data>
+          <Data ss:Type="String">Ні. Реммер — це не Реммер, шеф. Ці тварюки... Шеф, головний ліфт... він не працює... ми в пастці.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -74,143 +94,16 @@
           <Data ss:Type="String">3C5D528955D3AEE9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh my god. Remmer. Remmer's here. Stay away, stay away-</Data>
+          <Data ss:Type="String">Oh my god. Remmer. Remmer&apos;s here. Stay away, stay away-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh my god. Remmer. Remmer's here. Stay away, stay away-</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55DB49D7</Data>
+          <Data ss:Type="String">О боже. Реммер. Тут Реммер. Назад! Назад!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Yu? Morgan? This is Emmanuella. Please... be careful.</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Yu? Morgan? This is Emmanuella. Please... be careful.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55DB4DA6</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">No, it's what it looks like. Frank is a piece of shit. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">No, it's what it looks like. Frank is a piece of shit. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55DB4EAA</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan, please. I'm begging you.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan, please. I'm begging you.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55DB4EF7</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Thanks, Morgan. Means a lot to me that you did all that... despite
-            Frank.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Thanks, Morgan. Means a lot to me that you did all that... despite
-            Frank.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55DB4FB5</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oh, thank God. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oh, thank God. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E564DD415</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">On my way where?</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">On my way where?</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E564DD4B2</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Listen, it's really sweet that you're worried about me, but we've
-            had alerts before and I've got three more of these glorified vacuum cleaners to fix
-            before my shift is over.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Listen, it's really sweet that you're worried about me, but we've
-            had alerts before and I've got three more of these glorified vacuum cleaners to fix
-            before my shift is over.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E564DD7EF</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oh... make that four. Somebody dropped off another. God these
-            things are junk.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oh... make that four. Somebody dropped off another. God these
-            things are junk.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">C04D87DD5665DDD7</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I- I got an SOS from a Kirk Remmer? I was going to route him to
-            security but we got cut off. He said he was at the escape pods in Life Support?</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I- I got an SOS from a Kirk Remmer? I was going to route him to
-            security but we got cut off. He said he was at the escape pods in Life Support?</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">C04D87DD5665DF3D</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">You're his supervisor...</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">You're his supervisor...</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">C04D87DD5665DFED</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I'm sorry. I don't know. But I can relay your message to Dr.
-            DeVries and-</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I'm sorry. I don't know. But I can relay your message to Dr.
-            DeVries and-</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -221,7 +114,13 @@
           <Data ss:Type="String">Everything go well?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Everything go well?</Data>
+          <Data ss:Type="String">Все вдалося?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -229,10 +128,16 @@
           <Data ss:Type="String">3C5D5289566A0D00</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">So, it's off Talos? My clients are eager.</Data>
+          <Data ss:Type="String">So, it&apos;s off Talos? My clients are eager.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">So, it's off Talos? My clients are eager.</Data>
+          <Data ss:Type="String">Так його вивезли з «Талоса»? Мої клієнти чекають.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -240,12 +145,16 @@
           <Data ss:Type="String">3C5D5289566A0DC9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Good. I'll be leaving another package for you after tomorrow's
-            shift. </Data>
+          <Data ss:Type="String">Good. I&apos;ll be leaving another package for you after tomorrow&apos;s shift. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Good. I'll be leaving another package for you after tomorrow's
-            shift. </Data>
+          <Data ss:Type="String">Добре. Я залишу для вас новий подарунок після завтрашньої зміни. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -256,62 +165,13 @@
           <Data ss:Type="String">The Lobby. Assuming it works?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Lobby. Assuming it works?</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BB693BC568D93F7</Data>
+          <Data ss:Type="String">У холі. Гадаю, все працює?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Distressed Breathing Sounds)</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">(Distressed Breathing Sounds)</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BB693BC568D9431</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Please. Don't. Come.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Please. Don't. Come.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BB693BC568D9557</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Please. No- Not.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Please. No- Not.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BB693BC568D9593</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Safe.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Safe.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BB693BC568D95B6</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">It's - not me. It's not - I won't. I won't do it. You can't-</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">It's - not me. It's not - I won't. I won't do it. You can't-</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -319,47 +179,16 @@
           <Data ss:Type="String">3C5D5289568EDBDE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're adorable when you get proud of your gadgets.</Data>
+          <Data ss:Type="String">You&apos;re adorable when you get proud of your gadgets.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're adorable when you get proud of your gadgets.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56BF5DFB</Data>
+          <Data ss:Type="String">Ви такий милий, коли пишаєтеся своїми пристроями.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But please... don't punish me because of him. I just want to go
-            home. Please, Morgan. </Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But please... don't punish me because of him. I just want to go
-            home. Please, Morgan. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56BF5E7A</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I'm transmitting the location of something that could help... I
-            couldn't get it off the station, but maybe it can help you.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">I'm transmitting the location of something that could help... I
-            couldn't get it off the station, but maybe it can help you.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56BF5EB7</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan, would you please take the hatch off so I can go home?</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Morgan, would you please take the hatch off so I can go home?</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -370,7 +199,13 @@
           <Data ss:Type="String">If only I had reached the power supply in time...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If only I had reached the power supply in time...</Data>
+          <Data ss:Type="String">Якби я встигла дістатися до джерела енергії…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -378,12 +213,16 @@
           <Data ss:Type="String">3C5D528956CE0A96</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If only I could have put out the fire. It's contained but... I
-            could have done more.</Data>
+          <Data ss:Type="String">If only I could have put out the fire. It&apos;s contained but... I could have done more.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If only I could have put out the fire. It's contained but... I
-            could have done more.</Data>
+          <Data ss:Type="String">Якби я зуміла загасити пожежу... Я зупинила її поширення... Але могла зробити більше.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -394,7 +233,13 @@
           <Data ss:Type="String">How did this all happen?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">How did this all happen?</Data>
+          <Data ss:Type="String">Як усе це сталося?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -402,12 +247,16 @@
           <Data ss:Type="String">3C5D528956CE0AC2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan, I heard you put out the fire. That was... that was very
-            brave. Thank you, I wish I'd been able to, but those creatures...</Data>
+          <Data ss:Type="String">Morgan, I heard you put out the fire. That was... that was very brave. Thank you, I wish I&apos;d been able to, but those creatures...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan, I heard you put out the fire. That was... that was very
-            brave. Thank you, I wish I'd been able to, but those creatures...</Data>
+          <Data ss:Type="String">Кажуть, ви загасили пожежу. Це… сміливий вчинок. Дякую. Я сама хотіла це зробити, але ці істоти…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -415,12 +264,16 @@
           <Data ss:Type="String">3C5D528956CE0AD2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The fire kept me from reaching the power supply, but now that
-            you've put out the fire, we have a chance. </Data>
+          <Data ss:Type="String">The fire kept me from reaching the power supply, but now that you&apos;ve put out the fire, we have a chance. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The fire kept me from reaching the power supply, but now that
-            you've put out the fire, we have a chance. </Data>
+          <Data ss:Type="String">Пожежа не дала мені дістатися до енергомережі, але ви її загасили, і тепер у нас є шанс. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -428,10 +281,16 @@
           <Data ss:Type="String">3C5D528956CE0ADE</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You restored the power - I don't know how you did it, but... </Data>
+          <Data ss:Type="String">You restored the power - I don&apos;t know how you did it, but... </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You restored the power - I don't know how you did it, but... </Data>
+          <Data ss:Type="String">Подачу енергії відновлено… Не знаю, як ви це зробили, але… </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -439,12 +298,16 @@
           <Data ss:Type="String">3C5D528956CE0AEC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wish I could have been more help. I tried to restore the power,
-            but the fire was too much before Al - Officer Rose - pulled me out of there.</Data>
+          <Data ss:Type="String">I wish I could have been more help. I tried to restore the power, but the fire was too much before Al - Officer Rose - pulled me out of there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wish I could have been more help. I tried to restore the power,
-            but the fire was too much before Al - Officer Rose - pulled me out of there.</Data>
+          <Data ss:Type="String">Я намагалася відновити енергопостачання, але пожежа була занадто сильною. А потім Ел — офіцер Роуз — витягнув мене звідти.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -452,12 +315,16 @@
           <Data ss:Type="String">3C5D528956CE0CF4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan? I thought... I don't know what I thought. It's good to see
-            you - is TranStar mounting a rescue operation?</Data>
+          <Data ss:Type="String">Morgan? I thought... I don&apos;t know what I thought. It&apos;s good to see you - is TranStar mounting a rescue operation?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Morgan? I thought... I don't know what I thought. It's good to see
-            you - is TranStar mounting a rescue operation?</Data>
+          <Data ss:Type="String">Морган? Я думала… Не знаю, що я думала. Рада вас бачити… «Транстар» организує рятувальну операцію?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -465,12 +332,16 @@
           <Data ss:Type="String">3C5D528956CE0D0B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I was in Fuel Storage when... when the fire broke out and everyone
-            began running. But they weren't running from the fire, it was... these shapes.</Data>
+          <Data ss:Type="String">I was in Fuel Storage when... when the fire broke out and everyone began running. But they weren&apos;t running from the fire, it was... these shapes.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I was in Fuel Storage when... when the fire broke out and everyone
-            began running. But they weren't running from the fire, it was... these shapes.</Data>
+          <Data ss:Type="String">Я була в паливному сховищі… і тут почалася пожежа, і всі забігали. Але вони бігли не від вогню. Там були… ці силуети.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -478,14 +349,16 @@
           <Data ss:Type="String">3C5D528956CE0D16</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I had contained the fire, and I was trying to reach the power
-            supply when Al... Officer Rose... came and got me out - I'm glad he did, I didn't know
-            what was going on - or anything about those things.</Data>
+          <Data ss:Type="String">I had contained the fire, and I was trying to reach the power supply when Al... Officer Rose... came and got me out - I&apos;m glad he did, I didn&apos;t know what was going on - or anything about those things.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I had contained the fire, and I was trying to reach the power
-            supply when Al... Officer Rose... came and got me out - I'm glad he did, I didn't know
-            what was going on - or anything about those things.</Data>
+          <Data ss:Type="String">Я зупинила вогонь і намагалася дістатися електромережі, коли Ел... офіцер Роуз... витягнув мене... Я рада, що він це зробив. Я не знала, що відбувається, — і про цих тварюк теж не знала.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -493,10 +366,16 @@
           <Data ss:Type="String">3C5D528956CE0D22</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Everyone I worked with - they're dead, aren't they? </Data>
+          <Data ss:Type="String">Everyone I worked with - they&apos;re dead, aren&apos;t they? </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Everyone I worked with - they're dead, aren't they? </Data>
+          <Data ss:Type="String">Усі мої колеги… загинули, так? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -504,12 +383,16 @@
           <Data ss:Type="String">3C5D528956CE0D2B</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wonder if one of the creatures caused the explosion in fuel
-            storage - are they intelligent? Did they plan this?</Data>
+          <Data ss:Type="String">I wonder if one of the creatures caused the explosion in fuel storage - are they intelligent? Did they plan this?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wonder if one of the creatures caused the explosion in fuel
-            storage - are they intelligent? Did they plan this?</Data>
+          <Data ss:Type="String">Може, вибух на складі палива влаштувала одна з цих істот? Вони розумні? Вони це спланували?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -517,12 +400,16 @@
           <Data ss:Type="String">3C5D528956CE0D36</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I heard all the escape pods... malfunctioned? All of them - how is
-            that possible? </Data>
+          <Data ss:Type="String">I heard all the escape pods... malfunctioned? All of them - how is that possible? </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I heard all the escape pods... malfunctioned? All of them - how is
-            that possible? </Data>
+          <Data ss:Type="String">Кажуть, рятувальні капсули… не спрацювали? Усі? Як це могло статися? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -533,7 +420,13 @@
           <Data ss:Type="String">I... I thought we were dead for sure.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I... I thought we were dead for sure.</Data>
+          <Data ss:Type="String">Я… Я думала, що ми помремо.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -541,10 +434,16 @@
           <Data ss:Type="String">3C5D528956CE0F5A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll be all right. Just need a moment.</Data>
+          <Data ss:Type="String">I&apos;ll be all right. Just need a moment.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll be all right. Just need a moment.</Data>
+          <Data ss:Type="String">Я в порядку. Просто потрібно віддихатися.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -552,10 +451,16 @@
           <Data ss:Type="String">3C5D528956CE0F65</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Still a bit rattled... but we're alive, that's the important thing.</Data>
+          <Data ss:Type="String">Still a bit rattled... but we&apos;re alive, that&apos;s the important thing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Still a bit rattled... but we're alive, that's the important thing.</Data>
+          <Data ss:Type="String">Все ще трохи налякана… Але ми живі, а це головне.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -563,10 +468,16 @@
           <Data ss:Type="String">3C5D528956CE0FA0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't think this is a good idea.</Data>
+          <Data ss:Type="String">I don&apos;t think this is a good idea.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't think this is a good idea.</Data>
+          <Data ss:Type="String">Це не дуже гарна думка.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -577,7 +488,13 @@
           <Data ss:Type="String">There must be some other way. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There must be some other way. </Data>
+          <Data ss:Type="String">Має бути інший спосіб. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -585,10 +502,16 @@
           <Data ss:Type="String">3C5D528956CE0FC9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We don't know how many of those things are out there.</Data>
+          <Data ss:Type="String">We don&apos;t know how many of those things are out there.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We don't know how many of those things are out there.</Data>
+          <Data ss:Type="String">Ми не знаємо, скільки тут цих істот.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -599,7 +522,13 @@
           <Data ss:Type="String">Too many people... too much death. How did this all happen?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Too many people... too much death. How did this all happen?</Data>
+          <Data ss:Type="String">Стільки людей… Стільки загиблих. Як це сталося?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -607,10 +536,16 @@
           <Data ss:Type="String">3C5D528956CE10A2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No one deserved this. They didn't deserve this.</Data>
+          <Data ss:Type="String">No one deserved this. They didn&apos;t deserve this.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No one deserved this. They didn't deserve this.</Data>
+          <Data ss:Type="String">Ніхто не заслужив такого. Вони на таке не заслужили.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -618,12 +553,16 @@
           <Data ss:Type="String">3C5D528956CE11B6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Al... he saved my life in Fuel Storage. Without him, I wouldn't be
-            alive. Now...</Data>
+          <Data ss:Type="String">Al... he saved my life in Fuel Storage. Without him, I wouldn&apos;t be alive. Now...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Al... he saved my life in Fuel Storage. Without him, I wouldn't be
-            alive. Now...</Data>
+          <Data ss:Type="String">Ел… Він врятував мене у сховищі палива. Якби не він, я б загинула. А тепер…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -634,7 +573,13 @@
           <Data ss:Type="String">Is it over? Are there any more? </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Is it over? Are there any more? </Data>
+          <Data ss:Type="String">Усе скінчено? Хтось ще залишився? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -645,7 +590,13 @@
           <Data ss:Type="String">Oh my god! Look out!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh my god! Look out!</Data>
+          <Data ss:Type="String">О боже! Стережіться!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -653,12 +604,16 @@
           <Data ss:Type="String">3C5D528956CE265A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Why would your brother seal the lifts in the first place? To keep
-            us locked down here?</Data>
+          <Data ss:Type="String">Why would your brother seal the lifts in the first place? To keep us locked down here?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Why would your brother seal the lifts in the first place? To keep
-            us locked down here?</Data>
+          <Data ss:Type="String">Навіщо ваш брат узагалі заблокував ліфти? Щоб замкнути нас тут?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -666,12 +621,16 @@
           <Data ss:Type="String">3C5D528956CE2665</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Maybe there are other survivors. Now that you got the lift working,
-            maybe we can escape. </Data>
+          <Data ss:Type="String">Maybe there are other survivors. Now that you got the lift working, maybe we can escape. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Maybe there are other survivors. Now that you got the lift working,
-            maybe we can escape. </Data>
+          <Data ss:Type="String">Може, хтось ще вижив. І тепер, коли ліфти працюють, ми зможемо врятуватися. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -679,10 +638,16 @@
           <Data ss:Type="String">3C5D528956CE2742</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They've gotten inside!</Data>
+          <Data ss:Type="String">They&apos;ve gotten inside!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They've gotten inside!</Data>
+          <Data ss:Type="String">Вони проникли всередину!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -690,10 +655,16 @@
           <Data ss:Type="String">3C5D528956CE274C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's one of the Typhon!</Data>
+          <Data ss:Type="String">It&apos;s one of the Typhon!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's one of the Typhon!</Data>
+          <Data ss:Type="String">Це тифон!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -701,10 +672,16 @@
           <Data ss:Type="String">3C5D528956CE2757</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They've gotten Dr. Yu!</Data>
+          <Data ss:Type="String">They&apos;ve gotten Dr. Yu!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They've gotten Dr. Yu!</Data>
+          <Data ss:Type="String">Вони заволоділи доктором Ю!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -715,7 +692,13 @@
           <Data ss:Type="String">TranStar - they sent Dahl to kill us. They want to cover this up.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">TranStar - they sent Dahl to kill us. They want to cover this up.</Data>
+          <Data ss:Type="String">«Транстар»… Вони доручили Далю вбити нас. Вони хочуть усе приховати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -723,12 +706,16 @@
           <Data ss:Type="String">3C5D528956CE27A9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Why is Commander Dahl after you? Your father... he's on the
-            TranStar Board of Directors. Why arrest his own children? </Data>
+          <Data ss:Type="String">Why is Commander Dahl after you? Your father... he&apos;s on the TranStar Board of Directors. Why arrest his own children? </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Why is Commander Dahl after you? Your father... he's on the
-            TranStar Board of Directors. Why arrest his own children? </Data>
+          <Data ss:Type="String">Почему Даль вас преследует? Ваш отец… Він у раді директорів «Транстар». Навіщо заарештовувати своїх дітей? </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -736,12 +723,16 @@
           <Data ss:Type="String">3C5D528956CE2981</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I heard Commander Dahl's announcement - why would TranStar send
-            him? Something feels wrong.</Data>
+          <Data ss:Type="String">I heard Commander Dahl&apos;s announcement - why would TranStar send him? Something feels wrong.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I heard Commander Dahl's announcement - why would TranStar send
-            him? Something feels wrong.</Data>
+          <Data ss:Type="String">Я чула оголошення Даля. Навіщо «Транстар» його надіслав? Тут щось не так.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -749,12 +740,16 @@
           <Data ss:Type="String">3C5D528956CE2B53</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you for saving us, Morgan - I thought the creatures were bad
-            - now I know TranStar's even worse.</Data>
+          <Data ss:Type="String">Thank you for saving us, Morgan - I thought the creatures were bad - now I know TranStar&apos;s even worse.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you for saving us, Morgan - I thought the creatures were bad
-            - now I know TranStar's even worse.</Data>
+          <Data ss:Type="String">Дякую, що врятували нас, Морган. Я думала, що ці істоти злі… Але «Транстар» ще гірше.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -762,12 +757,16 @@
           <Data ss:Type="String">3C5D528956CE2B62</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That coward didn't even have the balls for a stand-up fight. Excuse
-            my French.</Data>
+          <Data ss:Type="String">That coward didn&apos;t even have the balls for a stand-up fight. Excuse my French.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That coward didn't even have the balls for a stand-up fight. Excuse
-            my French.</Data>
+          <Data ss:Type="String">У цього боягуза навіть яєць не вистачило на чесну бійку. Прошу вибачення за грубість.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -775,12 +774,16 @@
           <Data ss:Type="String">3C5D528956CE3386</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'd pay my respects to Commander Dahl, if I had any respect for him
-            in the first place.</Data>
+          <Data ss:Type="String">I&apos;d pay my respects to Commander Dahl, if I had any respect for him in the first place.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'd pay my respects to Commander Dahl, if I had any respect for him
-            in the first place.</Data>
+          <Data ss:Type="String">Я б виявила свою повагу Далю, якби хоч трохи його поважала.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -788,12 +791,16 @@
           <Data ss:Type="String">3C5D528956CE340C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I heard you were able to reach Chief Ilyushin - if anyone can get
-            this station back in order, it's her. </Data>
+          <Data ss:Type="String">I heard you were able to reach Chief Ilyushin - if anyone can get this station back in order, it&apos;s her. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I heard you were able to reach Chief Ilyushin - if anyone can get
-            this station back in order, it's her. </Data>
+          <Data ss:Type="String">Кажуть, ви дісталися до Ільюшиної. Якщо хто і може привести станцію до ладу, то це вона. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -801,12 +808,16 @@
           <Data ss:Type="String">3C5D528956CE3454</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rani told us what happened in the Arboretum - is anywhere on the
-            station safe?</Data>
+          <Data ss:Type="String">Rani told us what happened in the Arboretum - is anywhere on the station safe?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rani told us what happened in the Arboretum - is anywhere on the
-            station safe?</Data>
+          <Data ss:Type="String">Рані розповіла про те, що сталося в дендрарії. Отже, ховатися ніде?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -817,7 +828,13 @@
           <Data ss:Type="String">With the escape pods useless... we have to fight.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">With the escape pods useless... we have to fight.</Data>
+          <Data ss:Type="String">Раз рятувальні капсули непридатні… Доведеться битися.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -825,12 +842,16 @@
           <Data ss:Type="String">3C5D528956CE3797</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If we can't escape the station, then we need to contain the
-            creatures - somehow.</Data>
+          <Data ss:Type="String">If we can&apos;t escape the station, then we need to contain the creatures - somehow.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If we can't escape the station, then we need to contain the
-            creatures - somehow.</Data>
+          <Data ss:Type="String">Якщо ми не можемо втекти зі станції, потрібно якимось чином ізолювати цих істот.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -838,12 +859,16 @@
           <Data ss:Type="String">3C5D528956CE37A3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The creatures can't be allowed to leave the station. If they do...
-            the thought of even one of them on Earth - it... we can't let it happen. </Data>
+          <Data ss:Type="String">The creatures can&apos;t be allowed to leave the station. If they do... the thought of even one of them on Earth - it... we can&apos;t let it happen. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The creatures can't be allowed to leave the station. If they do...
-            the thought of even one of them on Earth - it... we can't let it happen. </Data>
+          <Data ss:Type="String">Ці істоти не повинні покинути станцію. Інакше… Якщо хоч одне з них потрапить на Землю… Ми мусимо цього не допустити. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -851,10 +876,16 @@
           <Data ss:Type="String">3C5D528956CE37AD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If we can't leave, neither will they. </Data>
+          <Data ss:Type="String">If we can&apos;t leave, neither will they. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If we can't leave, neither will they. </Data>
+          <Data ss:Type="String">Якщо ми не можемо піти, то й вони теж. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -865,7 +896,13 @@
           <Data ss:Type="String">I am, Officer Rose. Thank you. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I am, Officer Rose. Thank you. </Data>
+          <Data ss:Type="String">Так, офіцер Роуз. Дякую. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -876,7 +913,13 @@
           <Data ss:Type="String">No... you pulled me out just in time... Al.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No... you pulled me out just in time... Al.</Data>
+          <Data ss:Type="String">Ні… Ви вчасно мене витягли… Ел.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -884,10 +927,16 @@
           <Data ss:Type="String">3C5D528956CF7DA1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll try and let you know before I do it again.</Data>
+          <Data ss:Type="String">I&apos;ll try and let you know before I do it again.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll try and let you know before I do it again.</Data>
+          <Data ss:Type="String">Наступного разу я вас спершу попереджу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -898,7 +947,13 @@
           <Data ss:Type="String">Thank you, Al.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you, Al.</Data>
+          <Data ss:Type="String">Дякую, Ел.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -906,10 +961,16 @@
           <Data ss:Type="String">3C5D528956CF7E6C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The what? I don't understand.</Data>
+          <Data ss:Type="String">The what? I don&apos;t understand.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The what? I don't understand.</Data>
+          <Data ss:Type="String">Стрій? Ви про що?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -920,7 +981,13 @@
           <Data ss:Type="String">Oh. I am, Officer Rose - Al. Thank you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Oh. I am, Officer Rose - Al. Thank you.</Data>
+          <Data ss:Type="String">А. Так, офіцер Роуз… Ел. Дякую.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -931,7 +998,13 @@
           <Data ss:Type="String">Yes, it feels like years.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Yes, it feels like years.</Data>
+          <Data ss:Type="String">Мабуть, років сто.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -939,10 +1012,16 @@
           <Data ss:Type="String">3C5D528956E1ECBF</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The officers collected those supplies. They're not for you.</Data>
+          <Data ss:Type="String">The officers collected those supplies. They&apos;re not for you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The officers collected those supplies. They're not for you.</Data>
+          <Data ss:Type="String">Ці припаси зібрали офіцери. Вони не для вас.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -953,7 +1032,13 @@
           <Data ss:Type="String">That food is being rationed. Who knows how long we will be here?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">That food is being rationed. Who knows how long we will be here?</Data>
+          <Data ss:Type="String">Ми ділимо їжу на всіх. Хто знає, скільки ми тут пробудемо?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -964,7 +1049,13 @@
           <Data ss:Type="String">Other people may be hungry.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Other people may be hungry.</Data>
+          <Data ss:Type="String">Можливо, інші люди голодують.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -975,7 +1066,285 @@
           <Data ss:Type="String">Are you going to take everything?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Are you going to take everything?</Data>
+          <Data ss:Type="String">Ви все заберете?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3C5D5289577FD618</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The Medical Operator was able to heal me, but the others fighting the fire were already... dead.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Медоператор вилікував мене, але інші, хто боровся з пожежею, були вже... мертві.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC568D9431</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please. Don&apos;t. Come.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Будь ласка. Не приходьте.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC568D9557</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Please. No- Not.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Прошу вас... Це... Не...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC568D9593</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Safe.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Безпечно...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC568D95B6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It&apos;s - not me. It&apos;s not - I won&apos;t. I won&apos;t do it. You can&apos;t-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Це… не я. Це не… Я не буду. Не буду цього робити. Ти не…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55DB49D7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Dr. Yu? Morgan? This is Emmanuella. Please... be careful.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Доктор Ю? Морган? Це Еммануелла. Будьте... уважніше.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55DB4DA6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No, it&apos;s what it looks like. Frank is a piece of shit. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ні, це саме те. Френк — шмат лайна. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55DB4EAA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan, please. I&apos;m begging you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Морган! Я вас благаю!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55DB4EF7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Thanks, Morgan. Means a lot to me that you did all that... despite Frank.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Дякую, Морган. Дякую, що зробили це, незважаючи... незважаючи на Френка.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55DB4FB5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh, thank God. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">О, слава богу. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DD415</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">On my way where?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Іду куди?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DD4B2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Listen, it&apos;s really sweet that you&apos;re worried about me, but we&apos;ve had alerts before and I&apos;ve got three more of these glorified vacuum cleaners to fix before my shift is over.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Слухайте. Дуже мило, що ви про мене турбуєтеся, але тривоги в нас уже бували, а мені до кінця зміни потрібно полагодити ще три чортових пилососи.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E564DD7EF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oh... make that four. Somebody dropped off another. God these things are junk.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ох… Уже чотири. Хтось скинув ще один. Ці штуки — просто мотлох.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BF5DFB</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But please... don&apos;t punish me because of him. I just want to go home. Please, Morgan. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Але прошу вас... Не карайте мене разом із ним! Я просто хочу додому! Будь ласка, Морган! </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BF5E7A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I&apos;m transmitting the location of something that could help... I couldn&apos;t get it off the station, but maybe it can help you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я передаю вам координати однієї корисної речі... Я не змогла вивезти її зі станції, але, може, вона стане в пригоді вам.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BF5EB7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan, would you please take the hatch off so I can go home?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Морган, ви не відкриєте люк, щоб я могла вирушити додому?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -983,12 +1352,16 @@
           <Data ss:Type="String">BDDB548E56E9A83E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hello, Volunteer. My name is Bianca Goodwin. I'm the Volunteer and
-            Guest Liaison aboard Talos I.</Data>
+          <Data ss:Type="String">Hello, Volunteer. My name is Bianca Goodwin. I&apos;m the Volunteer and Guest Liaison aboard Talos I.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hello, Volunteer. My name is Bianca Goodwin. I'm the Volunteer and
-            Guest Liaison aboard Talos I.</Data>
+          <Data ss:Type="String">Доброго дня, доброволець. Мене звати Бьянка Гудвін. Я фахівець зі зв'язків із добровольцями та гостями «Талоса».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -999,7 +1372,13 @@
           <Data ss:Type="String">I wanted to be the first person to congratulate you when you woke.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I wanted to be the first person to congratulate you when you woke.</Data>
+          <Data ss:Type="String">Я хотіла бути першою, хто привітає вас після пробудження.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1010,7 +1389,13 @@
           <Data ss:Type="String">On behalf of everyone at TranStar, well done and thank you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">On behalf of everyone at TranStar, well done and thank you.</Data>
+          <Data ss:Type="String">Від імені всього колективу «Транстар» вітаю і дякую вам.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1018,10 +1403,16 @@
           <Data ss:Type="String">BDDB548E56E9A89A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm sure you feel disoriented.</Data>
+          <Data ss:Type="String">I&apos;m sure you feel disoriented.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm sure you feel disoriented.</Data>
+          <Data ss:Type="String">Напевно, ви трохи розгублені.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1029,12 +1420,16 @@
           <Data ss:Type="String">BDDB548E56E9A8A3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is because you've just experienced a medical procedure known
-            as Apto-Regressive Neurotomy.</Data>
+          <Data ss:Type="String">This is because you&apos;ve just experienced a medical procedure known as Apto-Regressive Neurotomy.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is because you've just experienced a medical procedure known
-            as Apto-Regressive Neurotomy.</Data>
+          <Data ss:Type="String">Це тому, що ви перенесли медичну процедуру під назвою «апто-регресивна нейротомія».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1042,12 +1437,16 @@
           <Data ss:Type="String">BDDB548E56E9A8B4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">For the next few hours you might have trouble with fine motor
-            skills or recalling details.</Data>
+          <Data ss:Type="String">For the next few hours you might have trouble with fine motor skills or recalling details.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">For the next few hours you might have trouble with fine motor
-            skills or recalling details.</Data>
+          <Data ss:Type="String">У найближчі кілька годин у вас можуть бути проблеми з дрібною моторикою і пам'яттю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1058,7 +1457,13 @@
           <Data ss:Type="String">More importantly, your memory of the tests is completely gone.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">More importantly, your memory of the tests is completely gone.</Data>
+          <Data ss:Type="String">Але набагато важливіше, що ваші спогади про тестування повністю зникли.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1066,12 +1471,16 @@
           <Data ss:Type="String">BDDB548E56E9A91F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But, don't worry. I want you to know your willing participation was
-            a big success.</Data>
+          <Data ss:Type="String">But, don&apos;t worry. I want you to know your willing participation was a big success.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">But, don't worry. I want you to know your willing participation was
-            a big success.</Data>
+          <Data ss:Type="String">Не турбуйтеся. Я хочу, щоб ви знали: ваша співпраця була успішною.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1079,12 +1488,16 @@
           <Data ss:Type="String">BDDB548E56E9A92F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's already yielding valuable information for our scientists and
-            engineers.</Data>
+          <Data ss:Type="String">It&apos;s already yielding valuable information for our scientists and engineers.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's already yielding valuable information for our scientists and
-            engineers.</Data>
+          <Data ss:Type="String">Наші вчені та інженери отримали дуже цінну інформацію.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1092,12 +1505,16 @@
           <Data ss:Type="String">BDDB548E56E9ABE5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">So, please, rest easy for now. Once you feel well enough, I'll come
-            by to conduct your exit interview.</Data>
+          <Data ss:Type="String">So, please, rest easy for now. Once you feel well enough, I&apos;ll come by to conduct your exit interview.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">So, please, rest easy for now. Once you feel well enough, I'll come
-            by to conduct your exit interview.</Data>
+          <Data ss:Type="String">Тепер відпочивайте. Коли прийдете до тями, я відведу вас на заключне інтерв'ю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1108,7 +1525,13 @@
           <Data ss:Type="String">See you soon.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">See you soon.</Data>
+          <Data ss:Type="String">До зустрічі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1116,12 +1539,16 @@
           <Data ss:Type="String">BDDB548E56F59F16</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your shift isn't for another two hours, but I need you to come in
-            now.</Data>
+          <Data ss:Type="String">Your shift isn&apos;t for another two hours, but I need you to come in now.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your shift isn't for another two hours, but I need you to come in
-            now.</Data>
+          <Data ss:Type="String">Ваша зміна тільки через дві години, але ви потрібні мені негайно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1129,10 +1556,16 @@
           <Data ss:Type="String">BDDB548E56F59F77</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No. It's not. </Data>
+          <Data ss:Type="String">No. It&apos;s not. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No. It's not. </Data>
+          <Data ss:Type="String">Ні. Не все.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1140,12 +1573,16 @@
           <Data ss:Type="String">BDDB548E56F59F89</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop by my cabin first. Bring the gun from my safe. Transmitting
-            the keycode. </Data>
+          <Data ss:Type="String">Stop by my cabin first. Bring the gun from my safe. Transmitting the keycode. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop by my cabin first. Bring the gun from my safe. Transmitting
-            the keycode. </Data>
+          <Data ss:Type="String">Зайдіть у мою каюту. Дістаньте із сейфа зброю. Передаю код. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1156,7 +1593,13 @@
           <Data ss:Type="String">This is Captain Jada Marks.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is Captain Jada Marks.</Data>
+          <Data ss:Type="String">Це капітан Джада Маркс.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1164,12 +1607,16 @@
           <Data ss:Type="String">BDDB548E56F5A037</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm setting down, for posterity, my deliberation over the fate of
-            the shuttle Advent. </Data>
+          <Data ss:Type="String">I&apos;m setting down, for posterity, my deliberation over the fate of the shuttle Advent. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm setting down, for posterity, my deliberation over the fate of
-            the shuttle Advent. </Data>
+          <Data ss:Type="String">Я записую свої міркування щодо долі шатла «Адвент». </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1177,14 +1624,17 @@
           <Data ss:Type="String">BDDB548E56F5A041</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm unable to determine with confidence if the Advent departed
-            before being contaminated by the life forms presently overwhelming Talos I.
+          <Data ss:Type="String">I&apos;m unable to determine with confidence if the Advent departed before being contaminated by the life forms presently overwhelming Talos I. 
           </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm unable to determine with confidence if the Advent departed
-            before being contaminated by the life forms presently overwhelming Talos I.
-          </Data>
+          <Data ss:Type="String">Я не зможу точно сказати, чи вдалося істотам, які захопили «Талос-1», проникнути на борт «Адвента».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1192,12 +1642,16 @@
           <Data ss:Type="String">BDDB548E56F5A04A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Best guess based on telemetry data - Advent departed approximately
-            thirty minutes prior to the first incident report logged by security.</Data>
+          <Data ss:Type="String">Best guess based on telemetry data - Advent departed approximately thirty minutes prior to the first incident report logged by security.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Best guess based on telemetry data - Advent departed approximately
-            thirty minutes prior to the first incident report logged by security.</Data>
+          <Data ss:Type="String">Я можу судити тільки з телеметрії. «Адвент» стартував приблизно за півгодини до першого випадку, про який повідомила охорона.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1205,12 +1659,16 @@
           <Data ss:Type="String">BDDB548E56F5A054</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thirty minutes. It is within that narrow gap of uncertainty I must
-            decide whether or not to remote detonate the shuttle and its five passengers. </Data>
+          <Data ss:Type="String">Thirty minutes. It is within that narrow gap of uncertainty I must decide whether or not to remote detonate the shuttle and its five passengers.   </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thirty minutes. It is within that narrow gap of uncertainty I must
-            decide whether or not to remote detonate the shuttle and its five passengers. </Data>
+          <Data ss:Type="String">Півгодини. Я маю оцінити цей невеликий інтервал і вирішити, чи слід підірвати шатл і п'ятьох його пасажирів.   </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1218,12 +1676,16 @@
           <Data ss:Type="String">BDDB548E56F5A05C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They may very well be flying a cargo hold full of... mimics to an
-            unsuspecting Earth. They may not.</Data>
+          <Data ss:Type="String">They may very well be flying a cargo hold full of... mimics to an unsuspecting Earth. They may not.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They may very well be flying a cargo hold full of... mimics to an
-            unsuspecting Earth. They may not.</Data>
+          <Data ss:Type="String">Можливо, вони везуть на Землю повний трюм міміків. А може, й ні.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1231,10 +1693,16 @@
           <Data ss:Type="String">BDDB548E56F5A07E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't- (Mimic Sounds)</Data>
+          <Data ss:Type="String">I don&apos;t- (Mimic Sounds)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't- (Mimic Sounds)</Data>
+          <Data ss:Type="String">Я не…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1242,12 +1710,16 @@
           <Data ss:Type="String">BDDB548E56F5A1A1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex, This is Captain Marks. I'm calling to let you know I've
-            authorized a full evacuation of Talos I.</Data>
+          <Data ss:Type="String">Alex, This is Captain Marks. I&apos;m calling to let you know I&apos;ve authorized a full evacuation of Talos I.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alex, This is Captain Marks. I'm calling to let you know I've
-            authorized a full evacuation of Talos I.</Data>
+          <Data ss:Type="String">Алекс, це капітан Маркс. Повідомляю вам про те, що наказала евакуювати всіх із «Талоса-1».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1255,12 +1727,16 @@
           <Data ss:Type="String">BDDB548E56F5A232</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've tried to issue a mayday to earthside operations, but our
-            external communication systems are malfunctioning.</Data>
+          <Data ss:Type="String">I&apos;ve tried to issue a mayday to earthside operations, but our external communication systems are malfunctioning.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've tried to issue a mayday to earthside operations, but our
-            external communication systems are malfunctioning.</Data>
+          <Data ss:Type="String">Я намагалася надіслати сигнал SOS, але система зовнішнього зв'язку не працює.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1268,12 +1744,16 @@
           <Data ss:Type="String">BDDB548E56F5A2ED</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you're still with us... we're keeping our posts until the last
-            pods are safely away.</Data>
+          <Data ss:Type="String">If you&apos;re still with us... we&apos;re keeping our posts until the last pods are safely away.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you're still with us... we're keeping our posts until the last
-            pods are safely away.</Data>
+          <Data ss:Type="String">Якщо ви ще з нами… Ми будемо на посту, поки не підуть останні капсули.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1284,20 +1764,13 @@
           <Data ss:Type="String">Marks out.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Marks out.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">3C5D5289577FD618</Data>
+          <Data ss:Type="String">Маркс, кінець зв'язку.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Medical Operator was able to heal me, but the others fighting
-            the fire were already... dead.</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Medical Operator was able to heal me, but the others fighting
-            the fire were already... dead.</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1305,12 +1778,16 @@
           <Data ss:Type="String">BDDB548E5793C166</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't mean to be a nuisance, but when do you think you'll get to
-            that breach?</Data>
+          <Data ss:Type="String">I don&apos;t mean to be a nuisance, but when do you think you&apos;ll get to that breach?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't mean to be a nuisance, but when do you think you'll get to
-            that breach?</Data>
+          <Data ss:Type="String">Не хочу вам заважати, але — коли ви зможете зайнятися пробоїною?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1321,7 +1798,13 @@
           <Data ss:Type="String">What do you think happened?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">What do you think happened?</Data>
+          <Data ss:Type="String">Як думаєте, що там сталося?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1329,10 +1812,16 @@
           <Data ss:Type="String">BDDB548E5793C1BD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Okay. Good. Hopefully it's just that.</Data>
+          <Data ss:Type="String">Okay. Good. Hopefully it&apos;s just that.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Okay. Good. Hopefully it's just that.</Data>
+          <Data ss:Type="String">Зрозуміло. Добре. Сподіваюся, так і є.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1340,12 +1829,16 @@
           <Data ss:Type="String">BDDB548E5793C1D2</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No, of course not. It's just, that storage room has classified,
-            exotic materials. We really can't have it be inaccessible.</Data>
+          <Data ss:Type="String">No, of course not. It&apos;s just, that storage room has classified, exotic materials. We really can&apos;t have it be inaccessible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No, of course not. It's just, that storage room has classified,
-            exotic materials. We really can't have it be inaccessible.</Data>
+          <Data ss:Type="String">Ні, звісно. Просто на цьому складі лежать засекречені екзотичні матеріали. Нам дуже потрібен доступ до нього.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1353,12 +1846,84 @@
           <Data ss:Type="String">BDDB548E5793C225</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Plus... it makes me nervous when we can't get to the medical
-            operator.</Data>
+          <Data ss:Type="String">Plus... it makes me nervous when we can&apos;t get to the medical operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Plus... it makes me nervous when we can't get to the medical
-            operator.</Data>
+          <Data ss:Type="String">І ще… Я нервую, коли ми не можемо дістатися до медоператора.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C04D87DD5665DDD7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I- I got an SOS from a Kirk Remmer? I was going to route him to security but we got cut off. He said he was at the escape pods in Life Support?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Я… Я отримала SOS від Кірка Реммера. Хотіла переключити його на охорону, але зв'язок перервався. Він сказав, що він біля рятувальних капсул у відсіку життєзабезпечення.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C04D87DD5665DF3D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You&apos;re his supervisor...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Але ви — його начальник…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">C04D87DD5665DFED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I&apos;m sorry. I don&apos;t know. But I can relay your message to Dr. DeVries and-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Вибачте. Я не знаю. Але я можу передати повідомлення доктору Деврісу і…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BB693BC568D93F7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Distressed Breathing Sounds)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>

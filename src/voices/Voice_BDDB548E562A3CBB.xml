@@ -23,90 +23,19 @@
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">BDDB548E56C4F8D1</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[alarm beeping]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[alarm beeping]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C4F8E3</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[alarm beeping]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[alarm beeping]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C4F8FF</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[operator malfunctioning]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[operator malfunctioning]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C4F93A</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[short beep]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[short beep]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C4F959</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[beeping, whirring]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[beeping, whirring]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C4F969</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[beeping, whirring]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[beeping, whirring]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
           <Data ss:Type="String">BDDB548E56C4FA65</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Current conditions do not allow for safe interaction.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Current conditions do not allow for safe interaction.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C5D312</Data>
+          <Data ss:Type="String">Ці умови не допускають безпечної взаємодії.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[beeping, whirring]</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[beeping, whirring]</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -114,12 +43,16 @@
           <Data ss:Type="String">BDDB548E56C5D3CC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm familiar with repair and maintenance procedures for most
-            systems aboard Talos I.</Data>
+          <Data ss:Type="String">I&apos;m familiar with repair and maintenance procedures for most systems aboard Talos I.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm familiar with repair and maintenance procedures for most
-            systems aboard Talos I.</Data>
+          <Data ss:Type="String">Я вмію ремонтувати та обслуговувати більшість систем на борту «Талоса-1».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -130,7 +63,13 @@
           <Data ss:Type="String">Excepting biological ones.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Excepting biological ones.</Data>
+          <Data ss:Type="String">Крім біологічних.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -141,7 +80,13 @@
           <Data ss:Type="String">Is there a system that needs my attention?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Is there a system that needs my attention?</Data>
+          <Data ss:Type="String">Якась система потребує ремонту?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -149,10 +94,16 @@
           <Data ss:Type="String">BDDB548E56C5D3F9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm not due for a quarterly maintenance.</Data>
+          <Data ss:Type="String">I&apos;m not due for a quarterly maintenance.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm not due for a quarterly maintenance.</Data>
+          <Data ss:Type="String">Профілактики я поки що не потребую.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -160,12 +111,16 @@
           <Data ss:Type="String">BDDB548E56C5D403</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you're scheduled for a complete suit diagnostic, report to Mr.
-            Goode in the Hardware Labs.</Data>
+          <Data ss:Type="String">If you&apos;re scheduled for a complete suit diagnostic, report to Mr. Goode in the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you're scheduled for a complete suit diagnostic, report to Mr.
-            Goode in the Hardware Labs.</Data>
+          <Data ss:Type="String">Якщо ви записані на діагностику костюма, зверніться в апаратну лабораторію до містера Гуда.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -173,12 +128,16 @@
           <Data ss:Type="String">BDDB548E56C5D41F</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside
-            of Talos I. </Data>
+          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside of Talos I. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There are emergency oxygen supply stations both inside and outside
-            of Talos I. </Data>
+          <Data ss:Type="String">Поповнити запас кисню можна як усередині «Талоса-1», так і за його межами. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -186,10 +145,16 @@
           <Data ss:Type="String">BDDB548E56C5D433</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't anticipate you will need them, however.</Data>
+          <Data ss:Type="String">I don&apos;t anticipate you will need them, however.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I don't anticipate you will need them, however.</Data>
+          <Data ss:Type="String">Це навряд чи вам знадобиться.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -200,7 +165,13 @@
           <Data ss:Type="String">I only tell you for informative purposes.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I only tell you for informative purposes.</Data>
+          <Data ss:Type="String">Але я зобов'язаний проінформувати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -208,12 +179,16 @@
           <Data ss:Type="String">BDDB548E56C5D464</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an
-            evacuation. </Data>
+          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an evacuation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Each deck has access to a bank of escape pods in the event of an
-            evacuation. </Data>
+          <Data ss:Type="String">Під час евакуації з кожної палуби є доступ до рятувальних капсул. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -221,10 +196,16 @@
           <Data ss:Type="String">BDDB548E56C5D475</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They've never been used.</Data>
+          <Data ss:Type="String">They&apos;ve never been used.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">They've never been used.</Data>
+          <Data ss:Type="String">Вони жодного разу не використовувалися.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -232,12 +213,16 @@
           <Data ss:Type="String">BDDB548E56C5D484</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts
-            in the last... twenty-four hours.</Data>
+          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts in the last... twenty-four hours.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two thousand six hundred and seventy-five serious incident alerts
-            in the last... twenty-four hours.</Data>
+          <Data ss:Type="String">Дві тисячі шістсот сімдесят п'ять серйозних інцидентів сталося за останню добу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -245,12 +230,16 @@
           <Data ss:Type="String">BDDB548E56C5D493</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and
-            recirculation system. </Data>
+          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and recirculation system. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Talos I is outfitted with a uniquely efficient water treatment and
-            recirculation system. </Data>
+          <Data ss:Type="String">«Талос-1» оснащений неймовірно ефективною системою очищення води. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -258,12 +247,16 @@
           <Data ss:Type="String">BDDB548E56C5D4A7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth
-            via self-piloting freight containers. </Data>
+          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth via self-piloting freight containers. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Cargo Bay sees traffic from our lunar refinery as well as earth
-            via self-piloting freight containers. </Data>
+          <Data ss:Type="String">У вантажний відсік прибувають безпілотні контейнери з нашого місячного заводу і з Землі. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -271,12 +264,16 @@
           <Data ss:Type="String">BDDB548E56C5D4BA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Arboretum's trees are part of the station's respiratory system
-            which goes all the way down to the atmosphere control room in Life Support. </Data>
+          <Data ss:Type="String">The Arboretum&apos;s trees are part of the station&apos;s respiratory system which goes all the way down to the atmosphere control room in Life Support. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The Arboretum's trees are part of the station's respiratory system
-            which goes all the way down to the atmosphere control room in Life Support. </Data>
+          <Data ss:Type="String">Дерева в дендрарії — частина системи регенерації повітря, яка простягається до пункту управління атмосферою у відсіку життєзабезпечення. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -284,12 +281,16 @@
           <Data ss:Type="String">BDDB548E56C5D4E7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible
-            polymer.</Data>
+          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible polymer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All exterior glass is composed of a virtually indestructible
-            polymer.</Data>
+          <Data ss:Type="String">Зовнішнє скло складається з практично неруйнівного полімеру.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -300,7 +301,13 @@
           <Data ss:Type="String">Sudden decompression is unlikely.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sudden decompression is unlikely.</Data>
+          <Data ss:Type="String">Раптова декомпресія малоймовірна.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -308,12 +315,16 @@
           <Data ss:Type="String">BDDB548E56C5D521</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us
-            from cosmic radiation. </Data>
+          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us from cosmic radiation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Much like Earth, Talos I generates a magnetosphere which shields us
-            from cosmic radiation. </Data>
+          <Data ss:Type="String">Як і Земля, «Талос-1» створює магнітосферу, що захищає нас від космічної радіації. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -321,12 +332,16 @@
           <Data ss:Type="String">BDDB548E56C5D6F3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor
-            in the Power Plant.</Data>
+          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor in the Power Plant.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Our main energy needs are supplied by a Superforge fusion reactor
-            in the Power Plant.</Data>
+          <Data ss:Type="String">Енергією нас постачає термоядерний реактор «Суперкузня», що знаходиться на електростанції.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -334,12 +349,16 @@
           <Data ss:Type="String">BDDB548E56C5D796</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All debris or irreparable components should be placed inside a
-            Recycler.</Data>
+          <Data ss:Type="String">All debris or irreparable components should be placed inside a Recycler.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All debris or irreparable components should be placed inside a
-            Recycler.</Data>
+          <Data ss:Type="String">Усе сміття необхідно складати в утилізатор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -350,7 +369,13 @@
           <Data ss:Type="String">Operator dispensers are specialized Fabricators. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Operator dispensers are specialized Fabricators. </Data>
+          <Data ss:Type="String">Роздавачі операторів — це спеціалізовані фабрикатори. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -361,7 +386,13 @@
           <Data ss:Type="String">Hello.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hello.</Data>
+          <Data ss:Type="String">Доброго дня.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -369,12 +400,16 @@
           <Data ss:Type="String">BDDB548E56C5E0FB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Careless use of GLOO or placement of large furniture can cause
-            improper function.</Data>
+          <Data ss:Type="String">Careless use of GLOO or placement of large furnitre can cause improper function.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Careless use of GLOO or placement of large furniture can cause
-            improper function.</Data>
+          <Data ss:Type="String">Неправильне використання ГІПСа або розміщення великих меблів може викликати збої в роботі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -385,7 +420,13 @@
           <Data ss:Type="String">Careful.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Careful.</Data>
+          <Data ss:Type="String">Уважніше.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -396,7 +437,13 @@
           <Data ss:Type="String">Watch out.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Watch out.</Data>
+          <Data ss:Type="String">Обережно.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -407,7 +454,13 @@
           <Data ss:Type="String">Please, pay attention.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please, pay attention.</Data>
+          <Data ss:Type="String">Будьте уважні.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -415,10 +468,16 @@
           <Data ss:Type="String">BDDB548E56C5E2A3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm right here.</Data>
+          <Data ss:Type="String">I&apos;m right here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm right here.</Data>
+          <Data ss:Type="String">Я тут.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -429,7 +488,13 @@
           <Data ss:Type="String">Coming through.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Coming through.</Data>
+          <Data ss:Type="String">Дайте дорогу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -440,7 +505,13 @@
           <Data ss:Type="String">Operator approach.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Operator approach.</Data>
+          <Data ss:Type="String">Наближається оператор.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -451,7 +522,13 @@
           <Data ss:Type="String">Moving.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Moving.</Data>
+          <Data ss:Type="String">Пересуваюся.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -462,7 +539,13 @@
           <Data ss:Type="String">Am I being disassembled?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Am I being disassembled?</Data>
+          <Data ss:Type="String">Мене розбирають?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -473,7 +556,13 @@
           <Data ss:Type="String">Stop.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stop.</Data>
+          <Data ss:Type="String">Зупиніться.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -481,10 +570,16 @@
           <Data ss:Type="String">BDDB548E56C5E310</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're not a qualified technician.</Data>
+          <Data ss:Type="String">You&apos;re not a qualified technician.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're not a qualified technician.</Data>
+          <Data ss:Type="String">Ви не професійний технік.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -495,7 +590,13 @@
           <Data ss:Type="String">Do not damage me.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Do not damage me.</Data>
+          <Data ss:Type="String">Не завдавайте мені шкоди.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -506,7 +607,13 @@
           <Data ss:Type="String">I cannot repair myself.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I cannot repair myself.</Data>
+          <Data ss:Type="String">Я не можу лагодити себе.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -517,7 +624,13 @@
           <Data ss:Type="String">Inspecting...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Inspecting...</Data>
+          <Data ss:Type="String">Вивчаю…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -528,7 +641,13 @@
           <Data ss:Type="String">Your suit meets regulation. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit meets regulation. </Data>
+          <Data ss:Type="String">Ваш костюм відповідає стандартам. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -539,7 +658,13 @@
           <Data ss:Type="String">Your suit integrity is nominal. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit integrity is nominal. </Data>
+          <Data ss:Type="String">Ваш костюм цілий. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -550,7 +675,13 @@
           <Data ss:Type="String">Your suit integrity is compromised. Let me fix that.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit integrity is compromised. Let me fix that.</Data>
+          <Data ss:Type="String">Ваш костюм пошкоджений. Дозвольте мені його полагодити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -558,10 +689,16 @@
           <Data ss:Type="String">BDDB548E56C5E456</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit's suffered some wear and tear. I'll fix that.</Data>
+          <Data ss:Type="String">Your suit&apos;s suffered some wear and tear. I&apos;ll fix that.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit's suffered some wear and tear. I'll fix that.</Data>
+          <Data ss:Type="String">Ваш костюм трохи зношений. Я це виправлю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -569,21 +706,16 @@
           <Data ss:Type="String">BDDB548E56C5E45D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit's leaky. I'll patch that for you.</Data>
+          <Data ss:Type="String">Your suit&apos;s leaky. I&apos;ll patch that for you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your suit's leaky. I'll patch that for you.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C5EFE6</Data>
+          <Data ss:Type="String">У вашому костюмі протікання. Я встановлю заплатку.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[error beeps]</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[error beeps]</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -591,10 +723,16 @@
           <Data ss:Type="String">BDDB548E56C5EFFD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[error beeps]</Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[error beeps]</Data>
+          <Data ss:Type="String">Зруйнована схема знайшла нові… інструкції. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -605,7 +743,13 @@
           <Data ss:Type="String">Problem solved.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Problem solved.</Data>
+          <Data ss:Type="String">Проблему вирішено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -616,7 +760,13 @@
           <Data ss:Type="String">Mark this one fixed. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mark this one fixed. </Data>
+          <Data ss:Type="String">З цим впоралися. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -627,7 +777,13 @@
           <Data ss:Type="String">Normal function restored.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Normal function restored.</Data>
+          <Data ss:Type="String">Функціональність відновлено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -638,7 +794,13 @@
           <Data ss:Type="String">System is inoperable [voice malfunctioning] nominal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">System is inoperable [voice malfunctioning] nominal.</Data>
+          <Data ss:Type="String">Система не працює… нормально.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -649,7 +811,13 @@
           <Data ss:Type="String">Running diagnostics... nothing to show.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Running diagnostics... nothing to show.</Data>
+          <Data ss:Type="String">Проводжу діагностику… Нічого немає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -660,7 +828,13 @@
           <Data ss:Type="String">No parts left.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No parts left.</Data>
+          <Data ss:Type="String">Деталей не залишилося.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -671,7 +845,13 @@
           <Data ss:Type="String">Cannot reproduce the problem.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cannot reproduce the problem.</Data>
+          <Data ss:Type="String">Не можу відтворити проблему.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -679,23 +859,16 @@
           <Data ss:Type="String">BDDB548E56C5F1C3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice
-            malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice
-            malfunctioning]--instructions. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C5F1C8</Data>
+          <Data ss:Type="String">Зруйнована схема знайшла нові… інструкції. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[Buzzing, Whirring, Beeping]</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[Buzzing, Whirring, Beeping]</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -706,7 +879,13 @@
           <Data ss:Type="String">Too many moving parts.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Too many moving parts.</Data>
+          <Data ss:Type="String">Занадто багато рухомих частин.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -717,7 +896,13 @@
           <Data ss:Type="String">Cutting.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cutting.</Data>
+          <Data ss:Type="String">Обрізаю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -728,7 +913,13 @@
           <Data ss:Type="String">Shield your eyes.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shield your eyes.</Data>
+          <Data ss:Type="String">Бережіть очі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -736,10 +927,16 @@
           <Data ss:Type="String">BDDB548E56C5F1F5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm shutting you down.</Data>
+          <Data ss:Type="String">I&apos;m shutting you down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm shutting you down.</Data>
+          <Data ss:Type="String">Я вас вимикаю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -750,7 +947,13 @@
           <Data ss:Type="String">Try not to move.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Try not to move.</Data>
+          <Data ss:Type="String">Постарайтеся не рухатися.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -761,7 +964,13 @@
           <Data ss:Type="String">Hold still.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hold still.</Data>
+          <Data ss:Type="String">Замріть.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -769,10 +978,16 @@
           <Data ss:Type="String">BDDB548E56C5F204</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're defect-ect-ect-ect-ective. </Data>
+          <Data ss:Type="String">You&apos;re defect-ect-ect-ect-ective. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're defect-ect-ect-ect-ective. </Data>
+          <Data ss:Type="String">У вас дефек-фек-фек-фект. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -783,7 +998,13 @@
           <Data ss:Type="String">Your hydraulics are leaking.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your hydraulics are leaking.</Data>
+          <Data ss:Type="String">Ваша гідравліка підтікає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -794,7 +1015,13 @@
           <Data ss:Type="String">I will bend you into shape -- [voice malfunctioning].</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I will bend you into shape -- [voice malfunctioning].</Data>
+          <Data ss:Type="String">Я вас виправлю...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -802,10 +1029,16 @@
           <Data ss:Type="String">BDDB548E56C5F216</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll have to recycle you after this.</Data>
+          <Data ss:Type="String">I&apos;ll have to recycle you after this.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll have to recycle you after this.</Data>
+          <Data ss:Type="String">Вас доведеться утилізувати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -816,7 +1049,13 @@
           <Data ss:Type="String">No.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No.</Data>
+          <Data ss:Type="String">Ні.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -827,7 +1066,13 @@
           <Data ss:Type="String">Error code-F66 manufacturing defect. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error code-F66 manufacturing defect. </Data>
+          <Data ss:Type="String">Код помилки Ф-66: виробничий дефект. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -835,10 +1080,16 @@
           <Data ss:Type="String">BDDB548E56C5F272</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[operator malfunctioning]</Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[operator malfunctioning]</Data>
+          <Data ss:Type="String">Зруйнована схема знайшла нові… інструкції. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -849,7 +1100,13 @@
           <Data ss:Type="String">Problem found. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Problem found. </Data>
+          <Data ss:Type="String">Проблему знайдено. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -860,7 +1117,13 @@
           <Data ss:Type="String">Found you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Found you.</Data>
+          <Data ss:Type="String">Я знайшов вас.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -871,7 +1134,13 @@
           <Data ss:Type="String">Nothing to fix here.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Nothing to fix here.</Data>
+          <Data ss:Type="String">Тут лагодити нічого.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -882,7 +1151,13 @@
           <Data ss:Type="String">No repairs required. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No repairs required. </Data>
+          <Data ss:Type="String">Ремонт не потрібен. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -893,7 +1168,13 @@
           <Data ss:Type="String">Everything appears... nominal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Everything appears... nominal.</Data>
+          <Data ss:Type="String">Здається, все… у нормі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -904,7 +1185,13 @@
           <Data ss:Type="String">No code violations.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No code violations.</Data>
+          <Data ss:Type="String">Порушень коду немає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -915,7 +1202,13 @@
           <Data ss:Type="String">I see nothing to worry [voice malfunctioning] about. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I see nothing to worry [voice malfunctioning] about. </Data>
+          <Data ss:Type="String">Не бачу причин для… хвилювання. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -926,7 +1219,13 @@
           <Data ss:Type="String">My diagnostic sensors can root out the problem.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">My diagnostic sensors can root out the problem.</Data>
+          <Data ss:Type="String">Мої сенсори виявлять проблему.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -934,10 +1233,16 @@
           <Data ss:Type="String">BDDB548E56C5F360</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're obviously mal-mal-malfunctioning. </Data>
+          <Data ss:Type="String">You&apos;re obviously mal-mal-malfunctioning. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're obviously mal-mal-malfunctioning. </Data>
+          <Data ss:Type="String">Очевидно, ви не в поря-поря-порядку. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -945,10 +1250,16 @@
           <Data ss:Type="String">BDDB548E56C5F36A</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you don't show yourself, I can't fix you.</Data>
+          <Data ss:Type="String">If you don&apos;t show yourself, I can&apos;t fix you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you don't show yourself, I can't fix you.</Data>
+          <Data ss:Type="String">Якщо ви не покажетеся, я не зможу вас полагодити.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -959,7 +1270,13 @@
           <Data ss:Type="String">I need to make a small adjustment to your components.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I need to make a small adjustment to your components.</Data>
+          <Data ss:Type="String">Мені потрібно відрегулювати ваші компоненти.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -967,10 +1284,16 @@
           <Data ss:Type="String">BDDB548E56C5F39D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't worry, I won't disassemble you until I'm sure.</Data>
+          <Data ss:Type="String">Don&apos;t worry, I won&apos;t disassemble you until I&apos;m sure.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Don't worry, I won't disassemble you until I'm sure.</Data>
+          <Data ss:Type="String">Не хвилюйтеся, я не стану відразу розбирати вас.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -978,10 +1301,16 @@
           <Data ss:Type="String">BDDB548E56C5F3A3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a [voice malfunctioning] I'd like to weld to your frame.</Data>
+          <Data ss:Type="String">I have a [voice malfunctioning] I&apos;d like to weld to your frame.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have a [voice malfunctioning] I'd like to weld to your frame.</Data>
+          <Data ss:Type="String">У мене є… хочу приварити до вашого корпусу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -989,10 +1318,16 @@
           <Data ss:Type="String">BDDB548E56C5F3AA</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I get the impression you don't want proper function.</Data>
+          <Data ss:Type="String">I get the impression you don&apos;t want proper function.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I get the impression you don't want proper function.</Data>
+          <Data ss:Type="String">Здається, ви не хочете нормально функціонувати.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1000,10 +1335,16 @@
           <Data ss:Type="String">BDDB548E56C5F3B1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can hear your insides grinding together. You won't last long.</Data>
+          <Data ss:Type="String">I can hear your insides grinding together. You won&apos;t last long.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I can hear your insides grinding together. You won't last long.</Data>
+          <Data ss:Type="String">Ваші нутрощі скрегочуть. Вам недовго залишилося.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1011,10 +1352,16 @@
           <Data ss:Type="String">BDDB548E56C5F3B7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hiding isn't a practical solution--you're still broken-en-en-en. </Data>
+          <Data ss:Type="String">Hiding isn&apos;t a practical solution--you&apos;re still broken-en-en-en. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hiding isn't a practical solution--you're still broken-en-en-en. </Data>
+          <Data ss:Type="String">Ховатися непрактично. Ви все одно зламані-ні-ні-ні. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1022,10 +1369,16 @@
           <Data ss:Type="String">BDDB548E56C5F3BD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've ordered a replacement for you... for when you come out. </Data>
+          <Data ss:Type="String">I&apos;ve ordered a replacement part for you... for when you come out. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've ordered a replacement for you... for when you come out. </Data>
+          <Data ss:Type="String">Я замовив для вас запчастину… На випадок, якщо ви вийдете. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1033,12 +1386,16 @@
           <Data ss:Type="String">BDDB548E56C5F3C5</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're concerned I'll botch the job is that why you won't come see
-            me?</Data>
+          <Data ss:Type="String">You&apos;re concerned I&apos;ll botch the job is that why you won&apos;t come see me?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You're concerned I'll botch the job is that why you won't come see
-            me?</Data>
+          <Data ss:Type="String">Ви боїтеся, що я зроблю роботу недбало, тому не виходите?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1046,10 +1403,16 @@
           <Data ss:Type="String">BDDB548E56C5F3D0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There's a risk of severe system shock if you don't shut down.</Data>
+          <Data ss:Type="String">There&apos;s a risk of severe system shock if you don&apos;t shut down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">There's a risk of severe system shock if you don't shut down.</Data>
+          <Data ss:Type="String">Якщо ви не вимкнетеся, є ризик системної помилки.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1057,12 +1420,16 @@
           <Data ss:Type="String">BDDB548E56C5F3DC</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have an responsibility to- [voice malfunctioning] - recycle the
-            useless bits from you.</Data>
+          <Data ss:Type="String">I have an responsibility to recycle the useless bits from you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I have an responsibility to- [voice malfunctioning] - recycle the
-            useless bits from you.</Data>
+          <Data ss:Type="String">Мій обов'язок — утилізувати ваші непотрібні запчастини.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1070,12 +1437,16 @@
           <Data ss:Type="String">BDDB548E56C5F3E4</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An application of high velocity plasma and com-com-compressed gas
-            will get you back into working condition.</Data>
+          <Data ss:Type="String">An application of high velocity plasma and compressed gas will get you back into working condition.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">An application of high velocity plasma and com-com-compressed gas
-            will get you back into working condition.</Data>
+          <Data ss:Type="String">Високошвидкісна плазма і стиснений газ повернуть вас у робочий стан.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1083,21 +1454,16 @@
           <Data ss:Type="String">BDDB548E56C5F3F9</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Come out. You're derelict.</Data>
+          <Data ss:Type="String">Come out. You&apos;re derelict.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Come out. You're derelict.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56C5F40C</Data>
+          <Data ss:Type="String">Виходьте. Ви застаріли.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[operator malfunctioning]</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[operator malfunctioning]</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1108,7 +1474,13 @@
           <Data ss:Type="String">Could be a problem.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Could be a problem.</Data>
+          <Data ss:Type="String">Можлива проблема.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1116,10 +1488,16 @@
           <Data ss:Type="String">BDDB548E56C5F45E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Something's broken?</Data>
+          <Data ss:Type="String">Something&apos;s broken?</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Something's broken?</Data>
+          <Data ss:Type="String">Щось зламано?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1127,10 +1505,16 @@
           <Data ss:Type="String">BDDB548E56C5F467</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll investigate.</Data>
+          <Data ss:Type="String">I&apos;ll investigate.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'll investigate.</Data>
+          <Data ss:Type="String">Я проведу огляд.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1141,7 +1525,13 @@
           <Data ss:Type="String">If you want to know how something works, you have to take it apart.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">If you want to know how something works, you have to take it apart.</Data>
+          <Data ss:Type="String">Якщо хочете знати, як влаштований об'єкт, розберіть його на частини.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1149,10 +1539,16 @@
           <Data ss:Type="String">BDDB548E56C5F905</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New supervisory override... received. Thank-thank-thank you. </Data>
+          <Data ss:Type="String">New supervisory override... received. Thank you. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New supervisory override... received. Thank-thank-thank you. </Data>
+          <Data ss:Type="String">Нова команда… отримана. Дякую. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1163,7 +1559,13 @@
           <Data ss:Type="String">Repair definitions--[voice malfunctioning]--retargeted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair definitions--[voice malfunctioning]--retargeted. </Data>
+          <Data ss:Type="String">Визначення ремонту… перепризначено. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1171,10 +1573,16 @@
           <Data ss:Type="String">BDDB548E56C5F927</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair, Replace, Recycle. The three R's of--[voice malfunctioning].</Data>
+          <Data ss:Type="String">Repair, Replace, Recycle. The three R&apos;s of Rhubarb.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair, Replace, Recycle. The three R's of--[voice malfunctioning].</Data>
+          <Data ss:Type="String">Ремонт, заміна, утилізація. Три принципи комунікації.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1182,12 +1590,16 @@
           <Data ss:Type="String">BDDB548E56C5F942</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice
-            malfunctioning] understand. </Data>
+          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice malfunctioning] understand. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Parallel volitional processors... desynchronized. I [voice
-            malfunctioning] understand. </Data>
+          <Data ss:Type="String">Паралельні вольові процесори… розсинхронізовано. Я… розумію. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1195,12 +1607,16 @@
           <Data ss:Type="String">BDDB548E56C5F975</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice
-            malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Disintegrated circuit found new--[voice
-            malfunctioning]--instructions. </Data>
+          <Data ss:Type="String">Зруйнована схема знайшла нові… інструкції. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1211,7 +1627,13 @@
           <Data ss:Type="String">Logging self-diagnostic. List. Tag. Carbon. Cathode. Corrosion. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List. Tag. Carbon. Cathode. Corrosion. </Data>
+          <Data ss:Type="String">Проводжу самодіагностику. Список. Мітка. Вуглець. Катод. Корозія. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1219,12 +1641,16 @@
           <Data ss:Type="String">BDDB548E56C5F99E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service.
-            Servo.</Data>
+          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service. Servo.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. Files corrupted. List. Series. Service.
-            Servo.</Data>
+          <Data ss:Type="String">Проводжу діагностику. Файли пошкоджено. Список. Серія. Сервіс. Сервомеханізми.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1232,12 +1658,16 @@
           <Data ss:Type="String">BDDB548E56C5F9A6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols...
-            Files not found. Reference Deleted. </Data>
+          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols... Files not found. Reference Deleted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Logging self-diagnostic. List: Repair and maintenance protocols...
-            Files not found. Reference Deleted. </Data>
+          <Data ss:Type="String">Проводжу діагностику. Список: протоколи ремонту… Файли не знайдено. Посилання видалено. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1245,10 +1675,16 @@
           <Data ss:Type="String">BDDB548E56C5F9D0</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[voice malfunctioning]--instructions</Data>
+          <Data ss:Type="String">Disintegrated circuit found new--[voice malfunctioning]--instructions. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[voice malfunctioning]--instructions</Data>
+          <Data ss:Type="String">Зруйнована схема знайшла нові… інструкції. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1256,10 +1692,16 @@
           <Data ss:Type="String">BDDB548E571FD735</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">System fault. System fault---[error sound].</Data>
+          <Data ss:Type="String">System fault. System fault---(error sound).</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">System fault. System fault---[error sound].</Data>
+          <Data ss:Type="String">Відмова системи. Відмова системи.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1267,10 +1709,16 @@
           <Data ss:Type="String">BDDB548E571FD781</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error-r-r-r-r-[error sound].</Data>
+          <Data ss:Type="String">Error-r-r-r-r-(error sound).</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error-r-r-r-r-[error sound].</Data>
+          <Data ss:Type="String">Помилка-ка-ка…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1281,7 +1729,13 @@
           <Data ss:Type="String">Repair complete.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Repair complete.</Data>
+          <Data ss:Type="String">Ремонт завершено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1292,7 +1746,13 @@
           <Data ss:Type="String">Job done.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Job done.</Data>
+          <Data ss:Type="String">Роботу виконано.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1300,10 +1760,16 @@
           <Data ss:Type="String">BDDB548E5727DC53</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm a Kobold 410 engineering class operator.</Data>
+          <Data ss:Type="String">I&apos;m a Kobold 410 engineering class operator.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I'm a Kobold 410 engineering class operator.</Data>
+          <Data ss:Type="String">Я — оператор-інженер, модель «Кобольд-410».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -1314,7 +1780,183 @@
           <Data ss:Type="String">Found you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Found you.</Data>
+          <Data ss:Type="String">Я знайшов вас.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C4F8D1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[alarm beeping]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C4F8E3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[alarm beeping]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C4F8FF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[operator malfunctioning]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C4F93A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[short beep]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C4F959</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[beeping, whirring]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C4F969</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[beeping, whirring]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C5D312</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[beeping, whirring]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C5EFE6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[error beeps]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C5F1C8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[Buzzing, Whirring, Beeping]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C5F40C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[operator malfunctioning]</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>

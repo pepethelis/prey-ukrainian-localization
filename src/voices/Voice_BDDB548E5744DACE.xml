@@ -26,12 +26,16 @@
           <Data ss:Type="String">BDDB548E5744DB85</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hi Daddy. Happy birthday! I made you a present, but... you&apos;ll
-            have to open it when you get home because your company has lame rules. </Data>
+          <Data ss:Type="String">Hi Daddy. Happy birthday! I made you a present, but... you&apos;ll have to open it when you get home because your company has lame rules. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hi Daddy. Happy birthday! I made you a present, but... you&apos;ll
-            have to open it when you get home because your company has lame rules. </Data>
+          <Data ss:Type="String">Привіт, тату. З днем народження! Я зробила тобі подарунок, але... ти відкриєш його вже вдома, тому що у твоєї компанії дурні правила. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -42,7 +46,13 @@
           <Data ss:Type="String">Guess what? I finally trotted with Leda! It was awesome. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Guess what? I finally trotted with Leda! It was awesome. </Data>
+          <Data ss:Type="String">Знаєш що? Я нарешті покаталася на Леді! Це було круто. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -50,12 +60,16 @@
           <Data ss:Type="String">BDDB548E5744DB9C</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Uhm... what else... Oh--Ren peed in one of your cowboy boots.
-            Sorry. </Data>
+          <Data ss:Type="String">Uhm... what else... Oh--Ren peed in one of your cowboy boots. Sorry. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Uhm... what else... Oh--Ren peed in one of your cowboy boots.
-            Sorry. </Data>
+          <Data ss:Type="String">Що ще… А, Рен насцяв у твої ковбойські чоботи. Вибач.. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -63,12 +77,16 @@
           <Data ss:Type="String">BDDB548E5744DBA8</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I really miss you. Tell Mr. Yu I said kids should be allowed in
-            space.</Data>
+          <Data ss:Type="String">I really miss you. Tell Mr. Yu I said kids should be allowed in space.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I really miss you. Tell Mr. Yu I said kids should be allowed in
-            space.</Data>
+          <Data ss:Type="String">Я сумую за тобою. Скажи містеру Ю, що дітей теж потрібно брати в космос.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -79,7 +97,13 @@
           <Data ss:Type="String">Well... I guess that&apos;s all for now. I love you. (Kiss)</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Well... I guess that&apos;s all for now. I love you. (Kiss)</Data>
+          <Data ss:Type="String">Що ж... Поки що все. Люблю тебе.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>

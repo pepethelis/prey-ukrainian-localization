@@ -26,10 +26,16 @@
           <Data ss:Type="String">BDDB548E56E61CBB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">System fault. System faul- [Error Sound]</Data>
+          <Data ss:Type="String">System fault. System fault</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">System fault. System faul- [Error Sound]</Data>
+          <Data ss:Type="String">Відмова системи. Відмова системи. Відмова системи.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -40,7 +46,13 @@
           <Data ss:Type="String">Shutting down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shutting down.</Data>
+          <Data ss:Type="String">Відключення.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -51,7 +63,13 @@
           <Data ss:Type="String">Integrity error. Safe mode.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Integrity error. Safe mode.</Data>
+          <Data ss:Type="String">Порушення цілісності. Безпечний режим.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -62,7 +80,13 @@
           <Data ss:Type="String">System alert. Repairs needed.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">System alert. Repairs needed.</Data>
+          <Data ss:Type="String">Системне оповіщення. Необхідний ремонт.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -73,7 +97,13 @@
           <Data ss:Type="String">Please contact a qualified engineer.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please contact a qualified engineer.</Data>
+          <Data ss:Type="String">Зв'яжіться з кваліфікованим інженером.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -84,7 +114,13 @@
           <Data ss:Type="String">All systems operational.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">All systems operational.</Data>
+          <Data ss:Type="String">Усі системи справні.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -95,18 +131,47 @@
           <Data ss:Type="String">Thank you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you.</Data>
+          <Data ss:Type="String">Дякую.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">362D90557890DC3</Data>
+          <Data ss:Type="String">BDDB548E56E61CBB_BDDB548E562A3CBB</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Navigation error.</Data>
+          <Data ss:Type="String">System fault. System fault</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Navigation error.</Data>
+          <Data ss:Type="String">Відмова системи. Відмова системи.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56E61CBB_BDDB548E555106FE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">System fault. System fault</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Відмова системи. Відмова системи. Відмова системи.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>

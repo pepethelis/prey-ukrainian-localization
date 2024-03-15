@@ -26,12 +26,16 @@
           <Data ss:Type="String">BDDB548E56571AB3</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander Dahl. This is William Yu, acting chairman of the TranStar
-            Board of Directors. </Data>
+          <Data ss:Type="String">Commander Dahl. This is William Yu, acting chairman of the TranStar Board of Directors. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Commander Dahl. This is William Yu, acting chairman of the TranStar
-            Board of Directors. </Data>
+          <Data ss:Type="String">Капітан Даль. Це Вільям Ю, виконувач обов'язків голови правління «Транстар». </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -39,12 +43,16 @@
           <Data ss:Type="String">BDDB548E56571AC8</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Of course. My authentication sign is Zeta. Invictus. Emperor.
-            Tangerine. </Data>
+          <Data ss:Type="String">Of course. My authentication sign is Zeta. Invictus. Emperor. Tangerine. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Of course. My authentication sign is Zeta. Invictus. Emperor.
-            Tangerine. </Data>
+          <Data ss:Type="String">Звичайно. Ідентифікаційні дані: зета, інвіктус, імператор, мандарин. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -52,12 +60,16 @@
           <Data ss:Type="String">BDDB548E56571B08</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You must secure every piece of Cobalt clearance level technology
-            and research aboard Talos I. Then eliminate all TranStar personnel.</Data>
+          <Data ss:Type="String">You must secure every piece of Cobalt clearance level technology and research aboard Talos I. Then eliminate all TranStar personnel.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You must secure every piece of Cobalt clearance level technology
-            and research aboard Talos I. Then eliminate all TranStar personnel.</Data>
+          <Data ss:Type="String">Візьміть під контроль усю техніку і дані рівня «Кобальт» на «Талосі-1». Потім ліквідуйте весь персонал «Транстар».</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -68,7 +80,13 @@
           <Data ss:Type="String">No survivors.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No survivors.</Data>
+          <Data ss:Type="String">До єдиного.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -76,12 +94,16 @@
           <Data ss:Type="String">BDDB548E56571BD1</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Payment will be deposited into six separate Benelux accounts...
-            after you transmit evidence of success.</Data>
+          <Data ss:Type="String">Payment will be deposited into six separate Benelux accounts... after you transmit evidence of success.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Payment will be deposited into six separate Benelux accounts...
-            after you transmit evidence of success.</Data>
+          <Data ss:Type="String">Плата надійде на шість різних рахунків у Бенілюксі… Після того як ви надасте докази успіху.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -89,12 +111,16 @@
           <Data ss:Type="String">BDDB548E56571F0E</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We strongly advise deploying your technical officer to a station
-            router inside the firewalls first.</Data>
+          <Data ss:Type="String">We strongly advise deploying your technical officer to a station router inside the firewalls first.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We strongly advise deploying your technical officer to a station
-            router inside the firewalls first.</Data>
+          <Data ss:Type="String">Ми рекомендуємо спочатку забезпечити техніку доступ до маршрутизатора станції.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -105,7 +131,13 @@
           <Data ss:Type="String">Ideal site would be the Cargo Bay.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal site would be the Cargo Bay.</Data>
+          <Data ss:Type="String">Краще за все — у вантажному відсіку.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -116,7 +148,13 @@
           <Data ss:Type="String">You will destroy this transmission aft-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">You will destroy this transmission aft-</Data>
+          <Data ss:Type="String">Ви знищите цей запис після…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -127,7 +165,13 @@
           <Data ss:Type="String">Ideal site would be the Trauma Center.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal site would be the Trauma Center.</Data>
+          <Data ss:Type="String">Краще за все — у травмпункті.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -138,7 +182,13 @@
           <Data ss:Type="String">Ideal site would be in the Hardware Labs.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal site would be in the Hardware Labs.</Data>
+          <Data ss:Type="String">Краще за все — в апаратній лабораторії.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -149,7 +199,13 @@
           <Data ss:Type="String">Ideal site would be in the Utility Tunnels.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal site would be in the Utility Tunnels.</Data>
+          <Data ss:Type="String">Краще за все — у технічних тонелях.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -160,7 +216,13 @@
           <Data ss:Type="String">Ideal site would be in the Neuromod Division.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal site would be in the Neuromod Division.</Data>
+          <Data ss:Type="String">Краще за все — у відділі нейромодів.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -168,12 +230,16 @@
           <Data ss:Type="String">BDDB548E565727B7</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal location would be the station exterior. Near the Power Plant
-            grids.</Data>
+          <Data ss:Type="String">Ideal location would be the station exterior. Near the Power Plant grids.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal location would be the station exterior. Near the Power Plant
-            grids.</Data>
+          <Data ss:Type="String">Краще за все — зовні станції. Поруч із силовою установкою.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -184,7 +250,13 @@
           <Data ss:Type="String">Ideal site would be Psychotronics.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ideal site would be Psychotronics.</Data>
+          <Data ss:Type="String">Краще за все — у лабораторії психотроніки.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>

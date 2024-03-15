@@ -23,200 +23,19 @@
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">BDDB548E5553690D</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pressure loss detected. Starting oxygen supply.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Pressure loss detected. Starting oxygen supply.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E5553691C</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Contamination detected. Starting oxygen supply.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Contamination detected. Starting oxygen supply.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536925</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oxygen supply low.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oxygen supply low.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536933</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oxygen depleted.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Oxygen depleted.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E5553693A</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Microgravity detected.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Microgravity detected.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536944</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Caution. Radiation levels unsafe.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Caution. Radiation levels unsafe.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536949</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Caution. Radioactive threat.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Caution. Radioactive threat.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536951</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Trauma detected. Seek medical attention.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Trauma detected. Seek medical attention.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536964</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Vital signs critical.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Vital signs critical.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E5553696A</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Research complete.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Research complete.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E55536970</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">New research topic available.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">New research topic available.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563A1DB6</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Hemorrhage detected.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Hemorrhage detected.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563A1DBF</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Seek medical attention.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Seek medical attention.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563A1E9E</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Concussion detected. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Concussion detected. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563A217F</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Skeletal trauma detected.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Skeletal trauma detected.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563A221A</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Burn trauma detected.</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Burn trauma detected.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E563A2273</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Radiation poisoning detected. </Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">Warning. Radiation poisoning detected. </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
           <Data ss:Type="String">2BB4A699569593FE</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Warning. Suit integrity compromised.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning. Suit integrity compromised.</Data>
+          <Data ss:Type="String">Увага! Цілісність костюма під загрозою.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -227,7 +46,302 @@
           <Data ss:Type="String">Suit patch kit required.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Suit patch kit required.</Data>
+          <Data ss:Type="String">Потрібен набір для ремонту костюма.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5553690D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Pressure loss detected. Starting oxygen supply.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Тиск падає. Увімкнено подачу кисню.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5553691C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contamination detected. Starting oxygen supply.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Шкідливі домішки. Увімкнено подачу кисню.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536925</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oxygen supply low.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Запас кисню падає.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536933</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Oxygen depleted.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Кисень закінчився.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5553693A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Microgravity detected.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Знижена гравітація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536944</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Caution. Radiation levels unsafe.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Небезпечний рівень радіації.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536949</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Caution. Radioactive threat.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Радіоактивна загроза.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536951</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Trauma detected. Seek medical attention.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Травма. Зверніться до лікаря.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536964</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Vital signs critical.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Загроза життю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5553696A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Research complete.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Дослідження завершено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55536970</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">New research topic available.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Доступна нова тема для досліджень.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A1DB6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Hemorrhage detected.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Помічено кровотечу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A1DBF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Seek medical attention.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Зверніться до лікаря.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A1E9E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Concussion detected. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Контузія. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A217F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Skeletal trauma detected.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Пошкодження скелета.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A221A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Burn trauma detected.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Опік.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A2273</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Warning. Radiation poisoning detected. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Увага! Радіаційне зараження. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -238,7 +352,13 @@
           <Data ss:Type="String">Psychoscope calibration finished.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Psychoscope calibration finished.</Data>
+          <Data ss:Type="String">Калібрування психоскопа завершено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -249,7 +369,13 @@
           <Data ss:Type="String">Scan complete.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scan complete.</Data>
+          <Data ss:Type="String">Сканування завершено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -260,7 +386,13 @@
           <Data ss:Type="String">More specimens required.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">More specimens required.</Data>
+          <Data ss:Type="String">Потрібно більше зразків.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -271,7 +403,13 @@
           <Data ss:Type="String">Hazardous atmosphere conditions.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hazardous atmosphere conditions.</Data>
+          <Data ss:Type="String">Небезпечний стан атмосфери.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -282,7 +420,13 @@
           <Data ss:Type="String">Normal atmosphere conditions.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Normal atmosphere conditions.</Data>
+          <Data ss:Type="String">Нормальний стан атмосфери.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -293,7 +437,13 @@
           <Data ss:Type="String">Microgravity detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Microgravity detected.</Data>
+          <Data ss:Type="String">Знижена гравітація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -304,7 +454,13 @@
           <Data ss:Type="String">Normal gravity detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Normal gravity detected.</Data>
+          <Data ss:Type="String">Нормальна гравітація.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -315,7 +471,13 @@
           <Data ss:Type="String">New psionic aptitude available. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New psionic aptitude available. </Data>
+          <Data ss:Type="String">Доступна нова псионна навичка. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -326,7 +488,13 @@
           <Data ss:Type="String">Warning. Suit integrity below 50%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning. Suit integrity below 50%.</Data>
+          <Data ss:Type="String">Увага! Цілісність костюма менш ніж 50%.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -337,7 +505,13 @@
           <Data ss:Type="String">Warning. Suit integrity below 20%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning. Suit integrity below 20%.</Data>
+          <Data ss:Type="String">Увага! Цілісність костюма менш ніж 20%.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -348,7 +522,13 @@
           <Data ss:Type="String">Severe risk of exposure.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Severe risk of exposure.</Data>
+          <Data ss:Type="String">Небезпека шкідливого впливу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -359,7 +539,13 @@
           <Data ss:Type="String">Warning. Suit integrity damaged.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning. Suit integrity damaged.</Data>
+          <Data ss:Type="String">Увага! Цілісність костюма порушено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -370,7 +556,13 @@
           <Data ss:Type="String">Warning. Vital signs critical.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning. Vital signs critical.</Data>
+          <Data ss:Type="String">Увага! Загроза життю.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
