@@ -23,35 +23,19 @@
       </Row>
       <Row>
         <Cell>
-          <Data ss:Type="String">BDDB548E56A1B31B</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[machine sounds]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[machine sounds]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A1C11D</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[tilt alarm]</Data>
-        </Cell>
-        <Cell>
-          <Data ss:Type="String">[tilt alarm]</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
           <Data ss:Type="String">BDDB548E56A1C2D3</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Please place turret perpendicular to deck.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please place turret perpendicular to deck.</Data>
+          <Data ss:Type="String">Встановіть турель перпендикулярно палубі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -62,7 +46,13 @@
           <Data ss:Type="String">Please place turret upright and facing threat vector.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please place turret upright and facing threat vector.</Data>
+          <Data ss:Type="String">Встановіть турель вертикально та направлено на загрозу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -73,7 +63,13 @@
           <Data ss:Type="String">Eradicator Auto-Turret Version 0.7.6</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Eradicator Auto-Turret Version 0.7.6</Data>
+          <Data ss:Type="String">Автоматична турель «Ліквідатор», версія 0.7.6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -84,7 +80,13 @@
           <Data ss:Type="String">Deploying.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Deploying.</Data>
+          <Data ss:Type="String">Вмикається.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -95,7 +97,13 @@
           <Data ss:Type="String">Ready to scan.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ready to scan.</Data>
+          <Data ss:Type="String">Готова до сканування.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -106,7 +114,13 @@
           <Data ss:Type="String">Subject clear.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject clear.</Data>
+          <Data ss:Type="String">Об'єкт чистий.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -117,7 +131,13 @@
           <Data ss:Type="String">No psychoactives detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No psychoactives detected.</Data>
+          <Data ss:Type="String">Психоактивних речовин не виявлено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -128,7 +148,13 @@
           <Data ss:Type="String">Alien threat detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Alien threat detected.</Data>
+          <Data ss:Type="String">Виявлено інопланетну загрозу.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -139,7 +165,13 @@
           <Data ss:Type="String">Typhon contaminant found.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon contaminant found.</Data>
+          <Data ss:Type="String">Виявлено зараження.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -150,7 +182,13 @@
           <Data ss:Type="String">Online.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Online.</Data>
+          <Data ss:Type="String">Працює.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -161,7 +199,13 @@
           <Data ss:Type="String">Diagnotic check...verbose.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Diagnotic check...verbose.</Data>
+          <Data ss:Type="String">Діагностика... детальна.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -172,7 +216,13 @@
           <Data ss:Type="String">Checking for updates...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Checking for updates...</Data>
+          <Data ss:Type="String">Перевірка оновлень...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -183,7 +233,13 @@
           <Data ss:Type="String">Debug build version 0.7.6. Verbose on.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Debug build version 0.7.6. Verbose on.</Data>
+          <Data ss:Type="String">Налагоджувальна збірка 0.7.6. Запис увімкнено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -194,7 +250,13 @@
           <Data ss:Type="String">Reset required.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Reset required.</Data>
+          <Data ss:Type="String">Необхідне перезавантаження.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -205,7 +267,13 @@
           <Data ss:Type="String">Target lost.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Target lost.</Data>
+          <Data ss:Type="String">Ціль втрачено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -216,7 +284,13 @@
           <Data ss:Type="String">Error log submitted. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error log submitted. </Data>
+          <Data ss:Type="String">Журнал помилок оновлено. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -227,7 +301,13 @@
           <Data ss:Type="String">Please submit a crash report.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please submit a crash report.</Data>
+          <Data ss:Type="String">Надайте звіт про збій.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -238,7 +318,13 @@
           <Data ss:Type="String">Error. Attitude adjustment required.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error. Attitude adjustment required.</Data>
+          <Data ss:Type="String">Помилка. Потрібне коригування орієнтації.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -249,7 +335,13 @@
           <Data ss:Type="String">Scanning target..</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Scanning target..</Data>
+          <Data ss:Type="String">Сканування цілі...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -260,7 +352,13 @@
           <Data ss:Type="String">No Typhon material detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No Typhon material detected.</Data>
+          <Data ss:Type="String">Матерії тифонів не виявлено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -271,7 +369,13 @@
           <Data ss:Type="String">No alien material detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">No alien material detected.</Data>
+          <Data ss:Type="String">Чужинця не виявлено.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -282,7 +386,13 @@
           <Data ss:Type="String">Proximity sensor reset.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Proximity sensor reset.</Data>
+          <Data ss:Type="String">Скидання налаштувань датчика.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -293,7 +403,13 @@
           <Data ss:Type="String">Servers offline.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Servers offline.</Data>
+          <Data ss:Type="String">Сервери недоступні.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -304,7 +420,13 @@
           <Data ss:Type="String">IFF... nominal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">IFF... nominal.</Data>
+          <Data ss:Type="String">Свій-чужий... у нормі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -315,7 +437,13 @@
           <Data ss:Type="String">Power load... nominal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Power load... nominal.</Data>
+          <Data ss:Type="String">Електронавантаження... у нормі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -326,7 +454,13 @@
           <Data ss:Type="String">Actuators... nominal.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Actuators... nominal.</Data>
+          <Data ss:Type="String">Приводи... у нормі.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -337,7 +471,13 @@
           <Data ss:Type="String">Tilt handling...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Tilt handling...</Data>
+          <Data ss:Type="String">Контроль нахилу...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -348,18 +488,13 @@
           <Data ss:Type="String">Error. Please contact engineering.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error. Please contact engineering.</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String">BDDB548E56A2577B</Data>
+          <Data ss:Type="String">Помилка. Зверніться до інженерів.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[machine clicks and beeps]</Data>
+          <Data ss:Type="String"/>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[machine clicks and beeps]</Data>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -367,10 +502,16 @@
           <Data ss:Type="String">BDDB548E56A2581D</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sofware ver-[corrupt machine sounds]-sion unrecognized.</Data>
+          <Data ss:Type="String">Sofware ver--::corrupt machine sounds::--sion unrecognized.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sofware ver-[corrupt machine sounds]-sion unrecognized.</Data>
+          <Data ss:Type="String">Версія прог... рами не визначена.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -381,7 +522,13 @@
           <Data ss:Type="String">Re-initiali--li--li--li--li--zing. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Re-initiali--li--li--li--li--zing. </Data>
+          <Data ss:Type="String">Перезав-в-в-в-в-вантаження. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -389,10 +536,16 @@
           <Data ss:Type="String">BDDB548E56A258DD</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New targeting [corrupt machine noise] profiles.</Data>
+          <Data ss:Type="String">New targeting ::corrupt machine noise:: profiles.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">New targeting [corrupt machine noise] profiles.</Data>
+          <Data ss:Type="String">Перепрофілювання... цілей.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -403,7 +556,13 @@
           <Data ss:Type="String">Warning. Possible Typhon contaminant. Monitoring.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning. Possible Typhon contaminant. Monitoring.</Data>
+          <Data ss:Type="String">Увага! Можлива присутність тифонів. Спостерігаю...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -414,7 +573,13 @@
           <Data ss:Type="String">Structural upgrades detected.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Structural upgrades detected.</Data>
+          <Data ss:Type="String">Виявлено структурні модифікації.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -425,7 +590,13 @@
           <Data ss:Type="String">Thank you.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Thank you.</Data>
+          <Data ss:Type="String">Дякую.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -436,7 +607,13 @@
           <Data ss:Type="String">Error. Insufficient Typhon material found. Standing down.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Error. Insufficient Typhon material found. Standing down.</Data>
+          <Data ss:Type="String">Помилка. Знайдео ознакти матеріалу тифонів, непереконливо. Очікую.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
       <Row>
@@ -447,7 +624,64 @@
           <Data ss:Type="String">Typhon material inconclusive. Logging calibration request.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Typhon material inconclusive. Logging calibration request.</Data>
+          <Data ss:Type="String">Ознакти матеріалу тифонів, непереконливо. Потребую калібрування сканера.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A1B31B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">::machine sounds::</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A1C11D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(tilt alarm)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56A2577B</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">::machine clicks and beeps::</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"/>
         </Cell>
       </Row>
     </Table>
