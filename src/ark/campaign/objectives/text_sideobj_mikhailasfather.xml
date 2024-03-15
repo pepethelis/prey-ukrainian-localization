@@ -58,7 +58,7 @@
           <Data ss:Type="String">Mikhaila&apos;s Father</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Батько Катерини</Data>
+          <Data ss:Type="String">Батько Мікаели</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -75,7 +75,7 @@
           <Data ss:Type="String">Mikhaila wants to know what happened to her father. Deep Storage has an archive of audiologs - recordings of experiments that took place in Psychotronics. She&apos;s asked me to dig up the last entry that matches her father&apos;s volunteer number.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька.</Data>
+          <Data ss:Type="String">Мікаела хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -92,7 +92,7 @@
           <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiologs - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father&apos;s volunteer number and listened to the recording. Mikhaila&apos;s father died in an experiment conducted by TranStar scientists. One of the scientists was me. Now, I have to decide if I&apos;m going to give the recording to Mikhaila or erase it for good. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Катерини загинув під час експерименту, який проводили вчені «Транстар» і я. Тепер потрібно вирішити — віддати запис Катерині або стерти. </Data>
+          <Data ss:Type="String">Мікаела хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Мікаели загинув під час експерименту, який проводили вчені «Транстар» і я. Тепер потрібно вирішити — віддати запис Мікаелі або стерти. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -109,7 +109,7 @@
           <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiolog - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father&apos;s volunteer number and listened to the recording. Mikhaila&apos;s father died in an experiment conducted by TranStar scientists. One of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to listen to the recoding with Mikhaila, even though it sounds like I&apos;m an accessory to her father&apos;s death. I can&apos;t change the past, but I don&apos;t even remember being that person. She&apos;s upset, but maybe she&apos;ll be willing to give me some grace. I&apos;m sure she&apos;ll be watching to see what I do from here on out.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Катерини загинув під час експерименту, який проводили вчені «Транстар» і я. &lt;br&gt;&lt;br&gt;Катерина отримала і прослухала запис — тепер вона знає, що на мені лежить вина у смерті її батька. Я не можу змінити минуле. Я його навіть не пам'ятаю. Катерина засмучена, але, можливо, виявить до мене поблажливість. Напевно вона стежитиме за моїми діями.  </Data>
+          <Data ss:Type="String">Мікаела хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Мікаели загинув під час експерименту, який проводили вчені «Транстар» і я. &lt;br&gt;&lt;br&gt;Мікаела отримала і прослухала запис — тепер вона знає, що на мені лежить вина у смерті її батька. Я не можу змінити минуле. Я його навіть не пам'ятаю. Мікаела засмучена, але, можливо, виявить до мене поблажливість. Напевно вона стежитиме за моїми діями.  </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -126,7 +126,7 @@
           <Data ss:Type="String">Mikhaila wanted to know what happened to her father. Deep Storage has an archive of audiolog - recordings of experiments that took place in Psychotronics. I dug up an entry that matched her father&apos;s volunteer number and listened to the recording. Mikhaila&apos;s father died in an experiment conducted by TranStar scientists. One of the scientists was me. &lt;br&gt;&lt;br&gt;I decided to erase the audiolog of her father&apos;s last moments. It sounded like I was an accessory to her father&apos;s death, but I don&apos;t even remember being that person. She&apos;s upset. I&apos;m sure she&apos;ll be watching to see what I do from here on out. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Катерина хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Катерини загинув під час експерименту, який проводили вчені «Транстар» і я. &lt;br&gt;&lt;br&gt;Запис довелося стерти. Судячи з нього, вина за його смерть лежить на мені — але я навіть не пам'ятаю людину, яка це зробила. Катерина засмучена. Напевно тепер вона стежитиме за моїми діями. </Data>
+          <Data ss:Type="String">Мікаела хоче дізнатися, що стало з її батьком. У сховищі даних є архів аудіощоденників — записи експериментів, які відбувалися в лабораторії психотроніки. Вона попросила мене знайти останній запис, позначений номером добровольця, який був у її батька. Мені вдалося знайти і прослухати запис. Батько Мікаели загинув під час експерименту, який проводили вчені «Транстар» і я. &lt;br&gt;&lt;br&gt;Запис довелося стерти. Судячи з нього, вина за його смерть лежить на мені — але я навіть не пам'ятаю людину, яка це зробила. Мікаела засмучена. Напевно тепер вона стежитиме за моїми діями. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -160,7 +160,7 @@
           <Data ss:Type="String">Input Yuri Andronov&apos;s volunteer number to find his final audiolog entry.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ввести номер батька Катерини, щоб знайти його останній аудіощоденник</Data>
+          <Data ss:Type="String">Ввести номер батька Мікаели, щоб знайти його останній аудіощоденник</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -177,7 +177,7 @@
           <Data ss:Type="String">Transfer Yuri Andronov&apos;s final audiolog to your office workstation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Завантажити останній аудіощоденник батька Катерини в термінал у моєму кабінеті</Data>
+          <Data ss:Type="String">Завантажити останній аудіощоденник батька Мікаели в термінал у моєму кабінеті</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -194,7 +194,7 @@
           <Data ss:Type="String">Erase Yuri Andronov&apos;s final audiolog entry.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Видалити останній аудіощоденник батька Катерини</Data>
+          <Data ss:Type="String">Видалити останній аудіощоденник батька Мікаели</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -211,7 +211,7 @@
           <Data ss:Type="String">Listen to the Yuri Andronov&apos;s final audiolog with Mikhaila in your office.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Послухати останній аудіощоденник батька Катерини разом із Катериною в моєму кабінеті</Data>
+          <Data ss:Type="String">Послухати останній аудіощоденник батька Мікаели разом із Мікаелою в моєму кабінеті</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -228,7 +228,7 @@
           <Data ss:Type="String">Talk to Mikhaila</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Поговорити з Катериною</Data>
+          <Data ss:Type="String">Поговорити з Мікаелою</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -245,7 +245,7 @@
           <Data ss:Type="String">Mikhaila</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Катерина</Data>
+          <Data ss:Type="String">Мікаела</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
@@ -330,7 +330,7 @@
           <Data ss:Type="String">Mikhaila</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Катерина</Data>
+          <Data ss:Type="String">Мікаела</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String"/>
