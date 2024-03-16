@@ -11,32 +11,31 @@
     <Version>15.00</Version>
   </DocumentProperties>
   <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-    <AllowPNG />
+    <AllowPNG/>
   </OfficeDocumentSettings>
   <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
     <WindowHeight>13620</WindowHeight>
     <WindowWidth>28800</WindowWidth>
     <WindowTopX>0</WindowTopX>
     <WindowTopY>0</WindowTopY>
-    <RefModeR1C1 />
+    <RefModeR1C1/>
     <ProtectStructure>False</ProtectStructure>
     <ProtectWindows>False</ProtectWindows>
   </ExcelWorkbook>
   <Styles>
     <Style ss:ID="Default" ss:Name="Normal">
-      <Alignment ss:Vertical="Bottom" />
-      <Borders />
-      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000" />
-      <Interior />
-      <NumberFormat />
-      <Protection />
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
     </Style>
   </Styles>
   <Worksheet ss:Name="LocStuff">
-    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="279" x:FullColumns="1"
-      x:FullRows="1" ss:DefaultRowHeight="15">
-      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="510.75" />
-      <Column ss:AutoFitWidth="0" ss:Width="521.25" />
+    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="279" x:FullColumns="1" x:FullRows="1" ss:DefaultRowHeight="15">
+      <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="510.75"/>
+      <Column ss:AutoFitWidth="0" ss:Width="521.25"/>
       <Row ss:AutoFitHeight="0">
         <Cell>
           <Data ss:Type="String">KEY</Data>
@@ -76,14 +75,10 @@
           <Data ss:Type="String">loc_15373294129887560799</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Attention kitchen staff, &lt;br&gt; Board members are visiting
-            again, so it's time to break out the good stuff. If there's anything left over, we'll
-            raffle it off like last time.</Data>
+          <Data ss:Type="String">Attention kitchen staff, &lt;br&gt; Board members are visiting again, so it's time to break out the good stuff. If there's anything left over, we'll raffle it off like last time.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Attention kitchen staff, &lt;br&gt; Board members are visiting
-            again, so it's time to break out the good stuff. If there's anything left over, we'll
-            raffle it off like last time.</Data>
+          <Data ss:Type="String">Attention kitchen staff, &lt;br&gt; Board members are visiting again, so it's time to break out the good stuff. If there's anything left over, we'll raffle it off like last time.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -145,14 +140,10 @@
           <Data ss:Type="String">loc_15373294129887560803</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Danielle,&lt;br&gt;Missed you! Leaving your character sheet here,
-            but I have a spare in case you don't make it back before the game. And don't worry! It
-            looks great! See you at the Rec Center!&lt;br&gt;-Abby</Data>
+          <Data ss:Type="String">Danielle,&lt;br&gt;Missed you! Leaving your character sheet here, but I have a spare in case you don't make it back before the game. And don't worry! It looks great! See you at the Rec Center!&lt;br&gt;-Abby</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Danielle,&lt;br&gt;Missed you! Leaving your character sheet here,
-            but I have a spare in case you don't make it back before the game. And don't worry! It
-            looks great! See you at the Rec Center!&lt;br&gt;-Abby</Data>
+          <Data ss:Type="String">Danielle,&lt;br&gt;Missed you! Leaving your character sheet here, but I have a spare in case you don't make it back before the game. And don't worry! It looks great! See you at the Rec Center!&lt;br&gt;-Abby</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -180,14 +171,10 @@
           <Data ss:Type="String">loc_15373294129887560807</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">- Remember Blind Ogres can call for help w/ gongs &lt;br&gt; - Try
-            to distract Flagdasterous from using white gem against necro &lt;br&gt; - +1 lock bonus
-            to whoever figures out Dryp's riddle</Data>
+          <Data ss:Type="String">- Remember Blind Ogres can call for help w/ gongs &lt;br&gt; - Try to distract Flagdasterous from using white gem against necro &lt;br&gt; - +1 lock bonus to whoever figures out Dryp's riddle</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">- Remember Blind Ogres can call for help w/ gongs &lt;br&gt; - Try
-            to distract Flagdasterous from using white gem against necro &lt;br&gt; - +1 lock bonus
-            to whoever figures out Dryp's riddle</Data>
+          <Data ss:Type="String">- Remember Blind Ogres can call for help w/ gongs &lt;br&gt; - Try to distract Flagdasterous from using white gem against necro &lt;br&gt; - +1 lock bonus to whoever figures out Dryp's riddle</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -339,16 +326,10 @@
           <Data ss:Type="String">loc_15373294129887560817</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Todo: &lt;br&gt;* Find missing transcribe. Check
-            theater.&lt;br&gt;&lt;br&gt;* get my stuff from Abby's cabin.&lt;br&gt;&lt;br&gt;*
-            finish draft of apology letter.&lt;br&gt;&lt;br&gt;* Pull head out of ass / prioritize
-            relationships over work.</Data>
+          <Data ss:Type="String">Todo: &lt;br&gt;* Find missing transcribe. Check theater.&lt;br&gt;&lt;br&gt;* get my stuff from Abby's cabin.&lt;br&gt;&lt;br&gt;* finish draft of apology letter.&lt;br&gt;&lt;br&gt;* Pull head out of ass / prioritize relationships over work.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Todo: &lt;br&gt;* Find missing transcribe. Check
-            theater.&lt;br&gt;&lt;br&gt;* get my stuff from Abby's cabin.&lt;br&gt;&lt;br&gt;*
-            finish draft of apology letter.&lt;br&gt;&lt;br&gt;* Pull head out of ass / prioritize
-            relationships over work.</Data>
+          <Data ss:Type="String">Todo: &lt;br&gt;* Find missing transcribe. Check theater.&lt;br&gt;&lt;br&gt;* get my stuff from Abby's cabin.&lt;br&gt;&lt;br&gt;* finish draft of apology letter.&lt;br&gt;&lt;br&gt;* Pull head out of ass / prioritize relationships over work.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -407,12 +388,10 @@
           <Data ss:Type="String">loc_15373294129887560821</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[A crumpled and incomplete hand-written
-            note]&lt;br&gt;&lt;br&gt;Abby - I'm not good at this. That's obvious. Words words blah</Data>
+          <Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - I'm not good at this. That's obvious. Words words blah</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[A crumpled and incomplete hand-written
-            note]&lt;br&gt;&lt;br&gt;Abby - I'm not good at this. That's obvious. Words words blah</Data>
+          <Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - I'm not good at this. That's obvious. Words words blah</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -440,16 +419,10 @@
           <Data ss:Type="String">loc_15373294129887560823</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[A crumpled and incomplete hand-written
-            note]&lt;br&gt;&lt;br&gt;Abby - It felt more personal to write you a note. But still not
-            as terrifying as trying to apologize to you in person. I know I'm a coward but I don't
-            trust what I'm going to say so</Data>
+          <Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - It felt more personal to write you a note. But still not as terrifying as trying to apologize to you in person. I know I'm a coward but I don't trust what I'm going to say so</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[A crumpled and incomplete hand-written
-            note]&lt;br&gt;&lt;br&gt;Abby - It felt more personal to write you a note. But still not
-            as terrifying as trying to apologize to you in person. I know I'm a coward but I don't
-            trust what I'm going to say so</Data>
+          <Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - It felt more personal to write you a note. But still not as terrifying as trying to apologize to you in person. I know I'm a coward but I don't trust what I'm going to say so</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -477,14 +450,10 @@
           <Data ss:Type="String">loc_15373294129887560825</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[A crumpled and incomplete hand-written
-            note]&lt;br&gt;&lt;br&gt;Abby - Sometimes the words come running out of your mouth and
-            you want to catch them all but it's too late. They're out there. I-</Data>
+          <Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - Sometimes the words come running out of your mouth and you want to catch them all but it's too late. They're out there. I-</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[A crumpled and incomplete hand-written
-            note]&lt;br&gt;&lt;br&gt;Abby - Sometimes the words come running out of your mouth and
-            you want to catch them all but it's too late. They're out there. I-</Data>
+          <Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - Sometimes the words come running out of your mouth and you want to catch them all but it's too late. They're out there. I-</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -512,14 +481,10 @@
           <Data ss:Type="String">loc_15373294129887560827</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey, you've apparently misplaced your transcribe again. Just wanted
-            you to know I still have some of your stuff in my room. Don't know if you want it back.
-            Call me or something. - Abby</Data>
+          <Data ss:Type="String">Hey, you've apparently misplaced your transcribe again. Just wanted you to know I still have some of your stuff in my room. Don't know if you want it back. Call me or something. - Abby</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey, you've apparently misplaced your transcribe again. Just wanted
-            you to know I still have some of your stuff in my room. Don't know if you want it back.
-            Call me or something. - Abby</Data>
+          <Data ss:Type="String">Hey, you've apparently misplaced your transcribe again. Just wanted you to know I still have some of your stuff in my room. Don't know if you want it back. Call me or something. - Abby</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -547,12 +512,10 @@
           <Data ss:Type="String">loc_15373294129887560829</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Anders, your package arrived. Front desk. If I'm not here, the code
-            %key% on the gate. I won't tell anyone if you don't.</Data>
+          <Data ss:Type="String">Anders, your package arrived. Front desk. If I'm not here, the code %key% on the gate. I won't tell anyone if you don't.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Anders, your package arrived. Front desk. If I'm not here, the code
-            %key% on the gate. I won't tell anyone if you don't.</Data>
+          <Data ss:Type="String">Anders, your package arrived. Front desk. If I'm not here, the code %key% on the gate. I won't tell anyone if you don't.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -583,16 +546,10 @@
           <Data ss:Type="String">loc_15373294129887560831</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;The Yellow Tulip&lt;/b&gt;&lt;br&gt;&lt;br&gt;Join us for
-            a private celebration of TranStar's success.&lt;br&gt;&lt;br&gt;7:00 PM Alex Toast and
-            Review&lt;br&gt;8:00 PM Crew Demonstration (Skye Braxton and Danielle
-            Sho)&lt;br&gt;&lt;br&gt;Crew Facilities, 2nd Floor Mezzanine. </Data>
+          <Data ss:Type="String">&lt;b&gt;The Yellow Tulip&lt;/b&gt;&lt;br&gt;&lt;br&gt;Join us for a private celebration of TranStar's success.&lt;br&gt;&lt;br&gt;7:00 PM Alex Toast and Review&lt;br&gt;8:00 PM Crew Demonstration (Skye Braxton and Danielle Sho)&lt;br&gt;&lt;br&gt;Crew Facilities, 2nd Floor Mezzanine. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;The Yellow Tulip&lt;/b&gt;&lt;br&gt;&lt;br&gt;Join us for
-            a private celebration of TranStar's success.&lt;br&gt;&lt;br&gt;7:00 PM Alex Toast and
-            Review&lt;br&gt;8:00 PM Crew Demonstration (Skye Braxton and Danielle
-            Sho)&lt;br&gt;&lt;br&gt;Crew Facilities, 2nd Floor Mezzanine. </Data>
+          <Data ss:Type="String">&lt;b&gt;The Yellow Tulip&lt;/b&gt;&lt;br&gt;&lt;br&gt;Join us for a private celebration of TranStar's success.&lt;br&gt;&lt;br&gt;7:00 PM Alex Toast and Review&lt;br&gt;8:00 PM Crew Demonstration (Skye Braxton and Danielle Sho)&lt;br&gt;&lt;br&gt;Crew Facilities, 2nd Floor Mezzanine. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -623,12 +580,10 @@
           <Data ss:Type="String">loc_15373294129887560833</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bill, if you're injured or sick, you get a pass. Otherwise it is 75
-            min of exercise per week. MINIMUM. Code to gym is %key%. In case you forgot.</Data>
+          <Data ss:Type="String">Bill, if you're injured or sick, you get a pass. Otherwise it is 75 min of exercise per week. MINIMUM. Code to gym is %key%. In case you forgot.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Bill, if you're injured or sick, you get a pass. Otherwise it is 75
-            min of exercise per week. MINIMUM. Code to gym is %key%. In case you forgot.</Data>
+          <Data ss:Type="String">Bill, if you're injured or sick, you get a pass. Otherwise it is 75 min of exercise per week. MINIMUM. Code to gym is %key%. In case you forgot.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -718,14 +673,10 @@
           <Data ss:Type="String">loc_15373294129887560865</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Test for 3/24&lt;br&gt;- Re-order tests&lt;br&gt;- Lucia on
-            observation (see Bellamy)&lt;br&gt;- FLAMMABILITY TESTS CANCELED
-            &lt;u&gt;INDEFINITELY&lt;/u&gt;&lt;br&gt;- Alex wants to greet Morgan before test.</Data>
+          <Data ss:Type="String">Test for 3/24&lt;br&gt;- Re-order tests&lt;br&gt;- Lucia on observation (see Bellamy)&lt;br&gt;- FLAMMABILITY TESTS CANCELED &lt;u&gt;INDEFINITELY&lt;/u&gt;&lt;br&gt;- Alex wants to greet Morgan before test.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Test for 3/24&lt;br&gt;- Re-order tests&lt;br&gt;- Lucia on
-            observation (see Bellamy)&lt;br&gt;- FLAMMABILITY TESTS CANCELED
-            &lt;u&gt;INDEFINITELY&lt;/u&gt;&lt;br&gt;- Alex wants to greet Morgan before test.</Data>
+          <Data ss:Type="String">Test for 3/24&lt;br&gt;- Re-order tests&lt;br&gt;- Lucia on observation (see Bellamy)&lt;br&gt;- FLAMMABILITY TESTS CANCELED &lt;u&gt;INDEFINITELY&lt;/u&gt;&lt;br&gt;- Alex wants to greet Morgan before test.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -784,16 +735,10 @@
           <Data ss:Type="String">loc_15373294129887560871</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Manufacturing Order NO. 65489&lt;br&gt;Deliver To: Marco
-            Simmons&lt;br&gt;From: Fabrication Dept.&lt;br&gt;&lt;br&gt;SKU#
-            TSNM008x3&lt;br&gt;&lt;br&gt;&lt;i&gt;Marking this entire SKU as defective. Investigate
-            w/ Fabrication&lt;/i&gt; - Marco</Data>
+          <Data ss:Type="String">Manufacturing Order NO. 65489&lt;br&gt;Deliver To: Marco Simmons&lt;br&gt;From: Fabrication Dept.&lt;br&gt;&lt;br&gt;SKU# TSNM008x3&lt;br&gt;&lt;br&gt;&lt;i&gt;Marking this entire SKU as defective. Investigate w/ Fabrication&lt;/i&gt; - Marco</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Manufacturing Order NO. 65489&lt;br&gt;Deliver To: Marco
-            Simmons&lt;br&gt;From: Fabrication Dept.&lt;br&gt;&lt;br&gt;SKU#
-            TSNM008x3&lt;br&gt;&lt;br&gt;&lt;i&gt;Marking this entire SKU as defective. Investigate
-            w/ Fabrication&lt;/i&gt; - Marco</Data>
+          <Data ss:Type="String">Manufacturing Order NO. 65489&lt;br&gt;Deliver To: Marco Simmons&lt;br&gt;From: Fabrication Dept.&lt;br&gt;&lt;br&gt;SKU# TSNM008x3&lt;br&gt;&lt;br&gt;&lt;i&gt;Marking this entire SKU as defective. Investigate w/ Fabrication&lt;/i&gt; - Marco</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -821,16 +766,10 @@
           <Data ss:Type="String">loc_15373294129887560875</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's come to our attention that some volunteers are gambling with
-            their rations, as well as with contraband being smuggled in from the outside. This is a
-            reminder that only game chips can be used for card games. Inspections will be increased
-            to twice weekly. Thank you for your cooperation.</Data>
+          <Data ss:Type="String">It's come to our attention that some volunteers are gambling with their rations, as well as with contraband being smuggled in from the outside. This is a reminder that only game chips can be used for card games. Inspections will be increased to twice weekly. Thank you for your cooperation.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">It's come to our attention that some volunteers are gambling with
-            their rations, as well as with contraband being smuggled in from the outside. This is a
-            reminder that only game chips can be used for card games. Inspections will be increased
-            to twice weekly. Thank you for your cooperation.</Data>
+          <Data ss:Type="String">It's come to our attention that some volunteers are gambling with their rations, as well as with contraband being smuggled in from the outside. This is a reminder that only game chips can be used for card games. Inspections will be increased to twice weekly. Thank you for your cooperation.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -858,18 +797,10 @@
           <Data ss:Type="String">loc_15373294129887560879</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;(Feb 22nd, 2035):&lt;/b&gt;&lt;br&gt;00:00-07:30 -
-            Sleeping&lt;br&gt;07:31 - Wakes up, turns off alarm&lt;br&gt;07:32 - Checks
-            transcribe&lt;br&gt;07:34-07:55 - On computer, various tasks&lt;br&gt;08:04 - Takes
-            shower&lt;br&gt;08:26 - Puts on uniform, exits
-            apartment.&lt;br&gt;&lt;br&gt;&lt;b&gt;(Feb 23nd, 2035):&lt;/b&gt;&lt;BR&gt;</Data>
+          <Data ss:Type="String">&lt;b&gt;(Feb 22nd, 2035):&lt;/b&gt;&lt;br&gt;00:00-07:30 - Sleeping&lt;br&gt;07:31 - Wakes up, turns off alarm&lt;br&gt;07:32 - Checks transcribe&lt;br&gt;07:34-07:55 - On computer, various tasks&lt;br&gt;08:04 - Takes shower&lt;br&gt;08:26 - Puts on uniform, exits apartment.&lt;br&gt;&lt;br&gt;&lt;b&gt;(Feb 23nd, 2035):&lt;/b&gt;&lt;BR&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;(Feb 22nd, 2035):&lt;/b&gt;&lt;br&gt;00:00-07:30 -
-            Sleeping&lt;br&gt;07:31 - Wakes up, turns off alarm&lt;br&gt;07:32 - Checks
-            transcribe&lt;br&gt;07:34-07:55 - On computer, various tasks&lt;br&gt;08:04 - Takes
-            shower&lt;br&gt;08:26 - Puts on uniform, exits
-            apartment.&lt;br&gt;&lt;br&gt;&lt;b&gt;(Feb 23nd, 2035):&lt;/b&gt;&lt;BR&gt;</Data>
+          <Data ss:Type="String">&lt;b&gt;(Feb 22nd, 2035):&lt;/b&gt;&lt;br&gt;00:00-07:30 - Sleeping&lt;br&gt;07:31 - Wakes up, turns off alarm&lt;br&gt;07:32 - Checks transcribe&lt;br&gt;07:34-07:55 - On computer, various tasks&lt;br&gt;08:04 - Takes shower&lt;br&gt;08:26 - Puts on uniform, exits apartment.&lt;br&gt;&lt;br&gt;&lt;b&gt;(Feb 23nd, 2035):&lt;/b&gt;&lt;BR&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -959,12 +890,10 @@
           <Data ss:Type="String">loc_15373294129887560889</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">REMINDER: Workers on the fabrication floor must scrub up to their
-            elbows before entering the gowning area. NO EXCEPTIONS! - J. Graves&lt;br&gt;</Data>
+          <Data ss:Type="String">REMINDER: Workers on the fabrication floor must scrub up to their elbows before entering the gowning area. NO EXCEPTIONS!  - J. Graves&lt;br&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">REMINDER: Workers on the fabrication floor must scrub up to their
-            elbows before entering the gowning area. NO EXCEPTIONS! - J. Graves&lt;br&gt;</Data>
+          <Data ss:Type="String">REMINDER: Workers on the fabrication floor must scrub up to their elbows before entering the gowning area. NO EXCEPTIONS!  - J. Graves&lt;br&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1026,22 +955,10 @@
           <Data ss:Type="String">loc_15373294129887560895</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Divya, I'm trying to get into Graves' office to override the door
-            to fabrication! I have his keycard but he's not responding. If you don't hear from me
-            there's another way out. There's a passage behind a panel in the upper labs. It leads to
-            the volunteer quarters. You should be able to escape that way. I also managed to figure
-            out the access code and password for the security station near the
-            entrance.&lt;br&gt;Code: %key%&lt;br&gt;Password:%password%&lt;br&gt; Good
-            luck!&lt;br&gt;&lt;br&gt; - Frederick</Data>
+          <Data ss:Type="String">Divya, I'm trying to get into Graves' office to override the door to fabrication! I have his keycard but he's not responding. If you don't hear from me there's another way out. There's a passage behind a panel in the upper labs. It leads to the volunteer quarters. You should be able to escape that way. I also managed to figure out the access code and password for the security station near the entrance.&lt;br&gt;Code: %key%&lt;br&gt;Password:%password%&lt;br&gt; Good luck!&lt;br&gt;&lt;br&gt; - Frederick</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Divya, I'm trying to get into Graves' office to override the door
-            to fabrication! I have his keycard but he's not responding. If you don't hear from me
-            there's another way out. There's a passage behind a panel in the upper labs. It leads to
-            the volunteer quarters. You should be able to escape that way. I also managed to figure
-            out the access code and password for the security station near the
-            entrance.&lt;br&gt;Code: %key%&lt;br&gt;Password:%password%&lt;br&gt; Good
-            luck!&lt;br&gt;&lt;br&gt; - Frederick</Data>
+          <Data ss:Type="String">Divya, I'm trying to get into Graves' office to override the door to fabrication! I have his keycard but he's not responding. If you don't hear from me there's another way out. There's a passage behind a panel in the upper labs. It leads to the volunteer quarters. You should be able to escape that way. I also managed to figure out the access code and password for the security station near the entrance.&lt;br&gt;Code: %key%&lt;br&gt;Password:%password%&lt;br&gt; Good luck!&lt;br&gt;&lt;br&gt; - Frederick</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1103,16 +1020,10 @@
           <Data ss:Type="String">loc_15373294129887560899</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Patricia, I hear you're taking my spot tomorrow. Some things to
-            keep in mind.&lt;br&gt;&lt;br&gt;- Be in place by 8:50 AM, simulation time&lt;br&gt;-
-            Don't talk to the subject&lt;br&gt;-Make sure the doors to the backstage are
-            locked.&lt;br&gt;-Don't bother the observation techs, they get cranky after long shifts.</Data>
+          <Data ss:Type="String">Patricia, I hear you're taking my spot tomorrow. Some things to keep in mind.&lt;br&gt;&lt;br&gt;- Be in place by 8:50 AM, simulation time&lt;br&gt;- Don't talk to the subject&lt;br&gt;-Make sure the doors to the backstage are locked.&lt;br&gt;-Don't bother the observation techs, they get cranky after long shifts.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Patricia, I hear you're taking my spot tomorrow. Some things to
-            keep in mind.&lt;br&gt;&lt;br&gt;- Be in place by 8:50 AM, simulation time&lt;br&gt;-
-            Don't talk to the subject&lt;br&gt;-Make sure the doors to the backstage are
-            locked.&lt;br&gt;-Don't bother the observation techs, they get cranky after long shifts.</Data>
+          <Data ss:Type="String">Patricia, I hear you're taking my spot tomorrow. Some things to keep in mind.&lt;br&gt;&lt;br&gt;- Be in place by 8:50 AM, simulation time&lt;br&gt;- Don't talk to the subject&lt;br&gt;-Make sure the doors to the backstage are locked.&lt;br&gt;-Don't bother the observation techs, they get cranky after long shifts.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1140,12 +1051,10 @@
           <Data ss:Type="String">loc_15373294129887560901</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sorry Morgan. Not sure how you managed this, but I can't let you
-            have this keycard. Trust me. You'd regret it. - Alex</Data>
+          <Data ss:Type="String">Sorry Morgan. Not sure how you managed this, but I can't let you have this keycard. Trust me. You'd regret it. - Alex</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Sorry Morgan. Not sure how you managed this, but I can't let you
-            have this keycard. Trust me. You'd regret it. - Alex</Data>
+          <Data ss:Type="String">Sorry Morgan. Not sure how you managed this, but I can't let you have this keycard. Trust me. You'd regret it. - Alex</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1173,20 +1082,10 @@
           <Data ss:Type="String">loc_15373294129887560903</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">- Recycling charges x3&lt;br&gt;- Wiring&lt;br&gt;- Plastic
-            Tubing&lt;br&gt;- Flask Bourbon x2&lt;br&gt;- Case of Cigars&lt;br&gt;&lt;br&gt;John,
-            I'd take this stuff pretty seriously. I've already alerted Alex to the nature of this
-            contraband. We're taking V-010655-37 out of here. Cigars and booze are one thing, but we
-            can't have volunteers stockpiling stolen recylcer charges. What do you think he plans to
-            do?&lt;br&gt;&lt;br&gt;- Bowser</Data>
+          <Data ss:Type="String">- Recycling charges x3&lt;br&gt;- Wiring&lt;br&gt;- Plastic Tubing&lt;br&gt;- Flask Bourbon x2&lt;br&gt;- Case of Cigars&lt;br&gt;&lt;br&gt;John, I'd take this stuff pretty seriously. I've already alerted Alex to the nature of this contraband. We're taking V-010655-37 out of here. Cigars and booze are one thing, but we can't have volunteers stockpiling stolen recylcer charges. What do you think he plans to do?&lt;br&gt;&lt;br&gt;- Bowser</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">- Recycling charges x3&lt;br&gt;- Wiring&lt;br&gt;- Plastic
-            Tubing&lt;br&gt;- Flask Bourbon x2&lt;br&gt;- Case of Cigars&lt;br&gt;&lt;br&gt;John,
-            I'd take this stuff pretty seriously. I've already alerted Alex to the nature of this
-            contraband. We're taking V-010655-37 out of here. Cigars and booze are one thing, but we
-            can't have volunteers stockpiling stolen recylcer charges. What do you think he plans to
-            do?&lt;br&gt;&lt;br&gt;- Bowser</Data>
+          <Data ss:Type="String">- Recycling charges x3&lt;br&gt;- Wiring&lt;br&gt;- Plastic Tubing&lt;br&gt;- Flask Bourbon x2&lt;br&gt;- Case of Cigars&lt;br&gt;&lt;br&gt;John, I'd take this stuff pretty seriously. I've already alerted Alex to the nature of this contraband. We're taking V-010655-37 out of here. Cigars and booze are one thing, but we can't have volunteers stockpiling stolen recylcer charges. What do you think he plans to do?&lt;br&gt;&lt;br&gt;- Bowser</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1214,12 +1113,10 @@
           <Data ss:Type="String">loc_15373294129887560907</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Wade - PLEASE PLEASE PLEASE with a cherry on top fix the Medical
-            Operator that's been sitting on your desk? &lt;br&gt;-Goldcrest</Data>
+          <Data ss:Type="String">Wade - PLEASE PLEASE PLEASE with a cherry on top fix the Medical Operator that's been sitting on your desk? &lt;br&gt;-Goldcrest</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Wade - PLEASE PLEASE PLEASE with a cherry on top fix the Medical
-            Operator that's been sitting on your desk? &lt;br&gt;-Goldcrest</Data>
+          <Data ss:Type="String">Wade - PLEASE PLEASE PLEASE with a cherry on top fix the Medical Operator that's been sitting on your desk? &lt;br&gt;-Goldcrest</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1247,12 +1144,10 @@
           <Data ss:Type="String">loc_15373294129887560913</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Sellers,&lt;br&gt;&lt;br&gt;Medical Operator Dispenser, new pw
-            = %password%. Sorry, we had to replace the console.&lt;br&gt;-Chris</Data>
+          <Data ss:Type="String">Dr. Sellers,&lt;br&gt;&lt;br&gt;Medical Operator Dispenser, new pw = %password%. Sorry, we had to replace the console.&lt;br&gt;-Chris</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Dr. Sellers,&lt;br&gt;&lt;br&gt;Medical Operator Dispenser, new pw
-            = %password%. Sorry, we had to replace the console.&lt;br&gt;-Chris</Data>
+          <Data ss:Type="String">Dr. Sellers,&lt;br&gt;&lt;br&gt;Medical Operator Dispenser, new pw = %password%. Sorry, we had to replace the console.&lt;br&gt;-Chris</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1280,18 +1175,10 @@
           <Data ss:Type="String">loc_15373294129887560923</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;SUBJECT:&lt;/b&gt; Trevor J.
-            Young&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; 02.20.35&lt;br&gt;&lt;br&gt;Subject appears
-            disorientated, paranoid. Not sure how much of current behavior is due to the incident
-            versus his recent Neuromod removals. Recommend continued
-            observation.&lt;br&gt;&lt;br&gt;Mathias Kohl</Data>
+          <Data ss:Type="String">&lt;b&gt;SUBJECT:&lt;/b&gt; Trevor J. Young&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; 02.20.35&lt;br&gt;&lt;br&gt;Subject appears disorientated, paranoid. Not sure how much of current behavior is due to the incident versus his recent Neuromod removals. Recommend continued observation.&lt;br&gt;&lt;br&gt;Mathias Kohl</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;SUBJECT:&lt;/b&gt; Trevor J.
-            Young&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; 02.20.35&lt;br&gt;&lt;br&gt;Subject appears
-            disorientated, paranoid. Not sure how much of current behavior is due to the incident
-            versus his recent Neuromod removals. Recommend continued
-            observation.&lt;br&gt;&lt;br&gt;Mathias Kohl</Data>
+          <Data ss:Type="String">&lt;b&gt;SUBJECT:&lt;/b&gt; Trevor J. Young&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; 02.20.35&lt;br&gt;&lt;br&gt;Subject appears disorientated, paranoid. Not sure how much of current behavior is due to the incident versus his recent Neuromod removals. Recommend continued observation.&lt;br&gt;&lt;br&gt;Mathias Kohl</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1350,14 +1237,10 @@
           <Data ss:Type="String">loc_15373294129887560949</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Elias,&lt;br&gt;You left your character sheet on the printer. Don't
-            forget we moved the game to the rec center in Crew Facilities and it's an hour later
-            than usual. Do us a favor and take a happy pill before showing up. See you there. </Data>
+          <Data ss:Type="String">Elias,&lt;br&gt;You left your character sheet on the printer.  Don't forget we moved the game to the rec center in Crew Facilities and it's an hour later than usual.  Do us a favor and take a happy pill before showing up.  See you there.  </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Elias,&lt;br&gt;You left your character sheet on the printer. Don't
-            forget we moved the game to the rec center in Crew Facilities and it's an hour later
-            than usual. Do us a favor and take a happy pill before showing up. See you there. </Data>
+          <Data ss:Type="String">Elias,&lt;br&gt;You left your character sheet on the printer.  Don't forget we moved the game to the rec center in Crew Facilities and it's an hour later than usual.  Do us a favor and take a happy pill before showing up.  See you there.  </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1385,12 +1268,10 @@
           <Data ss:Type="String">loc_15373294129887560951</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Demetri's being held like you asked. He knew the door code so I
-            changed it to %key%.</Data>
+          <Data ss:Type="String">Demetri's being held like you asked.  He knew the door code so I changed it to %key%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Demetri's being held like you asked. He knew the door code so I
-            changed it to %key%.</Data>
+          <Data ss:Type="String">Demetri's being held like you asked.  He knew the door code so I changed it to %key%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1421,24 +1302,10 @@
           <Data ss:Type="String">loc_15373294129887560953</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ms Elazar,&lt;br&gt;I don't know what I saw but I was just trying
-            to do my job. Now I worry I might not get a chance to talk to you so I'm writing this. I
-            don't recall the last time I was scared, but what happened in Sim...&lt;br&gt;I can't
-            get it out of my head.&lt;br&gt;Whatever is happening, I want to help, not sit here in
-            this room. &lt;br&gt;I'm starting to feel like people on station haven't been shooting
-            straight. Like what do they actually do in Psychotronics? No one I talk to goes in
-            there. And Yuri Kimura has un-numbered Neuromods in her office that I thought you should
-            know about. </Data>
+          <Data ss:Type="String">Ms Elazar,&lt;br&gt;I don't know what I saw but I was just trying to do my job. Now I worry I might not get a chance to talk to you so I'm writing this. I don't recall the last time I was scared, but what happened in Sim...&lt;br&gt;I can't get it out of my head.&lt;br&gt;Whatever is happening, I want to help, not sit here in this room. &lt;br&gt;I'm starting to feel like people on station haven't been shooting straight. Like what do they actually do in Psychotronics? No one I talk to goes in there. And Yuri Kimura has un-numbered Neuromods in her office that I thought you should know about. </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Ms Elazar,&lt;br&gt;I don't know what I saw but I was just trying
-            to do my job. Now I worry I might not get a chance to talk to you so I'm writing this. I
-            don't recall the last time I was scared, but what happened in Sim...&lt;br&gt;I can't
-            get it out of my head.&lt;br&gt;Whatever is happening, I want to help, not sit here in
-            this room. &lt;br&gt;I'm starting to feel like people on station haven't been shooting
-            straight. Like what do they actually do in Psychotronics? No one I talk to goes in
-            there. And Yuri Kimura has un-numbered Neuromods in her office that I thought you should
-            know about. </Data>
+          <Data ss:Type="String">Ms Elazar,&lt;br&gt;I don't know what I saw but I was just trying to do my job. Now I worry I might not get a chance to talk to you so I'm writing this. I don't recall the last time I was scared, but what happened in Sim...&lt;br&gt;I can't get it out of my head.&lt;br&gt;Whatever is happening, I want to help, not sit here in this room. &lt;br&gt;I'm starting to feel like people on station haven't been shooting straight. Like what do they actually do in Psychotronics? No one I talk to goes in there. And Yuri Kimura has un-numbered Neuromods in her office that I thought you should know about. </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1466,12 +1333,10 @@
           <Data ss:Type="String">loc_15373294129887560955</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Staff:&lt;br&gt;Please move these remaining boxes to my new office
-            in Neuromod Div as soon as feasible.</Data>
+          <Data ss:Type="String">Staff:&lt;br&gt;Please move these remaining boxes to my new office in Neuromod Div as soon as feasible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Staff:&lt;br&gt;Please move these remaining boxes to my new office
-            in Neuromod Div as soon as feasible.</Data>
+          <Data ss:Type="String">Staff:&lt;br&gt;Please move these remaining boxes to my new office in Neuromod Div as soon as feasible.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1499,16 +1364,10 @@
           <Data ss:Type="String">loc_15373294129887560963</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please relay the following to the security crew at the next staff
-            meeting. &quot;Earthside sent a very good appraisal of our provisioning and cargo staff
-            during last month's visit by a Board of Directors member. Talos cargo staff performed
-            admirably during the inspection. Well done.&quot; Keep up the good work!</Data>
+          <Data ss:Type="String">Please relay the following to the security crew at the next staff meeting. &quot;Earthside sent a very good appraisal of our provisioning and cargo staff during last month's visit by a Board of Directors member. Talos cargo staff performed admirably during the inspection. Well done.&quot; Keep up the good work!</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please relay the following to the security crew at the next staff
-            meeting. &quot;Earthside sent a very good appraisal of our provisioning and cargo staff
-            during last month's visit by a Board of Directors member. Talos cargo staff performed
-            admirably during the inspection. Well done.&quot; Keep up the good work!</Data>
+          <Data ss:Type="String">Please relay the following to the security crew at the next staff meeting. &quot;Earthside sent a very good appraisal of our provisioning and cargo staff during last month's visit by a Board of Directors member. Talos cargo staff performed admirably during the inspection. Well done.&quot; Keep up the good work!</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1536,12 +1395,10 @@
           <Data ss:Type="String">loc_15373294129887560965</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Suspected contraband in container 3232 near G.U.T.S. Use code %key%
-            to enter and search. Report findings ASAP.</Data>
+          <Data ss:Type="String">Suspected contraband in container 3232 near G.U.T.S. Use code %key% to enter and search. Report findings ASAP.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Suspected contraband in container 3232 near G.U.T.S. Use code %key%
-            to enter and search. Report findings ASAP.</Data>
+          <Data ss:Type="String">Suspected contraband in container 3232 near G.U.T.S. Use code %key% to enter and search. Report findings ASAP.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1569,12 +1426,10 @@
           <Data ss:Type="String">loc_15373294129887560987</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Whoever keeps making duplicate items - STOP. Fabricator is not a
-            toy. Materials are not unlimited. - Tim</Data>
+          <Data ss:Type="String">Whoever keeps making duplicate items - STOP. Fabricator is not a toy. Materials are not unlimited. - Tim</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Whoever keeps making duplicate items - STOP. Fabricator is not a
-            toy. Materials are not unlimited. - Tim</Data>
+          <Data ss:Type="String">Whoever keeps making duplicate items - STOP. Fabricator is not a toy. Materials are not unlimited. - Tim</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1664,12 +1519,10 @@
           <Data ss:Type="String">loc_15373294129887560995</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">WARNING - Please do not touch any of the controls or enter the pod
-            without checking with Franklin.</Data>
+          <Data ss:Type="String">WARNING - Please do not touch any of the controls or enter the pod without checking with Franklin.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">WARNING - Please do not touch any of the controls or enter the pod
-            without checking with Franklin.</Data>
+          <Data ss:Type="String">WARNING - Please do not touch any of the controls or enter the pod without checking with Franklin.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1700,20 +1553,10 @@
           <Data ss:Type="String">loc_15373294129887560997</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shuttle Exalt Flight Schedule - Week of the 19th&lt;br&gt;Pilot:
-            Hunter Hale&lt;br&gt;&lt;br&gt;02-19-35 - Arrival Time 06:00AM&lt;br&gt;New Hires &amp;
-            Care Packages&lt;br&gt;&lt;br&gt;02-20-35 - Maintenance&lt;br&gt;&lt;br&gt;02-21-35 -
-            Departure Time 07:00AM&lt;br&gt;Board Members&lt;br&gt;&lt;br&gt;02-22-35 - Arrival Time
-            07:00AM&lt;br&gt;No Cargo&lt;br&gt;&lt;br&gt;02-23-35 - Departure Time
-            08:00AM&lt;br&gt;Volunteer Passengers &amp; Crew Packages</Data>
+          <Data ss:Type="String">Shuttle Exalt Flight Schedule - Week of the 19th&lt;br&gt;Pilot: Hunter Hale&lt;br&gt;&lt;br&gt;02-19-35 - Arrival Time 06:00AM&lt;br&gt;New Hires &amp; Care Packages&lt;br&gt;&lt;br&gt;02-20-35 - Maintenance&lt;br&gt;&lt;br&gt;02-21-35 - Departure Time 07:00AM&lt;br&gt;Board Members&lt;br&gt;&lt;br&gt;02-22-35 - Arrival Time 07:00AM&lt;br&gt;No Cargo&lt;br&gt;&lt;br&gt;02-23-35 - Departure Time 08:00AM&lt;br&gt;Volunteer Passengers &amp; Crew Packages</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shuttle Exalt Flight Schedule - Week of the 19th&lt;br&gt;Pilot:
-            Hunter Hale&lt;br&gt;&lt;br&gt;02-19-35 - Arrival Time 06:00AM&lt;br&gt;New Hires &amp;
-            Care Packages&lt;br&gt;&lt;br&gt;02-20-35 - Maintenance&lt;br&gt;&lt;br&gt;02-21-35 -
-            Departure Time 07:00AM&lt;br&gt;Board Members&lt;br&gt;&lt;br&gt;02-22-35 - Arrival Time
-            07:00AM&lt;br&gt;No Cargo&lt;br&gt;&lt;br&gt;02-23-35 - Departure Time
-            08:00AM&lt;br&gt;Volunteer Passengers &amp; Crew Packages</Data>
+          <Data ss:Type="String">Shuttle Exalt Flight Schedule - Week of the 19th&lt;br&gt;Pilot: Hunter Hale&lt;br&gt;&lt;br&gt;02-19-35 - Arrival Time 06:00AM&lt;br&gt;New Hires &amp; Care Packages&lt;br&gt;&lt;br&gt;02-20-35 - Maintenance&lt;br&gt;&lt;br&gt;02-21-35 - Departure Time 07:00AM&lt;br&gt;Board Members&lt;br&gt;&lt;br&gt;02-22-35 - Arrival Time 07:00AM&lt;br&gt;No Cargo&lt;br&gt;&lt;br&gt;02-23-35 - Departure Time 08:00AM&lt;br&gt;Volunteer Passengers &amp; Crew Packages</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1741,12 +1584,10 @@
           <Data ss:Type="String">loc_15373294129887561011</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Todd stowed 3553 before it was completely empty. If you feel like a
-            snack...</Data>
+          <Data ss:Type="String">Todd stowed 3553 before it was completely empty. If you feel like a snack...</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Todd stowed 3553 before it was completely empty. If you feel like a
-            snack...</Data>
+          <Data ss:Type="String">Todd stowed 3553 before it was completely empty. If you feel like a snack...</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1774,12 +1615,10 @@
           <Data ss:Type="String">loc_15373294129887561021</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Locked out until I update my credentials. How about %password% ?
-            Won't forget that any time soon.</Data>
+          <Data ss:Type="String">Locked out until I update my credentials. How about %password% ? Won't forget that any time soon.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Locked out until I update my credentials. How about %password% ?
-            Won't forget that any time soon.</Data>
+          <Data ss:Type="String">Locked out until I update my credentials. How about %password% ? Won't forget that any time soon.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1807,12 +1646,10 @@
           <Data ss:Type="String">loc_15373294129887561023</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey Jessica, login with %password% if you need access to the cages.
-            Don't tell anyone. It'll make me look stupid.</Data>
+          <Data ss:Type="String">Hey Jessica, login with %password% if you need access to the cages. Don't tell anyone. It'll make me look stupid.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey Jessica, login with %password% if you need access to the cages.
-            Don't tell anyone. It'll make me look stupid.</Data>
+          <Data ss:Type="String">Hey Jessica, login with %password% if you need access to the cages. Don't tell anyone. It'll make me look stupid.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1840,12 +1677,10 @@
           <Data ss:Type="String">loc_15373294129887561025</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Send someone to find a cutting torch. We need to get into these
-            cargo cages and see what supplies are in here. -Sarah</Data>
+          <Data ss:Type="String">Send someone to find a cutting torch. We need to get into these cargo cages and see what supplies are in here. -Sarah</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Send someone to find a cutting torch. We need to get into these
-            cargo cages and see what supplies are in here. -Sarah</Data>
+          <Data ss:Type="String">Send someone to find a cutting torch. We need to get into these cargo cages and see what supplies are in here. -Sarah</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1873,22 +1708,10 @@
           <Data ss:Type="String">loc_15373294129887561031</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've gathered all the supplies I could find and it looks like we
-            have enough food to hold out for several days as long as we are rationing. Here is an
-            inventory: &lt;br&gt;3 bananas (use these first, they are going bad) &lt;br&gt;2
-            pomegranates &lt;br&gt;2 Dim Sum &lt;br&gt;1 Cookie box &lt;br&gt;1 Fish
-            Sticks&lt;br&gt;5 Unagi Rolls &lt;br&gt;3 Udon noodles &lt;br&gt;1 Veggie blend
-            &lt;br&gt;1 Jellied eels (gross) &lt;br&gt;1 Caviar &lt;br&gt;We have all the water we
-            need as long as the fountain keeps working.</Data>
+          <Data ss:Type="String">I've gathered all the supplies I could find and it looks like we have enough food to hold out for several days as long as we are rationing. Here is an inventory: &lt;br&gt;3 bananas (use these first, they are going bad) &lt;br&gt;2 pomegranates &lt;br&gt;2 Dim Sum &lt;br&gt;1 Cookie box &lt;br&gt;1 Fish Sticks&lt;br&gt;5 Unagi Rolls &lt;br&gt;3 Udon noodles &lt;br&gt;1 Veggie blend &lt;br&gt;1 Jellied eels (gross) &lt;br&gt;1 Caviar &lt;br&gt;We have all the water we need as long as the fountain  keeps working.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">I've gathered all the supplies I could find and it looks like we
-            have enough food to hold out for several days as long as we are rationing. Here is an
-            inventory: &lt;br&gt;3 bananas (use these first, they are going bad) &lt;br&gt;2
-            pomegranates &lt;br&gt;2 Dim Sum &lt;br&gt;1 Cookie box &lt;br&gt;1 Fish
-            Sticks&lt;br&gt;5 Unagi Rolls &lt;br&gt;3 Udon noodles &lt;br&gt;1 Veggie blend
-            &lt;br&gt;1 Jellied eels (gross) &lt;br&gt;1 Caviar &lt;br&gt;We have all the water we
-            need as long as the fountain keeps working.</Data>
+          <Data ss:Type="String">I've gathered all the supplies I could find and it looks like we have enough food to hold out for several days as long as we are rationing. Here is an inventory: &lt;br&gt;3 bananas (use these first, they are going bad) &lt;br&gt;2 pomegranates &lt;br&gt;2 Dim Sum &lt;br&gt;1 Cookie box &lt;br&gt;1 Fish Sticks&lt;br&gt;5 Unagi Rolls &lt;br&gt;3 Udon noodles &lt;br&gt;1 Veggie blend &lt;br&gt;1 Jellied eels (gross) &lt;br&gt;1 Caviar &lt;br&gt;We have all the water we need as long as the fountain  keeps working.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1919,28 +1742,10 @@
           <Data ss:Type="String">loc_15373294129887561033</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;i&gt;To be completed within 6 hours of
-            incident&lt;/i&gt;&lt;br&gt;&lt;br&gt;Date:&lt;br&gt;Time:&lt;br&gt;Location: Fuel
-            Storage&lt;br&gt;&lt;br&gt;Details of Incident:&lt;br&gt;The accident occurred during
-            fuel transfer. The blast walls held. Now the blast door is closed and the damage
-            contained, but we lost some crew in there. Power has been knocked out to multiple cargo
-            systems. Can't get the resources I need to get in there; everyone is tied up. I don't
-            know why I'm filling this out, except I don't know what else to do at this point. Talos
-            is falling apart...&lt;br&gt;&lt;br&gt;Damaged Equipment:&lt;br&gt;Damage
-            Extent:&lt;br&gt;&lt;br&gt;Injured Persons:&lt;br&gt;Injury
-            Type:&lt;br&gt;&lt;br&gt;Prepared By:&lt;br&gt;Date:</Data>
+          <Data ss:Type="String">&lt;i&gt;To be completed within 6 hours of incident&lt;/i&gt;&lt;br&gt;&lt;br&gt;Date:&lt;br&gt;Time:&lt;br&gt;Location: Fuel Storage&lt;br&gt;&lt;br&gt;Details of Incident:&lt;br&gt;The accident occurred during fuel transfer. The blast walls held. Now the blast door is closed and the damage contained, but we lost some crew in there. Power has been knocked out to multiple cargo systems. Can't get the resources I need to get in there; everyone is tied up. I don't know why I'm filling this out, except I don't know what else to do at this point. Talos is falling apart...&lt;br&gt;&lt;br&gt;Damaged Equipment:&lt;br&gt;Damage Extent:&lt;br&gt;&lt;br&gt;Injured Persons:&lt;br&gt;Injury Type:&lt;br&gt;&lt;br&gt;Prepared By:&lt;br&gt;Date:</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;i&gt;To be completed within 6 hours of
-            incident&lt;/i&gt;&lt;br&gt;&lt;br&gt;Date:&lt;br&gt;Time:&lt;br&gt;Location: Fuel
-            Storage&lt;br&gt;&lt;br&gt;Details of Incident:&lt;br&gt;The accident occurred during
-            fuel transfer. The blast walls held. Now the blast door is closed and the damage
-            contained, but we lost some crew in there. Power has been knocked out to multiple cargo
-            systems. Can't get the resources I need to get in there; everyone is tied up. I don't
-            know why I'm filling this out, except I don't know what else to do at this point. Talos
-            is falling apart...&lt;br&gt;&lt;br&gt;Damaged Equipment:&lt;br&gt;Damage
-            Extent:&lt;br&gt;&lt;br&gt;Injured Persons:&lt;br&gt;Injury
-            Type:&lt;br&gt;&lt;br&gt;Prepared By:&lt;br&gt;Date:</Data>
+          <Data ss:Type="String">&lt;i&gt;To be completed within 6 hours of incident&lt;/i&gt;&lt;br&gt;&lt;br&gt;Date:&lt;br&gt;Time:&lt;br&gt;Location: Fuel Storage&lt;br&gt;&lt;br&gt;Details of Incident:&lt;br&gt;The accident occurred during fuel transfer. The blast walls held. Now the blast door is closed and the damage contained, but we lost some crew in there. Power has been knocked out to multiple cargo systems. Can't get the resources I need to get in there; everyone is tied up. I don't know why I'm filling this out, except I don't know what else to do at this point. Talos is falling apart...&lt;br&gt;&lt;br&gt;Damaged Equipment:&lt;br&gt;Damage Extent:&lt;br&gt;&lt;br&gt;Injured Persons:&lt;br&gt;Injury Type:&lt;br&gt;&lt;br&gt;Prepared By:&lt;br&gt;Date:</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -1999,22 +1804,10 @@
           <Data ss:Type="String">loc_15373294129887561049</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Entry 165: I've managed to reduce the growth time to around 10
-            minutes per fruit. It's remarkable to see them sprout from practically nothing and grow
-            to an edible size and ripeness before my very eyes.&lt;br&gt;More importantly, I finally
-            obtained clearance for wider range testing of the growth formula from Dr. Kelstrup. All
-            that's left is actually fabricating it, and then inserting it in the sprinkler system.
-            I'm keeping the fabrication plan on my person, as I have no doubt others would love to
-            claim credit for it.&lt;br&gt;- Dr. Julien Howard</Data>
+          <Data ss:Type="String">Entry 165: I've managed to reduce the growth time to around 10 minutes per fruit. It's remarkable to see them sprout from practically nothing and grow to an edible size and ripeness before my very eyes.&lt;br&gt;More importantly, I finally obtained clearance for wider range testing of the growth formula from Dr. Kelstrup.  All that's left is actually fabricating it, and then inserting it in the sprinkler system. I'm keeping the fabrication plan on my person, as I have no doubt others would love to claim credit for it.&lt;br&gt;- Dr. Julien Howard</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Entry 165: I've managed to reduce the growth time to around 10
-            minutes per fruit. It's remarkable to see them sprout from practically nothing and grow
-            to an edible size and ripeness before my very eyes.&lt;br&gt;More importantly, I finally
-            obtained clearance for wider range testing of the growth formula from Dr. Kelstrup. All
-            that's left is actually fabricating it, and then inserting it in the sprinkler system.
-            I'm keeping the fabrication plan on my person, as I have no doubt others would love to
-            claim credit for it.&lt;br&gt;- Dr. Julien Howard</Data>
+          <Data ss:Type="String">Entry 165: I've managed to reduce the growth time to around 10 minutes per fruit. It's remarkable to see them sprout from practically nothing and grow to an edible size and ripeness before my very eyes.&lt;br&gt;More importantly, I finally obtained clearance for wider range testing of the growth formula from Dr. Kelstrup.  All that's left is actually fabricating it, and then inserting it in the sprinkler system. I'm keeping the fabrication plan on my person, as I have no doubt others would love to claim credit for it.&lt;br&gt;- Dr. Julien Howard</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2042,12 +1835,10 @@
           <Data ss:Type="String">loc_15373294129887561051</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Julien - Stopped by, but you were out. FYI, reviewed your lab
-            notes. Plants pose no health risk. You should be GTG in Arboretum. -Hans</Data>
+          <Data ss:Type="String">Julien - Stopped by, but you were out. FYI, reviewed your lab notes. Plants pose no health risk. You should be GTG in Arboretum. -Hans</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Julien - Stopped by, but you were out. FYI, reviewed your lab
-            notes. Plants pose no health risk. You should be GTG in Arboretum. -Hans</Data>
+          <Data ss:Type="String">Julien - Stopped by, but you were out. FYI, reviewed your lab notes. Plants pose no health risk. You should be GTG in Arboretum. -Hans</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2075,12 +1866,10 @@
           <Data ss:Type="String">loc_15373294129887561053</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Feed this to an Eng Operator after you memorize. Group
-            workstation's password: %password%.</Data>
+          <Data ss:Type="String">Feed this to an Eng Operator after you memorize. Group workstation's password: %password%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Feed this to an Eng Operator after you memorize. Group
-            workstation's password: %password%.</Data>
+          <Data ss:Type="String">Feed this to an Eng Operator after you memorize. Group workstation's password: %password%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2139,22 +1928,10 @@
           <Data ss:Type="String">loc_15373294129887561057</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">IMPORTANT!&lt;br&gt;Log every time you enter the maintenance
-            crawlspace through the access panel.&lt;br&gt;&lt;br&gt;- Leaky Pipe (fixed). - R.
-            Wood&lt;br&gt;- Unexplained light flicker. Unable to locate source. Power grid OK. - R.
-            Wood&lt;br&gt;- Electrical device near Machine Shop door unstable. Used local adhesive
-            for temporary fix. - R. Wood.&lt;br&gt;&lt;br&gt;- *Note* In case of emergency, head
-            into the maintenance crawlspace via the small access panel below to shut off local
-            power. Notify me immediately. - R. Wood</Data>
+          <Data ss:Type="String">IMPORTANT!&lt;br&gt;Log every time you enter the maintenance crawlspace through the access panel.&lt;br&gt;&lt;br&gt;- Leaky Pipe (fixed). - R. Wood&lt;br&gt;- Unexplained light flicker. Unable to locate source. Power grid OK. - R. Wood&lt;br&gt;- Electrical device near Machine Shop door unstable. Used local adhesive for temporary fix. - R. Wood.&lt;br&gt;&lt;br&gt;- *Note* In case of emergency, head into the maintenance crawlspace via the small access panel below to shut off local power. Notify me immediately. - R. Wood</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">IMPORTANT!&lt;br&gt;Log every time you enter the maintenance
-            crawlspace through the access panel.&lt;br&gt;&lt;br&gt;- Leaky Pipe (fixed). - R.
-            Wood&lt;br&gt;- Unexplained light flicker. Unable to locate source. Power grid OK. - R.
-            Wood&lt;br&gt;- Electrical device near Machine Shop door unstable. Used local adhesive
-            for temporary fix. - R. Wood.&lt;br&gt;&lt;br&gt;- *Note* In case of emergency, head
-            into the maintenance crawlspace via the small access panel below to shut off local
-            power. Notify me immediately. - R. Wood</Data>
+          <Data ss:Type="String">IMPORTANT!&lt;br&gt;Log every time you enter the maintenance crawlspace through the access panel.&lt;br&gt;&lt;br&gt;- Leaky Pipe (fixed). - R. Wood&lt;br&gt;- Unexplained light flicker. Unable to locate source. Power grid OK. - R. Wood&lt;br&gt;- Electrical device near Machine Shop door unstable. Used local adhesive for temporary fix. - R. Wood.&lt;br&gt;&lt;br&gt;- *Note* In case of emergency, head into the maintenance crawlspace via the small access panel below to shut off local power. Notify me immediately. - R. Wood</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2185,32 +1962,10 @@
           <Data ss:Type="String">loc_15373294129887561063</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject: Dr. Annalise Gallegos &lt;br&gt;Prepared by: Officer
-            Maliah Fowles &lt;br&gt;For: Alex Yu &lt;br&gt;&lt;br&gt;Known associate:
-            &lt;b&gt;Quinten Purvis&lt;/b&gt; (Engineer, Life Support) &lt;br&gt;Known associate:
-            &lt;b&gt;William Mitchell&lt;/b&gt; (Chef, Crew Quarters)&lt;br&gt;&lt;br&gt;08:05AM
-            Subject left private quarters. Presumably to report for first shift. Verified with
-            Psychotronics Security.&lt;br&gt;09:13AM Subject returned to private quarters during
-            shift hours. Reason unknown.&lt;br&gt;09:21AM Quinten Purvis was observed entering
-            subject's quarters.&lt;br&gt;09:45AM Quinten Purvis left subject's quarters. Observed
-            carrying a portable drive.&lt;br&gt;10:01AM Subject left private quarters, walked to
-            cafeteria and was admitted to kitchen by Chef Will Mitchell.&lt;br&gt;10:15AM Subject
-            left Crew Quarters. Verified with Psychotronics Security subject reported back to
-            workstation.&lt;br&gt;07:47PM Subject returned to Crew Quarters. Took meal into room.</Data>
+          <Data ss:Type="String">Subject: Dr. Annalise Gallegos &lt;br&gt;Prepared by: Officer Maliah Fowles &lt;br&gt;For: Alex Yu &lt;br&gt;&lt;br&gt;Known associate: &lt;b&gt;Quinten Purvis&lt;/b&gt; (Engineer, Life Support) &lt;br&gt;Known associate: &lt;b&gt;William Mitchell&lt;/b&gt; (Chef, Crew Quarters)&lt;br&gt;&lt;br&gt;08:05AM     Subject left private quarters. Presumably to report for first shift. Verified with Psychotronics Security.&lt;br&gt;09:13AM     Subject returned to private quarters during shift hours. Reason unknown.&lt;br&gt;09:21AM     Quinten Purvis was observed entering subject's quarters.&lt;br&gt;09:45AM     Quinten Purvis left subject's quarters. Observed carrying a portable drive.&lt;br&gt;10:01AM     Subject left private quarters, walked to cafeteria and was admitted to kitchen by Chef Will Mitchell.&lt;br&gt;10:15AM     Subject left Crew Quarters. Verified with Psychotronics Security subject reported back to workstation.&lt;br&gt;07:47PM     Subject returned to Crew Quarters. Took meal into room.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Subject: Dr. Annalise Gallegos &lt;br&gt;Prepared by: Officer
-            Maliah Fowles &lt;br&gt;For: Alex Yu &lt;br&gt;&lt;br&gt;Known associate:
-            &lt;b&gt;Quinten Purvis&lt;/b&gt; (Engineer, Life Support) &lt;br&gt;Known associate:
-            &lt;b&gt;William Mitchell&lt;/b&gt; (Chef, Crew Quarters)&lt;br&gt;&lt;br&gt;08:05AM
-            Subject left private quarters. Presumably to report for first shift. Verified with
-            Psychotronics Security.&lt;br&gt;09:13AM Subject returned to private quarters during
-            shift hours. Reason unknown.&lt;br&gt;09:21AM Quinten Purvis was observed entering
-            subject's quarters.&lt;br&gt;09:45AM Quinten Purvis left subject's quarters. Observed
-            carrying a portable drive.&lt;br&gt;10:01AM Subject left private quarters, walked to
-            cafeteria and was admitted to kitchen by Chef Will Mitchell.&lt;br&gt;10:15AM Subject
-            left Crew Quarters. Verified with Psychotronics Security subject reported back to
-            workstation.&lt;br&gt;07:47PM Subject returned to Crew Quarters. Took meal into room.</Data>
+          <Data ss:Type="String">Subject: Dr. Annalise Gallegos &lt;br&gt;Prepared by: Officer Maliah Fowles &lt;br&gt;For: Alex Yu &lt;br&gt;&lt;br&gt;Known associate: &lt;b&gt;Quinten Purvis&lt;/b&gt; (Engineer, Life Support) &lt;br&gt;Known associate: &lt;b&gt;William Mitchell&lt;/b&gt; (Chef, Crew Quarters)&lt;br&gt;&lt;br&gt;08:05AM     Subject left private quarters. Presumably to report for first shift. Verified with Psychotronics Security.&lt;br&gt;09:13AM     Subject returned to private quarters during shift hours. Reason unknown.&lt;br&gt;09:21AM     Quinten Purvis was observed entering subject's quarters.&lt;br&gt;09:45AM     Quinten Purvis left subject's quarters. Observed carrying a portable drive.&lt;br&gt;10:01AM     Subject left private quarters, walked to cafeteria and was admitted to kitchen by Chef Will Mitchell.&lt;br&gt;10:15AM     Subject left Crew Quarters. Verified with Psychotronics Security subject reported back to workstation.&lt;br&gt;07:47PM     Subject returned to Crew Quarters. Took meal into room.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2241,10 +1996,10 @@
           <Data ss:Type="String">loc_15373294129887561065</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Make sure to let the new guy in. %key%</Data>
+          <Data ss:Type="String">Make sure to let the new guy in.  %key%</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Make sure to let the new guy in. %key%</Data>
+          <Data ss:Type="String">Make sure to let the new guy in.  %key%</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2328,14 +2083,10 @@
           <Data ss:Type="String">loc_15373294129887561071</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Akande&lt;br&gt;Chief Sho says you've been great. Your corrective
-            is closed. I'm very impressed. We'll be getting you that workstation
-            ASAP.&lt;br&gt;-Sarah</Data>
+          <Data ss:Type="String">Akande&lt;br&gt;Chief Sho says you've been great. Your corrective is closed. I'm very impressed. We'll be getting you that workstation ASAP.&lt;br&gt;-Sarah</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Akande&lt;br&gt;Chief Sho says you've been great. Your corrective
-            is closed. I'm very impressed. We'll be getting you that workstation
-            ASAP.&lt;br&gt;-Sarah</Data>
+          <Data ss:Type="String">Akande&lt;br&gt;Chief Sho says you've been great. Your corrective is closed. I'm very impressed. We'll be getting you that workstation ASAP.&lt;br&gt;-Sarah</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2363,14 +2114,10 @@
           <Data ss:Type="String">loc_15373294129887561073</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">*Check in with Chief Sho&lt;br&gt;*Sign for firearm&lt;br&gt;*Check
-            displays for tampering&lt;br&gt;*Walk the entire area&lt;br&gt;*Check all
-            rooms&lt;br&gt;*Get someone to wash the Security Booth windows.</Data>
+          <Data ss:Type="String">*Check in with Chief Sho&lt;br&gt;*Sign for firearm&lt;br&gt;*Check displays for tampering&lt;br&gt;*Walk the entire area&lt;br&gt;*Check all rooms&lt;br&gt;*Get someone to wash the Security Booth windows.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">*Check in with Chief Sho&lt;br&gt;*Sign for firearm&lt;br&gt;*Check
-            displays for tampering&lt;br&gt;*Walk the entire area&lt;br&gt;*Check all
-            rooms&lt;br&gt;*Get someone to wash the Security Booth windows.</Data>
+          <Data ss:Type="String">*Check in with Chief Sho&lt;br&gt;*Sign for firearm&lt;br&gt;*Check displays for tampering&lt;br&gt;*Walk the entire area&lt;br&gt;*Check all rooms&lt;br&gt;*Get someone to wash the Security Booth windows.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2398,12 +2145,10 @@
           <Data ss:Type="String">loc_15373294129887561075</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Akande&lt;br&gt;Who approved your request for shotgun rounds? We
-            all agree there's something in here, but please don't damage the equip.&lt;br&gt; D. Sho</Data>
+          <Data ss:Type="String">Akande&lt;br&gt;Who approved your request for shotgun rounds? We all agree there's something in here, but please don't damage the equip.&lt;br&gt; D. Sho</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Akande&lt;br&gt;Who approved your request for shotgun rounds? We
-            all agree there's something in here, but please don't damage the equip.&lt;br&gt; D. Sho</Data>
+          <Data ss:Type="String">Akande&lt;br&gt;Who approved your request for shotgun rounds? We all agree there's something in here, but please don't damage the equip.&lt;br&gt; D. Sho</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2434,16 +2179,10 @@
           <Data ss:Type="String">loc_15373294129887561077</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Date of Incident: October 21st, 2034&lt;br&gt;Employee: Lily
-            Morris&lt;br&gt;Description: Recycler charge went off with my foot in range. The organic
-            material that was once a part of me is now neatly compacted into this sphere you see
-            before you. Take heed.</Data>
+          <Data ss:Type="String">Date of Incident: October 21st, 2034&lt;br&gt;Employee: Lily Morris&lt;br&gt;Description: Recycler charge went off with my foot in range. The organic material that was once a part of me is now neatly compacted into this sphere you see before you. Take heed.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Date of Incident: October 21st, 2034&lt;br&gt;Employee: Lily
-            Morris&lt;br&gt;Description: Recycler charge went off with my foot in range. The organic
-            material that was once a part of me is now neatly compacted into this sphere you see
-            before you. Take heed.</Data>
+          <Data ss:Type="String">Date of Incident: October 21st, 2034&lt;br&gt;Employee: Lily Morris&lt;br&gt;Description: Recycler charge went off with my foot in range. The organic material that was once a part of me is now neatly compacted into this sphere you see before you. Take heed.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2499,12 +2238,10 @@
           <Data ss:Type="String">loc_15373294129887561083</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">FYI - storage room near the grav shaft has extra 02 tanks. %key%.
-            &lt;br&gt;-Nicole</Data>
+          <Data ss:Type="String">FYI - storage room near the grav shaft has extra 02 tanks. %key%. &lt;br&gt;-Nicole</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">FYI - storage room near the grav shaft has extra 02 tanks. %key%.
-            &lt;br&gt;-Nicole</Data>
+          <Data ss:Type="String">FYI - storage room near the grav shaft has extra 02 tanks. %key%. &lt;br&gt;-Nicole</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2532,12 +2269,10 @@
           <Data ss:Type="String">loc_15373294129887561085</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shut down the grav shafts to keep them from spreading. Utilty on my
-            computer - tooling room lower level. -Scott</Data>
+          <Data ss:Type="String">Shut down the grav shafts to keep them from spreading. Utilty on my computer -  tooling room lower level. -Scott</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Shut down the grav shafts to keep them from spreading. Utilty on my
-            computer - tooling room lower level. -Scott</Data>
+          <Data ss:Type="String">Shut down the grav shafts to keep them from spreading. Utilty on my computer -  tooling room lower level. -Scott</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2599,12 +2334,10 @@
           <Data ss:Type="String">loc_15373294129887561089</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stash in the hall by the escape pods. No time to rig a drop. Good
-            luck. -EV</Data>
+          <Data ss:Type="String">Stash in the hall by the escape pods. No time to rig a drop. Good luck. -EV</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Stash in the hall by the escape pods. No time to rig a drop. Good
-            luck. -EV</Data>
+          <Data ss:Type="String">Stash in the hall by the escape pods. No time to rig a drop. Good luck. -EV</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2635,32 +2368,10 @@
           <Data ss:Type="String">loc_15373294129887561093</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The supervisor authorizing this request certifies that all safety
-            factors have been considered and are satisfactory.&lt;br&gt;&lt;br&gt;Department
-            Requesting: Psychotronics&lt;br&gt;Request Prepared by: Dr. Tobias
-            Frost&lt;br&gt;&lt;br&gt;AREA OF WORK: &lt;br&gt;Life Support Water Treatment
-            Facility&lt;br&gt;&lt;br&gt;WORK TO BE DONE: &lt;br&gt;Installment of
-            &lt;b&gt;Psychoactive Particle Injector&lt;/b&gt; (henceforth PPI). I would like to get
-            your approval to connect the PPI to the station water supply. In essence the PPI will
-            alter the composition of drinking water by one part per million by mixing exotic
-            particles at regular intervals. Imbibing the water should positively impact psychoactive
-            potential.&lt;br&gt;Approved by:&lt;u&gt; Dr. Hans
-            Kelstrup&lt;/u&gt;&lt;br&gt;&lt;br&gt;Requires Director Signature?: No&lt;br&gt;DIRECTOR
-            SIGNATURE:&lt;u&gt;&lt;/u&gt;</Data>
+          <Data ss:Type="String">The supervisor authorizing this request certifies that all safety factors have been considered and are satisfactory.&lt;br&gt;&lt;br&gt;Department Requesting: Psychotronics&lt;br&gt;Request Prepared by: Dr. Tobias Frost&lt;br&gt;&lt;br&gt;AREA OF WORK: &lt;br&gt;Life Support Water Treatment Facility&lt;br&gt;&lt;br&gt;WORK TO BE DONE: &lt;br&gt;Installment of &lt;b&gt;Psychoactive Particle Injector&lt;/b&gt; (henceforth PPI). I would like to get your approval to connect the PPI to the station water supply. In essence the PPI will alter the composition of drinking water by one part per million by mixing exotic particles at regular intervals. Imbibing the water should positively impact psychoactive potential.&lt;br&gt;Approved by:&lt;u&gt; Dr. Hans Kelstrup&lt;/u&gt;&lt;br&gt;&lt;br&gt;Requires Director Signature?: No&lt;br&gt;DIRECTOR SIGNATURE:&lt;u&gt;&lt;/u&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The supervisor authorizing this request certifies that all safety
-            factors have been considered and are satisfactory.&lt;br&gt;&lt;br&gt;Department
-            Requesting: Psychotronics&lt;br&gt;Request Prepared by: Dr. Tobias
-            Frost&lt;br&gt;&lt;br&gt;AREA OF WORK: &lt;br&gt;Life Support Water Treatment
-            Facility&lt;br&gt;&lt;br&gt;WORK TO BE DONE: &lt;br&gt;Installment of
-            &lt;b&gt;Psychoactive Particle Injector&lt;/b&gt; (henceforth PPI). I would like to get
-            your approval to connect the PPI to the station water supply. In essence the PPI will
-            alter the composition of drinking water by one part per million by mixing exotic
-            particles at regular intervals. Imbibing the water should positively impact psychoactive
-            potential.&lt;br&gt;Approved by:&lt;u&gt; Dr. Hans
-            Kelstrup&lt;/u&gt;&lt;br&gt;&lt;br&gt;Requires Director Signature?: No&lt;br&gt;DIRECTOR
-            SIGNATURE:&lt;u&gt;&lt;/u&gt;</Data>
+          <Data ss:Type="String">The supervisor authorizing this request certifies that all safety factors have been considered and are satisfactory.&lt;br&gt;&lt;br&gt;Department Requesting: Psychotronics&lt;br&gt;Request Prepared by: Dr. Tobias Frost&lt;br&gt;&lt;br&gt;AREA OF WORK: &lt;br&gt;Life Support Water Treatment Facility&lt;br&gt;&lt;br&gt;WORK TO BE DONE: &lt;br&gt;Installment of &lt;b&gt;Psychoactive Particle Injector&lt;/b&gt; (henceforth PPI). I would like to get your approval to connect the PPI to the station water supply. In essence the PPI will alter the composition of drinking water by one part per million by mixing exotic particles at regular intervals. Imbibing the water should positively impact psychoactive potential.&lt;br&gt;Approved by:&lt;u&gt; Dr. Hans Kelstrup&lt;/u&gt;&lt;br&gt;&lt;br&gt;Requires Director Signature?: No&lt;br&gt;DIRECTOR SIGNATURE:&lt;u&gt;&lt;/u&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2688,14 +2399,10 @@
           <Data ss:Type="String">loc_15373294129887561095</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hi Penny&lt;br&gt;I sent you some goods with this operator. I hope
-            they are helpful in your work. Please share your results with my department when you
-            can. &lt;br&gt;Thanks,&lt;br&gt;Peter Coleman</Data>
+          <Data ss:Type="String">Hi Penny&lt;br&gt;I sent you some goods with this operator. I hope they are helpful in your work. Please share your results with my department when you can. &lt;br&gt;Thanks,&lt;br&gt;Peter Coleman</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hi Penny&lt;br&gt;I sent you some goods with this operator. I hope
-            they are helpful in your work. Please share your results with my department when you
-            can. &lt;br&gt;Thanks,&lt;br&gt;Peter Coleman</Data>
+          <Data ss:Type="String">Hi Penny&lt;br&gt;I sent you some goods with this operator. I hope they are helpful in your work. Please share your results with my department when you can. &lt;br&gt;Thanks,&lt;br&gt;Peter Coleman</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2720,24 +2427,10 @@
           <Data ss:Type="String">loc_15373294129887561097</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;October 1st&lt;/b&gt;&lt;br&gt;Electrical Subsection 19
-            OK&lt;br&gt;Oxygen Subsection 48 OK&lt;br&gt;Waste Subsection 53 OK&lt;br&gt;Engineer
-            &lt;u&gt;x Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;November
-            23rd&lt;/b&gt;&lt;br&gt;Electrical Subsection 19 OK&lt;br&gt;Oxygen Subsection 48
-            OK&lt;br&gt;Waste Subsection 53 OK&lt;br&gt;Engineer &lt;u&gt;x Eric
-            Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;March 5th&lt;/b&gt;&lt;br&gt;Electrical
-            Subsection 19 &lt;i&gt;FAULT DETECTED!&lt;/i&gt;&lt;br&gt;Oxygen Subsection 48
-            OK&lt;br&gt;Waste Subsection 53 OK&lt;br&gt;Engineer &lt;u&gt;x ,&lt;/u&gt;</Data>
+          <Data ss:Type="String">&lt;b&gt;October 1st&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   OK&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x  Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;November 23rd&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   OK&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x  Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;March 5th&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   &lt;i&gt;FAULT DETECTED!&lt;/i&gt;&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x            ,&lt;/u&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;October 1st&lt;/b&gt;&lt;br&gt;Electrical Subsection 19
-            OK&lt;br&gt;Oxygen Subsection 48 OK&lt;br&gt;Waste Subsection 53 OK&lt;br&gt;Engineer
-            &lt;u&gt;x Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;November
-            23rd&lt;/b&gt;&lt;br&gt;Electrical Subsection 19 OK&lt;br&gt;Oxygen Subsection 48
-            OK&lt;br&gt;Waste Subsection 53 OK&lt;br&gt;Engineer &lt;u&gt;x Eric
-            Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;March 5th&lt;/b&gt;&lt;br&gt;Electrical
-            Subsection 19 &lt;i&gt;FAULT DETECTED!&lt;/i&gt;&lt;br&gt;Oxygen Subsection 48
-            OK&lt;br&gt;Waste Subsection 53 OK&lt;br&gt;Engineer &lt;u&gt;x ,&lt;/u&gt;</Data>
+          <Data ss:Type="String">&lt;b&gt;October 1st&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   OK&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x  Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;November 23rd&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   OK&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x  Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;March 5th&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   &lt;i&gt;FAULT DETECTED!&lt;/i&gt;&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x            ,&lt;/u&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2765,14 +2458,10 @@
           <Data ss:Type="String">loc_15373294129887561099</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cargo Tunnel&lt;i&gt;&lt;br&gt;&lt;b&gt;RESTRICTED
-            ACCESS&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;See Anders Kline in the Magnetosphere
-            Control Room.</Data>
+          <Data ss:Type="String">Cargo Tunnel&lt;i&gt;&lt;br&gt;&lt;b&gt;RESTRICTED ACCESS&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;See Anders Kline in the Magnetosphere Control Room.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Cargo Tunnel&lt;i&gt;&lt;br&gt;&lt;b&gt;RESTRICTED
-            ACCESS&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;See Anders Kline in the Magnetosphere
-            Control Room.</Data>
+          <Data ss:Type="String">Cargo Tunnel&lt;i&gt;&lt;br&gt;&lt;b&gt;RESTRICTED ACCESS&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;See Anders Kline in the Magnetosphere Control Room.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2800,14 +2489,10 @@
           <Data ss:Type="String">loc_15373294129887561101</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Laurel,&lt;br&gt;Hope you like the flowers. Next time we meet down
-            here, let's wait until we're out of microgravity before opening the champagne. Or
-            not.&lt;br&gt;-Eric</Data>
+          <Data ss:Type="String">Laurel,&lt;br&gt;Hope you like the flowers. Next time we meet down here, let's wait until we're out of microgravity before opening the champagne. Or not.&lt;br&gt;-Eric</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Laurel,&lt;br&gt;Hope you like the flowers. Next time we meet down
-            here, let's wait until we're out of microgravity before opening the champagne. Or
-            not.&lt;br&gt;-Eric</Data>
+          <Data ss:Type="String">Laurel,&lt;br&gt;Hope you like the flowers. Next time we meet down here, let's wait until we're out of microgravity before opening the champagne. Or not.&lt;br&gt;-Eric</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2838,34 +2523,10 @@
           <Data ss:Type="String">loc_15373294129887561103</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[printed from
-            \\vault13.Talos.lan\LS_WaterTreatment]&lt;br&gt;&lt;br&gt;&lt;b&gt;Price
-            Broadway&lt;/b&gt;&lt;br&gt;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-&lt;br&gt;&lt;b&gt;From:&lt;/b&gt;
-            Abigail Foy&lt;br&gt;&lt;b&gt;To:&lt;/b&gt; Price
-            Broadway&lt;br&gt;&lt;b&gt;Subject:&lt;/b&gt; Eel Tank
-            Procedure&lt;br&gt;Price,&lt;br&gt;Eels do a pretty good job of eating up all the waste.
-            But there's buildup that even the eels can't clean off, so we have to scrape the tank
-            every month. First, run the harvesting utility to clear out any mature eels. The utility
-            is on the tank workstation. When that's done, you can enter the tank. I'd also suggest
-            shutting off the effluent flow valve, unless you just like taking a shower in your
-            coworker's toilet water.&lt;br&gt;&lt;br&gt;And please watch your step. Eels are mostly
-            blind, but they have a nasty bite. And you don't want to get wounded in THAT water,
-            trust me.&lt;br&gt;&lt;br&gt;-Abigail</Data>
+          <Data ss:Type="String">[printed from \\vault13.Talos.lan\LS_WaterTreatment]&lt;br&gt;&lt;br&gt;&lt;b&gt;Price Broadway&lt;/b&gt;&lt;br&gt;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-&lt;br&gt;&lt;b&gt;From:&lt;/b&gt; Abigail Foy&lt;br&gt;&lt;b&gt;To:&lt;/b&gt;  Price Broadway&lt;br&gt;&lt;b&gt;Subject:&lt;/b&gt; Eel Tank Procedure&lt;br&gt;Price,&lt;br&gt;Eels do a pretty good job of eating up all the waste. But there's buildup that even the eels can't clean off, so we have to scrape the tank every month. First, run the harvesting utility to clear out any mature eels. The utility is on the tank workstation. When that's done, you can enter the tank. I'd also suggest shutting off the effluent flow valve, unless you just like taking a shower in your coworker's toilet water.&lt;br&gt;&lt;br&gt;And please watch your step. Eels are mostly blind, but they have a nasty bite. And you don't want to get wounded in THAT water, trust me.&lt;br&gt;&lt;br&gt;-Abigail</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[printed from
-            \\vault13.Talos.lan\LS_WaterTreatment]&lt;br&gt;&lt;br&gt;&lt;b&gt;Price
-            Broadway&lt;/b&gt;&lt;br&gt;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-&lt;br&gt;&lt;b&gt;From:&lt;/b&gt;
-            Abigail Foy&lt;br&gt;&lt;b&gt;To:&lt;/b&gt; Price
-            Broadway&lt;br&gt;&lt;b&gt;Subject:&lt;/b&gt; Eel Tank
-            Procedure&lt;br&gt;Price,&lt;br&gt;Eels do a pretty good job of eating up all the waste.
-            But there's buildup that even the eels can't clean off, so we have to scrape the tank
-            every month. First, run the harvesting utility to clear out any mature eels. The utility
-            is on the tank workstation. When that's done, you can enter the tank. I'd also suggest
-            shutting off the effluent flow valve, unless you just like taking a shower in your
-            coworker's toilet water.&lt;br&gt;&lt;br&gt;And please watch your step. Eels are mostly
-            blind, but they have a nasty bite. And you don't want to get wounded in THAT water,
-            trust me.&lt;br&gt;&lt;br&gt;-Abigail</Data>
+          <Data ss:Type="String">[printed from \\vault13.Talos.lan\LS_WaterTreatment]&lt;br&gt;&lt;br&gt;&lt;b&gt;Price Broadway&lt;/b&gt;&lt;br&gt;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-&lt;br&gt;&lt;b&gt;From:&lt;/b&gt; Abigail Foy&lt;br&gt;&lt;b&gt;To:&lt;/b&gt;  Price Broadway&lt;br&gt;&lt;b&gt;Subject:&lt;/b&gt; Eel Tank Procedure&lt;br&gt;Price,&lt;br&gt;Eels do a pretty good job of eating up all the waste. But there's buildup that even the eels can't clean off, so we have to scrape the tank every month. First, run the harvesting utility to clear out any mature eels. The utility is on the tank workstation. When that's done, you can enter the tank. I'd also suggest shutting off the effluent flow valve, unless you just like taking a shower in your coworker's toilet water.&lt;br&gt;&lt;br&gt;And please watch your step. Eels are mostly blind, but they have a nasty bite. And you don't want to get wounded in THAT water, trust me.&lt;br&gt;&lt;br&gt;-Abigail</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2893,20 +2554,10 @@
           <Data ss:Type="String">loc_15373294129887561107</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is the beginning of the game. You've just put the disk in,
-            downloaded the files, installed the packages, etc. You're sitting in front of a black
-            screen with no expectations.&lt;br&gt;&lt;br&gt;The next set of screens will let you
-            tweak variables if you want. You can opt to run to the end and just jump into the game.
-            Next to the &quot;game start&quot; kiosk is one that will let you give yourself a
-            loadout appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">This is the beginning of the game. You've just put the disk in, downloaded the files, installed the packages, etc. You're sitting in front of a black screen with no expectations.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">This is the beginning of the game. You've just put the disk in,
-            downloaded the files, installed the packages, etc. You're sitting in front of a black
-            screen with no expectations.&lt;br&gt;&lt;br&gt;The next set of screens will let you
-            tweak variables if you want. You can opt to run to the end and just jump into the game.
-            Next to the &quot;game start&quot; kiosk is one that will let you give yourself a
-            loadout appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">This is the beginning of the game. You've just put the disk in, downloaded the files, installed the packages, etc. You're sitting in front of a black screen with no expectations.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2931,30 +2582,10 @@
           <Data ss:Type="String">loc_15373294129887561109</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell, and that
-            you have to get to the data center called Deep Storage in order to download the plan for
-            a self destruct key that you hid there. You'll also have to get a second one from your
-            brother, but first thing's first. Deep Storage is at the top of the station off of the
-            Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if
-            you want. You can opt to run to the end and just jump into the game. Next to the
-            &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell, and that you have to get to the data center called Deep Storage in order to download the plan for a self destruct key that you hid there. You'll also have to get a second one from your brother, but first thing's first. Deep Storage is at the top of the station off of the Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell, and that
-            you have to get to the data center called Deep Storage in order to download the plan for
-            a self destruct key that you hid there. You'll also have to get a second one from your
-            brother, but first thing's first. Deep Storage is at the top of the station off of the
-            Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if
-            you want. You can opt to run to the end and just jump into the game. Next to the
-            &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell, and that you have to get to the data center called Deep Storage in order to download the plan for a self destruct key that you hid there. You'll also have to get a second one from your brother, but first thing's first. Deep Storage is at the top of the station off of the Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -2979,30 +2610,10 @@
           <Data ss:Type="String">loc_15373294129887561111</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell. Using
-            info from the video, you got a fabrication plan to build a self destruct key. You'll
-            also have to get a second one from your brother, but first thing's first. In the process
-            of acquiring the plan, you sort of got ejected into space. Breathe shallow and find a
-            way back into the station.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak
-            variables if you want. You can opt to run to the end and just jump into the game. Next
-            to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell. Using info from the video, you got a fabrication plan to build a self destruct key. You'll also have to get a second one from your brother, but first thing's first. In the process of acquiring the plan, you sort of got ejected into space. Breathe shallow and find a way back into the station.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell. Using
-            info from the video, you got a fabrication plan to build a self destruct key. You'll
-            also have to get a second one from your brother, but first thing's first. In the process
-            of acquiring the plan, you sort of got ejected into space. Breathe shallow and find a
-            way back into the station.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak
-            variables if you want. You can opt to run to the end and just jump into the game. Next
-            to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell. Using info from the video, you got a fabrication plan to build a self destruct key. You'll also have to get a second one from your brother, but first thing's first. In the process of acquiring the plan, you sort of got ejected into space. Breathe shallow and find a way back into the station.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3027,32 +2638,10 @@
           <Data ss:Type="String">loc_15373294129887561113</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell. Using
-            info from the video, you got a fabrication plan to build a self destruct key and were
-            ejected into space in the process. Once you returned to the station, you had to reboot
-            the main reactor to override your brother's lockdown of the main elevator and airlocks.
-            With all passages open, your brother agreed to hand over his key, if you'd just hear him
-            out in his office. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak
-            variables if you want. You can opt to run to the end and just jump into the game. Next
-            to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell. Using info from the video, you got a fabrication plan to build a self destruct key and were ejected into space in the process. Once you returned to the station, you had to reboot the main reactor to override your brother's lockdown of the main elevator and airlocks. With all passages open, your brother agreed to hand over his key, if you'd just hear him out in his office. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell. Using
-            info from the video, you got a fabrication plan to build a self destruct key and were
-            ejected into space in the process. Once you returned to the station, you had to reboot
-            the main reactor to override your brother's lockdown of the main elevator and airlocks.
-            With all passages open, your brother agreed to hand over his key, if you'd just hear him
-            out in his office. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak
-            variables if you want. You can opt to run to the end and just jump into the game. Next
-            to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell. Using info from the video, you got a fabrication plan to build a self destruct key and were ejected into space in the process. Once you returned to the station, you had to reboot the main reactor to override your brother's lockdown of the main elevator and airlocks. With all passages open, your brother agreed to hand over his key, if you'd just hear him out in his office. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3077,48 +2666,10 @@
           <Data ss:Type="String">loc_15373294129887561115</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is &lt;b&gt;Morgan Yu&lt;/b&gt;. You've awoken in what
-            you thought was your apartment on earth, only to learn that your brother had imprisoned
-            you in an experiment on board a space station of which you both were in charge. After
-            watching a video you left for yourself, you learned that everything on the station has
-            gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a
-            self destruct key and were ejected into space in the process. You returned to the
-            station and rebooted the main reactor to override Alex's lockdown of the main elevator
-            and airlocks. Alex responded by offering an olive branch, hear him out and he'd give you
-            his key.&lt;br&gt; His offer involved watching another video of yourself, a Morgan with
-            a different plan: fabricate a device to nullify the aliens and keep the station in one
-            piece. He then asked one final favor, gather data for him to take the plan closer to
-            reality. After that he would relinquish the key and let you make your
-            choice.&lt;br&gt;Shortly after gathering the data, a complication arrived in the form of
-            Commander Walther Dahl, an enforcer sent by the TranStar board of directors and your
-            parents. Until he's taken out and his tech officer is stopped, no plans can go forward.
-            Another wrinkle - Dahl is the only one who can pilot a shuttle. Knocking him out instead
-            of killing him might be prudent, unless you've got a plan B.&lt;br&gt;&lt;br&gt;The next
-            set of screens will let you tweak variables if you want. You can opt to run to the end
-            and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will
-            let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is &lt;b&gt;Morgan Yu&lt;/b&gt;. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self destruct key and were ejected into space in the process. You returned to the station and rebooted the main reactor to override Alex's lockdown of the main elevator and airlocks. Alex responded by offering an olive branch, hear him out and he'd give you his key.&lt;br&gt; His offer involved watching another video of yourself, a Morgan with a different plan: fabricate a device to nullify the aliens and keep the station in one piece. He then asked one final favor, gather data for him to take the plan closer to reality. After that he would relinquish the key and let you make your choice.&lt;br&gt;Shortly after gathering the data, a complication arrived in the form of Commander Walther Dahl, an enforcer sent by the TranStar board of directors and your parents. Until he's taken out and his tech officer is stopped, no plans can go forward. Another wrinkle - Dahl is the only one who can pilot a shuttle. Knocking him out instead of killing him might be prudent, unless you've got a plan B.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is &lt;b&gt;Morgan Yu&lt;/b&gt;. You've awoken in what
-            you thought was your apartment on earth, only to learn that your brother had imprisoned
-            you in an experiment on board a space station of which you both were in charge. After
-            watching a video you left for yourself, you learned that everything on the station has
-            gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a
-            self destruct key and were ejected into space in the process. You returned to the
-            station and rebooted the main reactor to override Alex's lockdown of the main elevator
-            and airlocks. Alex responded by offering an olive branch, hear him out and he'd give you
-            his key.&lt;br&gt; His offer involved watching another video of yourself, a Morgan with
-            a different plan: fabricate a device to nullify the aliens and keep the station in one
-            piece. He then asked one final favor, gather data for him to take the plan closer to
-            reality. After that he would relinquish the key and let you make your
-            choice.&lt;br&gt;Shortly after gathering the data, a complication arrived in the form of
-            Commander Walther Dahl, an enforcer sent by the TranStar board of directors and your
-            parents. Until he's taken out and his tech officer is stopped, no plans can go forward.
-            Another wrinkle - Dahl is the only one who can pilot a shuttle. Knocking him out instead
-            of killing him might be prudent, unless you've got a plan B.&lt;br&gt;&lt;br&gt;The next
-            set of screens will let you tweak variables if you want. You can opt to run to the end
-            and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will
-            let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is &lt;b&gt;Morgan Yu&lt;/b&gt;. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self destruct key and were ejected into space in the process. You returned to the station and rebooted the main reactor to override Alex's lockdown of the main elevator and airlocks. Alex responded by offering an olive branch, hear him out and he'd give you his key.&lt;br&gt; His offer involved watching another video of yourself, a Morgan with a different plan: fabricate a device to nullify the aliens and keep the station in one piece. He then asked one final favor, gather data for him to take the plan closer to reality. After that he would relinquish the key and let you make your choice.&lt;br&gt;Shortly after gathering the data, a complication arrived in the form of Commander Walther Dahl, an enforcer sent by the TranStar board of directors and your parents. Until he's taken out and his tech officer is stopped, no plans can go forward. Another wrinkle - Dahl is the only one who can pilot a shuttle. Knocking him out instead of killing him might be prudent, unless you've got a plan B.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3143,42 +2694,10 @@
           <Data ss:Type="String">loc_15373294129887561117</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to
-            hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self
-            destruct key and negotiated with Alex for his. He only asked that you watch a video
-            where you proposed a plan to use a Null Wave device to disable all of the aliens instead
-            of destroying the station. Along the way, a mercenary named Dahl boarded the station
-            with the directive from the TranStar board to kill everyone and secure research data.
-            The wrinkle is that he's also the only one that can pilot a shuttle and potentially save
-            the people on the station.&lt;br&gt;No sooner had you gotten him out of the way than an
-            alien monstrosity appeared out of nowhere and began attacking the station. You now have
-            access to both fates of the station, and potentially the billions of lives on Earth. No
-            pressure. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if
-            you want. This also determines what happened to Dahl. You can opt to run to the end and
-            just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let
-            you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self destruct key and negotiated with Alex for his. He only asked that you watch a video where you proposed a plan to use a Null Wave device to disable all of the aliens instead of destroying the station. Along the way, a mercenary named Dahl boarded the station with the directive from the TranStar board to kill everyone and secure research data. The wrinkle is that he's also the only one that can pilot a shuttle and potentially save the people on the station.&lt;br&gt;No sooner had you gotten him out of the way than an alien monstrosity appeared out of nowhere and began attacking the station. You now have access to both fates of the station, and potentially the billions of lives on Earth. No pressure.  &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. This also determines what happened to Dahl. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to
-            hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self
-            destruct key and negotiated with Alex for his. He only asked that you watch a video
-            where you proposed a plan to use a Null Wave device to disable all of the aliens instead
-            of destroying the station. Along the way, a mercenary named Dahl boarded the station
-            with the directive from the TranStar board to kill everyone and secure research data.
-            The wrinkle is that he's also the only one that can pilot a shuttle and potentially save
-            the people on the station.&lt;br&gt;No sooner had you gotten him out of the way than an
-            alien monstrosity appeared out of nowhere and began attacking the station. You now have
-            access to both fates of the station, and potentially the billions of lives on Earth. No
-            pressure. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if
-            you want. This also determines what happened to Dahl. You can opt to run to the end and
-            just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let
-            you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self destruct key and negotiated with Alex for his. He only asked that you watch a video where you proposed a plan to use a Null Wave device to disable all of the aliens instead of destroying the station. Along the way, a mercenary named Dahl boarded the station with the directive from the TranStar board to kill everyone and secure research data. The wrinkle is that he's also the only one that can pilot a shuttle and potentially save the people on the station.&lt;br&gt;No sooner had you gotten him out of the way than an alien monstrosity appeared out of nowhere and began attacking the station. You now have access to both fates of the station, and potentially the billions of lives on Earth. No pressure.  &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. This also determines what happened to Dahl. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3203,30 +2722,10 @@
           <Data ss:Type="String">loc_15373294129887561119</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell, and that
-            you have to get to the data center called Deep Storage in order to download the plan for
-            a self destruct key that you hid there. You'll also have to get a second one from your
-            brother, but first thing's first. Deep Storage is at the top of the station off of the
-            Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if
-            you want. You can opt to run to the end and just jump into the game. Next to the
-            &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell, and that you have to get to the data center called Deep Storage in order to download the plan for a self destruct key that you hid there. You'll also have to get a second one from your brother, but first thing's first. Deep Storage is at the top of the station off of the Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your
-            apartment on earth, only to learn that your brother had imprisoned you in an experiment
-            on board a space station of which you both were in charge. After watching a video you
-            left for yourself, you learned that everything on the station has gone to hell, and that
-            you have to get to the data center called Deep Storage in order to download the plan for
-            a self destruct key that you hid there. You'll also have to get a second one from your
-            brother, but first thing's first. Deep Storage is at the top of the station off of the
-            Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if
-            you want. You can opt to run to the end and just jump into the game. Next to the
-            &quot;game start&quot; kiosk is one that will let you give yourself a loadout
-            appropriate to the location you'll be in the campaign.</Data>
+          <Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell, and that you have to get to the data center called Deep Storage in order to download the plan for a self destruct key that you hid there. You'll also have to get a second one from your brother, but first thing's first. Deep Storage is at the top of the station off of the Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3254,14 +2753,10 @@
           <Data ss:Type="String">loc_15373294129887561121</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jose,&lt;br&gt;Annual maintenance is coming up soon on the Air
-            Mixture Regulators in Atmosphere. Let Max know about getting a head start. He has the
-            fabrication plan for them.</Data>
+          <Data ss:Type="String">Jose,&lt;br&gt;Annual maintenance is coming up soon on the Air Mixture Regulators in Atmosphere. Let Max know about getting a head start. He has the fabrication plan for them.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Jose,&lt;br&gt;Annual maintenance is coming up soon on the Air
-            Mixture Regulators in Atmosphere. Let Max know about getting a head start. He has the
-            fabrication plan for them.</Data>
+          <Data ss:Type="String">Jose,&lt;br&gt;Annual maintenance is coming up soon on the Air Mixture Regulators in Atmosphere. Let Max know about getting a head start. He has the fabrication plan for them.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3289,12 +2784,10 @@
           <Data ss:Type="String">loc_15373294129887561125</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kim,&lt;br&gt;Don't forget to lock the door on your way out. The
-            code is %key%.&lt;br&gt;Anders</Data>
+          <Data ss:Type="String">Kim,&lt;br&gt;Don't forget to lock the door on your way out. The code is %key%.&lt;br&gt;Anders</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kim,&lt;br&gt;Don't forget to lock the door on your way out. The
-            code is %key%.&lt;br&gt;Anders</Data>
+          <Data ss:Type="String">Kim,&lt;br&gt;Don't forget to lock the door on your way out. The code is %key%.&lt;br&gt;Anders</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3322,12 +2815,10 @@
           <Data ss:Type="String">loc_15373294129887561127</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Clive,&lt;br&gt; We need to up the reload speed on the GLOO cannon.
-            The actuators are sloooooow on this thing.&lt;br&gt;&lt;br&gt;Mary</Data>
+          <Data ss:Type="String">Clive,&lt;br&gt; We need to up the reload speed on the GLOO cannon. The actuators are sloooooow on this thing.&lt;br&gt;&lt;br&gt;Mary</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Clive,&lt;br&gt; We need to up the reload speed on the GLOO cannon.
-            The actuators are sloooooow on this thing.&lt;br&gt;&lt;br&gt;Mary</Data>
+          <Data ss:Type="String">Clive,&lt;br&gt; We need to up the reload speed on the GLOO cannon. The actuators are sloooooow on this thing.&lt;br&gt;&lt;br&gt;Mary</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3386,12 +2877,10 @@
           <Data ss:Type="String">loc_15373294129887561131</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning: I've sealed several Mimics inside. Two casualties, so
-            maybe as many as eight Mimics. -Manion</Data>
+          <Data ss:Type="String">Warning: I've sealed several Mimics inside. Two casualties, so maybe as many as eight Mimics.  -Manion</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Warning: I've sealed several Mimics inside. Two casualties, so
-            maybe as many as eight Mimics. -Manion</Data>
+          <Data ss:Type="String">Warning: I've sealed several Mimics inside. Two casualties, so maybe as many as eight Mimics.  -Manion</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3419,14 +2908,10 @@
           <Data ss:Type="String">loc_15373294129887561133</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">-Check phosphate levels of plants in quad 2. &lt;br&gt; -Reduce
-            sprinkler cycle by 5 minutes.&lt;br&gt; -See if Dr. Howard's experimental plants need
-            water. &lt;br&gt; -Dr. Howard changed the greenhouse password to %password%.</Data>
+          <Data ss:Type="String">-Check phosphate levels of plants in quad 2. &lt;br&gt; -Reduce sprinkler cycle by 5 minutes.&lt;br&gt; -See if Dr. Howard's experimental plants need water. &lt;br&gt; -Dr. Howard changed the greenhouse password to %password%.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">-Check phosphate levels of plants in quad 2. &lt;br&gt; -Reduce
-            sprinkler cycle by 5 minutes.&lt;br&gt; -See if Dr. Howard's experimental plants need
-            water. &lt;br&gt; -Dr. Howard changed the greenhouse password to %password%.</Data>
+          <Data ss:Type="String">-Check phosphate levels of plants in quad 2. &lt;br&gt; -Reduce sprinkler cycle by 5 minutes.&lt;br&gt; -See if Dr. Howard's experimental plants need water. &lt;br&gt; -Dr. Howard changed the greenhouse password to %password%.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3454,18 +2939,10 @@
           <Data ss:Type="String">loc_15373294129887561135</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Laurel,&lt;br&gt;There comes a time in every man's life when he
-            looks toward the future, our futu [&lt;i&gt;eraser
-            marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;Would you do me the honor of
-            accepting this proposition of affection and stupid stupid [&lt;i&gt;eraser
-            marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;[&lt;i&gt;eraser marks&lt;/i&gt;]</Data>
+          <Data ss:Type="String">Laurel,&lt;br&gt;There comes a time in every man's life when he looks toward the future, our futu [&lt;i&gt;eraser marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;Would you do me the honor of accepting this proposition of affection and stupid stupid [&lt;i&gt;eraser marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;[&lt;i&gt;eraser marks&lt;/i&gt;]</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Laurel,&lt;br&gt;There comes a time in every man's life when he
-            looks toward the future, our futu [&lt;i&gt;eraser
-            marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;Would you do me the honor of
-            accepting this proposition of affection and stupid stupid [&lt;i&gt;eraser
-            marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;[&lt;i&gt;eraser marks&lt;/i&gt;]</Data>
+          <Data ss:Type="String">Laurel,&lt;br&gt;There comes a time in every man's life when he looks toward the future, our futu [&lt;i&gt;eraser marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;Would you do me the honor of accepting this proposition of affection and stupid stupid [&lt;i&gt;eraser marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;[&lt;i&gt;eraser marks&lt;/i&gt;]</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3583,16 +3060,10 @@
           <Data ss:Type="String">loc_15373294129887561145</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please deliver ASAP to P.O. Box 1127 in Fresno, California. This is
-            a medical emergency. Your payment has already been transferred and we are both at risk
-            taking this off of the station so please be discreet. I'm trusting you will do the right
-            thing.</Data>
+          <Data ss:Type="String">Please deliver ASAP to P.O. Box 1127 in Fresno, California. This is a medical emergency. Your payment has already been transferred and we are both at risk taking this off of the station so please be discreet. I'm trusting you will do the right thing.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Please deliver ASAP to P.O. Box 1127 in Fresno, California. This is
-            a medical emergency. Your payment has already been transferred and we are both at risk
-            taking this off of the station so please be discreet. I'm trusting you will do the right
-            thing.</Data>
+          <Data ss:Type="String">Please deliver ASAP to P.O. Box 1127 in Fresno, California. This is a medical emergency. Your payment has already been transferred and we are both at risk taking this off of the station so please be discreet. I'm trusting you will do the right thing.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3620,16 +3091,10 @@
           <Data ss:Type="String">loc_15373294129887561147</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mom, I sent some special meds to help. Please follow the
-            instructions carefully. I know you hate needles but believe me, the Neuromods can do
-            miraculous things. I'll contact you soon, but remember not to mention any of this when
-            communicating with me while I'm on Talos. Love you! Emmanuella</Data>
+          <Data ss:Type="String">Mom, I sent some special meds to help. Please follow the instructions carefully. I know you hate needles but believe me, the Neuromods can do miraculous things. I'll contact you soon, but remember not to mention any of this when communicating with me while I'm on Talos. Love you! Emmanuella</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mom, I sent some special meds to help. Please follow the
-            instructions carefully. I know you hate needles but believe me, the Neuromods can do
-            miraculous things. I'll contact you soon, but remember not to mention any of this when
-            communicating with me while I'm on Talos. Love you! Emmanuella</Data>
+          <Data ss:Type="String">Mom, I sent some special meds to help. Please follow the instructions carefully. I know you hate needles but believe me, the Neuromods can do miraculous things. I'll contact you soon, but remember not to mention any of this when communicating with me while I'm on Talos. Love you! Emmanuella</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3657,20 +3122,10 @@
           <Data ss:Type="String">loc_4349723564943509093</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Eddie Voss made too many of those concealed drop points. Every one
-            he installs multiplies our chances of being found out. Cargo Bay I get, we need that
-            one, as well as the one near me in Hardware Labs. Crew Quarters makes sense as well (I
-            think about it every time I go to the pool now). But putting one in the Arboretum is
-            risky. And putting two... TWO in the Lobby is just bordering on stupid. See if you can
-            talk some sense into him. -Lily</Data>
+          <Data ss:Type="String">Eddie Voss made too many of those concealed drop points. Every one he installs multiplies our chances of being found out. Cargo Bay I get, we need that one, as well as the one near me in Hardware Labs. Crew Quarters makes sense as well (I think about it every time I go to the pool now). But putting one in the Arboretum is risky. And putting two... TWO in the Lobby is just bordering on stupid. See if you can talk some sense into him. -Lily</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Eddie Voss made too many of those concealed drop points. Every one
-            he installs multiplies our chances of being found out. Cargo Bay I get, we need that
-            one, as well as the one near me in Hardware Labs. Crew Quarters makes sense as well (I
-            think about it every time I go to the pool now). But putting one in the Arboretum is
-            risky. And putting two... TWO in the Lobby is just bordering on stupid. See if you can
-            talk some sense into him. -Lily</Data>
+          <Data ss:Type="String">Eddie Voss made too many of those concealed drop points. Every one he installs multiplies our chances of being found out. Cargo Bay I get, we need that one, as well as the one near me in Hardware Labs. Crew Quarters makes sense as well (I think about it every time I go to the pool now). But putting one in the Arboretum is risky. And putting two... TWO in the Lobby is just bordering on stupid. See if you can talk some sense into him. -Lily</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3701,30 +3156,10 @@
           <Data ss:Type="String">loc_761057047996407534</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;CONFIDENTIAL PROGRESS REPORT
-            10B-3&lt;/i&gt;&lt;/b&gt;&lt;br&gt;ATTN: William Yu&lt;br&gt;Department: Hardware
-            Labs&lt;br&gt;Project Lead: Lane Carpenter&lt;br&gt;&lt;br&gt;&lt;b&gt;BLACKBOX
-            PROJECT&lt;/b&gt;&lt;br&gt;The Q-Beam attachment for N-CN9 &quot;Blackbox&quot; Military
-            Operators is progressing ahead of schedule. Development on outstanding tasks has been
-            broken down below:&lt;br&gt;- Micro-cooling plate optimization: 87% complete&lt;br&gt;-
-            Recirculating ambient control: 70% complete&lt;br&gt;&lt;br&gt;As you can see, we are
-            nearly there. Once the cooling system has been optimized and migrated into the Q-Beam
-            firing mechanism, prototypes will be sent Earthside. Testing is proceeding as planned.
-            Preliminary results show promising excitations in the molecular structure of energized
-            systems. Live target not yet tested.</Data>
+          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;CONFIDENTIAL PROGRESS REPORT 10B-3&lt;/i&gt;&lt;/b&gt;&lt;br&gt;ATTN: William Yu&lt;br&gt;Department: Hardware Labs&lt;br&gt;Project Lead: Lane Carpenter&lt;br&gt;&lt;br&gt;&lt;b&gt;BLACKBOX PROJECT&lt;/b&gt;&lt;br&gt;The Q-Beam attachment for N-CN9 &quot;Blackbox&quot; Military Operators is progressing ahead of schedule. Development on outstanding tasks has been broken down below:&lt;br&gt;- Micro-cooling plate optimization: 87% complete&lt;br&gt;- Recirculating ambient control: 70% complete&lt;br&gt;&lt;br&gt;As you can see, we are nearly there. Once the cooling system has been optimized and migrated into the Q-Beam firing mechanism, prototypes will be sent Earthside. Testing is proceeding as planned. Preliminary results show promising excitations in the molecular structure of energized systems. Live target not yet tested.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;CONFIDENTIAL PROGRESS REPORT
-            10B-3&lt;/i&gt;&lt;/b&gt;&lt;br&gt;ATTN: William Yu&lt;br&gt;Department: Hardware
-            Labs&lt;br&gt;Project Lead: Lane Carpenter&lt;br&gt;&lt;br&gt;&lt;b&gt;BLACKBOX
-            PROJECT&lt;/b&gt;&lt;br&gt;The Q-Beam attachment for N-CN9 &quot;Blackbox&quot; Military
-            Operators is progressing ahead of schedule. Development on outstanding tasks has been
-            broken down below:&lt;br&gt;- Micro-cooling plate optimization: 87% complete&lt;br&gt;-
-            Recirculating ambient control: 70% complete&lt;br&gt;&lt;br&gt;As you can see, we are
-            nearly there. Once the cooling system has been optimized and migrated into the Q-Beam
-            firing mechanism, prototypes will be sent Earthside. Testing is proceeding as planned.
-            Preliminary results show promising excitations in the molecular structure of energized
-            systems. Live target not yet tested.</Data>
+          <Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;CONFIDENTIAL PROGRESS REPORT 10B-3&lt;/i&gt;&lt;/b&gt;&lt;br&gt;ATTN: William Yu&lt;br&gt;Department: Hardware Labs&lt;br&gt;Project Lead: Lane Carpenter&lt;br&gt;&lt;br&gt;&lt;b&gt;BLACKBOX PROJECT&lt;/b&gt;&lt;br&gt;The Q-Beam attachment for N-CN9 &quot;Blackbox&quot; Military Operators is progressing ahead of schedule. Development on outstanding tasks has been broken down below:&lt;br&gt;- Micro-cooling plate optimization: 87% complete&lt;br&gt;- Recirculating ambient control: 70% complete&lt;br&gt;&lt;br&gt;As you can see, we are nearly there. Once the cooling system has been optimized and migrated into the Q-Beam firing mechanism, prototypes will be sent Earthside. Testing is proceeding as planned. Preliminary results show promising excitations in the molecular structure of energized systems. Live target not yet tested.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3752,16 +3187,10 @@
           <Data ss:Type="String">loc_4349723564944031209</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The escape pods didn't work and we believe it was intentional.
-            Those black shapes are everywhere and everyone we know is dead. Or something worse. We
-            aren't going to let that happen to us. To our families, we love you. &lt;br&gt; -Brandi
-            Pester and Jenni Garbentzoff </Data>
+          <Data ss:Type="String">The escape pods didn't work and we believe it was intentional. Those black shapes are everywhere and everyone we know is dead. Or something worse. We aren't going to let that happen to us. To our families, we love you. &lt;br&gt; -Brandi Pester and Jenni Garbentzoff </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">The escape pods didn't work and we believe it was intentional.
-            Those black shapes are everywhere and everyone we know is dead. Or something worse. We
-            aren't going to let that happen to us. To our families, we love you. &lt;br&gt; -Brandi
-            Pester and Jenni Garbentzoff </Data>
+          <Data ss:Type="String">The escape pods didn't work and we believe it was intentional. Those black shapes are everywhere and everyone we know is dead. Or something worse. We aren't going to let that happen to us. To our families, we love you. &lt;br&gt; -Brandi Pester and Jenni Garbentzoff </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3789,18 +3218,10 @@
           <Data ss:Type="String">loc_1713490239436472061</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Character: Elias Blacktree&lt;br&gt;Player: Elias
-            Black&lt;br&gt;Age: 21&lt;br&gt;Height: 6'1&quot;&lt;br&gt;Description: VERY
-            Handsome&lt;br&gt;STR: 18&lt;br&gt;INT: 18&lt;br&gt;DEX: 18&lt;br&gt;CON:
-            18&lt;br&gt;Equipment: Sword, flaming vorpal +5 of dancing, +9 vs anyone I
-            dislike&lt;br&gt;&lt;br&gt;&lt;b&gt;[PLACEHOLDER TEMP TO BE REPLACED BY IMAGE]&lt;/b&gt;</Data>
+          <Data ss:Type="String">Character: Elias Blacktree&lt;br&gt;Player: Elias Black&lt;br&gt;Age: 21&lt;br&gt;Height: 6'1&quot;&lt;br&gt;Description: VERY Handsome&lt;br&gt;STR: 18&lt;br&gt;INT: 18&lt;br&gt;DEX: 18&lt;br&gt;CON: 18&lt;br&gt;Equipment: Sword, flaming vorpal +5 of dancing, +9 vs anyone I dislike&lt;br&gt;&lt;br&gt;&lt;b&gt;[PLACEHOLDER TEMP TO BE REPLACED BY IMAGE]&lt;/b&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Character: Elias Blacktree&lt;br&gt;Player: Elias
-            Black&lt;br&gt;Age: 21&lt;br&gt;Height: 6'1&quot;&lt;br&gt;Description: VERY
-            Handsome&lt;br&gt;STR: 18&lt;br&gt;INT: 18&lt;br&gt;DEX: 18&lt;br&gt;CON:
-            18&lt;br&gt;Equipment: Sword, flaming vorpal +5 of dancing, +9 vs anyone I
-            dislike&lt;br&gt;&lt;br&gt;&lt;b&gt;[PLACEHOLDER TEMP TO BE REPLACED BY IMAGE]&lt;/b&gt;</Data>
+          <Data ss:Type="String">Character: Elias Blacktree&lt;br&gt;Player: Elias Black&lt;br&gt;Age: 21&lt;br&gt;Height: 6'1&quot;&lt;br&gt;Description: VERY Handsome&lt;br&gt;STR: 18&lt;br&gt;INT: 18&lt;br&gt;DEX: 18&lt;br&gt;CON: 18&lt;br&gt;Equipment: Sword, flaming vorpal +5 of dancing, +9 vs anyone I dislike&lt;br&gt;&lt;br&gt;&lt;b&gt;[PLACEHOLDER TEMP TO BE REPLACED BY IMAGE]&lt;/b&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3828,14 +3249,10 @@
           <Data ss:Type="String">loc_12889009725042793222</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mike, when you're heading up to Exec Suites to fix the cooling
-            system there can you bring Morgan these supplies? Btw the code to the Grav Shaft has
-            changed, it's %key%.&lt;br&gt;&lt;br&gt;Thanks!&lt;br&gt;-Kev</Data>
+          <Data ss:Type="String">Mike, when you're heading up to Exec Suites to fix the cooling system there can you bring Morgan these supplies? Btw the code to the Grav Shaft has changed, it's %key%.&lt;br&gt;&lt;br&gt;Thanks!&lt;br&gt;-Kev</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mike, when you're heading up to Exec Suites to fix the cooling
-            system there can you bring Morgan these supplies? Btw the code to the Grav Shaft has
-            changed, it's %key%.&lt;br&gt;&lt;br&gt;Thanks!&lt;br&gt;-Kev</Data>
+          <Data ss:Type="String">Mike, when you're heading up to Exec Suites to fix the cooling system there can you bring Morgan these supplies? Btw the code to the Grav Shaft has changed, it's %key%.&lt;br&gt;&lt;br&gt;Thanks!&lt;br&gt;-Kev</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3863,12 +3280,10 @@
           <Data ss:Type="String">loc_1713490239436997439</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Good Morning Morgan,&lt;br&gt;&lt;br&gt;I got the plan you
-            requested. It's in your safe. &lt;br&gt;&lt;br&gt;Jason</Data>
+          <Data ss:Type="String">Good Morning Morgan,&lt;br&gt;&lt;br&gt;I got the plan you requested. It's in your safe. &lt;br&gt;&lt;br&gt;Jason</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Good Morning Morgan,&lt;br&gt;&lt;br&gt;I got the plan you
-            requested. It's in your safe. &lt;br&gt;&lt;br&gt;Jason</Data>
+          <Data ss:Type="String">Good Morning Morgan,&lt;br&gt;&lt;br&gt;I got the plan you requested. It's in your safe. &lt;br&gt;&lt;br&gt;Jason</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3927,22 +3342,10 @@
           <Data ss:Type="String">loc_12889009725043563285</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;SUBJECT: &lt;/b&gt;Gustav
-            Leitner&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt;
-            [02.13.35]&lt;br&gt;&lt;br&gt;&lt;b&gt;Results: &lt;/b&gt;Patient tested positive for
-            Non-Small Cell Lung Cancer. Patient did not list any ailments on their submission form
-            prior to being taken to the skill recorder.&lt;br&gt;&lt;br&gt;Contact this patient
-            immediately. If patient is still on Talos 1, have him report to the Trauma Center as
-            soon as possible.</Data>
+          <Data ss:Type="String">&lt;b&gt;SUBJECT: &lt;/b&gt;Gustav Leitner&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; [02.13.35]&lt;br&gt;&lt;br&gt;&lt;b&gt;Results: &lt;/b&gt;Patient tested positive for Non-Small Cell Lung Cancer. Patient did not list any ailments on their submission form prior to being taken to the skill recorder.&lt;br&gt;&lt;br&gt;Contact this patient immediately. If patient is still on Talos 1, have him report to the Trauma Center as soon as possible.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;SUBJECT: &lt;/b&gt;Gustav
-            Leitner&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt;
-            [02.13.35]&lt;br&gt;&lt;br&gt;&lt;b&gt;Results: &lt;/b&gt;Patient tested positive for
-            Non-Small Cell Lung Cancer. Patient did not list any ailments on their submission form
-            prior to being taken to the skill recorder.&lt;br&gt;&lt;br&gt;Contact this patient
-            immediately. If patient is still on Talos 1, have him report to the Trauma Center as
-            soon as possible.</Data>
+          <Data ss:Type="String">&lt;b&gt;SUBJECT: &lt;/b&gt;Gustav Leitner&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; [02.13.35]&lt;br&gt;&lt;br&gt;&lt;b&gt;Results: &lt;/b&gt;Patient tested positive for Non-Small Cell Lung Cancer. Patient did not list any ailments on their submission form prior to being taken to the skill recorder.&lt;br&gt;&lt;br&gt;Contact this patient immediately. If patient is still on Talos 1, have him report to the Trauma Center as soon as possible.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -3970,14 +3373,10 @@
           <Data ss:Type="String">loc_761057047998850698</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Anders,&lt;br&gt;I had to change the password on my workstation.
-            I'm out tomorrow, so if you need something it's %password%. Let me know if you get
-            locked out.&lt;br&gt;-Laurel</Data>
+          <Data ss:Type="String">Anders,&lt;br&gt;I had to change the password on my workstation. I'm out tomorrow, so if you need something it's %password%. Let me know if you get locked out.&lt;br&gt;-Laurel</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Anders,&lt;br&gt;I had to change the password on my workstation.
-            I'm out tomorrow, so if you need something it's %password%. Let me know if you get
-            locked out.&lt;br&gt;-Laurel</Data>
+          <Data ss:Type="String">Anders,&lt;br&gt;I had to change the password on my workstation. I'm out tomorrow, so if you need something it's %password%. Let me know if you get locked out.&lt;br&gt;-Laurel</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4036,18 +3435,10 @@
           <Data ss:Type="String">loc_13856881013219153187</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Chef Mitchell expects these things on time or it throws off his
-            menu for the whole week. Half get packed whole. Half get butchered (for
-            jelly).&lt;br&gt;&lt;br&gt;WEEKLY SCHEDULE:&lt;br&gt;Tuesday, 8am &lt;br&gt;Thursday,
-            4pm&lt;br&gt;Sunday, 12am&lt;br&gt;Friday, Tank Cleaning (No delivery) &lt;br&gt;Tuesday
-            10am&lt;br&gt;Thursday, 6pm&lt;br&gt;Sunday, 2am</Data>
+          <Data ss:Type="String">Chef Mitchell expects these things on time or it throws off his menu for the whole week. Half get packed whole. Half get butchered (for jelly).&lt;br&gt;&lt;br&gt;WEEKLY SCHEDULE:&lt;br&gt;Tuesday, 8am &lt;br&gt;Thursday, 4pm&lt;br&gt;Sunday, 12am&lt;br&gt;Friday, Tank Cleaning (No delivery) &lt;br&gt;Tuesday 10am&lt;br&gt;Thursday, 6pm&lt;br&gt;Sunday, 2am</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Chef Mitchell expects these things on time or it throws off his
-            menu for the whole week. Half get packed whole. Half get butchered (for
-            jelly).&lt;br&gt;&lt;br&gt;WEEKLY SCHEDULE:&lt;br&gt;Tuesday, 8am &lt;br&gt;Thursday,
-            4pm&lt;br&gt;Sunday, 12am&lt;br&gt;Friday, Tank Cleaning (No delivery) &lt;br&gt;Tuesday
-            10am&lt;br&gt;Thursday, 6pm&lt;br&gt;Sunday, 2am</Data>
+          <Data ss:Type="String">Chef Mitchell expects these things on time or it throws off his menu for the whole week. Half get packed whole. Half get butchered (for jelly).&lt;br&gt;&lt;br&gt;WEEKLY SCHEDULE:&lt;br&gt;Tuesday, 8am &lt;br&gt;Thursday, 4pm&lt;br&gt;Sunday, 12am&lt;br&gt;Friday, Tank Cleaning (No delivery) &lt;br&gt;Tuesday 10am&lt;br&gt;Thursday, 6pm&lt;br&gt;Sunday, 2am</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4078,12 +3469,10 @@
           <Data ss:Type="String">loc_4349723564946607740</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two people have checked out equipment and failed to return it.
-            &lt;br&gt; -Ari Liudnarht &lt;br&gt;-Roger Meir</Data>
+          <Data ss:Type="String">Two people have checked out equipment and failed to return it. &lt;br&gt; -Ari Liudnarht &lt;br&gt;-Roger Meir</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Two people have checked out equipment and failed to return it.
-            &lt;br&gt; -Ari Liudnarht &lt;br&gt;-Roger Meir</Data>
+          <Data ss:Type="String">Two people have checked out equipment and failed to return it. &lt;br&gt; -Ari Liudnarht &lt;br&gt;-Roger Meir</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4176,14 +3565,10 @@
           <Data ss:Type="String">loc_12889009725044646982</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Luka is no kontrabandist, I don't know why he has the goods that he
-            has. I can show you where he keeps them. But fair is fair. You want his goods, you look
-            other way with me.&lt;br&gt;&lt;br&gt;-Evgeni</Data>
+          <Data ss:Type="String">Luka is no kontrabandist, I don't know why he has the goods that he has. I can show you where he keeps them. But fair is fair. You want his goods, you look other way with me.&lt;br&gt;&lt;br&gt;-Evgeni</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Luka is no kontrabandist, I don't know why he has the goods that he
-            has. I can show you where he keeps them. But fair is fair. You want his goods, you look
-            other way with me.&lt;br&gt;&lt;br&gt;-Evgeni</Data>
+          <Data ss:Type="String">Luka is no kontrabandist, I don't know why he has the goods that he has. I can show you where he keeps them. But fair is fair. You want his goods, you look other way with me.&lt;br&gt;&lt;br&gt;-Evgeni</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4486,12 +3871,10 @@
           <Data ss:Type="String">loc_4349723564947832225</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;FOUR&lt;/b&gt; Jellied Eels&lt;br&gt;2 Pacific
-            Sliders&lt;br&gt;3 Siskak Unagi Rollz</Data>
+          <Data ss:Type="String">&lt;b&gt;FOUR&lt;/b&gt; Jellied Eels&lt;br&gt;2 Pacific Sliders&lt;br&gt;3 Siskak Unagi Rollz</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;FOUR&lt;/b&gt; Jellied Eels&lt;br&gt;2 Pacific
-            Sliders&lt;br&gt;3 Siskak Unagi Rollz</Data>
+          <Data ss:Type="String">&lt;b&gt;FOUR&lt;/b&gt; Jellied Eels&lt;br&gt;2 Pacific Sliders&lt;br&gt;3 Siskak Unagi Rollz</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4522,20 +3905,10 @@
           <Data ss:Type="String">loc_418270515491521615</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Annie,&lt;br&gt;I know you'll never read this. I ran out of my
-            office when I heard you screaming, but there were just too many of them between me and
-            you. You were always really nice to me. You didn't deserve to die like
-            that.&lt;br&gt;&lt;br&gt;And now they're in my office, and I'm surrounded out here in
-            this cage. I can't help myself, much less you, or even Mia. Even when I try, I still
-            screw things up. I'm sorry.&lt;br&gt;&lt;br&gt;-Scott</Data>
+          <Data ss:Type="String">Annie,&lt;br&gt;I know you'll never read this. I ran out of my office when I heard you screaming, but there were just too many of them between me and you. You were always really nice to me. You didn't deserve to die like that.&lt;br&gt;&lt;br&gt;And now they're in my office, and I'm surrounded out here in this cage. I can't help myself, much less you, or even Mia. Even when I try, I still screw things up. I'm sorry.&lt;br&gt;&lt;br&gt;-Scott</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Annie,&lt;br&gt;I know you'll never read this. I ran out of my
-            office when I heard you screaming, but there were just too many of them between me and
-            you. You were always really nice to me. You didn't deserve to die like
-            that.&lt;br&gt;&lt;br&gt;And now they're in my office, and I'm surrounded out here in
-            this cage. I can't help myself, much less you, or even Mia. Even when I try, I still
-            screw things up. I'm sorry.&lt;br&gt;&lt;br&gt;-Scott</Data>
+          <Data ss:Type="String">Annie,&lt;br&gt;I know you'll never read this. I ran out of my office when I heard you screaming, but there were just too many of them between me and you. You were always really nice to me. You didn't deserve to die like that.&lt;br&gt;&lt;br&gt;And now they're in my office, and I'm surrounded out here in this cage. I can't help myself, much less you, or even Mia. Even when I try, I still screw things up. I'm sorry.&lt;br&gt;&lt;br&gt;-Scott</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4566,18 +3939,10 @@
           <Data ss:Type="String">loc_844024417316345124</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We locked the doors to the greenhouse but this one flies! We don't
-            have long before it figures out the roof isn't covered. 5 min ago Edna tried making it
-            into the greenhouse before it took her over. She won't stop screaming. Yelling at us to
-            stay back. If we can kill the floating thing that infected her maybe we can save her. If
-            you find this note please help. Kill it because we won't be ourselves.&lt;br&gt;-Rani </Data>
+          <Data ss:Type="String">We locked the doors to the greenhouse but this one flies! We don't have long before it figures out the roof isn't covered. 5 min ago Edna tried making it into the greenhouse before it took her over. She won't stop screaming. Yelling at us to stay back. If we can kill the floating thing that infected her maybe we can save her. If you find this note please help. Kill it because we won't be ourselves.&lt;br&gt;-Rani </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">We locked the doors to the greenhouse but this one flies! We don't
-            have long before it figures out the roof isn't covered. 5 min ago Edna tried making it
-            into the greenhouse before it took her over. She won't stop screaming. Yelling at us to
-            stay back. If we can kill the floating thing that infected her maybe we can save her. If
-            you find this note please help. Kill it because we won't be ourselves.&lt;br&gt;-Rani </Data>
+          <Data ss:Type="String">We locked the doors to the greenhouse but this one flies! We don't have long before it figures out the roof isn't covered. 5 min ago Edna tried making it into the greenhouse before it took her over. She won't stop screaming. Yelling at us to stay back. If we can kill the floating thing that infected her maybe we can save her. If you find this note please help. Kill it because we won't be ourselves.&lt;br&gt;-Rani </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4608,14 +3973,10 @@
           <Data ss:Type="String">loc_13680621263405199139</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rory, I've loaded another 'Nightlight' as requested. Upped the
-            psycholuminescence. This time the Typhon ought to follow the lure like an imprinted
-            duckling.</Data>
+          <Data ss:Type="String">Rory, I've loaded another 'Nightlight' as requested. Upped the psycholuminescence. This time the Typhon ought to follow the lure like an imprinted duckling.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Rory, I've loaded another 'Nightlight' as requested. Upped the
-            psycholuminescence. This time the Typhon ought to follow the lure like an imprinted
-            duckling.</Data>
+          <Data ss:Type="String">Rory, I've loaded another 'Nightlight' as requested. Upped the psycholuminescence. This time the Typhon ought to follow the lure like an imprinted duckling.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4646,22 +4007,10 @@
           <Data ss:Type="String">loc_13680621263405881298</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;VOLUNTEER
-            INFORMATION&lt;/b&gt;&lt;br&gt;&lt;br&gt;Volunteer ID: V-090655-13&lt;br&gt;Name:
-            [REDACTED]&lt;br&gt;DOB: 5/23/99&lt;br&gt;Gender: Male&lt;br&gt;Race:
-            White&lt;br&gt;Admission Date: 3/11/33&lt;br&gt;Institution: Camp 17,
-            Siberia&lt;br&gt;&lt;br&gt;OFFENSE INFORMATION&lt;br&gt;Human
-            trafficking&lt;br&gt;Kidnapping&lt;br&gt;Solicitation of a minor&lt;br&gt;Distribution
-            of controlled substances&lt;br&gt;Fraudulent impersonation</Data>
+          <Data ss:Type="String">&lt;b&gt;VOLUNTEER INFORMATION&lt;/b&gt;&lt;br&gt;&lt;br&gt;Volunteer ID: V-090655-13&lt;br&gt;Name: [REDACTED]&lt;br&gt;DOB: 5/23/99&lt;br&gt;Gender: Male&lt;br&gt;Race: White&lt;br&gt;Admission Date: 3/11/33&lt;br&gt;Institution: Camp 17, Siberia&lt;br&gt;&lt;br&gt;OFFENSE INFORMATION&lt;br&gt;Human trafficking&lt;br&gt;Kidnapping&lt;br&gt;Solicitation of a minor&lt;br&gt;Distribution of controlled substances&lt;br&gt;Fraudulent impersonation</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;b&gt;VOLUNTEER
-            INFORMATION&lt;/b&gt;&lt;br&gt;&lt;br&gt;Volunteer ID: V-090655-13&lt;br&gt;Name:
-            [REDACTED]&lt;br&gt;DOB: 5/23/99&lt;br&gt;Gender: Male&lt;br&gt;Race:
-            White&lt;br&gt;Admission Date: 3/11/33&lt;br&gt;Institution: Camp 17,
-            Siberia&lt;br&gt;&lt;br&gt;OFFENSE INFORMATION&lt;br&gt;Human
-            trafficking&lt;br&gt;Kidnapping&lt;br&gt;Solicitation of a minor&lt;br&gt;Distribution
-            of controlled substances&lt;br&gt;Fraudulent impersonation</Data>
+          <Data ss:Type="String">&lt;b&gt;VOLUNTEER INFORMATION&lt;/b&gt;&lt;br&gt;&lt;br&gt;Volunteer ID: V-090655-13&lt;br&gt;Name: [REDACTED]&lt;br&gt;DOB: 5/23/99&lt;br&gt;Gender: Male&lt;br&gt;Race: White&lt;br&gt;Admission Date: 3/11/33&lt;br&gt;Institution: Camp 17, Siberia&lt;br&gt;&lt;br&gt;OFFENSE INFORMATION&lt;br&gt;Human trafficking&lt;br&gt;Kidnapping&lt;br&gt;Solicitation of a minor&lt;br&gt;Distribution of controlled substances&lt;br&gt;Fraudulent impersonation</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4692,14 +4041,10 @@
           <Data ss:Type="String">loc_13680621263406393305</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hi Mommy &lt;br&gt;&lt;br&gt;I've been having bad dreams since you
-            left doctor preston said I should draw it and that would help make them go away. I hope
-            you like my picture and come home soon &lt;br&gt;&lt;br&gt;I love you, CoRey</Data>
+          <Data ss:Type="String">Hi Mommy  &lt;br&gt;&lt;br&gt;I've been having bad dreams since you left doctor preston said I should draw it and that would help make them go away. I hope you like my picture and come home soon  &lt;br&gt;&lt;br&gt;I love you, CoRey</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hi Mommy &lt;br&gt;&lt;br&gt;I've been having bad dreams since you
-            left doctor preston said I should draw it and that would help make them go away. I hope
-            you like my picture and come home soon &lt;br&gt;&lt;br&gt;I love you, CoRey</Data>
+          <Data ss:Type="String">Hi Mommy  &lt;br&gt;&lt;br&gt;I've been having bad dreams since you left doctor preston said I should draw it and that would help make them go away. I hope you like my picture and come home soon  &lt;br&gt;&lt;br&gt;I love you, CoRey</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4792,12 +4137,10 @@
           <Data ss:Type="String">loc_844024417319197079</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">In Memory of&lt;br&gt;&lt;br&gt;John F.
-            Kennedy&lt;br&gt;&lt;br&gt;1917-2031</Data>
+          <Data ss:Type="String">In Memory of&lt;br&gt;&lt;br&gt;John F. Kennedy&lt;br&gt;&lt;br&gt;1917-2031</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">In Memory of&lt;br&gt;&lt;br&gt;John F.
-            Kennedy&lt;br&gt;&lt;br&gt;1917-2031</Data>
+          <Data ss:Type="String">In Memory of&lt;br&gt;&lt;br&gt;John F. Kennedy&lt;br&gt;&lt;br&gt;1917-2031</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4828,12 +4171,10 @@
           <Data ss:Type="String">loc_13680621263410484035</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Flexifoam Bolt formula still effed. Keep away from sparks, open
-            flames, lit cigarettes, Franklin's eyebrows.</Data>
+          <Data ss:Type="String">Flexifoam Bolt formula still effed. Keep away from sparks, open flames, lit cigarettes, Franklin's eyebrows.</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Flexifoam Bolt formula still effed. Keep away from sparks, open
-            flames, lit cigarettes, Franklin's eyebrows.</Data>
+          <Data ss:Type="String">Flexifoam Bolt formula still effed. Keep away from sparks, open flames, lit cigarettes, Franklin's eyebrows.</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4864,22 +4205,10 @@
           <Data ss:Type="String">loc_13680621263413743050</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Q-&lt;br&gt;&lt;br&gt;I can't thank you enough for the risk you're
-            taking on my behalf - on behalf of the volunteers who no longer have a voice in this.
-            The thought of you cooped up in that cargo container, hurtling toward the earth - it
-            kills me - even though Will says it's safe and that you'll have plenty of food.
-            &lt;br&gt;&lt;br&gt;I know the evidence on this thumbdrive cannot make amends for
-            everything that's happened, but exposing the truth can prevent it from happening again.
-            Thank you my friend.&lt;br&gt;&lt;br&gt;AG </Data>
+          <Data ss:Type="String">Q-&lt;br&gt;&lt;br&gt;I can't thank you enough for the risk you're taking on my behalf - on behalf of the volunteers who no longer have a voice in this. The thought of you cooped up in that cargo container, hurtling toward the earth - it kills me - even though Will says it's safe and that you'll have plenty of food. &lt;br&gt;&lt;br&gt;I know the evidence on this thumbdrive cannot make amends for everything that's happened, but exposing the truth can prevent it from happening again. Thank you my friend.&lt;br&gt;&lt;br&gt;AG </Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Q-&lt;br&gt;&lt;br&gt;I can't thank you enough for the risk you're
-            taking on my behalf - on behalf of the volunteers who no longer have a voice in this.
-            The thought of you cooped up in that cargo container, hurtling toward the earth - it
-            kills me - even though Will says it's safe and that you'll have plenty of food.
-            &lt;br&gt;&lt;br&gt;I know the evidence on this thumbdrive cannot make amends for
-            everything that's happened, but exposing the truth can prevent it from happening again.
-            Thank you my friend.&lt;br&gt;&lt;br&gt;AG </Data>
+          <Data ss:Type="String">Q-&lt;br&gt;&lt;br&gt;I can't thank you enough for the risk you're taking on my behalf - on behalf of the volunteers who no longer have a voice in this. The thought of you cooped up in that cargo container, hurtling toward the earth - it kills me - even though Will says it's safe and that you'll have plenty of food. &lt;br&gt;&lt;br&gt;I know the evidence on this thumbdrive cannot make amends for everything that's happened, but exposing the truth can prevent it from happening again. Thank you my friend.&lt;br&gt;&lt;br&gt;AG </Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4910,12 +4239,10 @@
           <Data ss:Type="String">loc_13680621263414434929</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Door actuators are wonky. Come see me if you need in.
-            &lt;br&gt;-Graves</Data>
+          <Data ss:Type="String">Door actuators are wonky. Come see me if you need in. &lt;br&gt;-Graves</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Door actuators are wonky. Come see me if you need in.
-            &lt;br&gt;-Graves</Data>
+          <Data ss:Type="String">Door actuators are wonky. Come see me if you need in. &lt;br&gt;-Graves</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -4946,16 +4273,10 @@
           <Data ss:Type="String">loc_12889009725055582035</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;c&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd
-            05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May
-            23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23 May 23 May
-            23&lt;br&gt;&lt;b&gt;May 23 May 23&lt;/b&gt;&lt;/c&gt;</Data>
+          <Data ss:Type="String">&lt;c&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23 May 23 May 23&lt;br&gt;&lt;b&gt;May 23 May 23&lt;/b&gt;&lt;/c&gt;</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">&lt;c&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd
-            05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May
-            23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23 May 23 May
-            23&lt;br&gt;&lt;b&gt;May 23 May 23&lt;/b&gt;&lt;/c&gt;</Data>
+          <Data ss:Type="String">&lt;c&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23 May 23 May 23&lt;br&gt;&lt;b&gt;May 23 May 23&lt;/b&gt;&lt;/c&gt;</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -5020,32 +4341,10 @@
           <Data ss:Type="String">loc_13680621263415321367</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[Excerpt from a Readme.txt file found on Annalise Gallegos' thumb
-            drive.]&lt;br&gt;&lt;br&gt;The drive in your possession contains incriminating evidence
-            related to illegal experiments performed aboard Talos I in the Psychotronics labs. This
-            includes, but is not limited to:&lt;br&gt;&lt;br&gt;» Classified internal
-            memorandums.&lt;br&gt;» Key research data, spanning several decades.&lt;br&gt;» Names
-            and roles of all personnel involved.&lt;br&gt;» Volunteer ID's matched with their real
-            names.&lt;br&gt;&lt;br&gt;This information will corroborate the existence of an
-            extra-terrestrial species (called Typhon) as well as the fact that all Neuromods are
-            made at the expense of human victims. I harbor no illusions that this will be easy to
-            believe, but I can testify to its veracity – assuming I am still alive - because I was a
-            participant in many of the experiments referenced.&lt;br&gt;&lt;br&gt;-Dr. Annalise
-            Gallegos</Data>
+          <Data ss:Type="String">[Excerpt from a Readme.txt file found on Annalise Gallegos' thumb drive.]&lt;br&gt;&lt;br&gt;The drive in your possession contains incriminating evidence related to illegal experiments performed aboard Talos I in the Psychotronics labs. This includes, but is not limited to:&lt;br&gt;&lt;br&gt;» Classified internal memorandums.&lt;br&gt;» Key research data, spanning several decades.&lt;br&gt;» Names and roles of all personnel involved.&lt;br&gt;» Volunteer ID's matched with their real names.&lt;br&gt;&lt;br&gt;This information will corroborate the existence of an extra-terrestrial species (called Typhon) as well as the fact that all Neuromods are made at the expense of human victims. I harbor no illusions that this will be easy to believe, but I can testify to its veracity – assuming I am still alive - because I was a participant in many of the experiments referenced.&lt;br&gt;&lt;br&gt;-Dr. Annalise Gallegos</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">[Excerpt from a Readme.txt file found on Annalise Gallegos' thumb
-            drive.]&lt;br&gt;&lt;br&gt;The drive in your possession contains incriminating evidence
-            related to illegal experiments performed aboard Talos I in the Psychotronics labs. This
-            includes, but is not limited to:&lt;br&gt;&lt;br&gt;» Classified internal
-            memorandums.&lt;br&gt;» Key research data, spanning several decades.&lt;br&gt;» Names
-            and roles of all personnel involved.&lt;br&gt;» Volunteer ID's matched with their real
-            names.&lt;br&gt;&lt;br&gt;This information will corroborate the existence of an
-            extra-terrestrial species (called Typhon) as well as the fact that all Neuromods are
-            made at the expense of human victims. I harbor no illusions that this will be easy to
-            believe, but I can testify to its veracity – assuming I am still alive - because I was a
-            participant in many of the experiments referenced.&lt;br&gt;&lt;br&gt;-Dr. Annalise
-            Gallegos</Data>
+          <Data ss:Type="String">[Excerpt from a Readme.txt file found on Annalise Gallegos' thumb drive.]&lt;br&gt;&lt;br&gt;The drive in your possession contains incriminating evidence related to illegal experiments performed aboard Talos I in the Psychotronics labs. This includes, but is not limited to:&lt;br&gt;&lt;br&gt;» Classified internal memorandums.&lt;br&gt;» Key research data, spanning several decades.&lt;br&gt;» Names and roles of all personnel involved.&lt;br&gt;» Volunteer ID's matched with their real names.&lt;br&gt;&lt;br&gt;This information will corroborate the existence of an extra-terrestrial species (called Typhon) as well as the fact that all Neuromods are made at the expense of human victims. I harbor no illusions that this will be easy to believe, but I can testify to its veracity – assuming I am still alive - because I was a participant in many of the experiments referenced.&lt;br&gt;&lt;br&gt;-Dr. Annalise Gallegos</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -5076,14 +4375,10 @@
           <Data ss:Type="String">loc_844024417327503924</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey new guy.&lt;br&gt;You've got the morning shift in Power Plant.
-            0700 hours.&lt;br&gt;Workstation password is %password%&lt;br&gt;Don't be
-            late.&lt;br&gt;- Hayashi</Data>
+          <Data ss:Type="String">Hey new guy.&lt;br&gt;You've got the morning shift in Power Plant. 0700 hours.&lt;br&gt;Workstation password is %password%&lt;br&gt;Don't be late.&lt;br&gt;- Hayashi</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Hey new guy.&lt;br&gt;You've got the morning shift in Power Plant.
-            0700 hours.&lt;br&gt;Workstation password is %password%&lt;br&gt;Don't be
-            late.&lt;br&gt;- Hayashi</Data>
+          <Data ss:Type="String">Hey new guy.&lt;br&gt;You've got the morning shift in Power Plant. 0700 hours.&lt;br&gt;Workstation password is %password%&lt;br&gt;Don't be late.&lt;br&gt;- Hayashi</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">LOCKED</Data>
@@ -5156,8 +4451,8 @@
       </Row>
     </Table>
     <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-      <Unsynced />
-      <Selected />
+      <Unsynced/>
+      <Selected/>
       <TopRowVisible>175</TopRowVisible>
       <Panes>
         <Pane>
@@ -5170,5 +4465,5 @@
       <ProtectScenarios>False</ProtectScenarios>
     </WorksheetOptions>
   </Worksheet>
-  <x:ExcelWorkbook />
+  <x:ExcelWorkbook/>
 </Workbook>
